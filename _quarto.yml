@@ -1,0 +1,69 @@
+project:
+  type: book
+  pre-render: scripts/build_presentations.R # write this in same line
+execute:
+  freeze: auto
+  cache: true
+book:
+  title: "MCQs from Shackelford's Surgery"
+  reader-mode: true 
+  author: "Dr Suman Khanal"
+  date: 2026/02/01
+  date-format: iso 
+  search: true
+  sharing: [twitter, facebook]
+  sidebar:
+    style: docked
+    background: light
+  
+  
+  # Multi-volume structure
+  chapters:
+    - index.qmd
+    - chapters/32_esophageal_cancer_diagnosis_staging.qmd
+    - chapters/33_esophagectomy_techniques.qmd
+    - chapters/59_gastric_adenoca_trials.qmd
+    - chapters/82_gastrointestinal_stromal_tumors.qmd
+    - chapters/85_retrorectal_tumors.qmd    
+    - chapters/34_lymphadenectomy_esophageal_cancer.qmd
+    - chapters/134_techniques_liver_resection.qmd
+    - chapters/178_genetics_crc_inherited_syndromes.qmd
+    - chapters/179_transanal_approaches_early_rectal_cancer.qmd
+    - chapters/183_principles_recurrent_colorectal_cancer.qmd
+    - part: "MISCELLANEOUS"
+
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
+    css: styles.css
+    # cover-image: cover.png
+    title-block-banner: true
+    code-fold: true
+    code-summary: "Show code"
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    number-depth: 3
+    crossref:
+      chapters: true
+      fig-title: "Figure"
+      tbl-title: "Table"
+    
+  pdf:
+    documentclass: book
+    classoption: [oneside, openany]
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1in
+    fontsize: 11pt
+    linestretch: 1.2
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    colorlinks: true
+

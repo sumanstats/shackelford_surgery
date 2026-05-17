@@ -1,0 +1,1541 @@
+# 34-Extent of Lymphadenectomy for Esophageal Cancer
+
+Generated with Claude.
+
+**1. What remains a controversial issue in the surgical management of esophageal cancer?**
+
+- The choice of conduit for reconstruction
+- The use of neoadjuvant chemotherapy
+- **The extent of lymphadenectomy as part of esophagectomy**
+- The optimal anastomotic technique
+
+*Explanation: The chapter opens by stating that the extent of lymphadenectomy as part of an esophagectomy for cancer remains a controversial issue.*
+
+---
+
+**2. Why is locally advanced esophageal cancer frequently treated with neoadjuvant modalities?**
+
+- Because surgery is contraindicated in locally advanced disease
+- Because neoadjuvant treatment eliminates the need for lymphadenectomy
+- **Because both local nodal and distant metastases often exist at presentation**
+- Because adjuvant treatment has been shown to be ineffective
+
+*Explanation: The aggressive nature of the disease often means that both local nodal and distant metastases exist at the time of presentation, prompting the use of neoadjuvant treatment when cure is intended.*
+
+---
+
+**3. What is the primary rationale behind radical lymph node dissection in esophageal cancer surgery?**
+
+- To reduce operative time by clearing all nodal tissue at once
+- To improve the cosmetic result of the operation
+- **To provide improved locoregional control and thus improved survival**
+- To prevent postoperative chyle leak
+
+*Explanation: The debate on degree of lymphadenectomy hinges largely on the belief that a radical dissection provides improved locoregional control, and thus improved survival.*
+
+---
+
+**4. Besides potential survival benefit, what additional advantage does extended lymphadenectomy offer?**
+
+- Reduced operative blood loss
+- Shorter hospital stay
+- **Improved staging, enabling better patient counseling and influencing adjuvant treatment**
+- Lower risk of anastomotic leak
+
+*Explanation: Extended lymphadenectomy also provides improved staging, which can allow better patient counseling and may influence the use of adjuvant treatment.*
+
+---
+
+**5. From which embryological structures does the esophagus originate?**
+
+- The foregut endoderm and lateral plate mesoderm
+- **The branchial arches and pharyngeal pouches from above, and the splanchnic mesoderm below**
+- The notochord and dorsal mesoderm
+- The neural crest cells and somatic mesoderm
+
+*Explanation: The embryological origin of the esophagus is from the branchial arches and pharyngeal pouches from above, and the splanchnic mesoderm below.*
+
+---
+
+**6. At what anatomical level do the two embryological components of the esophagus remain demarcated?**
+
+- The gastroesophageal junction
+- The thoracic inlet
+- **The level of the tracheal bifurcation**
+- The aortic arch
+
+*Explanation: The two embryological components join during early development but remain demarcated at the level of the tracheal bifurcation, leading to bilateral lymphatic drainage.*
+
+---
+
+**7. For tumors located above the tracheal bifurcation, which lymph node groups are preferentially involved in early disease?**
+
+- Celiac axis and para-aortic nodes
+- Paracardial and lesser curve nodes
+- **Upper mediastinal and cervical nodes**
+- Pulmonary hilar and subcarinal nodes
+
+*Explanation: Nodal involvement for tumors above the tracheal bifurcation is preferentially to those in the upper mediastinum and neck.*
+
+---
+
+**8. For esophageal tumors located below the tracheal bifurcation, where does early nodal spread preferentially occur?**
+
+- Toward the cervical nodes
+- Toward the superior mediastinal nodes
+- Toward the pulmonary hilar nodes
+- **Toward the celiac axis**
+
+*Explanation: Tumors below the tracheal bifurcation will metastasize toward the celiac axis, consistent with the lymphatic drainage of that region.*
+
+---
+
+**9. Where may tumors located at the tracheal bifurcation metastasize?**
+
+- Only toward the cervical nodes
+- Only toward the celiac axis
+- Only toward the mediastinal nodes
+- **In either direction (both upper mediastinum/neck or celiac axis)**
+
+*Explanation: Tumors located at the bifurcation may metastasize in either direction—toward the upper mediastinum and neck or toward the celiac axis.*
+
+---
+
+**10. How common is skipping of lymph node stations in early esophageal cancer?**
+
+- Very common, occurring in over 50% of cases
+- Moderately common, occurring in about 25% of cases
+- **Rare**
+- Universal in squamous cell carcinoma
+
+*Explanation: Skipping of lymph node stations in early esophageal tumors is rare, as spread follows the expected anatomical pathways.*
+
+---
+
+**11. What is the approximate rate of lymph node involvement in squamous cell carcinoma (SCC) when the tumor has invaded into the muscularis mucosa (T1aM3)?**
+
+- Less than 1%
+- 3%–5%
+- **Up to 12%**
+- 20%–30%
+
+*Explanation: Lymph node involvement appears to be more common with SCC compared to adenocarcinoma when the tumor has invaded into the muscularis mucosa (T1aM3), approaching up to 12%.*
+
+---
+
+**12. What is the approximate rate of lymph node involvement in adenocarcinoma at the T1aM3 stage?**
+
+- Less than 0.1%
+- **1.3%**
+- 5%–7%
+- 10%–15%
+
+*Explanation: Compared with up to 12% for SCC at T1aM3, the rate for adenocarcinoma at this stage is only 1.3%.*
+
+---
+
+**13. What structure allows longitudinal communication between proximal and distal lymphatic drainage systems of the esophagus?**
+
+- The thoracic duct
+- The cisterna chyli
+- **The extensive submucosal lymphatic network**
+- The paraoesophageal nodal chain
+
+*Explanation: There is an extensive submucosal lymphatic network that allows longitudinal communication between the proximal and distal drainage systems.*
+
+---
+
+**14. In more advanced esophageal tumors where primary lymphatic pathways may be blocked, what pattern of lymph node involvement can occur?**
+
+- Exclusively ipsilateral nodal spread
+- Exclusively contralateral nodal spread
+- Only celiac axis involvement
+- **Eccentric lymph node involvement**
+
+*Explanation: In tumors that are more advanced and have potentially led to a blockage of one of the primary pathways, the submucosal system allows eccentric lymph node involvement.*
+
+---
+
+**15. What percentage chance of lymph node involvement is associated with T3 esophageal cancer?**
+
+- 20%–30%
+- 40%–50%
+- 60%–70%
+- **Up to 85%**
+
+*Explanation: Most patients are diagnosed at a more advanced state and T3 disease is associated with an up to 85% chance of lymph node involvement.*
+
+---
+
+**16. How many fields does the standard classification of lymph node dissection for esophageal cancer comprise?**
+
+- Two fields
+- **Three fields**
+- Four fields
+- Five fields
+
+*Explanation: The extent of lymph node dissection is commonly divided into three fields—the upper abdomen, the mediastinum, and the neck.*
+
+---
+
+**17. What does a three-field lymph node dissection involve?**
+
+- Removal of only abdominal and mediastinal nodes
+- Removal of only cervical and mediastinal nodes
+- Removal of only abdominal and cervical nodes
+- **Removal of nodal tissue from the upper abdomen, the mediastinum, and the neck**
+
+*Explanation: Three-field dissection relates to removal of nodal tissue from each of the three areas: upper abdomen, mediastinum, and neck.*
+
+---
+
+**18. Why does a lack of clarity exist on the exact definition of a two-field lymph node resection?**
+
+- Because the definition changes with tumor stage
+- Because guidelines have not been updated since the 1990s
+- **Because of differences in prevalence of squamous cell cancer in Japan/East versus adenocarcinoma in Western countries**
+- Because intraoperative findings always alter the planned extent of dissection
+
+*Explanation: A lack of clarity on the exact definition of two-field resection arises due to differences in prevalence of squamous cell cancer in Japan and the East, versus adenocarcinoma in Western countries.*
+
+---
+
+**19. In countries where SCC is the predominant esophageal cancer, what does a two-field dissection typically include?**
+
+- Upper abdomen and inferior mediastinum only
+- Inferior mediastinum and cervical nodes
+- **Upper abdomen, inferior and superior mediastinum, and along both recurrent laryngeal nerves**
+- Upper abdomen and thoracic duct only
+
+*Explanation: Where SCC is common, a two-field dissection is described as removal of nodal tissue from the upper abdomen and in the inferior and superior mediastinum and along both recurrent laryngeal nerves.*
+
+---
+
+**20. In Western countries where adenocarcinoma predominates, what does a two-field dissection typically include?**
+
+- Upper abdomen, superior mediastinum, and cervical nodes
+- Superior mediastinum and cervical nodes only
+- **Upper abdomen and inferior mediastinum (usually to the level of the carina)**
+- Upper abdomen and both recurrent laryngeal nerve chains
+
+*Explanation: Where adenocarcinoma is common, a two-field dissection is regarded as removal of tissue from the upper abdomen and inferior mediastinum, usually extending only to the level of the carina.*
+
+---
+
+**21. Which lymph node stations are included in the abdominal (first field) lymphadenectomy?**
+
+- Paratracheal, subcarinal, and pulmonary hilar nodes
+- Deep cervical, brachiocephalic, and superior gastric nodes
+- **Superior gastric group, celiac trunk nodes, and common hepatic nodes**
+- Paracardial, recurrent laryngeal, and celiac nodes
+
+*Explanation: The abdominal field includes the superior gastric group, celiac trunk nodes, and common hepatic nodes.*
+
+---
+
+**22. Which artery is the superior branch to which paracardial lymph nodes are related?**
+
+- Right gastric artery
+- Short gastric arteries
+- **Left gastric artery (most superior branch)**
+- Gastroduodenal artery
+
+*Explanation: The paracardial nodes are frequently involved and are related to the most superior branch of the left gastric artery.*
+
+---
+
+**23. How should left and right paracardial lymph nodes be regarded during lymphadenectomy?**
+
+- As entirely separate and independent groups
+- Left paracardial nodes only need to be removed
+- **As a single group**
+- Only as part of the lesser curve nodal group
+
+*Explanation: Both left and right paracardial nodes should be considered as a single group during lymphadenectomy.*
+
+---
+
+**24. Lesser curve lymph nodes are involved with tumor spread to which structure?**
+
+- The hepatoduodenal ligament
+- The splenic hilum
+- **The celiac trunk**
+- The superior mesenteric artery
+
+*Explanation: The lesser curve nodes are involved with tumor spread to the celiac trunk and are considered part of the superior gastric group.*
+
+---
+
+**25. What does disease involvement beyond the celiac trunk nodes represent in esophageal cancer staging?**
+
+- Locoregional disease
+- N2 disease
+- Borderline resectable disease
+- **Metastatic disease**
+
+*Explanation: Disease beyond this drainage point (celiac trunk) represents metastatic disease, as does involvement beyond the hepatic nodes.*
+
+---
+
+**26. Which tumor type shows greater intramural distal spread with higher rates of abdominal nodal involvement in lower esophageal cancers?**
+
+- Squamous cell carcinoma (10%)
+- **Adenocarcinoma (54%)**
+- Small cell carcinoma
+- Undifferentiated carcinoma
+
+*Explanation: Intramural spread distally and involvement of abdominal nodes for patients with lower esophageal cancers is greater with adenocarcinoma (54%) compared with SCCs (10%).*
+
+---
+
+**27. What does the thoracic (second field) lymph node dissection commonly include?**
+
+- Only subcarinal and pulmonary hilar nodes
+- Only paraesophageal nodes and thoracic duct
+- **Mediastinal nodes, thoracic duct, pulmonary hilar nodes, paraesophageal nodes, carinal nodes, bronchial nodes, and paratracheal nodes**
+- Mediastinal nodes and cervical nodes
+
+*Explanation: The second field includes the mediastinal nodes, thoracic duct, nodes at both pulmonary hilar, paraesophageal nodes, and those at the carina, both bronchi and paratracheal nodes.*
+
+---
+
+**28. What does "total mediastinal lymphadenectomy" additionally include beyond extended mediastinal dissection?**
+
+- Removal of cervical nodes and brachiocephalic nodes
+- Removal of pulmonary hilar nodes bilaterally
+- **Removal of nodes along the left recurrent laryngeal nerve and subaortic nodes**
+- Removal of diaphragmatic nodes and paracardial nodes
+
+*Explanation: A "total mediastinal lymphadenectomy" involves the additional removal of nodes along the left recurrent laryngeal nerve and subaortic nodes.*
+
+---
+
+**29. A three-field lymph node dissection adds which nodal groups beyond the first two fields?**
+
+- Retroperitoneal and para-aortic nodes
+- Mediastinal and pulmonary hilar nodes
+- **Brachiocephalic, deep internal, and external cervical nodes including nodes by the left and right recurrent laryngeal nerve**
+- Paraesophageal and diaphragmatic nodes
+
+*Explanation: Three-field dissection adds dissection in the neck to clear nodes in the brachiocephalic, deep internal, and external cervical nodes including nodes by the left and right recurrent laryngeal nerve.*
+
+---
+
+**30. In cervical lymph node dissection for thoracic esophageal carcinoma, which nodes are more commonly involved?**
+
+- The deep lateral nodes (spinal accessory lymphatic chain)
+- The superficial cervical nodes
+- **The deep internal and deep external cervical nodes**
+- The submandibular nodes
+
+*Explanation: Deep external nodes (lateral to the internal jugular vein) and deep internal nodes (approximating the recurrent laryngeal nerve) are more commonly involved than the deep lateral nodes in thoracic carcinomas.*
+
+---
+
+**31. What is the rate of nodal involvement in squamous cell carcinoma confined to the mucosa?**
+
+- 15%–25%
+- 10%–15%
+- 5%–10%
+- **0%–7%**
+
+*Explanation: Squamous cell cancer, commonly found in the middle and proximal esophagus, rarely has nodal involvement when the tumor is confined to the mucosa (0%–7%).*
+
+---
+
+**32. Once SCC has invaded the submucosa, what proportion of patients have nodal involvement?**
+
+- 10%–15%
+- 20%–30%
+- **Up to 50%**
+- Over 75%
+
+*Explanation: Nodal involvement in up to 50% of patients occurs once the SCC tumor has invaded the submucosa.*
+
+---
+
+**33. What is the nodal involvement rate in SCC tumors with transmural invasion?**
+
+- 30%–40%
+- 40%–50%
+- 50%–60%
+- **Over 73%**
+
+*Explanation: Nodal involvement is over 73% in patients with transmural SCC tumors.*
+
+---
+
+**34. For adenocarcinoma confined to the mucosa, what is the incidence of lymph node involvement?**
+
+- 10%–15%
+- 5%–10%
+- 2%–4%
+- **0%–7%**
+
+*Explanation: For adenocarcinomas confined to the mucosa, the incidence of lymph node involvement mirrors that of SCC at 0% to 7%.*
+
+---
+
+**35. The low incidence of lymph node involvement in mucosal adenocarcinoma has led to what clinical practice?**
+
+- Routine three-field lymphadenectomy
+- Neoadjuvant chemoradiation before surgery
+- **Increased use of endoscopic resection for these cancers**
+- Prophylactic cervical node dissection
+
+*Explanation: The low incidence of tumor involvement in mucosal adenocarcinoma patients has led to the increased use of endoscopic resection for these cancers.*
+
+---
+
+**36. In adenocarcinoma penetrating the submucosa, what is the reported rate of lymph node involvement?**
+
+- 5%–10%
+- **15%–50%**
+- 55%–65%
+- Over 80%
+
+*Explanation: While lymph node involvement on penetration of the submucosa in adenocarcinoma has been reported at between 15% and 50%.*
+
+---
+
+**37. Invasion through the muscularis propria in adenocarcinoma is associated with what rate of lymph node involvement?**
+
+- 30%–40%
+- 50%–60%
+- 65%–70%
+- **Up to 80%**
+
+*Explanation: Invasion through the muscularis propria in adenocarcinoma is associated with up to 80% lymph node involvement.*
+
+---
+
+**38. In Law et al.'s study of 108 SCC patients who underwent two-field lymphadenectomy, what proportion of recurrences occurred in the first year post-surgery?**
+
+- One-quarter
+- One-half
+- **Two-thirds**
+- Three-quarters
+
+*Explanation: Two-thirds of recurrences were in the first year post-surgery in Law et al.'s review of SCC patients after two-field lymphadenectomy.*
+
+---
+
+**39. In Law et al.'s study, among the extrathoracic recurrences in SCC patients, how many were to distant organs (suggesting hematogenous spread)?**
+
+- 5
+- 12
+- 17
+- **28**
+
+*Explanation: Of the 44 extrathoracic recurrences, 28 were to distant organs, implying hematogenous spread, while 17 were to lymph nodes.*
+
+---
+
+**40. What was the incidence of local recurrence in Law et al.'s SCC series following two-field lymphadenectomy?**
+
+- 10%
+- 15%
+- 20%
+- **25%**
+
+*Explanation: There was an incidence of local recurrence of 25% in Law et al.'s series of SCC patients undergoing two-field lymphadenectomy.*
+
+---
+
+**41. What is the reported local recurrence rate for lower esophageal adenocarcinoma after surgery?**
+
+- 2%–3%
+- 5%–7%
+- **9%**
+- 15%
+
+*Explanation: The reported local recurrence rate is 9% for lower esophageal adenocarcinoma, compared with 15% for junctional cancers.*
+
+---
+
+**42. What is the reported local recurrence rate for junctional adenocarcinomas after surgery?**
+
+- 9%
+- 12%
+- **15%**
+- 25%
+
+*Explanation: There is a reported local recurrence rate of 15% for junctional cancers, compared with 9% for lower esophageal adenocarcinoma.*
+
+---
+
+**43. Despite differing subtypes, what is the overall incidence of local recurrence for either SCC or adenocarcinoma after esophagectomy?**
+
+- 5%–10%
+- 10%–20%
+- **25%–50%**
+- 50%–70%
+
+*Explanation: The incidence of local recurrence for either subtype is between 25% and 50%, indicating that a meticulous lymphadenectomy may have a profound impact on locoregional control.*
+
+---
+
+**44. In Kurokawa et al.'s mapping study of esophagogastric junctional cancers, what nodal involvement rate defined Category 1 nodes (strongly recommended for dissection)?**
+
+- ≥5%
+- **≥10%**
+- ≥15%
+- ≥20%
+
+*Explanation: Category 1 (strongly recommended for dissection) was defined as a rate of involvement of 10% or more.*
+
+---
+
+**45. Which abdominal nodal stations were classified as Category 1 in Kurokawa et al.'s study?**
+
+- Stations 4, 5, 6, 8, and 10
+- Stations 2, 4, 6, 8, and 10
+- **Stations 1, 2, 3, 7, 9, and 11p**
+- Stations 5, 6, 8, 9, and 12
+
+*Explanation: Category 1 nodes included abdominal stations 1, 2, 3, 7, 9, and 11p in Kurokawa et al.'s study.*
+
+---
+
+**46. Which nodal stations were classified as Category 2 (weakly recommended for dissection) in Kurokawa et al.'s study?**
+
+- Stations 1, 3, and 7
+- Stations 4, 6, and 11p
+- **Abdominal stations 8a and 19 and lower mediastinal station 110**
+- Stations 5, 10, and 12
+
+*Explanation: Category 2 included abdominal stations 8a and 19 as well as the lower mediastinal station 110.*
+
+---
+
+**47. Under what condition was mediastinal station 110 classified as Category 1 in Kurokawa et al.'s study?**
+
+- When tumors were SCC histology
+- When there was more than 4 cm of esophageal involvement
+- **When there was more than 2 cm of esophageal involvement**
+- When three or more abdominal nodes were positive
+
+*Explanation: Mediastinal station 110 was regarded as Category 1 if there was more than 2 cm of esophageal involvement.*
+
+---
+
+**48. Even with increasing esophageal involvement up to 4 cm, what remained true about mediastinal nodes in Kurokawa et al.'s study?**
+
+- Category 1 nodes expanded to include most mediastinal stations
+- The majority of mediastinal nodes became Category 1
+- Three-field lymphadenectomy became mandatory
+- **No mediastinal nodes remained in Category 1**
+
+*Explanation: Even with increasing length of esophageal involvement up to 4 cm there still remained no mediastinal nodes in Category 1.*
+
+---
+
+**49. What is an established indicator of prognosis in esophageal cancer following surgery?**
+
+- Tumor size greater than 5 cm
+- Patient age under 60
+- Pre-operative albumin level
+- **Complete resection (R0)**
+
+*Explanation: It has been established that complete resection (R0) is an important indicator of prognosis, and patients with R1 or R2 residual disease have a significantly bleaker prognosis.*
+
+---
+
+**50. What proportion of patients may develop locoregional recurrence after a two-field lymphadenectomy?**
+
+- 5%–10%
+- 10%–20%
+- **25%–50%**
+- 60%–70%
+
+*Explanation: Approximately 25% to 50% of patients may develop locoregional recurrence after a two-field lymphadenectomy.*
+
+---
+
+**51. In Anderegg et al.'s series of 479 patients with adenocarcinoma, how many patients had nodal metastases?**
+
+- 150
+- 200
+- 225
+- **253**
+
+*Explanation: In Anderegg et al.'s series of 479 patients who underwent transthoracic esophagectomy and two-field lymphadenectomy, 253 patients had nodal metastases.*
+
+---
+
+**52. In Anderegg et al.'s study, what was the median survival in patients with only locoregional lymph node involvement?**
+
+- 10 months
+- 20 months
+- 30 months
+- **35 months**
+
+*Explanation: Survival in those who only had locoregional lymph node involvement was 35 months.*
+
+---
+
+**53. In Anderegg et al.'s study, what was the median survival for patients with nodal involvement at the celiac trunk?**
+
+- 35 months
+- 25 months
+- 20 months
+- **16 months**
+
+*Explanation: Survival in those with nodes at the celiac trunk was 16 months, compared to 35 months for locoregional-only involvement.*
+
+---
+
+**54. What did Hulscher et al. demonstrate regarding transthoracic esophagectomy with extended en bloc lymphadenectomy?**
+
+- No difference in outcomes compared to transhiatal esophagectomy
+- Significantly worse 5-year survival than transhiatal approach
+- **A trend toward greater 5-year survival compared with a transhiatal approach for lower esophageal and junctional adenocarcinomas**
+- Significantly increased morbidity with no survival benefit
+
+*Explanation: Hulscher et al. demonstrated a trend toward greater survival at 5 years in patients undergoing transthoracic esophagectomy with extended en bloc lymphadenectomy compared to a transhiatal approach.*
+
+---
+
+**55. What percentage of patients with adenocarcinoma invading the submucosa may have lymph node involvement, as demonstrated by Griffin et al.?**
+
+- 5%
+- 8%
+- 10%
+- **12%**
+
+*Explanation: Griffin et al. demonstrated that 12% of patients with adenocarcinoma invading the submucosa may have lymph node involvement.*
+
+---
+
+**56. In Griffin et al.'s study, how many patients with tumor confined to the mucosa were lymph node positive?**
+
+- 5%
+- 2%
+- 1%
+- **None (0%)**
+
+*Explanation: None of the patients with tumor confined to the mucosa were lymph node positive in Griffin et al.'s study.*
+
+---
+
+**57. What was the main conclusion of Van der Schaaf et al.'s Swedish nationwide study of 1044 resections over 23 years using nodal yield quartiles?**
+
+- Higher nodal yield was directly associated with improved survival
+- Three-field lymphadenectomy produced better outcomes than two-field
+- Nodal yield above 20 predicted cure
+- **More extensive clearance did not equate to improved survival**
+
+*Explanation: Van der Schaaf et al. concluded that more extensive clearance did not equate to improved survival in their Swedish nationwide study.*
+
+---
+
+**58. What was the upper border of the third quartile of lymph node yields in Van der Schaaf et al.'s study?**
+
+- 5 nodes
+- 10 nodes
+- **15 nodes**
+- 25 nodes
+
+*Explanation: The lymph node yields were generally low, with the upper border of the third quartile containing only 15 nodes in van der Schaaf's study.*
+
+---
+
+**59. What was the upper border of the third quartile of lymph node yields in Lagergren et al.'s study?**
+
+- 15 nodes
+- 18 nodes
+- **20 nodes**
+- 25 nodes
+
+*Explanation: The upper border of the third quartile was 20 nodes in Lagergren's study.*
+
+---
+
+**60. What consistent finding did both Van der Schaaf et al. and Lagergren et al. demonstrate despite their different populations?**
+
+- That three-field dissection improves survival in all patients
+- That lymph node ratio has no prognostic value
+- That cervical dissection reduces local recurrence
+- **That a greater number of metastatic nodes is associated with decreased survival**
+
+*Explanation: Both papers demonstrated that, as expected, a greater number of metastatic nodes is associated with decreased survival.*
+
+---
+
+**61. What additional finding related to lymph node ratio did both Van der Schaaf et al. and Lagergren et al. demonstrate?**
+
+- That lymph node ratio was not useful as a prognostic tool
+- That lymph node ratio only mattered in SCC, not adenocarcinoma
+- **That a higher ratio of positive to negative nodes was associated with increased mortality**
+- That the ratio of involved nodes predicted the need for adjuvant treatment
+
+*Explanation: Both papers also demonstrated that a higher ratio of positive to negative nodes was associated with increased mortality.*
+
+---
+
+**62. What did the meta-analysis and systematic review by Visser et al. demonstrate about higher lymph node yield?**
+
+- It was associated with worse outcomes in neoadjuvant-treated patients
+- It had no impact on survival in patients who received neoadjuvant treatment
+- **It was associated with improved survival in both neoadjuvant-naive and neoadjuvant-treated cohorts**
+- It was only beneficial in SCC but not adenocarcinoma patients
+
+*Explanation: Visser et al. demonstrated that higher lymph node yield was associated with improved survival in both cohorts that were neoadjuvant naive and in more recent cohorts when neoadjuvant treatment had become standard of care.*
+
+---
+
+**63. What caveat is associated with using lymph node ratio as a prognostic tool?**
+
+- It is only valid for adenocarcinoma patients
+- It is unreliable after neoadjuvant treatment
+- **If insufficient nodes are obtained, the ratio ceases to be useful as a prognostic tool due to incomplete sampling**
+- It is only valid when more than 30 nodes are retrieved
+
+*Explanation: Lymph node ratio ceases to be useful as a prognostic tool if insufficient nodes are obtained, due to incomplete sampling.*
+
+---
+
+**64. In Chen et al.'s study of over 2000 SCC patients in China, what did they conclude about lymph node ratio compared to the "N" category?**
+
+- The "N" category was a better predictor of prognosis
+- Both were equally valid predictors
+- Lymph node ratio was only useful in patients with fewer than 5 positive nodes
+- **Lymph node ratio was a better predictor of prognosis than the "N" category**
+
+*Explanation: Chen et al. concluded that lymph node ratio was a better predictor of prognosis than using the "N" category for esophageal squamous cell cancers.*
+
+---
+
+**65. What "Nr" ratio categories did Chen et al. propose as an alternative to N0–N3 staging?**
+
+- 0%, 5%–10%, 10%–20%, >20%
+- 0%–5%, 5%–15%, 15%–25%, >25%
+- **0%, 0%–10%, 10%–20%, >20%**
+- 0%–10%, 10%–15%, 15%–25%, >25%
+
+*Explanation: Chen et al. suggested using an "Nr" ratio category of 0, 0% to 10%, 10% to 20%, and >20% rather than N0 to N3.*
+
+---
+
+**66. What were the predicted 5-year survivals corresponding to Chen et al.'s Nr categories (0, 0%–10%, 10%–20%, >20%) respectively?**
+
+- 70%, 55%, 40%, 30%
+- 55%, 45%, 35%, 25%
+- **61%, 41%, 33%, 23%**
+- 50%, 38%, 28%, 18%
+
+*Explanation: Predicted survivals using Chen et al.'s Nr categories were 61%, 41%, 33%, and 23% respectively.*
+
+---
+
+**67. In Bhamidipati et al.'s cohort of 347 US patients (predominantly adenocarcinoma), what was concluded about lymph node ratio?**
+
+- It was not useful for adenocarcinoma prognosis
+- It was less useful than the "N" category
+- It was only useful in patients without neoadjuvant treatment
+- **It was an independent predictor of prognosis and more useful than the "N" category**
+
+*Explanation: Bhamidipati et al. also concluded that lymph node ratio was an independent predictor of prognosis in their cohort of 347 patients undergoing surgery and was more useful than the "N" category.*
+
+---
+
+**68. In Phillips et al.'s study of adenocarcinoma patients undergoing transthoracic esophagectomy after neoadjuvant treatment, what was the predicted decrease in survival if no formal lymphadenectomy had been carried out?**
+
+- 5%
+- 10%
+- 15%
+- **23%**
+
+*Explanation: Phillips et al.'s study suggested a 23% decrease in survival had no formal lymphadenectomy been carried out.*
+
+---
+
+**69. What was the predicted impact of leaving abdominal nodes behind in Phillips et al.'s cohort of lower esophageal and junctional adenocarcinoma patients?**
+
+- A 23% decrease in survival
+- A 15% decrease in survival
+- A 10% decrease in survival
+- **Minimal impact**
+
+*Explanation: Interestingly, the impact of leaving abdominal nodes behind, in this cohort of patients with lower esophageal and junctional adenocarcinomas, was predicted as minimal.*
+
+---
+
+**70. In what proportion of node-negative (N0) patients have micrometastases been shown to be present?**
+
+- 10%–20%
+- 20%–30%
+- 30%–40%
+- **Up to 50%**
+
+*Explanation: Micrometastases have been shown to be present in up to 50% of N0 patients.*
+
+---
+
+**71. For what reason has the presence of micrometastases been used in explaining clinical outcomes?**
+
+- To explain why locally advanced tumors respond to neoadjuvant chemotherapy
+- To explain the benefit of three-field over two-field dissection
+- **To explain why node-negative patients develop recurrence**
+- To explain why lymph node ratio is a better predictor than N category
+
+*Explanation: The presence of micrometastases has been used to explain why node-negative patients develop recurrence.*
+
+---
+
+**72. What is the current status of evidence regarding the prognostic significance of immunohistochemically detected micrometastatic deposits?**
+
+- All studies agree they predict worse outcomes
+- All studies agree they have no prognostic significance
+- **Conflicting—some studies associate them with poorer prognosis while others suggest no prognostic consequence**
+- They only have prognostic significance in SCC, not adenocarcinoma
+
+*Explanation: While some studies have found that immunohistochemically detected deposits are associated with poorer prognosis, others have suggested that they have no prognostic consequence.*
+
+---
+
+**73. In how many lymph node metastases has an increased lymphadenectomy been suggested to be particularly beneficial?**
+
+- Fewer than four
+- Fewer than six
+- **Fewer than eight**
+- Fewer than ten
+
+*Explanation: There have been previous suggestions that an increased lymphadenectomy is more beneficial in patients with fewer than eight lymph node metastases.*
+
+---
+
+**74. According to Rizk et al., for T3 disease or worse, what is the recommended optimum lymph node yield?**
+
+- 10–15 nodes
+- 15–25 nodes
+- 25–30 nodes
+- **31–42 nodes**
+
+*Explanation: Rizk et al. determined that the optimum lymph node yield was dependent on the "T" category of disease, recommending 31 to 42 nodes in those with T3 disease or worse.*
+
+---
+
+**75. Why are patients considered for neoadjuvant treatment thought to particularly benefit from extensive lymphadenectomy?**
+
+- Because neoadjuvant treatment renders all nodes sterile
+- Because extensive dissection reduces the risk of anastomotic leak
+- **Because they are likely to have more locally advanced disease**
+- Because they have more cervical nodal disease than mediastinal
+
+*Explanation: Patients who are considered for neoadjuvant treatment are likely to have more locally advanced disease, and this would suggest they will benefit from a more extensive lymphadenectomy.*
+
+---
+
+**76. Why are sentinel node techniques currently unreliable in esophageal cancer?**
+
+- Because the sentinel node cannot be identified laparoscopically
+- Because nuclear medicine facilities are unavailable in most centers
+- **Because of the occurrence of skip metastases and unpredictability of nodal involvement**
+- Because sentinel nodes are always in the mediastinum regardless of tumor location
+
+*Explanation: Sentinel node techniques have been attempted, but the occurrence of skip metastases and unpredictability of nodal involvement makes this currently unreliable.*
+
+---
+
+**77. In Peyre et al.'s review of 1053 patients (adenocarcinoma and SCC) without neoadjuvant treatment, at what number of involved lymph nodes does the probability of systemic disease exceed 50%?**
+
+- More than one node
+- More than two nodes
+- **More than three nodes**
+- More than five nodes
+
+*Explanation: Peyre et al. indicated that the probability of systemic disease exceeds 50% when more than three nodes are involved.*
+
+---
+
+**78. According to Peyre et al., at what number of involved nodes does the probability of systemic disease approach 100%?**
+
+- More than five nodes
+- More than six nodes
+- More than seven nodes
+- **More than eight nodes**
+
+*Explanation: The probability of systemic disease approaches 100% when greater than eight nodes are involved, according to Peyre et al.*
+
+---
+
+**79. In the further study by Peyre et al. evaluating 2303 esophageal cancer patients without neoadjuvant or adjuvant treatment, what was the suggested optimal lymph node threshold?**
+
+- 10 nodes
+- 15 nodes
+- 20 nodes
+- **23 nodes**
+
+*Explanation: Their findings demonstrated that the number of nodes recovered was an independent predictor of survival after esophagectomy and suggested an optimum threshold of 23 nodes.*
+
+---
+
+**80. What did Peyre et al.'s finding of 23 lymph nodes as an optimal threshold additionally imply?**
+
+- Only the number of nodes retrieved, not their location, matters for survival
+- Cervical dissection is always required to reach the optimal threshold
+- **That it was not only the number of nodes that affected survival but also their location**
+- That three-field dissection is mandatory in all patients with >8 positive nodes
+
+*Explanation: Peyre et al. suggested that this optimum finding of 23 lymph nodes indicated that it was not only the number of nodes that affected survival but also their location.*
+
+---
+
+**81. Given the difficulty in identifying patients with fewer than eight lymph node metastases preoperatively, what approach do the authors advocate?**
+
+- Sentinel node biopsy to guide the extent of dissection
+- Three-field dissection in all patients regardless of tumor location
+- Abdominal dissection only for junctional tumors
+- **A complete two-field lymphadenectomy should be carried out in all patients where nodal involvement is a concern**
+
+*Explanation: Omloo et al. found extended resection is beneficial in patients with fewer than eight lymph node metastases. Given the difficulty in identifying such patients, a complete two-field lymphadenectomy should be carried out in all patients where nodal involvement is a concern.*
+
+---
+
+**82. Although tailoring lymphadenectomy to remove only metastatic nodes is technically possible, what is a major limitation?**
+
+- It requires intraoperative frozen sections, which are time-consuming
+- It requires PET-CT guidance which is not widely available
+- Metastatic nodes cannot be identified macroscopically
+- **It is fraught with a high false-negative rate**
+
+*Explanation: The ability to tailor the lymphadenectomy so that metastatic nodes are removed, while technically possible, is fraught with a high false-negative rate.*
+
+---
+
+**83. What is the current status of three-field lymphadenectomy practice in Japan versus the West?**
+
+- It is rarely used in Japan but standard in the West
+- It is equally uncommon in both Japan and the West
+- **It has been widely employed in Japan for many years but is still performed relatively infrequently in the West**
+- It is standard practice in both Japan and Western countries
+
+*Explanation: In Japan, three-field lymphadenectomy practice has been widely employed for many years, but in the West this approach is still performed relatively infrequently.*
+
+---
+
+**84. In Lerut et al.'s study of three-field lymphadenectomy in patients treated with unimodality treatment, what was the 5-year survival for adenocarcinomas of the gastroesophageal junction with cervical node involvement?**
+
+- 5%
+- 10%
+- 15%
+- **0%**
+
+*Explanation: Lerut et al. found 0% survival for adenocarcinomas of the gastroesophageal junction when cervical nodes were involved.*
+
+---
+
+**85. In Lerut et al.'s study, what was the 5-year survival for distal-third adenocarcinomas with cervical node involvement?**
+
+- 5%
+- **12%**
+- 20%
+- 28%
+
+*Explanation: Lerut et al. found 12% survival for distal-third adenocarcinomas where cervical nodes were involved.*
+
+---
+
+**86. In Lerut et al.'s study, what was the 5-year survival for middle-third squamous cell cancers with cervical node involvement?**
+
+- 12%
+- 18%
+- **28%**
+- 35%
+
+*Explanation: Survival rose to 28% 5-year survival in middle-third squamous cell cancers with cervical node involvement in Lerut et al.'s study.*
+
+---
+
+**87. What important implication did Lerut et al.'s findings suggest regarding cervical lymph node involvement?**
+
+- Cervical node involvement always represents metastatic disease requiring palliation only
+- Cervical nodes are rarely involved and do not need routine assessment
+- Three-field lymphadenectomy significantly increases morbidity
+- **Cervical nodes should not necessarily be regarded as metastatic**
+
+*Explanation: The implication was that cervical nodes should not necessarily be regarded as metastatic, given the survival benefit seen with three-field lymphadenectomy even in node-positive patients.*
+
+---
+
+**88. What proportion of patients in Lerut et al.'s study had cervical lymph node involvement?**
+
+- 10%
+- 15%
+- 20%
+- **25%**
+
+*Explanation: There were other interesting findings from this study, with 25% of patients having cervical lymph node involvement.*
+
+---
+
+**89. In Lerut et al.'s study, in what proportion of patients with cervical node involvement had this not been detected on initial staging investigations?**
+
+- One-quarter
+- One-half
+- Two-thirds
+- **Three-quarters**
+
+*Explanation: In three-quarters of patients with cervical lymph node involvement, this had not been detected on the initial staging investigations.*
+
+---
+
+**90. What was the 4-year survival for distal-third adenocarcinomas with positive cervical nodes in Lerut et al.'s study?**
+
+- 12%
+- 20%
+- 28%
+- **36%**
+
+*Explanation: While the 5-year survival for distal-third adenocarcinomas with positive nodes was 12%, 4-year survival was 36%, perhaps indicating that this surgery has a role in palliating disease.*
+
+---
+
+**91. What was the rate of recurrent laryngeal nerve damage in Lerut et al.'s three-field lymphadenectomy study?**
+
+- 10%
+- 7.5%
+- 5%
+- **2.6%**
+
+*Explanation: There was no significant apparent increase in complications, and recurrent laryngeal nerve damage was low at 2.6% in Lerut et al.'s study.*
+
+---
+
+**92. According to Japanese studies in SCC patients, approximately what proportion will have cervical node involvement?**
+
+- One-tenth
+- One-fifth
+- One-quarter
+- **Almost one-third**
+
+*Explanation: Japanese studies involving patients with SCC indicate that almost a third of patients will have cervical node involvement, explaining why three-field lymphadenectomy is widely employed in Japan.*
+
+---
+
+**93. In Chen et al.'s review of 1715 SCC patients, what percentage of proximal third tumors had cervical node involvement?**
+
+- 20%
+- 30%
+- 38%
+- **44%**
+
+*Explanation: Chen et al. found increased cervical node involvement with more proximal tumors, with 44% of proximal third tumors having cervical node involvement.*
+
+---
+
+**94. Strikingly, in Chen et al.'s study, what percentage of lower third SCC tumors also had cervical node involvement?**
+
+- 10%
+- 15%
+- 20%
+- **23%**
+
+*Explanation: Strikingly, 23% of lower third tumors also had cervical node involvement in Chen et al.'s study, indicating the potential importance of three-field lymphadenectomy even for lower tumors.*
+
+---
+
+**95. What have systematic reviews of predominantly squamous populations demonstrated regarding three-field versus two-field lymphadenectomy?**
+
+- Three-field dissection significantly increases morbidity with no survival benefit
+- Two-field dissection produces equivalent survival to three-field dissection
+- **Superior survival with three-field lymphadenectomy**
+- Three-field dissection is only beneficial in proximal tumors
+
+*Explanation: A number of systematic reviews of predominantly squamous populations have demonstrated superior survival with three-field lymphadenectomy.*
+
+---
+
+**96. What is the current state of data for three-field lymphadenectomy in adenocarcinoma patients, particularly in the era of neoadjuvant treatments?**
+
+- Robust data clearly supporting its routine use
+- Data showing equivalence to two-field dissection
+- Data showing improved survival only in junctional tumors
+- **A paucity of data, with poor overall survival in available studies**
+
+*Explanation: There is a paucity of data for three-field lymphadenectomy in patients with adenocarcinoma, particularly in the era of neoadjuvant treatments, and the poor overall survival demonstrated by Lerut indicates that routine cervical dissection may not be merited.*
+
+---
+
+**97. For which adenocarcinoma patients should a three-field dissection be considered according to the authors?**
+
+- All adenocarcinoma patients regardless of staging
+- Only patients with proximal adenocarcinomas
+- Only patients who have not received neoadjuvant treatment
+- **Each patient with adenocarcinoma presenting with extensive mediastinal nodal disease**
+
+*Explanation: Each patient with adenocarcinoma presenting with extensive mediastinal nodal disease should be considered for a three-field dissection.*
+
+---
+
+**98. What factors should dictate the decision to perform a more extensive lymphadenectomy?**
+
+- Only the surgeon's preference and technical ability
+- Only the tumor histological subtype
+- Only the number of positive nodes on preoperative staging
+- **Extent of disease, likelihood of recurrence, and overall fitness**
+
+*Explanation: The decision to perform a more extensive lymphadenectomy will be dictated by extent of disease, likelihood of recurrence, and overall fitness.*
+
+---
+
+**99. What is the protocol in the authors' department for deciding the extent of lymphadenectomy?**
+
+- Routine three-field dissection for all patients
+- Two-field dissection for all patients regardless of findings
+- Decision made by the operating surgeon alone
+- **To consider each patient in the multidisciplinary setting and give the options to the patient and their family**
+
+*Explanation: The protocol in the authors' department is to consider each patient in the multidisciplinary setting and give the options to the patient and their family.*
+
+---
+
+**100. What is the main cause of major problems after esophagectomy?**
+
+- Anastomotic leak
+- Chyle leak
+- Wound infection
+- **Respiratory problems due to pneumonia and ARDS**
+
+*Explanation: Respiratory problems are the main cause of major problems after esophagectomy, due to pneumonia and acute respiratory distress syndrome (ARDS).*
+
+---
+
+**101. The extensive mediastinal dissection places which structure at risk of direct injury?**
+
+- The aortic arch
+- The phrenic nerve
+- **The tracheobronchial tree**
+- The azygos vein
+
+*Explanation: The extensive dissection places the tracheobronchial tree at risk of direct injury, and may also occur in a delayed fashion if cautery has been used inadvertently in close proximity.*
+
+---
+
+**102. With more extensive lymph node dissection, what nerve is at increased risk?**
+
+- The phrenic nerve
+- The vagus nerve
+- The sympathetic chain
+- **The recurrent laryngeal nerve**
+
+*Explanation: Risk to the recurrent laryngeal nerve is increased with a more extensive lymph node dissection.*
+
+---
+
+**103. Increased lymph node dissection also increases risk to which other structure, potentially leading to a significant chyle leak?**
+
+- The azygos vein
+- The left subclavian artery
+- The cisterna chyli
+- **The thoracic duct**
+
+*Explanation: Risk to the thoracic duct and hence the possibility of a significant chyle leak is increased with a more extensive lymph node dissection.*
+
+---
+
+**104. Besides one-lung ventilation, what additional factor contributes to increased respiratory morbidity after esophagectomy?**
+
+- Prolonged operative time
+- Nasogastric tube placement
+- **Mediastinal lymphadenectomy impairing lymphatic flow, compounding pulmonary edema**
+- Use of thoracic epidural analgesia
+
+*Explanation: It has been postulated that increased respiratory morbidity may be related to one-lung ventilation, but mediastinal lymphadenectomy also impairs lymphatic flow, which can compound pulmonary edema.*
+
+---
+
+**105. What did the Swedish study on quality of life after lymphadenectomy find regarding the number of lymph nodes removed?**
+
+- Greater nodal yield improved quality of life at 5 years
+- Greater nodal yield decreased quality of life at 6 months
+- **No association with the number of lymph nodes removed and quality of life at 6 months or 5 years post-surgery**
+- Greater nodal yield was associated with worse quality of life at 6 months but not 5 years
+
+*Explanation: The Swedish study did not find any association with the number of lymph nodes removed and the quality of life either at 6 months or 5 years post-surgery.*
+
+---
+
+**106. What did Henckens et al.'s study from a single Dutch unit demonstrate about high lymph node yields?**
+
+- High lymph node yields were associated with significantly increased complication rates
+- High lymph node yields were only achievable at the cost of higher morbidity
+- High lymph node yields did not affect survival
+- **High lymph node yields are achievable from high volume units without increasing complication rates**
+
+*Explanation: Henckens et al. demonstrated that high lymph node yields are achievable from high volume units without increasing complication rates.*
+
+---
+
+**107. In Henckens et al.'s study, with what lymph node threshold was improved survival associated?**
+
+- More than 15 nodes
+- More than 20 nodes
+- More than 25 nodes
+- **More than 31 nodes**
+
+*Explanation: Importantly, higher lymph node yields were associated with improved survival in patients who had more than 31 nodes removed.*
+
+---
+
+**108. In van der Horst et al.'s study on robot-assisted minimally invasive esophagectomy (RAMIE), what percentage of patients suffered major complications (Clavien-Dindo ≥3b)?**
+
+- 20%
+- 30%
+- 40%
+- **50%**
+
+*Explanation: Overall, 50% of patients suffered major complications (Clavien-Dindo ≥3b) in van der Horst et al.'s RAMIE study.*
+
+---
+
+**109. What were the most common major complications in van der Horst et al.'s RAMIE study?**
+
+- Anastomotic leak and chyle leak
+- Wound infection and pneumothorax
+- Pleural effusion and atrial fibrillation
+- **Recurrent laryngeal nerve palsy and pneumonia**
+
+*Explanation: The most common major complications in van der Horst et al.'s RAMIE study were recurrent laryngeal nerve palsy and pneumonia.*
+
+---
+
+**110. What percentage of patients in van der Horst et al.'s RAMIE study had an unexpected contralateral lymph node metastasis?**
+
+- 15%
+- 10%
+- 8%
+- **5%**
+
+*Explanation: Only 5% of patients had an unexpected contralateral lymph node metastasis, indicating that even with new technologies a high level of morbidity exists for potentially little oncological benefit.*
+
+---
+
+**111. When was the current AJCC 8th edition TNM staging system for esophageal cancer published?**
+
+- 2015
+- 2016
+- 2017
+- **2018**
+
+*Explanation: The current American Joint Committee on Cancer (AJCC) 8th edition of the tumor, node, metastasis (TNM) staging system for esophageal cancer was published in 2018.*
+
+---
+
+**112. How does the AJCC 8th edition TNM staging system group the N category for esophageal cancer?**
+
+- By the anatomical location of involved nodes
+- By the presence of any nodal involvement (N0 vs N+)
+- By the ratio of positive to total nodes
+- **By the number of positive nodes**
+
+*Explanation: The AJCC 8th edition groups the N category by the number of positive nodes.*
+
+---
+
+**113. What significant limitation of the AJCC 8th edition TNM system is noted in the article?**
+
+- It does not distinguish SCC from adenocarcinoma
+- It does not account for the depth of tumor invasion
+- **It does not specify the number of nodes that constitutes an adequate yield to allow accurate staging**
+- It does not include the N3 category for extensive nodal disease
+
+*Explanation: It does not specify the number of nodes that constitutes an adequate yield to allow accurate staging, and it is well known that an inadequate yield may lead to understaging and stage migration.*
+
+---
+
+**114. What phenomenon can result from an inadequate lymph node yield in esophageal cancer staging?**
+
+- Overtreatment with neoadjuvant therapy
+- Excessive perioperative morbidity
+- Unnecessary three-field dissection
+- **Understaging and stage migration**
+
+*Explanation: An inadequate yield may lead to understaging and thus stage migration.*
+
+---
+
+**115. What has increasing evidence shown regarding adjuvant treatment after esophagectomy?**
+
+- It reduces the need for extensive lymphadenectomy
+- It has no role when neoadjuvant treatment has already been given
+- It is only beneficial in SCC patients
+- **Improved survival at 1 year carrying through to 5-year follow-up in a recent systematic review and meta-analysis**
+
+*Explanation: There is increasing evidence for adjuvant treatment in patients undergoing esophagectomy, with a recent systematic review and meta-analysis demonstrating improved survival at 1 year that carried through to 5-year follow-up.*
+
+---
+
+**116. According to the article's summary, what role may adequate lymphadenectomy play in the context of adjuvant treatment?**
+
+- It eliminates the need for adjuvant treatment
+- It reduces the effectiveness of adjuvant treatment
+- It has no relationship to adjuvant treatment decisions
+- **It may be beneficial in counseling a patient regarding prognosis and identifying those who would benefit from further treatment**
+
+*Explanation: Adequate lymphadenectomy may be beneficial in counseling a patient regarding prognosis and identifying those who would benefit from further treatment, including adjuvant therapy.*
+
+---
+
+**117. What does the article recommend regarding how future studies should regard squamous cell cancers and adenocarcinomas?**
+
+- As a single group to increase statistical power
+- As groups differing only in their response to neoadjuvant treatment
+- As groups differing only in their anatomical location
+- **As distinct entities that behave differently and may have outcomes influenced differently by lymphadenectomy and neoadjuvant regimen**
+
+*Explanation: It is important that future studies regard squamous cell cancers and adenocarcinomas as distinct entities, which behave differently and may have their outcomes influenced differently by lymphadenectomy and indeed the neoadjuvant regimen employed.*
+
+---
+
+**118. What effect might neoadjuvant treatment have on remaining disease after resection?**
+
+- It invariably leads to complete sterilization of all nodes
+- It has no effect on microscopic residual disease
+- It only sterilizes abdominal nodes
+- **In some patients it may sterilize any remaining disease**
+
+*Explanation: The effect of neoadjuvant treatments may in some patients sterilize any remaining disease, though it is impossible to predict this impact.*
+
+---
+
+**119. What is the authors' unequivocal recommendation in the summary of the article?**
+
+- To limit lymphadenectomy to reduce morbidity in all patients
+- To perform sentinel node biopsy before deciding the extent of dissection
+- To restrict extensive lymphadenectomy to SCC patients only
+- **To advocate an en bloc lymphadenectomy**
+
+*Explanation: The authors state they would unequivocally advocate an en bloc lymphadenectomy, given the belief that leaving positive nodes behind is likely to hasten recurrence.*
+
+---
+
+**120. What does the embryological demarcation at the tracheal bifurcation lead to in terms of esophageal lymphatic drainage?**
+
+- Unilateral lymphatic drainage toward the right
+- Exclusively caudal drainage toward the celiac axis
+- Exclusively cranial drainage toward the neck
+- **Bilateral lymphatic drainage**
+
+*Explanation: The two embryological components join during early development but remain demarcated at the level of the tracheal bifurcation, leading to bilateral lymphatic drainage.*
+
+---
+
+**121. Which histological type of esophageal carcinoma is commonly found in the middle and proximal parts of the esophagus?**
+
+- Adenocarcinoma
+- Small cell carcinoma
+- Undifferentiated carcinoma
+- **Squamous cell carcinoma**
+
+*Explanation: Squamous cell cancer is commonly found in the middle and proximal parts of the esophagus.*
+
+---
+
+**122. Where is adenocarcinoma of the esophagus most commonly located?**
+
+- Middle third of the esophagus
+- Upper third of the esophagus
+- Cervical esophagus
+- **Lower esophagus or at the esophagogastric junction**
+
+*Explanation: Adenocarcinoma predominates in the lower esophagus or at the esophagogastric junction, which reflects the usual anatomical location of these tumors.*
+
+---
+
+**123. What does the article state regarding why high lymph node yields alone are insufficient evidence of extensive lymphadenectomy?**
+
+- Because nodes can be harvested from any field
+- Because the pathologist's technique affects node count
+- Because neoadjuvant treatment reduces total node numbers
+- **Because it is the location from which the nodes come from that is of greater importance**
+
+*Explanation: High lymph node yields do not necessarily equate to an extensive lymphadenectomy, and it is the location from which the nodes come from that is of greater importance.*
+
+---
+
+**124. The superior gastric lymph node group includes which three sub-groups?**
+
+- Celiac, hepatic, and splenic nodes
+- Subcarinal, paraesophageal, and paracardial nodes
+- **Paracardial nodes, lesser curve nodes, and left gastric artery nodes**
+- Common hepatic, paracardial, and celiac trunk nodes
+
+*Explanation: The superior gastric nodes include those that are paracardial, lesser curve nodes, and nodes found along the length of the left gastric artery.*
+
+---
+
+**125. What does "extended mediastinal dissection" additionally involve compared to standard mediastinal dissection?**
+
+- Removal of subaortic nodes and left recurrent laryngeal chain nodes
+- Removal of pulmonary hilar nodes bilaterally
+- Removal of cervical and brachiocephalic nodes
+- **Lymphadenectomy including the nodes on the right side of the trachea**
+
+*Explanation: Extended mediastinal dissection may be carried out and involves a lymphadenectomy including the nodes on the right side of the trachea.*
+
+---
+
+**126. The argument for NOT performing three-field lymphadenectomy in the West is partly based on which extrapolated belief?**
+
+- That adenocarcinoma never spreads to cervical nodes
+- That cervical dissection always leads to major complications
+- That three-field dissection is technically impossible in Western patients
+- **That lymph node involvement equates to systemic disease and lymphadenectomy does not confer a survival advantage**
+
+*Explanation: The West's reluctance is partly due to concerns about morbidity and also the extrapolated argument that lymph node involvement equates to systemic disease and lymphadenectomy does not confer a survival advantage.*
+
+---
+
+**127. According to the article, what is the relationship between lymph node location and prognosis in adenocarcinoma of the distal esophagus, as shown by Anderegg et al.?**
+
+- Location of nodal involvement has no independent effect on survival
+- Only the total number of positive nodes predicts survival
+- Celiac trunk node involvement confers a better prognosis than locoregional nodes
+- **Location of nodal involvement is an independent predictor of survival**
+
+*Explanation: Anderegg et al. indicated that the location of nodal involvement is an independent predictor of survival in patients with adenocarcinoma of the distal esophagus and esophagogastric junction.*
+
+---
+
+**128. What type of esophageal resection was compared in Hulscher et al.'s randomized study?**
+
+- Open versus laparoscopic transhiatal esophagectomy
+- Three-field versus two-field lymphadenectomy
+- RAMIE versus open Ivor Lewis esophagectomy
+- **Extended transthoracic resection with extended en bloc lymphadenectomy versus limited transhiatal resection**
+
+*Explanation: Hulscher et al. compared extended transthoracic resection with extended en bloc lymphadenectomy against a transhiatal approach in patients with lower esophageal and junctional adenocarcinomas.*
+
+---
+
+**129. In the context of the staging system, what is the well-known consequence of inadequate lymph node yield?**
+
+- Overstaging leading to unnecessary adjuvant treatment
+- Incorrect assignment of T category
+- Failure to detect distant metastases
+- **Understaging and stage migration**
+
+*Explanation: It is well known that an inadequate yield may lead to understaging and thus stage migration.*
+
+---
+
+**130. What concern exists with using one-lung ventilation in terms of pulmonary physiology?**
+
+- It causes bronchospasm and airway injury
+- It causes direct trauma to the pulmonary parenchyma
+- It prevents adequate oxygenation of the operative lung
+- **It increases capillary permeability and leads to pulmonary edema**
+
+*Explanation: It has been postulated that increased respiratory morbidity may be related to one-lung ventilation, which increases capillary permeability and leads to pulmonary edema.*
+
+---
+
+**131. According to the article, what is the impact of leaving positive lymph nodes behind in terms of disease recurrence?**
+
+- It has minimal clinical impact given the effectiveness of adjuvant treatment
+- The impact is unpredictable and varies by tumor type
+- It primarily affects distant rather than locoregional recurrence
+- **It is likely to hasten recurrence**
+
+*Explanation: While there has been variation in findings, it would be intuitive to suppose that leaving positive nodes behind is likely to hasten recurrence.*
+
+---
+
+**132. What imaging modality was introduced only in the final year of Lerut et al.'s cohort study?**
+
+- Computed tomography (CT)
+- Magnetic resonance imaging (MRI)
+- Endoscopic ultrasound (EUS)
+- **Positron emission tomography (PET)**
+
+*Explanation: It is worth noting that endoscopic ultrasound was used routinely as part of staging in Lerut et al.'s study, but PET was only introduced in the final year of this cohort.*
+
+---
+
+**133. What staging investigation was used routinely as part of the staging workup in Lerut et al.'s study?**
+
+- PET-CT
+- CT-guided lymph node biopsy
+- **Endoscopic ultrasound (EUS)**
+- MRI
+
+*Explanation: Endoscopic ultrasound was used routinely as part of staging in Lerut et al.'s study, although PET was only introduced in the final year of the cohort.*
+
+---
+
+**134. What is one reason why transhiatal esophagectomy has fewer complications compared to transthoracic with extended en bloc lymphadenectomy?**
+
+- It avoids the use of neoadjuvant chemotherapy
+- It uses a cervical anastomosis which is safer than intrathoracic anastomosis
+- It removes fewer lymph nodes, thus reducing dissection trauma
+- **It avoids the extensive mediastinal dissection and its associated risks**
+
+*Explanation: Transhiatal esophagectomy has been shown to have fewer complications than a transthoracic esophagectomy with extended en bloc lymphadenectomy, as the extensive dissection places the tracheobronchial tree, recurrent laryngeal nerve, and thoracic duct at risk.*
+
+---
+
+**135. What does the article say about the ideal future approach to lymphadenectomy extent?**
+
+- To perform routine three-field dissection in all patients
+- To rely solely on lymph node ratio to guide the extent of dissection
+- To limit lymphadenectomy to the abdominal field only in adenocarcinoma
+- **To tailor the lymphadenectomy according to disease stage and individual risk factors**
+
+*Explanation: Ideally, it would be possible to tailor the lymphadenectomy according to disease stage and, based on an individual's risk factors, to try and optimize outcomes and minimize risks.*
+
+---
+
+**136. The common hepatic nodes in the abdominal field are important for which reason?**
+
+- Their involvement indicates T4 disease
+- They are the first-echelon nodes in all esophageal cancers
+- They are always the most frequently involved abdominal nodes
+- **Disease involvement beyond the hepatic nodes equates to metastatic disease**
+
+*Explanation: Similarly, disease involvement beyond the hepatic nodes equates to metastatic disease.*
+
+---
+
+**137. What is the clinical implication of the 12% lymph node involvement rate found by Griffin et al. in submucosal adenocarcinoma?**
+
+- Endoscopic resection is adequate for submucosal disease
+- Only patients with tumor-free margins need formal lymphadenectomy
+- Three-field lymphadenectomy should be routine for all T1 tumors
+- **Local endoscopic resection is not appropriate in patients with submucosal invasion**
+
+*Explanation: While this highlights that local endoscopic resection is not appropriate in patients with submucosal invasion, it also reiterates the importance of carrying out a meticulous lymphadenectomy even when the cancer is deemed to be at an early stage.*
+
+---
+
+**138. In the context of esophageal cancer surgery, what does "R0 resection" mean?**
+
+- Removal of at least 15 lymph nodes
+- Complete three-field lymphadenectomy
+- No distant metastases present
+- **Complete surgical resection with no macroscopic or microscopic residual disease**
+
+*Explanation: Complete resection (R0) is an important indicator of prognosis. R1 indicates microscopic and R2 indicates macroscopic residual disease, both associated with a significantly bleaker prognosis.*
+
+---
+
+**139. Which of the following best summarizes the current evidence on whether extensive lymphadenectomy increases morbidity?**
+
+- All studies confirm significantly increased morbidity with extensive dissection
+- Only three-field dissection increases morbidity, not two-field dissection
+- Morbidity is increased only in patients who have received neoadjuvant treatment
+- **It is felt by some that comprehensive lymphadenectomy increases morbidity, but a number of studies have refuted this claim**
+
+*Explanation: It is felt by some that a comprehensive lymphadenectomy is associated with increased morbidity due to the increased surgical trauma. However, a number of studies have refuted this claim and found little difference in morbidity when a more extensive lymphadenectomy is carried out.*
+
+---
+
+**140. Which statement best describes the overall conclusion of the article regarding the extent of lymphadenectomy for esophageal cancer?**
+
+- Routine three-field lymphadenectomy is recommended for all patients
+- Lymphadenectomy has no role in improving survival and should be minimized
+- Abdominal lymphadenectomy alone is sufficient for adenocarcinoma
+- **En bloc lymphadenectomy should be unequivocally advocated, with the extent guided by disease stage, histology, likelihood of recurrence, and fitness, recognizing that extensive dissection improves staging and likely improves locoregional control**
+
+*Explanation: The authors advocate an en bloc lymphadenectomy, stating that leaving positive nodes behind is likely to hasten recurrence, and that extensive lymphadenectomy leads to more accurate staging with potential implications for adjuvant treatment and survival. The extent is individualized based on disease extent, histology, fitness, and multidisciplinary input.*

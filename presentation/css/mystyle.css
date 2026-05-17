@@ -1,0 +1,16 @@
+.reveal .callout {
+  background-color: #2a2f4a;   /* deep indigo base (viridis dark end) */
+  color: #f8f9fb;              /* near-white text for contrast */
+  border-left: 14px solid #35b779; /* viridis green accent */
+  padding: 1em 1.2em;
+  border-radius: 10px;
+  margin: 1em 0;
+}
+
+/* Dedicated title styling */
+.reveal .callout-title {
+  font-weight: 700;
+  font-size: 1.1em;
+  margin-bottom: 0.5em;
+  color: #fde725;  /* viridis yellow = high visibility */
+}

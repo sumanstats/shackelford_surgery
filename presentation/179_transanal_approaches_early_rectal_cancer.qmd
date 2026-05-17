@@ -1,0 +1,316 @@
+---
+title: "Transanal Approaches to Early Rectal Cancer"
+format:
+  revealjs:
+    theme: dark
+    smaller: true
+---
+
+## Introduction: Evolving Treatment Paradigms
+- Rectal cancer management emphasizes **multidisciplinary & multimodal care**
+- **Stages II/III:** Traditionally trimodality (neoadjuvant chemoradiation → TME → adjuvant chemo)
+- **Total Neoadjuvant Therapy (TNT):** 40–50% achieve complete/near-complete response → candidates for watch-and-wait/organ preservation
+- **Stage I Standard:** TME surgery without (neo)adjuvant therapy
+
+## Introduction: Evolving Treatment Paradigms
+
+- **Organ Preservation for Stage I:** Not universally adopted due to:
+  - Limited high-quality RCT data
+  - Preoperative staging inaccuracies
+  - Difficulty predicting occult lymph node metastasis (LNM)
+  - Variable local excision techniques
+  - Patient preference (recurrence risk vs. functional QOL/stoma risk)
+
+## Defining Early Rectal Cancer (ERC)
+- **EAES Consensus Definition:** 
+  - *"A rectal cancer with good prognostic features that might be safely removed preserving the rectum and that will have a very limited risk of relapse after local excision."*
+- Generally corresponds to **T1–T2, N0** tumors (including malignant polyps)
+- Further classified by histologic features to identify high-risk LNM potential
+- Histopathology forms the foundation for diagnosis and risk stratification
+
+## Endoscopic Risk Features
+- **Size & Morphology** strongly predict malignant potential:
+  - 1.5–3.5 cm: 19–43% risk
+  - \>3.5 cm: 76% risk
+- **Pedunculated vs. Sessile:** Basic reporting parameter
+- **Advanced Classification Systems:**
+  - Kudo & Paris systems assess:
+    - Central depression
+    - Ulceration
+    - Nodularity
+    - Surface pit pattern
+- Used to estimate higher risk of malignancy before resection
+
+## Adverse Histologic Features: Overview
+Pathologic parameters used to stratify ERC & identify high LNM risk (per CAP synoptic reporting):
+
+1. Depth of submucosal invasion
+2. Margin status
+3. Histologic type & grade
+4. Lymphovascular & perineural invasion
+5. Tumor budding
+
+## Submucosal Invasion Classifications
+- **Pedunculated Lesions:** Haggitt Levels 0–4 (based on invasion from head to stalk)
+- **Sessile Lesions:** Kikuchi Levels sm1–sm3 (depth through submucosa)
+- **Quantitative Measurement (Ueno/Kitajima):** 
+  - Deepest invasion from muscularis mucosa in millimeters
+  - No need for muscularis propria in specimen
+- **Historical High-Risk Thresholds:**
+  - Haggitt level 4
+  - Kikuchi sm2–3
+  - \>1000–1500 μm invasion
+
+## Submucosal Invasion: Recent Evidence
+- Traditional teaching: 
+  - Deep invasion = strong independent predictor of LNM
+- **Recent Meta-Analysis (Zwager et al., 67 studies, 21,238 patients):**
+  - Low LNM risk (**2.6%**) in T1 cancers with deep submucosal invasion (>1000 μm or sm2–3)
+  - Risk remains low **when other adverse factors are absent**
+- **Clinical Implication:** May prevent overtreatment of rectal cancers with isolated deep submucosal invasion
+
+## Margin Status & Histologic Type
+- **Resection Margins:**
+  - Nonfragmented, full-thickness, margin-negative resection is mandatory
+  - Desired: 1 cm margin | Adequate: ≥2 mm
+  - Avoids positive deep margin & enables full-layer pathologic evaluation
+  - *Submucosal dissections have no role in malignant lesions*
+- **Histologic Type:**
+  - Beyond adenocarcinoma: Signet-ring, poorly differentiated neuroendocrine, micropapillary, serrated adenocarcinomas
+  - Higher risk of lymphovascular invasion & aggressive course
+- **Histologic Grade:** 4-tier system (I–IV); poorly differentiated correlates strongest with adverse outcomes
+
+## Lymphovascular & Perineural Invasion
+- **Lymphovascular Invasion (LVI):**
+  - Small vessel invasion (lymphatics, capillaries, postcapillary venules) → increased LNM rates
+  - Independent marker of adverse outcomes
+- **Extramural Venous/Large Vessel Invasion:** Independent risk factor for liver metastasis
+- **Perineural Invasion (PNI):**
+  - Any PNI = independent indicator of poor prognosis
+  - Extramural PNI may carry greater adverse prognostic impact
+
+## Tumor Budding
+- **Definition:** Single cells or small clusters (<5 cells) at the advancing tumor front
+- **Scoring (H&E stains, per high-powered field):**
+  - Low: 0–4 buds
+  - Intermediate: 5–9 buds
+  - High: ≥10 buds
+- **Prognostic Value:**
+  - Intermediate or high budding = significant risk factor for lymph node involvement
+  - Strongly influences risk stratification & treatment planning
+
+## Risk Stratification: ACPGBI Criteria
+Association of Coloproctology of Great Britain & Ireland (ACPGBI) assigns points for adverse features:
+
+- Resection margin <1 mm: **4 pts**
+- Resection margin 1–2 mm: **1 pt**
+- Pedunculated Haggitt level 4: **4 pts**
+- Sessile Kikuchi level 2: **2 pts** | Level 3: **4 pts**
+- Poor differentiation: **3 pts** | Mucinous: **1 pt**
+- Tumor budding: **1 pt** | Lymphovascular invasion: **2 pts**
+
+## ACPGBI Risk Scores & Management
+| Total Score | Risk Grade | Est. Residual Cancer Risk | Recommended Action |
+|-------------|------------|---------------------------|-------------------|
+| 0           | Very Low   | <3%                       | Routine follow-up |
+| 1           | Low        | <5%                       | Assess other factors; careful follow-up |
+| 2           | Medium     | 5%–10%                    | Discuss surgery vs. surveillance |
+| 3           | High       | 8%–15%                    | Discuss risks; err toward surgery |
+| ≥4          | Very High  | >20%                      | Recommend surgery (unless unfit) |
+
+## Patient Selection & Preoperative Workup
+- **History & Physical:** Stool continence, performance status, functional capacity, family history
+- **Digital Rectal Exam:** Firm/soft, mobile/fixed, relationship to anorectal ring, sphincter tone, anal canal length
+- **Rigid Proctoscopy (by operating surgeon):** Size, luminal position, circumferential involvement, height
+- **NCCN Staging:** CT abdomen/pelvis (IV/oral contrast), CT chest, CEA level
+- Goal: Rule out metastatic disease before local therapy consideration
+
+## Imaging: MRI vs. Endorectal Ultrasound (EUS)
+- **Pelvic MRI (Rectal Protocol):** Primary locoregional modality for rectal cancer
+  - Excellent for mesorectal fascia, lymph nodes, T3/T4 staging
+  - **Limitation:** Poor T1 vs. T2 differentiation → may overstage T1–T2
+- **Endorectal Ultrasound (EUS):** Complementary to MRI
+  - Superior for differentiating T1 vs. T2 tumors
+  - Guides decision-making for organ preservation candidates
+
+## Multidisciplinary Team (MDT) Requirement
+- **Irrefutable evidence** supports MDT decision-making for rectal cancer
+- **Required Discussions:**
+  - Initial presentation: Colonoscopy/resection report, pathology review, staging imaging, CEA
+  - Post-treatment: Definitive surgery or adjuvant therapy outcomes
+- Aligns with **National Accreditation Program for Rectal Cancer (NAPRC)** standards
+
+## Organ Preservation Strategy
+- Balance between:
+  - Oncologic outcomes (recurrence risk)
+  - Quality of life (QOL) & functional preservation
+  - Patient fitness & preferences
+- **Goal:** Reduce surgical morbidity without compromising survival
+- **Benefits:** Avoids LARS, sexual/urinary dysfunction, permanent stoma
+- **Local Excision of T1N0:** Generally acceptable; preferred for patients unfit/unwilling to undergo radical surgery
+
+## Adjuvant Therapy for High-Risk ERC
+- Local excision alone for high-risk T1 or T2 → higher recurrence vs. TME
+- **Adjuvant Radiotherapy Integration:**
+  - CALGB 8984 (Phase II): 6-yr failure-free survival = 71% for T2 with adjuvant RT
+  - Lezoche et al. RCT: Neoadjuvant CRT + TAE vs. Neoadjuvant CRT + Lap TME for T2N0
+    - No difference in 5-yr local recurrence or cancer-related survival
+
+## Neoadjuvant Therapy (NAT) + Local Excision Trials
+| Trial | Population | Arm | ypT0-1 Rate | Local Recurrence | Organ Preservation |
+|-------|------------|-----|-------------|------------------|-------------------|
+| ACOSOG Z6041 | T2N0 | Long-course CRT + LE | 64% | 4% | 91% |
+| CARTS | T1-3 N0 | CRT + LE (selective TME) | 64% | 7.7% | 50% |
+| TREC | T1-2 N0 <30mm | SCRT + LE vs TME | 30% | 11% | 70% |
+
+## Neoadjuvant Therapy (NAT) + Local Excision Trials
+| Trial | Population | Arm | ypT0-1 Rate | Local Recurrence | Organ Preservation |
+|-------|------------|-----|-------------|------------------|-------------------|
+| GRECCAR2 | T2-3 N0-1 | CRT + LE vs TME | 40% | 7% | 46% |
+| TAU-TEM | T2-T3ab N0 | CRT + LE vs TME | 44% | N/A | N/A |
+
+## Chemotherapy-Only NAT Approaches
+- **NEO Trial (Phase II, Canada):**
+  - 3 months FOLFOX/CAPOX → local excision for T1-3ab, N0
+  - ypT0-1 rate: **57%** (similar to CRT response)
+  - Avoids pelvic radiation toxicity
+- **PROSPECT RCT:**
+  - 3 months FOLFOX/CAPOX → TME vs. CRT → TME
+  - Not oncologically inferior for selected Stage II/III without mesorectal fascia/sphincter threat
+
+## The Multistep Organ Preservation Pathway
+1. Proper patient selection
+2. Tumor selection (staging + histology)
+3. Regression assessment post-NAT
+4. Selective early salvage TME if high-risk features found
+5. Endoscopic/radiographic surveillance if no salvage TME
+6. Salvage TME for detected recurrence
+- **Requires:** Long-term patient commitment + structured surveillance system
+
+## Technical Approaches: TAE vs. TES
+- **Conventional TAE:**
+  - Anal retractors + open instruments
+  - Limited to ≤8 cm from anal verge, <3 cm size, <40% circumference
+  - Higher fragmentation & positive margin rates
+- **Transanal Endoscopic Surgery (TES):**
+  - Encompasses TEM, TEO, TAMIS
+  - Superior en bloc resection, lower margin positivity, reduced local recurrence
+  - Preferred over TAE in experienced hands
+
+## Evolution of TES Platforms
+- **TEM (Büess, 1980s):** Sealed proctoscope, suction-insufflator, 3D scope, modified instruments
+- **TEO (Karl Storz):** Similar sealed platform, 5-mm laparoscope
+- **TAMIS (2000s):** Single-port laparoscopy devices + standard lap instruments
+  - Simpler setup, broader OR availability
+  - Rapidly gained popularity
+- **Robotic TAMIS:** Feasible; prone jackknife positioning prevents arm-leg collisions
+- *Note: No RCTs directly compare TAE vs. TES techniques*
+
+## Preoperative Checklist
+- **Bowel Prep:** Full mechanical prep or enema to clear left colon
+- **Medications:**
+  - IV antibiotics covering bowel flora (per guidelines)
+  - VTE prophylaxis
+- **Anesthesia:** General endotracheal ± paralysis for full relaxation
+- **Catheter:** Foley placement
+- **Positioning:**
+  - TAE/TEM/TEO: Target lesion dependent & aligned with surgeon view
+  - TAMIS: Lithotomy (regardless of lesion orientation)
+  - Monitor at head of bed
+
+## Instrumentation Overview
+- **TAE:** Handheld anoscopes, fiber-optic light/headlight, open tray, extended monopolar cautery
+- **TEM/TEO:** Operating proctoscope, angled/straight end effectors, energy devices, combined suction-insufflator, 10-mm/5-mm scopes
+- **TAMIS:** 
+  - Standard lap tray, 30°/45° scope, offsets to prevent collision
+  - Commercial ports: GelPOINT Path, SILS, TriPort, SSL
+  - Lone Star retractor, AirSeal insufflator (stable pneumorectum, smoke evacuation)
+
+## Procedural Steps: Dissection
+- Mark **1-cm mucosal margin** with cautery
+- Begin distally with **full-thickness perpendicular incision**
+  - Allows specimen manipulation without touching tumor
+  - Visualization of mesorectal fat confirms full-thickness resection
+- Grasp specimen at normal mucosa edge or beneath lesion on mesorectal fat
+- **Avoid breaching mesorectal fascial envelope** (preserves planes for salvage TME)
+- Orient specimen immediately post-excision
+- Irrigate site with dilute povidone-iodine
+
+## Procedural Steps: Closure of Defect
+- Full-thickness defects should **always be closed if possible**
+- **Techniques to simplify:**
+  - Reduce insufflation pressure → decreases wall tension
+  - Close **transversely** → prevents stenosis
+  - Interrupted or continuous suturing acceptable
+  - **Large defects:** Bisect with initial interrupted suture → creates two manageable defects
+- Use laparoscopic knot pushers or knotless barbed sutures to expedite
+
+## Intraoperative Complications & Management
+- **Bleeding:** 
+  - Balance suction vs. pneumorectum maintenance
+  - Control: Monopolar cautery, bipolar/ultrasonic devices, epinephrine, clips, suture ligation
+- **Mesorectal Entry:** 
+  - Rarely causes significant infection/morbidity
+  - Closure preferred but not always mandatory
+- **Peritoneal Entry (upper rectum):**
+  - Requires secure closure
+  - Experienced surgeons can manage transanally with rigid platforms
+  - Trendelenburg position keeps bowel out of pelvis
+
+## Managing Peritoneal Entry
+- Grasp defect immediately to avoid losing visualization
+- Pause to allow pneumorectum/pneumoperitoneum equilibration
+- **Closure Sequence:**
+  1. Peritoneum first
+  2. Rectal wall second
+- Laparoscopic access rarely needed for closure
+  - Can be used for irrigation & leak testing if required
+- **Outcomes:** Not associated with increased pelvic infection or worse oncologic results
+
+## Postoperative Complications
+- **Urinary Retention:** Most common (5–10%); usually self-resolving, may need short-term catheter
+- **Minor Rectal Bleeding/Spotting:** Expected
+- **Major Bleeding:** Rare; often days post-op from suture disruption or anticoagulation resumption
+- **Suture Line Dehiscence:**
+  - More common in low rectum & post-neoadjuvant radiation
+  - Symptoms: Bloody/mucus drainage, pelvic pain, fever, night sweats (days to 1 week post-op)
+- **Pelvic Sepsis/Fistulas:** Rare; fecal diversion only if clinically necessary
+
+## Oncologic Outcomes: Low-Risk T1
+- **CALGB 8984 (Phase II):**
+  - 177 early-stage low rectal cancers → TAE
+  - T1 with negative margins (n=59) → observation only
+  - **6-yr local failure-free survival: 83%**
+- **TES vs. Radical TME (5 studies):**
+  - TES has higher local recurrence rates than TME
+  - **5-yr tumor-specific & overall survival:** No statistically significant difference
+  - Salvage TME preserves long-term survival
+
+## Oncologic Outcomes: High-Risk T1 & T2
+- **T2 Cancers:** Invade muscularis propria → double LNM & local recurrence risk vs. T1
+  - Oncologically preferred: TME
+- **CALGB 8984 (T2 cohort):**
+  - 51 patients → post-op extended chemoradiation after local excision
+  - 7 local recurrences
+  - 6-yr overall survival: 85% | Failure-free survival: 71% (aligns with NCDB TME data)
+- **NAT + Local Excision:** Oncologic outcomes approaching radical surgery alone (see trial data)
+
+## Conclusion: Balancing Cure & Morbidity
+- Local excision requires careful balance between:
+  - Curative intent
+  - Complication/functional risks of radical surgery
+- **TES is the procedure of choice** for ERC local excision:
+  - Significantly lower morbidity
+  - Similar long-term survival to radical resection
+- **TAE:** Limited to highly selected distal ERCs if TES unavailable
+- **Treatment Algorithm:**
+  - Low-risk T1 → TES alone
+  - High-risk T1/T2 → TES + (neo)adjuvant therapy (regimens under active investigation)
+
+## Key Takeaways
+1. ERC organ preservation balances oncologic safety with QOL preservation
+2. Histopathology (margins, LVI, budding, differentiation) drives risk stratification
+3. TES (TEM/TEO/TAMIS) > conventional TAE for margin control & recurrence reduction
+4. MDT discussion & structured surveillance are mandatory for local excision pathways
+5. (Neo)adjuvant therapy improves outcomes for high-risk T1/T2 locally excised tumors
+6. Salvage TME remains highly effective for recurrence detected on surveillance

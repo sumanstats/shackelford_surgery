@@ -1,0 +1,1911 @@
+# 32-Esophageal Cancer Diagnosis and Staging
+
+Generated with Claude.
+
+## Epidemiology
+
+**1. Approximately how many new cases of esophageal cancer are diagnosed each year in the United States?**
+
+- 10,200
+- 15,500
+- **20,640**
+- 28,400
+
+*Explanation: An estimated 20,640 cases of esophageal cancer are diagnosed each year in the United States, according to the American Cancer Society.*
+
+---
+
+**2. How many deaths from esophageal cancer are expected annually in the United States?**
+
+- 8,900
+- 12,300
+- **16,410**
+- 21,000
+
+*Explanation: The American Cancer Society estimates 16,410 deaths per year from esophageal cancer in the United States.*
+
+---
+
+**3. How many new esophageal cancer cases were recorded globally in 2020?**
+
+- 280,000
+- 420,000
+- **604,000**
+- 850,000
+
+*Explanation: In 2020 there were 604,000 new esophageal cancer cases globally, making it the seventh most common cancer worldwide.*
+
+---
+
+**4. How many deaths were attributed to esophageal cancer globally in 2020?**
+
+- 310,000
+- 412,000
+- **544,000**
+- 620,000
+
+*Explanation: There were 544,000 related deaths from esophageal cancer globally in 2020, making it the sixth most common cause of cancer-related death.*
+
+---
+
+**5. What is the global rank of esophageal cancer in terms of cancer incidence?**
+
+- Fourth
+- Fifth
+- Sixth
+- **Seventh**
+
+*Explanation: Esophageal cancer is the seventh most common cancer globally.*
+
+---
+
+**6. What is the global rank of esophageal cancer as a cause of cancer-related death?**
+
+- Fourth
+- Fifth
+- **Sixth**
+- Eighth
+
+*Explanation: Esophageal cancer is the sixth most common cause of cancer-related death globally.*
+
+---
+
+**7. Approximately what percentage of esophageal cancers worldwide are squamous cell carcinoma (SCC)?**
+
+- 50%
+- 70%
+- **90%**
+- 95%
+
+*Explanation: Histologically, approximately 90% of esophageal cancers worldwide are squamous cell carcinoma (SCC).*
+
+---
+
+**8. Which histologic subtype of esophageal cancer is the fastest growing in the United States?**
+
+- Squamous cell carcinoma
+- **Adenocarcinoma**
+- Adeno-squamous carcinoma
+- Small cell carcinoma
+
+*Explanation: In the United States, esophageal adenocarcinoma (AC) is the fastest growing subtype, having surpassed the incidence of esophageal SCC.*
+
+---
+
+**9. How much more frequently does SCC occur in Blacks compared with Caucasians?**
+
+- Twice as often
+- **Three times as often**
+- Four times as often
+- Five times as often
+
+*Explanation: SCC is three times more frequent in Blacks compared with Caucasians.*
+
+---
+
+**10. What is the age-adjusted incidence of esophageal cancer among Whites in the United States?**
+
+- 1 per 100,000
+- **5 per 100,000**
+- 12.5 per 100,000
+- 20 per 100,000
+
+*Explanation: The age-adjusted incidence among Whites in the United States is up to 5 per 100,000, compared with 12.5 per 100,000 in France.*
+
+---
+
+**11. In parts of China, what is the reported incidence of esophageal cancer per 100,000 population?**
+
+- 30 per 100,000
+- 50 per 100,000
+- 80 per 100,000
+- **More than 100 per 100,000**
+
+*Explanation: In some parts of China, the incidence of esophageal cancer exceeds 100 per 100,000 population.*
+
+---
+
+**12. How much more common is esophageal cancer in males compared with females?**
+
+- Twice as common
+- **Three to four times more common**
+- Five to six times more common
+- Eight times more common
+
+*Explanation: Esophageal cancer is usually three to four times more common in males than in females.*
+
+---
+
+**13. What is the estimated overall 5-year survival rate for esophageal cancer?**
+
+- 10%
+- **20%**
+- 35%
+- 45%
+
+*Explanation: Esophageal cancer remains one of the deadliest cancers with an overall 5-year survival rate estimated to be around 20%.*
+
+---
+
+**14. According to a 2021 UK Biobank prospective study, which comorbidities demonstrated a greater risk of esophageal cancer?**
+
+- Hypertension, obesity, hyperlipidemia, and asthma
+- **Bronchiectasis, diabetes, Parkinson's disease, and eczema**
+- Chronic kidney disease, atrial fibrillation, COPD, and psoriasis
+- Rheumatoid arthritis, celiac disease, IBD, and hypothyroidism
+
+*Explanation: In the 2021 prospective study using the UK Biobank cohort, participants with bronchiectasis, diabetes, Parkinson's disease, and eczema demonstrated a greater risk of esophageal cancer.*
+
+---
+
+**15. In which anatomical region does squamous cell carcinoma of the esophagus usually arise?**
+
+- Distal esophagus and GEJ
+- **Upper and mid-esophagus**
+- Lower thoracic esophagus only
+- Cervical esophagus only
+
+*Explanation: Esophageal SCC usually arises in the upper and mid-esophagus, whereas esophageal AC develops in the distal esophagus and gastroesophageal junction (GEJ).*
+
+---
+
+**16. Which of the following risk factors has been strongly associated with esophageal adenocarcinoma?**
+
+- Smoking and alcohol
+- Parkinson's disease and bronchiectasis
+- **Gastroesophageal reflux disease and Barrett's esophagus**
+- Diabetes and eczema
+
+*Explanation: Smoking and alcohol are strongly associated with SCC, whereas gastroesophageal reflux disease and Barrett's esophagus are strongly associated with AC.*
+
+---
+
+**17. Which treatment has become an accepted alternative for intramucosal (T1a) esophageal carcinoma?**
+
+- Chemoradiotherapy alone
+- Surgery alone
+- **Endoscopic mucosal resection (EMR)**
+- Radiotherapy alone
+
+*Explanation: Less invasive therapy such as endoscopic mucosal resection (EMR) has become an accepted alternative treatment for intramucosal (T1a) carcinoma.*
+
+---
+
+## Anatomy
+
+**18. What is the approximate length of the esophagus?**
+
+- 10–15 cm
+- 15–20 cm
+- **20–30 cm**
+- 30–40 cm
+
+*Explanation: The esophagus is approximately 20–30 cm in length and is located in the posterior mediastinum.*
+
+---
+
+**19. Where is the esophagus located within the thorax?**
+
+- Anterior mediastinum
+- **Posterior mediastinum**
+- Middle mediastinum
+- Superior mediastinum
+
+*Explanation: The esophagus is approximately 20–30 cm in length and is located in the posterior mediastinum.*
+
+---
+
+**20. Which of the following is NOT one of the three critical anatomic points of narrowing in the esophagus?**
+
+- Cricopharyngeus muscle
+- Broncho-aortic constriction
+- **Diaphragmatic hiatus**
+- Gastroesophageal junction
+
+*Explanation: The three critical anatomic points of narrowing are the cricopharyngeus muscle, the broncho-aortic constriction, and the GEJ. These are also the most common sites of iatrogenic and mechanical perforation.*
+
+---
+
+**21. Which layer of the esophagus is composed of stratified squamous epithelium?**
+
+- Submucosa
+- Muscularis propria
+- **Mucosa**
+- Adventitia
+
+*Explanation: The esophagus is composed of three general layers: mucosa (stratified squamous epithelium), submucosa, and muscularis propria.*
+
+---
+
+**22. What is the tissue immediately attached to the esophagus called?**
+
+- Serosa
+- Peritoneum
+- Fascia propria
+- **Adventitia**
+
+*Explanation: The tissue immediately attached to the esophagus is called the adventitia.*
+
+---
+
+**23. What are the typical endoscopic measurements (from incisors) for the cervical esophagus?**
+
+- 10 to <15 cm
+- **15 to <20 cm**
+- 20 to <25 cm
+- 25 to <30 cm
+
+*Explanation: Typical endoscopic measurements for the cervical esophagus from the incisors are from 15 to <20 cm.*
+
+---
+
+**24. What anatomical landmark marks the superior border of the upper thoracic esophagus?**
+
+- Cricopharyngeus muscle
+- Azygos vein
+- **Sternal notch (thoracic inlet)**
+- Inferior pulmonary vein
+
+*Explanation: The upper thoracic esophagus extends from the sternal notch to the azygos vein arch, located from 20 to <25 cm from the incisors.*
+
+---
+
+**25. What are the typical endoscopic measurements from the incisors for the middle thoracic esophagus?**
+
+- 20 to <25 cm
+- **25 to <30 cm**
+- 30 to 35 cm
+- 35 to 40 cm
+
+*Explanation: The middle thoracic esophagus, bordered by the azygos vein superiorly and the inferior pulmonary vein inferiorly, measures from 25 to <30 cm from the incisors.*
+
+---
+
+**26. What are the typical endoscopic measurements for the lower thoracic esophagus?**
+
+- 25 to <30 cm
+- **30 to 40 cm**
+- 35 to 45 cm
+- 20 to 30 cm
+
+*Explanation: The lower thoracic esophagus extends from below the inferior pulmonary vein to the GEJ, with typical measurements from the incisors of 30 to 40 cm.*
+
+---
+
+**27. According to the Eighth Edition of TNM, how is a cancer involving the GEJ with an epicenter within the proximal 2 cm of the cardia staged?**
+
+- As a gastric cancer
+- **As an esophageal cancer**
+- As a GEJ cancer (separate category)
+- Based solely on histology
+
+*Explanation: According to the Eighth Edition of TNM, cancers involving the GEJ with an epicenter within the proximal 2 cm of the cardia are staged as esophageal cancers.*
+
+---
+
+**28. What percentage of adenocarcinomas occur in the lower third of the esophagus?**
+
+- 25%
+- 35%
+- **50%**
+- 70%
+
+*Explanation: The esophagus can be divided into thirds with 50% of AC occurring in the lower third.*
+
+---
+
+**29. Which of the following is the most common distant metastatic site in esophageal cancer?**
+
+- Brain and bone
+- Kidneys and spleen
+- Pancreas and gallbladder
+- **Liver, lungs, adrenal glands, and retroperitoneal/celiac lymph nodes**
+
+*Explanation: The most common distant metastatic sites are retroperitoneal or celiac lymph nodes, liver, lungs, and adrenal glands.*
+
+---
+
+**30. Adenocarcinomas of the esophagus most frequently metastasize to which locations?**
+
+- Intrathoracic or cervical locations
+- **Intraabdominal sites**
+- Brain and bone
+- Supraclavicular nodes
+
+*Explanation: ACs most frequently metastasize to intraabdominal sites, whereas metastases from SCCs more commonly spread to intrathoracic or cervical locations.*
+
+---
+
+## Nomenclature and Staging Classifications
+
+**31. What prefix is used for clinical (pretreatment) staging of esophageal cancer?**
+
+- pT, pN, pM
+- yT, yN, yM
+- **cT, cN, cM**
+- rT, rN, rM
+
+*Explanation: The nomenclature for clinical staging is cT, cN, and cM, defined by diagnostic studies without surgical resection.*
+
+---
+
+**32. What prefix is used for pathologic staging after surgical resection?**
+
+- cT, cN, cM
+- yT, yN, yM
+- **pT, pN, pM**
+- xT, xN, xM
+
+*Explanation: Pathologic extent of disease is expressed as pT, pN, and pM, defined by surgical resection and histologic examination.*
+
+---
+
+**33. What prefix notation is used for post-neoadjuvant pathologic staging after surgical resection?**
+
+- ncT, ncN, ncM
+- pcT, pcN, pcM
+- **ypT, ypN, ypM**
+- rpT, rpN, rpM
+
+*Explanation: Post-therapy stage is recorded by adding the prefix "yp" such as ypT, ypN, ypM following surgical resection after neoadjuvant therapy.*
+
+---
+
+**34. Which "R" category denotes no residual tumor after resection?**
+
+- RX
+- R1
+- R2
+- **R0**
+
+*Explanation: R0 denotes no residual tumor, R1 denotes microscopic residual tumor, and R2 denotes macroscopic residual tumor.*
+
+---
+
+**35. How does the United States (College of American Pathologists) define R1 resection margins?**
+
+- Tumor within 1 mm of the surgical margin
+- Tumor within 2 mm of the surgical margin
+- **Tumor at the surgical margin**
+- Microscopic tumor anywhere in the specimen
+
+*Explanation: In the United States, the College of American Pathologists designation of R1 is "tumors at the surgical margin," whereas the UK uses "tumor within 1 mm of the surgical margin."*
+
+---
+
+**36. How does the United Kingdom (Royal College of Pathologists) define R1 resection margins?**
+
+- Tumor at the surgical margin
+- **Tumor within 1 mm of the surgical margin**
+- Tumor within 2 mm of the surgical margin
+- Tumor within 3 mm of the surgical margin
+
+*Explanation: The United Kingdom uses the definition from the Royal College of Pathologists, which designates R1 as "tumor within 1 mm of the surgical margin."*
+
+---
+
+**37. What does restaging of esophageal cancer primarily aim to determine?**
+
+- Initial histologic subtype
+- Chemotherapy dosing adjustments
+- **The extent of disease after neoadjuvant therapy or at recurrence, to determine if additional treatment is warranted**
+- Genetic predisposition of the tumor
+
+*Explanation: Restaging is used to determine the extent of the disease following completion of neoadjuvant therapy and if a cancer recurs after treatment, to decide if additional treatment is warranted or appropriate.*
+
+---
+
+## Histologic Type
+
+**38. From which precursor lesion does esophageal adenocarcinoma predominantly arise?**
+
+- Heterotopic gastric mucosa
+- Submucosal glands
+- **Barrett's esophagus mucosa**
+- Squamous metaplasia
+
+*Explanation: AC is a malignant epithelial tumor with glandular differentiation arising predominantly from Barrett's esophagus mucosa in the lower third of the esophagus.*
+
+---
+
+**39. Microscopically, squamous cell carcinoma of the esophagus is characterized by which features?**
+
+- Glandular differentiation and mucus production
+- **Keratinocyte-like cells with intercellular bridges and/or keratinization**
+- Neuroendocrine granules and rosette formation
+- Signet ring cells and diffuse infiltration
+
+*Explanation: SCC is a malignant epithelial tumor with squamous cell differentiation, microscopically characterized by keratinocyte-like cells with intercellular bridges and/or keratinization.*
+
+---
+
+**40. Compared with adenocarcinoma, how does squamous cell carcinoma respond to chemoradiation and radiotherapy?**
+
+- Less sensitive
+- Similarly sensitive
+- **More sensitive**
+- Not responsive
+
+*Explanation: SCC seems to be more sensitive to chemotherapy, chemoradiation, and radiotherapy than AC, but the long-term outcome of therapy appears to be similar.*
+
+---
+
+**41. After surgical resection, which histologic type of esophageal cancer is associated with a better long-term prognosis?**
+
+- Squamous cell carcinoma
+- Adeno-squamous carcinoma
+- **Adenocarcinoma**
+- Both have identical prognosis
+
+*Explanation: AC may be associated with a better long-term prognosis after resection than SCC.*
+
+---
+
+**42. What is the "primary mixed adeno-squamous carcinoma" (ASC) of the esophagus characterized by?**
+
+- Pure glandular differentiation and slow growth
+- Pure squamous differentiation and indolent behavior
+- **Mixed glandular and squamous differentiation with aggressive clinical behavior**
+- Neuroendocrine differentiation and paraneoplastic syndromes
+
+*Explanation: ASC is a rare kind of malignancy characterized by mixed glandular and squamous differentiation as well as a propensity for aggressive clinical behavior.*
+
+---
+
+## Histologic Grade
+
+**43. What does tumor grade G1 indicate?**
+
+- Poorly differentiated (high grade)
+- Undifferentiated (high grade)
+- Moderately differentiated (intermediate grade)
+- **Well-differentiated (low grade)**
+
+*Explanation: G1 indicates well-differentiated (low grade) tumors, which tend to grow and spread at a slower rate.*
+
+---
+
+**44. What does tumor grade G2 indicate?**
+
+- Well-differentiated (low grade)
+- **Moderately differentiated (intermediate grade)**
+- Poorly differentiated (high grade)
+- Undifferentiated (high grade)
+
+*Explanation: G2 indicates moderately differentiated (intermediate grade) tumors.*
+
+---
+
+**45. What does tumor grade G3 indicate?**
+
+- Well-differentiated
+- Moderately differentiated
+- **Poorly differentiated (high grade)**
+- Grade cannot be assessed
+
+*Explanation: G3 indicates poorly differentiated (high grade) tumors.*
+
+---
+
+**46. Which tumor grade was eliminated in the AJCC Eighth Edition for esophageal cancer?**
+
+- G1
+- G2
+- G3
+- **G4**
+
+*Explanation: In the Eighth Edition, G4 was eliminated, and undifferentiated histopathological types were categorized as G3.*
+
+---
+
+**47. What does GX indicate in the tumor grading system?**
+
+- Well-differentiated tumor
+- Poorly differentiated tumor
+- **Grade cannot be assessed (undetermined grade)**
+- Grade 4 undifferentiated tumor
+
+*Explanation: GX means grade cannot be assessed (undetermined grade).*
+
+---
+
+## TNM Classification
+
+**48. Who devised the TNM staging system for solid tumors?**
+
+- Harvey Cushing
+- William Halsted
+- **Pierre Denoix**
+- Rudolf Virchow
+
+*Explanation: The TNM staging system for all solid tumors was devised by Pierre Denoix between 1943 and 1952.*
+
+---
+
+**49. Between which years was the TNM staging system originally devised?**
+
+- 1920–1930
+- 1935–1940
+- **1943–1952**
+- 1960–1968
+
+*Explanation: The TNM staging system was devised by Pierre Denoix between 1943 and 1952.*
+
+---
+
+**50. Which organizations currently maintain and develop the TNM staging system?**
+
+- WHO and CDC
+- ESMO and ASCO
+- NCI and NIH
+- **AJCC and UICC**
+
+*Explanation: The TNM staging system is currently maintained and developed by the American Joint Committee on Cancer (AJCC) and the International Union for Cancer Control (UICC).*
+
+---
+
+**51. How frequently is the TNM staging system updated?**
+
+- Every 2–3 years
+- Every 4–5 years
+- **Every 6–8 years**
+- Every 10–12 years
+
+*Explanation: The TNM staging system is updated every 6–8 years to include advances in understanding of cancer prognostication.*
+
+---
+
+**52. What does the T stage primarily assess in esophageal cancer?**
+
+- Number of lymph nodes involved
+- Presence of distant metastasis
+- Tumor histologic grade
+- **Depth of invasion into the esophageal wall and adjacent structures**
+
+*Explanation: The T stage is assessed by evaluation of the depth of invasion into the four distinct layers involving the esophageal wall and adventitia.*
+
+---
+
+**53. What does Tis represent in esophageal cancer TNM staging?**
+
+- No evidence of primary tumor
+- Tumor invading lamina propria
+- **High-grade dysplasia**
+- Tumor invading submucosa
+
+*Explanation: Tis denotes high-grade dysplasia in esophageal cancer TNM staging.*
+
+---
+
+**54. In esophageal cancer staging, T1a is defined as tumor invasion into which layer(s)?**
+
+- Submucosa
+- Muscularis propria
+- **Lamina propria or muscularis mucosa**
+- Adventitia
+
+*Explanation: T1a is defined as tumor invading into the lamina propria or muscularis mucosa.*
+
+---
+
+**55. In esophageal cancer staging, T1b is defined as tumor invasion into which layer?**
+
+- Lamina propria
+- Muscularis mucosa
+- **Submucosa**
+- Muscularis propria
+
+*Explanation: T1b is defined as tumor invading submucosa.*
+
+---
+
+**56. What is the T stage when esophageal tumor invades the muscularis propria?**
+
+- T1b
+- **T2**
+- T3
+- T4a
+
+*Explanation: T2 is defined as tumor invading muscularis propria.*
+
+---
+
+**57. What is the T stage when esophageal tumor invades the adventitia?**
+
+- T2
+- **T3**
+- T4a
+- T4b
+
+*Explanation: T3 is defined as tumor invading adventitia.*
+
+---
+
+**58. Which of the following is an example of a T4b (unresectable) esophageal tumor?**
+
+- Tumor invading the pleura
+- Tumor invading the pericardium
+- Tumor invading the diaphragm
+- **Tumor invading the aorta, vertebral body, or trachea**
+
+*Explanation: T4b denotes unresectable tumor invading other adjacent structures such as aorta, vertebral body, or trachea.*
+
+---
+
+**59. What additional structures were included in the T4a category in the Eighth Edition compared with the Seventh Edition?**
+
+- Pleura and pericardium
+- Diaphragm and trachea
+- **Azygos vein and peritoneum**
+- Aorta and vertebral body
+
+*Explanation: For the T category in the Eighth Edition, T4a resectable cancers were expanded to include lesions infiltrating the peritoneum and azygos vein in addition to pleura, pericardium, or diaphragm.*
+
+---
+
+**60. In the N staging of esophageal cancer, N1 is defined as involvement of how many regional lymph nodes?**
+
+- No positive nodes
+- **One to two nodes**
+- Three to six nodes
+- Seven or more nodes
+
+*Explanation: N1 is defined as involvement of one to two regional lymph nodes.*
+
+---
+
+**61. In the N staging of esophageal cancer, N2 is defined as involvement of how many regional lymph nodes?**
+
+- One to two nodes
+- **Three to six nodes**
+- Seven or more nodes
+- More than ten nodes
+
+*Explanation: N2 is defined as involvement of three to six regional lymph nodes.*
+
+---
+
+**62. In the N staging of esophageal cancer, N3 is defined as involvement of how many regional lymph nodes?**
+
+- Three to six nodes
+- Five to eight nodes
+- **Seven or more nodes**
+- Ten or more nodes
+
+*Explanation: N3 is defined as involvement of seven or more regional lymph nodes.*
+
+---
+
+**63. According to SEER database data, examining at least how many lymph nodes was associated with significant reduction in mortality after esophagectomy?**
+
+- 5 nodes
+- 8 nodes
+- **12 nodes**
+- 20 nodes
+
+*Explanation: In the SEER database, when 12 lymph nodes were examined, significant reduction in mortality has been noted compared with no lymph node evaluation.*
+
+---
+
+**64. Which group of patients had significantly lower mortality compared with all other groups in the SEER database study?**
+
+- Those with 5 or more lymph nodes examined
+- Those with 12 lymph nodes examined
+- Those with 20 or more lymph nodes examined
+- **Those with 30 or more lymph nodes examined**
+
+*Explanation: Patients who had 30 or more lymph nodes examined had significantly lower mortality than any other groups.*
+
+---
+
+**65. In esophageal cancer staging, M1 designates which finding?**
+
+- Regional lymph node involvement
+- Microscopic residual tumor
+- No evidence of distant disease
+- **Presence of distant metastases**
+
+*Explanation: Distant metastasis is simply designated as M0 (no distant metastases) or M1 (distant metastases).*
+
+---
+
+## Updates in the Eighth Edition
+
+**66. In which year was the Eighth Edition of AJCC TNM staging published?**
+
+- 2012
+- 2014
+- **2017**
+- 2020
+
+*Explanation: The Eighth Edition of TNM staging is the most updated version published in 2017.*
+
+---
+
+**67. The Eighth Edition update involved data from how many institutions worldwide?**
+
+- 10
+- 21
+- **33**
+- 50
+
+*Explanation: The Eighth Edition update involved the analysis of data collected from 33 institutions worldwide.*
+
+---
+
+**68. The Eighth Edition analysis was based on data from how many patients with esophageal and GEJ cancer?**
+
+- 5,420
+- 12,800
+- **22,654**
+- 35,000
+
+*Explanation: The Eighth Edition involved the analysis of data from 22,654 patients treated for esophageal and GEJ cancer.*
+
+---
+
+**69. What does WECC stand for in the context of esophageal cancer staging?**
+
+- Western European Cancer Consortium
+- World Endoscopy Cancer Committee
+- **World Esophageal Cancer Collaboration**
+- Western Esophageal Classification Committee
+
+*Explanation: The clinical and pathological staging criteria were established based on clinical data derived from the World Esophageal Cancer Collaboration (WECC).*
+
+---
+
+**70. In the Eighth Edition of AJCC staging, N3 disease (seven or more positive nodes) is classified as which stage for any T?**
+
+- Stage IIIB
+- Stage IIIC
+- **Stage IVA**
+- Stage IVB
+
+*Explanation: Different from the seventh edition, the eighth edition has staged N3 as stage IVA for any T.*
+
+---
+
+**71. For squamous cell carcinoma, which T stage uses tumor location (L category) for subcategorization in the Eighth Edition?**
+
+- T1
+- T2
+- **T3**
+- T4
+
+*Explanation: Tumor location is used in the eighth edition to subcategorize T3 SCC tumors and excluded T2 from this stratification that was used in the seventh edition.*
+
+---
+
+**72. In the Eighth Edition, the nonanatomic categories of esophageal cancer include which of the following?**
+
+- T, N, and M categories
+- **Histopathologic cell type, histology grade, and location**
+- Surgical margin status and lymphovascular invasion
+- Age, sex, and performance status
+
+*Explanation: In the Eighth Edition, nonanatomic categories include histopathologic cell type (AC vs. SCC), histology grade (G), and location (L).*
+
+---
+
+**73. Which post-neoadjuvant pathologic subgroups share the same staging criteria in the Eighth Edition?**
+
+- Early-stage SCC and AC
+- **ypT0–T2 cancers always grouped together, with staging depending on ypN category**
+- ypT3 and ypT4 cancers
+- ypN0 and ypN1 disease
+
+*Explanation: Categories are uniquely combined such that ypT0–T2 cancers are always grouped together and their staging depends on the ypN category.*
+
+---
+
+## Stage Groupings
+
+**74. How do patients with early and intermediate stage SCC compare with similarly staged AC in terms of survival?**
+
+- SCC has better survival
+- Survival is identical between groups
+- **SCC has worse survival than AC**
+- AC has worse survival than SCC at early stages
+
+*Explanation: Patients with early and intermediate stage SCC had worse survival than patients with similarly staged AC.*
+
+---
+
+**75. In pathologic staging, addition of which factor led to subgrouping of Stage I into IA and IB for SCC?**
+
+- Tumor location (L category)
+- **Grade differentiation (G1–G3) and subcategorization of pT1**
+- Number of involved lymph nodes
+- Tumor size in centimeters
+
+*Explanation: The addition of grade differentiation (G1–G3) by histopathological review and subcategorizing pT1 led to the subgrouping of stage I to stages IA and IB in SCC.*
+
+---
+
+**76. In adenocarcinoma pathologic staging, how many subgroups does Stage I comprise?**
+
+- One (IA only)
+- Two (IA and IB)
+- **Three (IA, IB, and IC)**
+- Four (IA, IB, IC, and ID)
+
+*Explanation: In AC tumors, subcategorization of T1 combined with grade differentiation produced three pathologic subgroups for stage I: IA, IB, and IC.*
+
+---
+
+## Anatomic Location and GEJ Tumors (Siewert Classification)
+
+**77. In the original Siewert classification, Type I (distal esophageal AC) has its epicenter located where relative to the anatomic GEJ?**
+
+- More than 1 cm above
+- **More than 1 cm above the anatomic GEJ (epicenter or two-thirds of mass >1 cm above)**
+- Within 1 cm proximal and 2 cm distal to the GEJ
+- More than 2 cm below the GEJ
+
+*Explanation: In the original classification, when the epicenter or more than two-thirds of the mass is located >1 cm above the anatomic GEJ, the tumor is considered type I (distal esophagus).*
+
+---
+
+**78. In the original Siewert classification, Type II is characterized by the epicenter being located where?**
+
+- More than 1 cm above the GEJ
+- **Within 1 cm proximal and 2 cm distal to the anatomic GEJ**
+- More than 2 cm below the GEJ
+- Entirely within the cardia
+
+*Explanation: When the epicenter or tumor is located within 1 cm proximal and 2 cm distal to the anatomic GEJ, it is classified as type II.*
+
+---
+
+**79. In the modified 2000 Siewert classification, what defines Siewert Type I (AC of the distal esophagus)?**
+
+- Epicenter 1 cm above to 2 cm below the GEJ
+- Epicenter 2 to 5 cm below the GEJ
+- **Epicenter identified within 1 to 5 cm above the anatomic GEJ**
+- Epicenter exactly at the GEJ
+
+*Explanation: Siewert type I or AC of the distal esophagus: the epicenter of the tumor is identified within 1 to 5 cm above the anatomic GEJ.*
+
+---
+
+**80. In the modified 2000 Siewert classification, what defines Siewert Type II (true carcinoma of the cardia)?**
+
+- Epicenter 1 to 5 cm above the GEJ
+- Epicenter 2 to 5 cm below the GEJ
+- **Epicenter identified within 1 cm above and 2 cm below the GEJ**
+- Epicenter more than 2 cm below the GEJ
+
+*Explanation: Siewert type II or true carcinoma of the cardia: the epicenter is identified within 1 cm above and 2 cm below the GEJ.*
+
+---
+
+**81. In the modified 2000 Siewert classification, what defines Siewert Type III (cardia carcinoma)?**
+
+- Epicenter 1 cm above to 2 cm below the GEJ
+- **Epicenter identified between 2 to 5 cm below the GEJ, infiltrating the GEJ and distal esophagus from below**
+- Epicenter 5 to 10 cm below the GEJ
+- Epicenter within the proximal stomach only
+
+*Explanation: Siewert type III or cardia carcinoma: the epicenter is identified between 2 to 5 cm below the GEJ, infiltrating the GEJ and the distal esophagus from below.*
+
+---
+
+**82. According to the AJCC Eighth Edition, cancers with epicenters involving more than 2 cm of the gastric cardia should be staged as which type of cancer?**
+
+- Esophageal cancer
+- GEJ cancer (separate category)
+- **Gastric cancer**
+- Cardia cancer (Siewert classification only)
+
+*Explanation: The AJCC eighth edition considered cancers with epicenters no more than 2 cm in the gastric cardia to be staged as AC of the esophagus, whereas those with >2 cm involvement of the gastric cardia are to be staged as gastric cancers.*
+
+---
+
+## Diagnostic Tools — Tumor Detection and Barium Studies
+
+**83. What are the most common presenting symptoms that lead to the discovery of esophageal cancer?**
+
+- Nausea and vomiting
+- Chest pain and palpitations
+- **Dysphagia and weight loss**
+- Hematemesis and melena
+
+*Explanation: Esophageal cancers are usually discovered upon investigation of upper GI symptoms such as dysphagia and weight loss or on follow-up for Barrett's esophagus.*
+
+---
+
+**84. What is the positive predictive value (PPV) of double contrast barium studies for esophageal cancer?**
+
+- 20%
+- 30%
+- **42%**
+- 60%
+
+*Explanation: Double contrast barium studies have been found to be a useful technique in the absence or delayed availability of endoscopy, although the positive predictive value (PPV) is 42%.*
+
+---
+
+**85. Which finding on barium swallow is classically associated with esophageal carcinoma causing luminal obstruction?**
+
+- "Bird-beak" deformity
+- "Rat-tail" narrowing
+- "Cobblestone" mucosa
+- **"Apple core" constriction**
+
+*Explanation: Barium swallow can clearly identify a polypoid tumor, strictures with mucosal irregularity, and "apple core" constrictions.*
+
+---
+
+**86. In which clinical scenario should upper GI barium studies be considered over endoscopy?**
+
+- All patients with dysphagia
+- Patients with known Barrett's esophagus
+- **When patients present with dysphagia and weight loss but endoscopy is not readily available**
+- Patients with early-stage cancer only
+
+*Explanation: Upper GI studies should be considered when patients present with dysphagia and weight loss and endoscopy is not readily available.*
+
+---
+
+## Upper Endoscopy and Biopsy
+
+**87. When is the diagnostic yield of endoscopic biopsy reported to approach 100%?**
+
+- When two to three samples are obtained
+- When four samples are obtained
+- When five samples are obtained
+- **When six or more samples are obtained using a standard endoscopic biopsy protocol**
+
+*Explanation: The diagnostic yield approaches 100% when six or more samples are obtained using a standard endoscopic biopsy protocol.*
+
+---
+
+**88. In cases of tight malignant strictures where conventional biopsies are difficult, which technique can be utilized?**
+
+- Endoscopic ultrasound alone
+- Computed tomography guidance
+- **Brush cytology**
+- Fine-needle aspiration through the esophageal wall
+
+*Explanation: Brush cytology can also be utilized in cases of tight malignant strictures where conventional biopsies may be difficult to obtain.*
+
+---
+
+**89. When performing brush cytology in difficult strictures, when should brushings be obtained relative to biopsy?**
+
+- After biopsy to avoid contamination
+- Simultaneously with biopsy
+- **Before biopsy, to maximize the yield**
+- Only if biopsy is non-diagnostic
+
+*Explanation: In cases where brushings are used, to maximize the yield, brushings should be obtained before biopsy.*
+
+---
+
+**90. When standard biopsy or brushings fail to provide a diagnosis in high-suspicion cases, which modality should be considered?**
+
+- CT-guided biopsy
+- Surgical exploration
+- Repeat endoscopy after 4 weeks
+- **Endoscopic ultrasound (EUS)**
+
+*Explanation: In situations where standard biopsy or brushings do not yield a diagnosis in cases with high suspicion, endoscopic ultrasound (EUS) should be considered.*
+
+---
+
+**91. Which of the following should be included in an endoscopic report for esophageal cancer?**
+
+- Tumor histologic subtype only
+- Tumor size and location only
+- **Tumor morphology, distance from incisors, length, percent circumferential involvement, relation to GEJ, and any skip lesions**
+- Patient demographics and presenting symptoms
+
+*Explanation: Endoscopic reports should include visual description of any gross lesion characteristics such as tumor morphology, distance measured from the incisors, length of the lesion, percent of circumferential involvement, and position in relation to the GEJ, in addition to a description of any skip lesions.*
+
+---
+
+## FDG-PET/CT Staging
+
+**92. What is the mechanism by which FDG-PET identifies cancer cells?**
+
+- Direct antibody binding to cancer cell surface antigens
+- Radioactive labeling of cancer DNA
+- **A glucose analog ([18F]-fluoro-2-deoxyglucose) that remains trapped in cancer cells during metabolism**
+- Labeling of cancer cell mitochondria
+
+*Explanation: PET scans detect primary tumors by using a glucose analog ([18F]-fluoro-2-deoxyglucose) which remains trapped in cancer cells during metabolism, highlighting metabolically active tissue.*
+
+---
+
+**93. What is the reported sensitivity range of FDG-PET for detecting esophageal primary tumors?**
+
+- 50%–65%
+- 65%–75%
+- **78%–95%**
+- 96%–99%
+
+*Explanation: In the detection of a primary tumor, the sensitivity ranges between 78% and 95%, with most false-negative tests occurring in patients with small tumors (T1 and T2).*
+
+---
+
+**94. What is the value of FDG-PET for T staging in esophageal cancer?**
+
+- Highly accurate for T staging
+- Moderately useful for distinguishing T1 from T2
+- Useful for identifying T4 disease
+- **No value in T staging, as it does not provide enough definition of the esophageal wall**
+
+*Explanation: PET does not provide enough definition of the esophageal wall and thus has no value in T staging.*
+
+---
+
+**95. What is the reported sensitivity range of PET for lymph node involvement in esophageal cancer?**
+
+- 15%–30%
+- **38%–82%**
+- 85%–95%
+- 96%–99%
+
+*Explanation: The sensitivity of PET is poor in the identification of lymph node involvement ranging from 38% to 82%.*
+
+---
+
+**96. For which nodal region is PET least sensitive in detecting lymph node metastasis?**
+
+- Cervical nodes
+- Upper thoracic nodes
+- Abdominal nodes
+- **Lower mediastinal nodes (0% sensitivity reported in one study)**
+
+*Explanation: In one study, sensitivity was only 38% and 0% for the mid- and lower mediastinum respectively, where most primary tumors are found.*
+
+---
+
+**97. What is the pooled specificity range of PET for N staging in esophageal cancer?**
+
+- 40%–60%
+- 60%–75%
+- **76%–95%**
+- 97%–100%
+
+*Explanation: The specificity of PET scan for N staging has a high pooled specificity ranging from 76% to 95% compared with 77% to 89% in CT scans.*
+
+---
+
+**98. In a study cited in the chapter, what percentage of cases that were negative on CT were found positive for distant metastasis on PET, leading to a change from curative to palliative management?**
+
+- 20%
+- 32%
+- **47%**
+- 63%
+
+*Explanation: A study demonstrated a change in the plan of management from curative into palliative in 47% of cases seen to be negative on CT but were positive for distant metastasis on PET.*
+
+---
+
+**99. According to Luketich et al., what was the sensitivity of PET in detecting metastases?**
+
+- 46.1%
+- 55%
+- **69%**
+- 84%
+
+*Explanation: Luketich et al. reported 69% sensitivity, 93.4% specificity, and 84% accuracy in detecting metastases with PET.*
+
+---
+
+**100. According to Luketich et al., what was the sensitivity of CT in detecting metastases?**
+
+- 30%
+- 37%
+- **46.1%**
+- 63%
+
+*Explanation: Luketich et al. reported 46.1% sensitivity, 73.8% specificity, and 63% accuracy with CT, compared with higher performance with PET.*
+
+---
+
+**101. In a meta-analysis of 12 publications, what was the pooled sensitivity of PET for detection of locoregional metastases?**
+
+- 0.30
+- 0.41
+- **0.51**
+- 0.67
+
+*Explanation: A meta-analysis of 12 publications showed that the pooled sensitivity and specificity for the detection of locoregional metastases were 0.51 and 0.84, respectively.*
+
+---
+
+**102. In the same meta-analysis, what was the pooled sensitivity of PET for detection of distant metastases?**
+
+- 0.51
+- 0.55
+- **0.67**
+- 0.84
+
+*Explanation: For distant metastases, the pooled sensitivity and specificity were 0.67 and 0.97, respectively.*
+
+---
+
+**103. By what percentage did overall management strategies change because of PET findings according to a recent meta-analysis?**
+
+- 1%–5%
+- **3%–20%**
+- 25%–35%
+- 40%–50%
+
+*Explanation: Overall management strategies were reported to be changed because of PET findings in 3%–20% of patients in a recent meta-analysis.*
+
+---
+
+**104. Histologically, which esophageal cancer subtype shows higher FDG accumulation at the primary tumor site?**
+
+- Adenocarcinoma
+- Adeno-squamous carcinoma
+- **Squamous cell carcinoma**
+- Mixed histology tumors
+
+*Explanation: Histologically, SCCs were found to highly accumulate FDG at the primary tumor site in contrast to ACs which demonstrate more limited FDG accumulation.*
+
+---
+
+**105. When should FDG-PET routinely be performed in the workup of esophageal cancer?**
+
+- In all patients regardless of CT findings
+- Only in patients with T1 or T2 disease
+- Only when EUS suggests early-stage disease
+- **In patients where CT and EUS demonstrate regional invasive cancer with no distant metastatic disease**
+
+*Explanation: PET should routinely be performed in patients in whom standard staging methods (CT and EUS) demonstrate regional invasive cancer with no distant metastatic disease, as it has been shown to be an independent predictor of overall survival.*
+
+---
+
+## CT Scan and MRI
+
+**106. What esophageal wall thickness on CT scan is generally regarded as abnormal and warrants further investigation?**
+
+- Greater than 2 mm
+- Greater than 3 mm
+- Greater than 4 mm
+- **Greater than 5 mm**
+
+*Explanation: An esophageal wall thickness of greater than 5 mm on a CT scan is generally regarded as abnormal and warrants further investigation.*
+
+---
+
+**107. What is the sensitivity and specificity of CT scan for excluding T4 esophageal cancer?**
+
+- 50% sensitivity, 70% specificity
+- **25% sensitivity, 94% specificity**
+- 75% sensitivity, 80% specificity
+- 40% sensitivity, 60% specificity
+
+*Explanation: CT scan's role is particularly important to exclude T4 disease with a sensitivity and specificity of 25% and 94%, respectively.*
+
+---
+
+**108. When the area of contact between the esophagus and the aorta extends beyond which degree of circumference, is 80% accuracy of aortic infiltration reported?**
+
+- 45 degrees
+- 60 degrees
+- **90 degrees**
+- 180 degrees
+
+*Explanation: When the area of contact between the esophagus and the aorta extends beyond 90 degrees of the circumference, an 80% accuracy of infiltration is reported.*
+
+---
+
+**109. What are the sensitivity and specificity of CT scan for detecting lymph node involvement in esophageal cancer?**
+
+- 70% sensitivity, 95% specificity
+- 80% sensitivity, 60% specificity
+- **50% sensitivity, 83% specificity**
+- 30% sensitivity, 90% specificity
+
+*Explanation: The sensitivity and specificity of detecting lymph node involvement is 50% and 83% respectively for CT scan.*
+
+---
+
+**110. What size criterion on CT defines enlarged intrathoracic and abdominal lymph nodes as potentially pathological?**
+
+- Greater than 0.5 cm
+- **Greater than 1 cm**
+- Greater than 1.5 cm
+- Greater than 2 cm
+
+*Explanation: Intrathoracic and abdominal nodes greater than 1 cm are considered enlarged according to CT diagnostic criteria.*
+
+---
+
+**111. What short-axis size criterion defines pathological supraclavicular lymph nodes on CT?**
+
+- Greater than 0.3 cm
+- **Greater than 0.5 cm**
+- Greater than 0.8 cm
+- Greater than 1.0 cm
+
+*Explanation: Supraclavicular nodes with a short axis greater than 0.5 cm are considered pathologic on CT.*
+
+---
+
+**112. What is the reported sensitivity of CT scan for detecting distant systemic disease such as hepatic, adrenal, and lung metastases?**
+
+- 10%–25%
+- **37%–66%**
+- 70%–80%
+- 85%–95%
+
+*Explanation: The main value of CT lies in its ability to detect distant systemic disease; however, it has been reported to be only 37%–66% sensitive.*
+
+---
+
+**113. What is the T-stage accuracy of conventional MRI in esophageal cancer staging?**
+
+- 40%
+- 50%
+- **60%**
+- 80%
+
+*Explanation: Conventional MRI correctly assessed the T-stage in 60% of patients, compared with 81% when using high-resolution T2-weighted MRI.*
+
+---
+
+**114. What detection rates were found for T1 carcinoma using high-resolution T2-weighted MRI with diffusion-weighted imaging?**
+
+- 10%
+- 20%
+- **33%**
+- 50%
+
+*Explanation: A study using high-resolution T2-weighted MRI with faster sequences and cardiorespiratory motion gating combined with diffusion-weighted imaging demonstrated detection rates of 33% for T1 carcinomas.*
+
+---
+
+**115. What was the T4 detection rate using high-resolution T2-weighted MRI with diffusion-weighted imaging?**
+
+- 60%
+- 75%
+- 90%
+- **100%**
+
+*Explanation: The same MRI study demonstrated detection rates of 100% for T4 carcinomas, compared with 96% for T3, 58% for T2, and 33% for T1.*
+
+---
+
+## Endoscopic Ultrasound (EUS) and EUS-FNA
+
+**116. At what frequencies does dedicated EUS operate to identify the esophageal wall?**
+
+- 2.5 and 5 MHz
+- 5 and 10 MHz
+- **7.5 and 12 MHz**
+- 15 and 20 MHz
+
+*Explanation: Dedicated EUS operating at frequencies of 7.5 and 12 MHz is able to identify the wall as a five-layered structure.*
+
+---
+
+**117. How many layers does EUS identify in the esophageal wall?**
+
+- Three layers
+- Four layers
+- **Five layers**
+- Six layers
+
+*Explanation: Dedicated EUS at frequencies of 7.5 and 12 MHz is able to identify the wall as a five-layered structure.*
+
+---
+
+**118. What is the reported sensitivity range of EUS for T staging in esophageal cancer?**
+
+- 50%–65%
+- 70%–78%
+- **81%–92%**
+- 95%–99%
+
+*Explanation: Dedicated EUS has relatively accurate sensitivities for T staging ranging from 81% to 92%.*
+
+---
+
+**119. What is the accuracy of EUS in determining T4 stage in esophageal cancer?**
+
+- 55%
+- 70%
+- 78%
+- **86%**
+
+*Explanation: The accuracy of EUS in determining T4 stage was found to be 86%.*
+
+---
+
+**120. What is the tendency of expert endosonographers regarding T2 tumors?**
+
+- To understage T2 cancers
+- To accurately stage T2 in all cases
+- **To overstage T2 cancers in 8% to 14% of cases due to peritumoral inflammation**
+- To classify T2 as T1b in most cases
+
+*Explanation: There is a tendency to overstage T2 cancers by expert endosonographers in 8% to 14% of cases due to peritumoral inflammation.*
+
+---
+
+**121. What is the currently accepted most accurate method for determining depth of invasion in a small visible esophageal lesion?**
+
+- Standard EUS
+- High-resolution 20-MHz EUS probe
+- CT scan with contrast
+- **Endoscopic mucosal resection (EMR)**
+
+*Explanation: In view of conflicting results, currently the only method capable to accurately determine the depth of invasion of a small visible lesion is EMR.*
+
+---
+
+**122. What are the sensitivity, specificity, and accuracy of EUS-FNA for locoregional lymph nodes in esophageal cancer?**
+
+- 50%, 60%, 55%
+- 70%, 80%, 75%
+- **All greater than 85%**
+- Approximately 95% for all three
+
+*Explanation: Sensitivity, specificity, and accuracy of EUS-FNA for locoregional lymph nodes are all >85%.*
+
+---
+
+**123. Compared with CT for preoperative nodal staging of esophageal carcinoma, how does EUS-FNA perform?**
+
+- Similar sensitivity and accuracy to CT
+- Less sensitive but more specific than CT
+- **More sensitive (83% vs. 29%) and more accurate (87% vs. 51%) than CT**
+- Less accurate than CT
+
+*Explanation: A prospective study demonstrated that EUS-FNA was more sensitive than CT (83% vs. 29%) and more accurate than CT (87% vs. 51%) for nodal staging.*
+
+---
+
+**124. EUS-FNA nodal aspiration should be considered for all of the following EXCEPT:**
+
+- Celiac adenopathy
+- Porta hepatis adenopathy
+- Cervical adenopathy
+- **Nodes where the primary tumor lies in the pathway of the aspiration needle**
+
+*Explanation: FNA nodal aspiration should only be performed when nodes are accessible and when the primary tumor is NOT in the pathway of the aspiration needle.*
+
+---
+
+## Endoscopic Mucosal Resection (EMR)
+
+**125. Who first described endoscopic mucosal resection and in which year?**
+
+- Dr. Yamamoto in 1985
+- Dr. Tada in 1988
+- **Dr. Inoue from Japan in 1992**
+- Dr. Ell from Germany in 1995
+
+*Explanation: EMR was described first in 1992 by Dr. Inoue from Japan.*
+
+---
+
+**126. What percentage of all esophageal adenocarcinomas in the United States present at early stage T1?**
+
+- 5%
+- 10%
+- **20%**
+- 35%
+
+*Explanation: EMR has revolutionized the staging and treatment of superficial esophageal AC, particularly the 20% of all esophageal AC in the United States presenting at early stage (T1).*
+
+---
+
+**127. What is the reported rate of discordance among pathologists assessing depth of tumor invasion in EMR specimens, particularly for T1b lesions?**
+
+- 10%
+- 25%
+- **Up to 48%**
+- 60%
+
+*Explanation: There is a high rate of discordance (up to 48%) between pathologists' assessment for the depth of tumor invasion in EMR specimens, particularly for lesions called T1b.*
+
+---
+
+**128. For high-grade dysplasia and intramucosal AC (T1aN0), what is the estimated risk of lymph node involvement or hematogenous dissemination?**
+
+- Less than 5%
+- Less than 10%
+- **Less than 2%**
+- Less than 15%
+
+*Explanation: In T1aN0 lesions, the risk of lymph node involvement or hematogenous dissemination is estimated to be less than 2%, justifying a nonsurgical approach.*
+
+---
+
+**129. For esophageal cancer lesions penetrating into the submucosa (T1b), what definitive treatment is indicated?**
+
+- Endoscopic mucosal resection alone
+- Chemoradiotherapy alone
+- Surveillance endoscopy
+- **Esophagectomy with lymphadenectomy**
+
+*Explanation: For lesions penetrating into the submucosa, more definitive treatment such as esophagectomy with lymphadenectomy continues to be indicated.*
+
+---
+
+## Bronchoscopy and Endobronchial Ultrasound
+
+**130. For which type of esophageal tumors is flexible bronchoscopy primarily performed?**
+
+- Distal esophageal tumors
+- Lower thoracic tumors
+- **Mid- and high esophageal tumors to assess tracheobronchial invasion**
+- Any esophageal tumor before surgery
+
+*Explanation: Flexible bronchoscopy is performed to assess mid- and high esophageal tumor invasion into the tracheobronchial tree and to evaluate mediastinal lymph nodes.*
+
+---
+
+**131. Which bronchoscopic signs of tracheobronchial involvement absolutely contraindicate surgical resection?**
+
+- Widened carina and external compression
+- Mucosal erythema and edema
+- **Tumor infiltration and fistulization**
+- Posterior tracheal wall protrusion
+
+*Explanation: Signs of involvement include a widened carina, external compression, tumor infiltration, and fistulization. The last two signs contraindicate resection.*
+
+---
+
+**132. What was the overall accuracy of bronchoscopy in excluding patients from surgery due to airway invasion in one reported study?**
+
+- 75%
+- 82%
+- 88%
+- **93.3%**
+
+*Explanation: Bronchoscopy excluded 18.1% of otherwise potentially operable patients from surgery because of airway invasion, with an overall accuracy of 93.3%.*
+
+---
+
+**133. What are the reported sensitivity and specificity of EBUS for tracheal involvement by esophageal cancer?**
+
+- 75% sensitivity, 70% specificity
+- 80% sensitivity, 75% specificity
+- **92% sensitivity, 83% specificity**
+- 95% sensitivity, 90% specificity
+
+*Explanation: In one study, the sensitivity and specificity of tracheal involvement by EBUS were 92% and 83%, respectively.*
+
+---
+
+**134. What are the reported sensitivity and specificity of CT for tracheal involvement by esophageal cancer?**
+
+- 40% and 40%
+- **59% and 56%**
+- 75% and 73%
+- 92% and 83%
+
+*Explanation: The sensitivity and specificity of CT for tracheal involvement were 59% and 56%, compared with 75% and 73% for MRI, and 92% and 83% for EBUS.*
+
+---
+
+**135. By what percentage were patients upstaged with the addition of EBUS to EUS in the Liberman et al. study?**
+
+- 5%
+- 8%
+- **12%**
+- 20%
+
+*Explanation: In the Liberman et al. study, 12% of patients were upstaged with the addition of EBUS to EUS, which had an important impact on patient prognostication and treatment planning.*
+
+---
+
+## Laparoscopy and Thoracoscopy
+
+**136. What does AJCC recommend regarding pathological confirmation of cM1 disease?**
+
+- Clinical staging alone is sufficient
+- Imaging confirmation is adequate
+- **Histopathological or cytological confirmation is recommended, categorized as pM1**
+- Confirmation is optional for most patients
+
+*Explanation: Confirmation of cM1 histopathologically or cytologically is recommended by the AJCC, and this pathological confirmation is categorized as pM1, not cM1.*
+
+---
+
+**137. In a study of 53 patients who underwent minimally invasive staging, what percentage experienced a change in the stage originally assigned by CT and EUS?**
+
+- 10%
+- 20%
+- **32.1%**
+- 45%
+
+*Explanation: A study of 53 patients who underwent minimally invasive staging showed that a change in stage originally assigned by CT and EUS occurred in 32.1% of patients with AC of the esophagus.*
+
+---
+
+**138. In the CALGB 9380 multi-institutional study, what percentage of patients had nodes or metastatic disease identified by thoracoscopy and laparoscopy that were missed by CT?**
+
+- 25%
+- 35%
+- **50%**
+- 65%
+
+*Explanation: Thoracoscopy and laparoscopy identified nodes or metastatic disease missed by CT in 50% of patients, by MRI in 40%, and by EUS in 30%.*
+
+---
+
+**139. In the CALGB 9380 study, in what percentage of patients was the combined thoracoscopic and laparoscopic staging strategy feasible?**
+
+- 50%
+- 60%
+- **73%**
+- 85%
+
+*Explanation: The multi-institutional CALGB 9380 study reported that the strategy was feasible in 73% of patients.*
+
+---
+
+**140. Following CT and EUS, laparoscopy may upstage nodal status in what percentage of patients?**
+
+- 5%–10%
+- **0%–21%**
+- 25%–35%
+- 40%–50%
+
+*Explanation: Following CT and EUS, laparoscopy may upstage nodal status in 0% to 21% of patients and downstage in 4% to 19%.*
+
+---
+
+**141. For which type of esophageal cancer is diagnostic laparoscopy most beneficial?**
+
+- SCC of the upper esophagus
+- SCC of the mid-esophagus
+- **AC of the lower esophagus or GEJ with extensive gastric involvement or suspicious CT/PET findings**
+- Any esophageal cancer regardless of location
+
+*Explanation: Many consider diagnostic laparoscopy in patients with AC with extensive gastric involvement or in patients with suspicious CT and PET findings, as the chance of abdominal metastases is considerably greater compared with SCC.*
+
+---
+
+## Therapy Monitoring
+
+**142. What treatment approach is currently recommended by NCCN guidelines for locally advanced esophageal cancer?**
+
+- Surgery alone
+- Chemotherapy alone
+- Radiotherapy followed by surgery
+- **Neoadjuvant chemoradiotherapy followed by surgery**
+
+*Explanation: Neoadjuvant chemoradiotherapy followed by surgery has demonstrated favorable long-term outcomes compared with surgery alone, and this approach is currently recommended by NCCN guidelines.*
+
+---
+
+**143. What is the sensitivity of CT scan for evaluating pathologic tumor response after neoadjuvant therapy?**
+
+- 10%
+- 22%
+- **35%**
+- 60%
+
+*Explanation: A recent meta-analysis found that CT had a sensitivity of 35% and a specificity of 83% in evaluating the pathologic tumor response after neoadjuvant therapy.*
+
+---
+
+**144. What is the specificity of CT scan for evaluating pathologic tumor response after neoadjuvant therapy?**
+
+- 50%
+- 65%
+- 75%
+- **83%**
+
+*Explanation: A recent meta-analysis found that CT had a sensitivity of 35% and a specificity of 83% in evaluating the pathologic tumor response.*
+
+---
+
+**145. Why is EUS typically not recommended for response assessment after neoadjuvant therapy?**
+
+- It is too expensive
+- It overestimates complete response
+- **Limited accuracy, poor reproducibility, and not always feasible due to post-radiation esophagitis or severe stricturing**
+- It cannot assess lymph node response
+
+*Explanation: EUS is typically not recommended for response assessment because of its limited accuracy and poor reproducibility. Moreover, EUS is invasive and not always feasible, especially in case of postradiation esophagitis or severe stricturing.*
+
+---
+
+**146. In the preSANO trial, what was the false-negative rate for endoscopy with regular biopsies and FNA in detecting residual tumor after neoadjuvant chemoradiotherapy?**
+
+- 5%
+- 15%
+- 22%
+- **31%**
+
+*Explanation: In the preSANO trial, for endoscopy with regular biopsies and FNA, there was a 31% false-negative rate for residual tumor detection.*
+
+---
+
+**147. In the preSANO trial, what was the false-negative rate for bite-on-bite biopsies in detecting residual tumor?**
+
+- 5%
+- **11%**
+- 20%
+- 31%
+
+*Explanation: Bite-on-bite biopsies had an 11% false-negative rate, compared with 31% for regular biopsies.*
+
+---
+
+**148. What were the sensitivity and specificity of bite-on-bite biopsies for residual tumor detection in the preSANO trial?**
+
+- 54% and 69%
+- **74% and 77%**
+- 80% and 85%
+- 90% and 90%
+
+*Explanation: Bite-on-bite biopsies had 74% and 77% for sensitivity and specificity respectively, compared with 54% and 69% for regular biopsies.*
+
+---
+
+**149. In a meta-analysis of PET use after neoadjuvant therapy, what were the pooled sensitivity and specificity for tumor response assessment?**
+
+- 40% and 55%
+- 50% and 65%
+- **62% and 73%**
+- 80% and 90%
+
+*Explanation: A recent meta-analysis investigating the correlation between PET results and tumor response after neoadjuvant therapy found pooled sensitivities and specificities of 62% and 73%, respectively.*
+
+---
+
+**150. In the SANO trial, what was the sensitivity of FDG-PET/CT in treatment response assessment?**
+
+- 40%
+- 60%
+- **80%**
+- 95%
+
+*Explanation: The SANO trial group published results of evaluating FDG-PET/CT in treatment response assessment where sensitivity, specificity, and NPV were 80%, 37%, and 42%, respectively.*
+
+---
+
+**151. In the SANO trial, what was the specificity of FDG-PET/CT in treatment response assessment?**
+
+- 20%
+- **37%**
+- 55%
+- 70%
+
+*Explanation: The SANO trial group found that the sensitivity, specificity, and NPV of FDG-PET/CT were 80%, 37%, and 42%, respectively.*
+
+---
+
+**152. In the SANO trial, what percentage of patients had new interval metastases detected on FDG-PET/CT?**
+
+- 3%
+- 5%
+- **10%**
+- 20%
+
+*Explanation: New interval metastases were detected on FDG-PET/CT in 10% of patients in the SANO trial.*
+
+---
+
+**153. What was the primary conclusion of the SANO trial group regarding FDG-PET/CT after neoadjuvant therapy?**
+
+- Highly accurate for detecting complete pathological response
+- Should replace EUS for restaging
+- **Did not reliably detect residual disease or discriminate substantial residual disease from inflammation, but was useful for detecting interval metastases**
+- Should be used as first-line surveillance tool
+
+*Explanation: The SANO trial group concluded that FDG-PET/CT did not detect residual disease or discriminate substantial residual disease from inflammation, but thought it was useful for detection of interval metastasis and hence for active surveillance after therapy.*
+
+---
+
+## Surveillance Strategy
+
+**154. According to a study by Sudo et al., what percentage of patients with esophageal AC who underwent trimodality therapy were salvageable after recurrence?**
+
+- 10%
+- 8%
+- 5%
+- **2%**
+
+*Explanation: Sudo et al. demonstrated that only 2% of 518 patients with esophageal AC who underwent trimodality therapy were salvageable when they recurred.*
+
+---
+
+**155. At what median follow-up time did patients recur in the Sudo et al. study on trimodality therapy for esophageal AC?**
+
+- 12 months
+- 18 months
+- **29.3 months**
+- 36 months
+
+*Explanation: In the Sudo et al. study, patients recurred at a median of 29.3 months of follow-up, with only 2% being salvageable.*
+
+---
+
+**156. According to NCCN consensus-based guidelines, how frequently should history and physical examination be performed in years 1–3 post-treatment?**
+
+- Monthly
+- Every 1–2 months
+- **Every 3–6 months**
+- Every 6 months
+
+*Explanation: The NCCN post-treatment surveillance strategy recommends history and physical examination every 3–6 months for 1–3 years.*
+
+---
+
+**157. In the NCCN surveillance protocol for esophageal cancer, how frequently should history and physical examination be performed in years 4 and 5?**
+
+- Every 3 months
+- **Every 6 months**
+- Annually
+- Every 2 years
+
+*Explanation: The NCCN guidelines recommend history and physical examination every 6 months for years 4 and 5, then annually.*
+
+---
+
+**158. Which is the primary purpose of post-treatment surveillance following esophageal cancer management?**
+
+- Screening for second primary cancers
+- Monitoring nutritional status
+- **Implementing salvage therapy in cases of locoregional failure**
+- Monitoring chemotherapy toxicity
+
+*Explanation: Surveillance, following either surgical or medical management of esophageal cancer, is typically done in order to implement salvage therapy in cases of locoregional failure.*
+
+---
+
+## Additional Considerations and Future Directions
+
+**159. Which tumor regression grading system is currently suggested for reporting response to neoadjuvant therapy in esophageal cancer?**
+
+- Mandard grading system
+- Becker grading system
+- **Modified Ryan tumor regression grading (TRG) system**
+- Chirieac grading system
+
+*Explanation: As response to neoadjuvant therapy should be reported, the modified Ryan tumor regression grading (TRG) system is currently suggested, which reportedly provides good interobserver reproducibility and prognostic significance.*
+
+---
+
+**160. What is the most important prognostic element in esophageal and GEJ cancer according to the authors?**
+
+- Tumor T stage
+- Histologic grade
+- **Lymph node status evaluation**
+- Circumferential resection margin
+
+*Explanation: Lymph node status evaluation is considered to be the most important prognostic element in esophageal and GEJ cancer.*
+
+---
+
+**161. Which organizations currently maintain the AJCC Cancer Staging Manual that includes esophageal cancer staging?**
+
+- WHO and ESMO
+- NCI and ACS
+- **AJCC and UICC**
+- ASCO and NCCN
+
+*Explanation: The TNM staging system is currently maintained and developed by the American Joint Committee on Cancer (AJCC) and the International Union for Cancer Control (UICC).*
+
+---
+
+**162. Which of the following advanced investigational methods is noted as potentially helpful for realizing precision esophageal cancer care?**
+
+- Artificial intelligence imaging analysis alone
+- Proteomics and metabolomics
+- **ctDNA and advanced imaging**
+- Single-cell RNA sequencing
+
+*Explanation: Future use of advanced investigational methods such as ctDNA and imaging would be helpful to realize precision esophageal cancer care and could be of value in patients who have residual disease.*
+
+---
+
+**163. For which predominant site is tumor location (L category) used in the Eighth Edition of TNM?**
+
+- Adenocarcinoma T staging
+- All T stages for both histologic types
+- **Squamous cell carcinoma T3 subcategorization**
+- N staging for both histologic types
+
+*Explanation: Tumor location is used in the eighth edition to subcategorize T3 SCC tumors; it excluded T2 from this stratification that was used in the seventh edition.*
+
+---
+
+**164. In the Eighth Edition AJCC staging, where are the lymph node stations for esophageal cancer mapping derived from?**
+
+- International lymph node mapping system
+- EUS-based anatomical mapping
+- Gastric cancer lymph node stations
+- **The nomenclature and numbering system used for non–small cell lung cancer staging**
+
+*Explanation: For lymph node mapping, a lymph nodes map that extends the nomenclature and numbering system used for the staging of non–small cell lung cancer can be used.*
+
+---
+
+**165. According to the Eighth Edition, what is the T0 designation in esophageal cancer staging?**
+
+- Primary tumor cannot be assessed
+- High-grade dysplasia
+- **No evidence of primary tumor**
+- Tumor confined to the mucosa
+
+*Explanation: T0 is defined as no evidence of primary tumor, while TX means primary tumor cannot be assessed.*
+
+---
+
+**166. Which staging modality does the chapter suggest combining with EUS-FNA as an effective approach for sampling mediastinal and abdominal nodes in AC of the lower esophagus or GEJ?**
+
+- CT-guided biopsy
+- Bronchoscopy with EBUS
+- **Laparoscopy (for abdominal metastases), together with EUS-FNA for mediastinal nodes**
+- PET-guided biopsy
+
+*Explanation: EUS-FNA is an effective approach for sampling mediastinal nodes. Laparoscopy has its role especially for AC of the lower esophagus or GEJ tumors as the chance of metastases in the abdomen is considerably greater compared with SCC.*
+
+---
+
+**167. After neoadjuvant chemoradiotherapy, when should patients ideally be considered for multidisciplinary tumor board evaluation?**
+
+- Before any diagnostic workup
+- Only if surgery is not planned
+- Only if metastatic disease is suspected
+- **After completion of staging and physiologic assessment, whenever feasible**
+
+*Explanation: After completion of staging and physiologic assessment, patients should be considered for presentation at multidisciplinary tumor board whenever it is feasible.*
+
+---
+
+**168. What is the main advantage of combined PET/CT over PET scan alone in esophageal cancer?**
+
+- Lower radiation dose
+- Better tissue characterization
+- Eliminates need for EUS
+- **Direct comparison of metabolic information with anatomical location, significantly improving diagnostic accuracy**
+
+*Explanation: PET scanners have been integrated with CT scanners which enable direct comparison of metabolic information with anatomical location. Combined PET/CT has many advantages over PET scan alone and it significantly improves the diagnostic accuracy.*
+
+---
+
+**169. According to the chapter, which of the following correctly describes the relationship between T stage and lymph node metastasis in esophageal cancer?**
+
+- Lymph node metastasis is unrelated to T stage
+- Higher T stage has lower incidence of lymph node metastasis
+- **The incidence of lymph node metastases increases with increasing T stage**
+- Lymph node metastasis is most common in T1 disease
+
+*Explanation: The diagnostic utility of PET in early-stage disease (Tis, T1) may be low because the incidence of lymph node metastases increases with increasing T stage.*
+
+---
+
+**170. What is the primary reason that histopathological tumor type has less influence on survival in post-neoadjuvant pathologically staged patients compared with clinically or pathologically staged patients?**
+
+- Neoadjuvant therapy changes the histologic subtype
+- Post-neoadjuvant staging uses different criteria
+- Neoadjuvant therapy eliminates all lymph node disease
+- **Histopathological tumor type significantly affects survival in clinically and pathologically staged patients but less so in post-neoadjuvant pathologically staged patients, as both SCC and AC share similar post-neoadjuvant pathologic groupings**
+
+*Explanation: It is worth mentioning that histopathological tumor type significantly affected the survival of clinically and pathologically staged patients, but less so in post-neoadjuvant pathologically staged patients. On the contrary, post-neoadjuvant pathologic groupings were similar for both SCC and AC.*

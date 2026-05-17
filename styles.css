@@ -1,0 +1,14 @@
+
+.sidebar-title > a {
+  color: coral;
+  text-decoration: none;
+}
+.sidebar-item-text.sidebar-link.text-start {
+  display: block;               /* so padding works */
+  padding: 0.4em 0.75em;        /* inner space */
+  margin: 0.15em 0;             /* spacing between boxes */
+  border-radius: 6px;           /* rounded corners */
+  color: #ffffff;
+  background-color: #38bdf8; /* subtle default bg */
+  
+}

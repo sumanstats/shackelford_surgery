@@ -1,0 +1,21 @@
+image: rocker/tidyverse:4.5.1
+build_book:
+  stage: build
+  script:
+  - Rscript -e "install.packages(c('fontawesome','gt', 'DiagrammeR'))"
+  - quarto render --to html
+  - mkdir public && cp -r _book/* public
+  artifacts:
+    paths:
+    - public
+pages:
+  stage: deploy
+  dependencies:
+    - build_book
+  script:
+  - echo "Deploying to GitLab"
+  artifacts:
+    paths:
+    - public
+  only:
+  - main

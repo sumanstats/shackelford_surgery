@@ -1,0 +1,15 @@
+project:
+  type: default
+  output-dir: _presentation
+
+format:
+  revealjs:
+    theme: simple
+    embed-resources: true
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    css: css/mystyle.css
+
+execute:
+  freeze: auto

@@ -1,0 +1,829 @@
+---
+title: "Inherited Colorectal Cancer and the Genetics of Colorectal Cancer"
+format:
+  revealjs:
+    theme: dark
+---
+
+# Introduction & Overview
+
+## Learning Objectives
+
+- Understand the three major molecular pathways of colorectal carcinogenesis
+- Identify key inherited colorectal cancer syndromes and their genetic basis
+- Compare polyposis and nonpolyposis hereditary syndromes
+- Apply principles of screening, surveillance, and surgical management
+
+
+## Outline
+
+1. Genetic Basis of Sporadic CRC
+2. Chromosomal Instability (CIN) Pathway
+3. CpG Island Methylator Phenotype (CIMP)
+4. Microsatellite Instability (MSI) Pathway
+5. Inherited Polyposis Syndromes
+6. Inherited Nonpolyposis Syndromes
+7. Clinical Management & Emerging Therapies
+
+# Genetic Basis of Colorectal Cancer
+
+## CRC as a Complex Disease
+
+- CRC arises from **genetic and epigenetic alterations** driving tumor initiation and progression
+- Changes may be **inherited (germline)** or **sporadic (somatic)**
+- Genotype and phenotype vary based on the underlying molecular pathway
+- Grouping patients by cancer pathway enables **precise clinical management**
+
+::: {.callout}
+Colorectal cancer is fundamentally a genetic disease. Understanding the pathway helps guide management.
+:::
+
+## Multistep Carcinogenesis
+
+- Tumors develop through **somatic genetic or epigenetic alterations**
+- A small proportion arises from **highly penetrant germline variants**
+- Familial tumors follow the **same evolutionary paths** as sporadic tumors
+- Risk is higher and onset is **earlier** in hereditary cases
+
+## Three Classes of Cancer Genes {.smaller}
+
+| Class | Mechanism | Examples |
+|-------|-----------|----------|
+| **Proto-oncogenes** | Activated by mutation, amplification, rearrangement | KRAS, PIK3CA, BRAF |
+| **Tumor suppressors** | Inactivated by mutation, deletion, methylation | APC, TP53, SMAD4 |
+| **Stability genes** | Dysregulated → genomic instability | MMR genes |
+
+- Without genomic instability, accumulation of driver mutations would take too long
+
+## Three Broad Classes of CRC Instability
+
+1. **Chromosomal Instability (CIN):** ~50%+ of CRCs
+2. **CpG Island Methylator Phenotype (CIMP):** ~32% of CRCs
+3. **Microsatellite Instability (MSI):** ~20% of sporadic CRCs
+
+- Some **overlap** exists between these categories
+
+# Classic Chromosomal Instability (CIN)
+
+## CIN Pathway Overview
+
+- First proposed by **Vogelstein in 1990**
+- Classic multistep model of carcinogenesis
+- Sequence: Normal → Small Adenoma → Large Adenoma → Carcinoma → Metastasis
+- **More than half** of all CRCs develop through this pathway
+
+## Step 1: Wnt Signaling Disruption
+
+- Initial step: **Inactivation of Wnt signaling**
+- Usually via **biallelic inactivation of APC gene**
+- APC regulates intracellular **β-catenin concentration**
+- β-catenin functions as both a **transcription factor** and **adhesion molecule**
+- Alternative: Stabilizing mutation in **β-catenin** itself
+
+::: {.callout}
+This is the key concept for understanding FAP. APC mutations are the gatekeeper event.
+:::
+
+## Step 2: Oncogene Activation
+
+- Small adenomas acquire activating mutations in growth-stimulating genes
+- Key genes:
+  - **KRAS**
+  - **CDC4**
+  - **PIK3CA**
+  - **BRAF**
+- These mutations drive adenoma growth and increase dysplasia
+
+## Step 3: TGF-β Disruption
+
+- Disruption of **negative growth regulatory network**
+- **TGF-β signaling** is inactivated
+- Typically through inactivation of **SMAD genes** or **TGF-βRII**
+- Allows escape from growth inhibition
+
+## Step 4: p53 Loss and Malignancy
+
+- "Cataclysmic" conversion from benign to malignant
+- Mutations and allelic losses of **p53 (TP53)**
+- Abrogates the **G1/S cell cycle checkpoint**
+- Permits accumulation of **chromosomal rearrangements and aneuploidy**
+
+## Figure 178.1: Classical CIN Pathway
+
+**Progression Model:**
+
+```
+Normal → Small Adenoma → Large Adenoma → Carcinoma → Metastasis
+   ↓           ↓               ↓              ↓            ↓
+APC/β-cat   CDC4/CIN      PIK3CA/PTEN      TP53/BAX        ?
+            KRAS/BRAF     SMAD4/TGF-βRII
+```
+
+- APC/β-catenin at initiation
+- KRAS/BRAF at progression
+- TP53 at malignant conversion
+- Metastasis requires additional unknown alterations
+
+## Wnt Signaling: The Mechanism
+
+**Wnt OFF:**
+- No Wnt ligand → APC binds β-catenin
+- Phosphorylation and degradation via proteasome
+- Proliferation inactive
+
+**Wnt ON:**
+- Wnt ligand binds receptor complex
+- Prevents APC-β-catenin interaction
+- β-catenin accumulates → enters nucleus → activates growth program
+
+- **Dysregulation seen in almost all colorectal neoplasms**
+
+## FAP and the CIN Pathway
+
+- FAP is the **hereditary model** of the CIN/classic pathway
+- Germline **APC mutation** present from birth
+- Second "hit" (loss of wild-type allele) occurs in individual epithelial cells
+- Results in **adenoma formation**
+- Median age for first adenoma: **16 years**
+- Median age for cancer: **39 years**
+
+## CIN Heterogeneity
+
+- CIN begins in **benign adenomas**
+- Adenomas may remain stable for decades or grow slowly
+- Once **p53 is lost**, rapid accumulation of chromosomal abnormalities
+- Large numbers of deleted, duplicated, and rearranged genes
+- Results in **heterogeneous clinical behavior** and appearance
+
+# CpG Island Methylator Phenotype (CIMP)
+
+## CIMP Overview
+
+- Second major CRC pathway
+- Inactivation of tumor suppressor genes via **promoter hypermethylation**
+- **CpG sequences:** C-G dinucleotide pairs in gene promoters
+- **CpG islands:** Clusters of CpG sequences
+- CIMP = excess promoter methylation in the cancer genome
+
+## CIMP Mechanism and Frequency
+
+- Predominant epigenetic "lesion" in **~32% of CRCs**
+- Increased CpG methylation seen in many other CRCs
+- Must be **quantified at selected promoters** for CIMP categorization
+- Underlying process is **incompletely understood**
+
+## CIMP: BRAF V600E Association
+
+- CIMP often associated with **BRAF V600E variant**
+- Associated with **more aggressive CRC** compared to other pathways
+- Distinct clinical and molecular profile
+
+## CIMP: Serrated Carcinoma Pathway
+
+- Tumors thought to begin as **sessile serrated adenomas (SSAs)**
+- Not typical adenomatous polyps
+- SSAs and CIMP CRCs occur predominantly in the **proximal colon**
+- Transition from SSA to carcinoma **not fully understood**
+
+## CIMP: Driver Genes
+
+Commonly methylated genes in CIMP:
+
+- **p16**
+- **CDKN2A**
+- **THBS1**
+- **HPP1**
+- **MLH1**
+
+- Silencing of tumor suppressor genes drives carcinogenesis
+- **No identifiable familial CIMP syndrome exists**
+
+# Microsatellite Instability (MSI)
+
+## MSI Overview
+
+- Third pathway: secondary consequence of CIN or CIMP
+- Represents **~20% of sporadic CRCs**
+- **~3% of all CRCs** occur in Lynch Syndrome (most have MSI)
+- Caused by defective **DNA mismatch repair (MMR)**
+
+## DNA Mismatch Repair System
+
+- Monitors DNA for replication errors
+- Mainly **S-phase monitor** for DNA polymerase errors
+- Identifies errors at simple repetitive sequences = **microsatellites**
+- Removes faulty sequences; permits correct resynthesis
+
+## Figure 178.3: DNA MMR System (Part 1)
+
+**MutSα complex:**
+
+- **MSH2 + MSH6** heterodimer
+- Binds DNA randomly, slides along nascent strand
+- Recognizes **single base pair mismatches** and insertion-deletion lesions
+- Exchanges ADP for ATP upon binding
+
+## Figure 178.3: DNA MMR System (Part 2)
+
+**MutLα complex:**
+
+- **MLH1 + PMS2** recruited to mismatch
+- Exonuclease excises nucleotides from daughter strand
+- DNA polymerase resynthesizes correct sequence
+- **PCNA** coordinates the process
+
+## Figure 178.3: DNA MMR System (Part 3)
+
+**Additional complexes:**
+
+- **MutSβ:** MSH2 + MSH3 → recognizes larger insertion-deletion loops (2–6 nucleotides)
+- **MutLβ:** MLH1 + PMS1
+- **MutLγ:** MLH1 + MLH3
+- Precise roles of MutLβ and MutLγ **incompletely understood**
+
+## MSI: Molecular Consequences {.smaller}
+
+- Without MMR activity: **>100-fold increase** in synthetic errors at microsatellites
+- ~30 genes in human genome have microsatellites in coding sequences
+- Critical tumor suppressor genes frequently mutated:
+  - **TGF-β receptor 2**
+  - **BAX**
+  - **Caspase-5**
+- These become the **"drivers"** of carcinogenesis once mutated
+
+## Lynch Syndrome and MSI
+
+- LS caused by germline mutations in DNA MMR genes:
+  - **MLH1**
+  - **MSH2**
+  - **MSH6**
+  - **PMS2**
+- Also: Germline deletions of **EPCAM** (affects MLH1 promoter)
+- LS accounts for **~3% of all CRCs**
+- **10–19%** of CRCs diagnosed before age 50
+
+## MSI: Sporadic vs. Lynch
+
+| Feature | Lynch Syndrome | Sporadic MSI-H |
+|---------|---------------|----------------|
+| **Mechanism** | Germline MMR mutation | MLH1 promoter methylation |
+| **Frequency** | ~3% of CRCs | ~17% of CRCs |
+| **BRAF** | Usually wild-type | Often V600E mutated |
+| **Onset** | Earlier (44-61 yr) | Later |
+
+- LS neoplasms arise as ordinary adenomas, then develop MSI
+- Possible: Some arise directly from MMR-deficient crypts
+
+# Heterogeneity & Syndrome Overview
+
+## Heterogeneity of CRC: Pathway Summary
+
+| Pathway | Hereditary Model | Key Gene | % of CRCs |
+|---------|-----------------|----------|-----------|
+| **CIN/Classic** | FAP | APC | >50% |
+| **MSI** | Lynch Syndrome | MMR genes | ~20% |
+| **CIMP** | None known | — | ~32% |
+
+- Driver mutations differ → Different clinical behavior for each group
+
+## Inherited CRC Syndromes: Classification
+
+- **Polyposis syndromes:** >100 polyps (or attenuated: 10–100)
+- **Nonpolyposis syndromes:** Few or no polyps
+- Classified by: Polyp histology, genotype, number of polyps
+- Management goals:
+  1. Prevent cancer death
+  2. Maintain quality of life
+
+## Table 178.1: Hereditary Colorectal Polyposes {.smaller}
+
+| Syndrome | Histology | Gene(s) | Inheritance |
+|----------|-----------|---------|-------------|
+| **FAP** | Adenoma | APC | Dominant |
+| **MAP** | Adenoma | MUTYH | Recessive |
+| **NAP** | Adenoma | NTHL1 | Recessive |
+| **PPAP** | Adenoma | POLD1/POLE | Dominant |
+| **Serrated polyposis** | Serrated | RNF43 | Unclear |
+| **JPS** | Juvenile | SMAD4/BMPR1A | Dominant |
+| **PJS** | Peutz-Jeghers | STK11 | Dominant |
+| **PHTS** | Hamartoma | PTEN | Dominant |
+
+# Familial Adenomatous Polyposis (FAP)
+
+## FAP: Epidemiology
+
+- Incidence: **~1 in 10,000** live births
+- Prevalence: 1 in 24,000 to 1 in 60,000
+- Affects all races and both genders equally
+- Expression varies by genotype and modifying factors
+
+## FAP: Genetics
+
+- Caused by germline **APC mutation**
+- Generalized growth disorder: benign and malignant tumors in multiple tissues
+- Other mechanisms:
+  - APC promoter 1B deletion
+  - Chromosomal loss
+  - APC haploinsufficiency
+- Close to **100% penetrance**
+
+## Table 178.2: Manifestations of APC Mutation {.smaller}
+
+| Organ | Benign | Malignant |
+|-------|--------|-----------|
+| Colorectum | Adenoma | Carcinoma |
+| Stomach | Fundic gland polyp | Carcinoma |
+| Small intestine | Adenoma | Carcinoma |
+| Thyroid | — | Papillary carcinoma |
+| Bone | Osteoma | — |
+| Skin | Epidermoid cyst | — |
+| Brain | — | Medulloblastoma |
+| Liver | — | Hepatoblastoma |
+| Fibroblasts | Desmoid disease | — |
+
+## FAP: Diagnosis
+
+- Most diagnosed based on **family history**
+- Children of affected parent undergo genetic testing at **puberty**
+- If affected, colonoscopy begins at that time
+- Testing in infancy generally discouraged (psychosocial impact)
+- Exception: **Hepatoblastoma risk** justifies newborn testing + screening until age 7
+
+## FAP: Hepatoblastoma Screening
+
+- Rare but lethal manifestation of germline APC mutation
+- Screen infants with:
+  - **Ultrasound**
+  - **α-fetoprotein**
+- Every **6 months** until age **7**
+- Early detection is **curable with surgery**
+
+## FAP: Colorectal Cancer Risk
+
+- CRC is the **main risk** and most common cause of death
+- Classical FAP (>100 adenomas): Average cancer diagnosis at **39 years**
+- Younger onset in profuse polyposis (>1000 adenomas)
+- **Prophylactic colectomy** is the most effective prevention
+
+## Table 178.3: Timing of Prophylactic Colectomy {.smaller}
+
+| Urgency | Timing | Indication |
+|---------|--------|------------|
+| **Immediate** | Next available | Cancer, symptoms, complications |
+| **Soon** | Within 3 months | Profuse polyposis (>1000) |
+| **Sometime** | Year-by-year | Mild polyposis (100–1000) |
+| **Defer** | As long as possible | High desmoid risk, comorbidity |
+
+## FAP: Surgical Options Overview
+
+Three main options:
+
+1. **TAC-IRA** (Total abdominal colectomy with ileorectal anastomosis)
+2. **TPC-IPAA** (Total proctocolectomy with ileal pouch-anal anastomosis)
+3. **TPC-EI** (Total proctocolectomy with end ileostomy)
+
+- **Oncologic technique mandatory** (high ligation, mesentery removal)
+
+## TAC-IRA: Pros & Cons {.smaller}
+
+| Aspect | Detail |
+|--------|--------|
+| **Advantages** | Quick, safe, good QoL, acceptable function, avoids ileostomy, easy surveillance |
+| **Indications** | <20 rectal adenomas, <1000 colonic adenomas |
+| **Contraindication** | Rectal cancer |
+| **Disadvantage** | Risk of rectal cancer; requires lifelong surveillance |
+
+## TPC-IPAA: Pros & Cons {.smaller}
+
+| Aspect | Detail |
+|--------|--------|
+| **Advantages** | Controls most colorectal polyposis; avoids permanent ileostomy |
+| **Indications** | >20 rectal adenomas, rectal cancer |
+| **Contraindications** | High desmoid risk, lack of expertise, <20 rectal adenomas |
+| **Disadvantages** | High complications, unpredictable function, pouch/ATZ cancer risk |
+
+## TPC-EI: Pros & Cons {.smaller}
+
+| Aspect | Detail |
+|--------|--------|
+| **Advantages** | Least complications; complete removal of lower GI cancer risk |
+| **Indications** | Low rectal cancer, IPAA impossible, poor sphincter function |
+| **Contraindications** | Good sphincters, no rectal cancer |
+| **Disadvantage** | Permanent ileostomy |
+
+## FAP: Surgical Decision Making
+
+Decision driven by **severity of polyposis**:
+
+- **≤5 rectal adenomas** + ≤1000 colonic polyps → no subsequent proctectomy needed
+- **6–20 rectal adenomas** → 15% need later proctectomy
+- **≥20 rectal adenomas** → >50% need later proctectomy
+- Conservative approach increasingly favored in teenagers
+
+## FAP: IPAA Technical Considerations
+
+- **Stapled IPAA:** Decent function, 5–6 BMs/day, 1–2 hour deferral
+- **Mucosectomy + handsewn:** Higher stricture/leak rate, more seepage
+- **S-pouch** preferred if ATZ carpeted by adenoma
+- Pouch placement **without twist** is critical
+- Diverting loop ileostomy usually routine; may omit if ideal conditions
+
+## FAP: Surveillance After Surgery
+
+- Fastidious surveillance of rectum, pouch, ATZ, and/or ileostomy needed
+- **ATZ adenomas:** Twice as common after stapled vs. handsewn IPAA
+- **Pouch adenomas:** 42% by 7 years
+- ATZ carpeting requires stripping and handsewn reanastomosis
+
+## FAP: Chemoprevention {.smaller}
+
+- Goal: Suppress neoplasia to postpone or avoid surgery
+- **Sulindac:** Most tested; 150–200 mg BID suppresses adenomas and desmoids
+- Not tolerated in 20%; concerns about cancer despite adenoma suppression
+- **Not favored as routine option** for colorectal adenomas
+- Reasonable for **pouch polyposis** (alternative is pouch removal)
+- Other agents: DFMO, Celebrex
+- **Erlotinib + Sulindac** for duodenal adenomas
+
+## FAP: Duodenal Neoplasia
+
+- Almost all FAP patients develop **duodenal adenomas**
+- Duodenal cancer: **3rd most common cause of death** (~10% of patients)
+- Upper GI surveillance begins at age **20–25**
+- Use **side-viewing duodenoscope** for ampulla examination
+- **Spigelman staging** predicts cancer risk
+
+## Spigelman Staging System
+
+| Feature | 1 Point | 2 Points | 3 Points |
+|---------|---------|----------|----------|
+| Polyp number | 1–4 | 5–20 | >20 |
+| Polyp size (mm) | 1–4 | 5–10 | >10 |
+| Histology | Tubular | Tubulovillous | Villous |
+| Dysplasia | Low | Moderate | High |
+
+- 0 = Stage 0; 1–4 = Stage I; 5–6 = Stage II; 7–8 = Stage III; 9–12 = Stage IV
+
+## FAP: Desmoid Disease
+
+- Found in **~30%** of FAP patients
+- Locations: Abdominal wall, small bowel mesentery, retroperitoneum
+- **~80% develop after abdominal surgery**
+- Can grow rapidly and be **fatal**
+- Causes obstruction, fistulas, organ puckering
+- May justify **deferring surgery**
+
+## FAP: Other Extracolonic Manifestations
+
+- **Gardner syndrome:** Osteomas, epidermoid cysts, extra teeth, desmoids
+- **Papillary thyroid cancer:** ~7× general population risk; 2× more common in women
+  - Annual thyroid ultrasound recommended
+- **Turcot syndrome (FAP type):** Medulloblastoma
+- **Hepatoblastoma:** Rare, lethal, infancy screening justified
+
+# Attenuated & Rare Adenomatous Polyposes
+
+## Attenuated FAP (aFAP)
+
+- Germline APC mutation with weak/"attenuated" phenotype
+- Definition: **<100 synchronous colorectal adenomas**
+- Presents later than classical FAP; CRC ~10–20 years older
+- Mutations at gene extremities (5′ or 3′)
+- **3′ mutations:** Severe desmoid disease, sometimes no colorectal adenomas
+- Surgery usually **colectomy with IRA**
+
+## MUTYH-Associated Polyposis (MAP) {.smaller}
+
+- **Gene:** MUTYH (DNA base excision repair)
+- **Inheritance:** Autosomal recessive (biallelic mutations)
+- Repairs oxidative DNA damage; prevents CG:TA transversions
+- Phenotype resembles aFAP: <100 adenomas, young onset, MSS CRC
+- Can present with solitary cancer, no polyposis, or no family history
+- Extracolonic: Gastric/duodenal adenomas, small bowel carcinoma, desmoids, thyroid cancer
+- CRC risk in biallelic carriers: **~75%**
+
+## MAP: Management
+
+- Colonoscopy if polyp burden controllable
+- Interval: **1–2 years** (based on polyp number, size, dysplasia)
+- Colectomy indicated for uncontrolled burden or CRC
+- **Extended colectomy with IRA** recommended for colon cancer
+- Phenotypic spectrum mimics almost all other hereditary CRC syndromes
+
+## NTHL1-Associated Polyposis (NAP)
+
+- **Gene:** NTHL1 (DNA base excision repair)
+- **Inheritance:** Autosomal recessive
+- Even more rare than MAP; only a few families described
+- Phenotype **not yet fully defined**
+- **No formal guideline recommendations**
+
+## Polymerase Proofreading-Associated Polyposis (PPAP) {.smaller}
+
+- **Genes:** POLD1, POLE (DNA polymerase proofreading domains)
+- **Inheritance:** Autosomal dominant
+- Failure of proofreading → mutator phenotype → secondary driver mutations
+- Characterized by **oligoadenomatous polyposis** and early-onset CRC
+- POLE mutation also associated with **endometrial cancer**
+- Few families reported; full phenotype lacking
+- Extended surgery reasonable for diagnosed patients with cancer
+
+# Hamartomatous Polyposis Syndromes
+
+## Hamartomatous Polyposis: Overview
+
+- Benign, localized overgrowths of mature epithelial cells
+- Syndromes: **JPS, PJS, PHTS** (Cowden, BRRS)
+- Associated with various GI and extracolonic cancers
+- **<1%** of all CRCs associated with these syndromes
+- Knowledge enables genetic counseling, risk assessment, screening
+
+## Juvenile Polyposis Syndrome (JPS): Overview
+
+**Diagnostic criteria:**
+- Any juvenile polyp + family history of JPS, OR
+- >4 synchronous juvenile polyps in large intestine
+
+- **Genes:** SMAD4, BMPR1A (TGF-β superfamily)
+- **Inheritance:** Autosomal dominant, variable penetrance
+- 20–50% have family history
+
+## JPS: Clinical Features
+
+- Polyps usually **50–200**; begin in first decade
+- Phenotypes:
+  - JPS of infancy (virulent)
+  - Juvenile polyposis coli
+  - Generalized JPS
+- Presentation usually by age **20–30**
+- Symptoms: Rectal bleeding (75%), anemia, prolapse, pain, diarrhea
+- Congenital anomalies in up to 20%
+
+## JPS: Cancer Risk and Management {.smaller}
+
+- CRC most frequent malignancy; also stomach, pancreas, duodenum, small intestine
+- Proposed sequence: Hamartoma → adenoma → dysplasia → carcinoma
+- Screening colonoscopy: **Age 12–15**, repeat 1–3 years
+- Remove all polyps; annual colonoscopy until clear
+- Upper GI screening: Age 15–25
+- SMAD4 mutation carriers: Screen for HHT
+- Surgery for failure to thrive, intussusception, dysplasia, or cancer
+
+## Peutz-Jeghers Syndrome (PJS): Overview
+
+- **Genes:** LKB1, STK11 (serine/threonine kinase)
+- **Inheritance:** Autosomal dominant
+- **Diagnosis:**
+  - ≥2 Peutz-Jeghers polyps, OR
+  - 1 polyp + family history, OR
+  - Typical pigmentation + family history
+- **50% are new mutations** (no family history)
+
+## PJS: GI Features
+
+- Hamartomatous polyps throughout GI tract
+- **Small intestine:** Most common (>75%)
+- **Colon:** 42%; **Stomach:** 38%; **Rectum:** 28%
+- Complications: Bleeding, intussusception, obstruction
+- Average patient undergoes **1–4 surgeries** for obstruction
+
+## PJS: Mucocutaneous Pigmentation
+
+- Dark macular lesions on mouth, buccal mucosa, nose, lips, hands, feet, genitals, anus
+- More prominent early in life, fade by puberty (except buccal lesions)
+- Buccal mucosa lesions present in **>2/3** of patients
+- Different from freckles: present at birth, cross vermilion border
+
+## PJS: Cancer Risks {.smaller}
+
+- Cumulative cancer risk up to **93% by age 65**
+
+| Site | Risk |
+|------|------|
+| Breast | 54% |
+| Colorectum | 39% |
+| Pancreas | 36% |
+| Stomach | 29% |
+| Ovary | 21% |
+| Lung | 15% |
+| Small intestine | 13% |
+
+## PJS: Screening and Management
+
+- Small bowel surveillance: **Age 8–10** (capsule endoscopy/MRE)
+- Upper endoscopy + colonoscopy: Same age, every 2–3 years
+- Remove small bowel polyps **≥10 mm**
+- Pancreatic surveillance: Annual MRI/EUS from **age 35**
+- Breast screening: Monthly self-exam at 18, clinical exam at 25, MRI 25–29, mammography + MRI after 30
+- Goal: **"Clean sweep"** of small bowel polyps
+
+## PTEN Hamartoma Tumor Syndrome (PHTS): Cowden Syndrome
+
+- **Gene:** PTEN (10q23.3) – tumor suppressor, negative regulator of Akt/PKB
+- 85% of CS patients have PTEN mutation
+- Intestinal polyps in 30–85% (hamartomas, adenomas, serrated, ganglioneuromas)
+- Extracolonic more prominent: Breast, thyroid, uterus, brain, skin
+
+## Cowden Syndrome: Diagnostic Criteria
+
+**Major criteria:**
+- Breast cancer
+- Thyroid cancer (especially follicular)
+- Macrocephaly
+- Endometrial cancer
+- Lhermitte-Duclos disease
+
+**Minor criteria:**
+- Goiter, intellectual disability, hamartomatous polyps, fibrocystic breast, lipomas, fibromas
+
+- CRC risk: **9–16%**
+
+## Cowden Syndrome: Management
+
+- Colonoscopy: **Age 35** or 5–10 years before earliest family CRC, then every 5 years
+- Physical examination: Starting at 18
+- Breast screening: Monthly self-exam at 18, annual clinical exam at 18, mammography at 30
+- Thyroid ultrasound: Starting at 18, every 1–2 years
+- EGD: Starting at 30, every 3–5 years
+- Endometrial screening: Age 35–40
+- Dermatologic examination for melanoma
+
+## Bannayan-Riley-Ruvalcaba Syndrome (BRRS)
+
+- Also autosomal dominant; **>2/3 have PTEN mutation**
+- Features: Macrocephaly, hamartomatous colonic polyposis, lipomas, pigmented macules of glans penis
+- Less common: Hashimoto thyroiditis, vascular malformations, developmental delays
+- GI polyp incidence: **45%**
+- Cancer risks not well defined; often managed analogous to CS
+
+# Nonpolyposis Colorectal Cancer
+
+## Nonpolyposis CRC: Overview
+
+- Historically called **HNPCC**
+- Now divided into:
+  1. **Lynch Syndrome (LS):** MMR gene mutation
+  2. **Familial CRC Type X (FCC X):** Amsterdam criteria positive, no MMR mutation, MSS tumors
+
+## Lynch Syndrome: Genetics
+
+- Autosomal dominant
+- Germline mutations in **MLH1, MSH2, MSH6, PMS2**
+- Also: **EPCAM deletions** (affect MLH1 promoter)
+- LS accounts for **~3% of all CRCs**
+- **10–19%** of CRCs diagnosed before age 50
+
+## Lynch Syndrome: Screening and Diagnosis {.smaller}
+
+- Amsterdam criteria and Bethesda criteria identify candidates
+- **Universal screening of all CRCs** is more effective (~50% lack Amsterdam-positive FH)
+- Methods:
+  - **IHC** for MMR proteins
+  - **PCR** for MSI (high concordance)
+- EGAPP and NCCN support universal screening
+- Loss of MLH1 → test for **BRAF mutation** to rule out sporadic case
+
+## Lynch Syndrome: Cancer Risks by Gene
+
+| Gene | Lifetime CRC Risk | Notes |
+|------|-------------------|-------|
+| **MLH1** | ~45–50% | High risk |
+| **MSH2** | ~45–50% | High risk |
+| **MSH6** | ~15% | Lower CRC, high endometrial |
+| **PMS2** | 10–20% | Debated, likely lower |
+
+- Mean age at diagnosis: **44–61 years**
+
+## Lynch Syndrome: Extracolonic Cancers {.smaller}
+
+- **Endometrial cancer:** Most frequent in MSH6/MSH2
+- Other sites:
+  - Urinary tract
+  - Stomach
+  - Small bowel
+  - Brain
+  - Skin
+  - Pancreas
+  - Prostate
+  - Breast
+
+## Lynch Syndrome: Surveillance Benefits
+
+- Colonoscopy reduces CRC incidence by **62%**
+- Colonoscopy reduces CRC mortality by **72%**
+- Begin at age **20–25**, every **1–2 years**
+- Shortened adenoma-to-carcinoma sequence justifies frequent intervals
+
+## Table 178.6: Surveillance by Organ System {.smaller}
+
+| Organ System | Surveillance Test | Frequency |
+|--------------|-------------------|-----------|
+| Skin | Skin examination | Annually |
+| Gynecologic | Endometrial biopsy, TVUS, CA-125 | Annually |
+| Stomach | EGD | 1–3 years |
+| Urologic | Urinalysis/cytology | Annually |
+| Breast | Mammogram | Per general guidelines |
+
+## Lynch Syndrome: Chemoprevention
+
+- **CAPP2 Trial:** Aspirin up to **60% decrease** in CRC (benefit after >10 years)
+- Aspirin >2 years: **55% reduction** in other LS-associated cancers
+- Current guidelines: Not enough evidence for routine aspirin chemoprevention
+- Prophylactic hysterectomy + BSO recommended after childbearing or by age 40
+
+## Lynch Syndrome: Surgery for Colon Cancer {.smaller}
+
+- Shared decision-making critical
+- Significant risk of **metachronous CRC** after segmental colectomy
+- Cumulative metachronous risk:
+  - **16%** at 10 years
+  - **41%** at 20 years
+  - **62%** at 30 years
+- **Recommendation:** Extended resection or total colectomy with IRA
+
+## Lynch Syndrome: Surgery for Rectal Cancer {.smaller}
+
+- **20–30%** of LS patients develop rectal cancer
+- Options:
+  - Proctectomy alone
+  - TPC with IPAA or end ileostomy
+- Metachronous colon cancer after proctectomy alone:
+  - **19%** at 10 years
+  - **47%** at 20 years
+  - **69%** at 30 years
+- Decision factors: Age, comorbidities, stage, sphincter function, surveillance compliance
+
+## Muir-Torre and Turcot Syndromes
+
+**Muir-Torre:**
+- Subset of LS (usually MSH2)
+- Sebaceous gland adenomas/carcinomas + keratoacanthomas
+
+**Turcot (LS type):**
+- CRC + brain tumor (usually glioblastoma)
+
+**Turcot (FAP type):**
+- APC mutation + brain tumor (medulloblastoma, astrocytoma, ependymoma)
+
+## Constitutional MMR Deficiency (CMMRD)
+
+- Rare variant: **Biallelic inheritance** of MMR mutations
+- Very early onset CRC (**before age 20**)
+- Multiple adenomas (tens to hundreds)
+- Café-au-lait skin lesions, hematologic malignancies, brain tumors
+- Mean age of first cancer: **16 years**
+
+## Familial CRC Type X (FCC X)
+
+- Amsterdam criteria positive; no detectable MMR mutation; **MSS tumors**
+- Likely heterogeneous group of uncharacterized genetic mutations
+- No increased extracolonic tumor spectrum
+- CRC risk **~2× general population**; mean age 61
+- Colonoscopy: Age 45 or 10 years before youngest family case, every 5 years
+- **Segmental colectomy** recommended (metachronous risk not well defined)
+
+# Emerging Therapies & Summary
+
+## Checkpoint Inhibitors for MMR-Deficient Tumors
+
+- MMR-deficient tumors have **decreased response** to standard chemotherapy
+- Immune checkpoint inhibitors work **particularly well** in this setting
+- Durable response rates: **33–55%**
+- Neoadjuvant trial (stages II–III rectal cancer):
+  - Complete clinical response in **all 16 patients**
+- Long-term outcomes pending; larger studies needed
+
+## Key Takeaways: Pathways
+
+1. **CIN:** APC → KRAS → SMAD → TP53; FAP is the hereditary model
+2. **CIMP:** Promoter hypermethylation; BRAF V600E; serrated pathway; no familial syndrome
+3. **MSI:** MMR deficiency; Lynch syndrome; sporadic MLH1 methylation
+
+## Key Takeaways: Polyposis Syndromes
+
+- **FAP:** APC, >100 adenomas, prophylactic colectomy, duodenal/desmoid surveillance
+- **MAP/NAP:** Recessive, base excision repair, attenuated phenotype
+- **JPS:** SMAD4/BMPR1A, juvenile polyps, GI and congenital features
+- **PJS:** STK11, hamartomas, mucocutaneous pigmentation, 93% cancer risk by age 65
+- **PHTS:** PTEN, hamartomas, breast/thyroid/uterine cancers
+
+## Key Takeaways: Nonpolyposis Syndromes
+
+- **Lynch:** MMR genes, MSI-H, early onset, universal screening recommended
+- Extended resection preferred for LS-related CRC
+- **FCC X:** MSS, no MMR mutation, lower risk, segmental surgery adequate
+
+## Clinical Pearls
+
+- **Universal MMR/MSI screening** on all CRCs detects LS most effectively
+- Surgical choice in hereditary CRC must balance **cancer risk vs. quality of life**
+- Surveillance extends **beyond the colon** in most hereditary syndromes
+- Chemoprevention (aspirin, sulindac) shows promise but is **not routine**
+
+## Future Directions
+
+- Expanded genetic panel testing for oligopolyposis and early-onset CRC
+- Neoadjuvant immunotherapy for MMR-deficient rectal cancer
+- Refined risk stratification by genotype within each syndrome
+- Improved chemopreventive strategies
+

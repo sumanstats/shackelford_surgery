@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+/* Neutral dark slate background (high contrast, low saturation) */
+$sidebar-bg: #0b1220;
+
+/* Primary text: near-white for readability */
+$sidebar-fg: #e6edf3;
+
+/* Hover: light blue (safe across CVD types) */
+$sidebar-hover-fg: #9ecbff;
+
+/* Active item text: pure white for luminance contrast */
+$sidebar-active-fg: #ffffff;
+
+/*-- scss:rules --*/
+@import "bootstrap";

@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+_book/
+.quarto
+rsconnect
+.DS_Store
+imgs/.DS_Store
+/.quarto/
+
+**/*.quarto_ipynb
