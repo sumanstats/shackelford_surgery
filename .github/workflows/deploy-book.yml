@@ -5,49 +5,58 @@ on:
     branches: [main]
   workflow_dispatch:
 
-# Required for GitHub Pages deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Only one deployment at a time
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-book:
     runs-on: ubuntu-latest
     container: rocker/tidyverse:4.5.1
+    
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # CRITICAL: Quarto is NOT in rocker/tidyverse, must be installed
-      - uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Install required R packages
-        run: Rscript -e "install.packages(c('fontawesome', 'gt', 'DiagrammeR'))"
+      - name: Install R packages
+        run: |
+          Rscript -e "install.packages(c('fontawesome', 'gt', 'DiagrammeR'))"
 
       - name: Render Quarto book
-        run: quarto render --to html
+        run: |
+          quarto render --to html
 
-      - name: Prepare deployment directory
-        run: mkdir -p public && cp -r _book/* public/
+      - name: Prepare public directory
+        run: |
+          mkdir -p public && cp -r _book/* public/
 
-      # Official GitHub Pages artifact upload
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      # ⚠️ Artifact name MUST be "github-pages" for deploy-pages action
+      - name: Upload pages artifact
+        uses: actions/upload-artifact@v4
         with:
+          name: github-pages
           path: ./public
+          retention-days: 1
+          # Prevent overwriting artifacts from concurrent runs
+          overwrite: true
 
-  deploy:
+  deploy-pages:
+    needs: build-book
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
+    
     steps:
+      # ✅ NO manual download step needed! deploy-pages fetches the artifact automatically
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
