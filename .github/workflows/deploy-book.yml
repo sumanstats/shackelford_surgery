@@ -3,7 +3,6 @@ name: Build and Deploy Book
 on:
   push:
     branches: [main]
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -11,52 +10,42 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
-  cancel-in-progress: true
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  build-book:
+  build:
     runs-on: ubuntu-latest
     container: rocker/tidyverse:4.5.1
-    
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install R packages
+      - name: Install dependencies
         run: |
-          Rscript -e "install.packages(c('fontawesome', 'gt', 'DiagrammeR'))"
+          Rscript -e "install.packages(c('fontawesome','gt', 'DiagrammeR'))"
 
-      - name: Render Quarto book
+      - name: Render book
         run: |
           quarto render --to html
 
-      - name: Prepare public directory
+      - name: Prepare Pages artifact
         run: |
-          mkdir -p public && cp -r _book/* public/
+          mkdir public
+          cp -r _book/* public/
 
-      # ⚠️ Artifact name MUST be "github-pages" for deploy-pages action
-      - name: Upload pages artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages
-          path: ./public
-          retention-days: 1
-          # Prevent overwriting artifacts from concurrent runs
-          overwrite: true
+          path: public
 
-  deploy-pages:
-    needs: build-book
+  deploy:
+    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    
     steps:
-      # ✅ NO manual download step needed! deploy-pages fetches the artifact automatically
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
