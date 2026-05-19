@@ -314,7 +314,7 @@ digraph hamartomatous_polyps {
 ```
 
 
-```{python}
+```
 #| label: FAP surveillance
 
 import matplotlib.pyplot as plt

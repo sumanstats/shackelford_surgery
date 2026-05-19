@@ -24,10 +24,6 @@ jobs:
       - name: Install dependencies
         run: |
           Rscript -e "install.packages(c('fontawesome','gt', 'DiagrammeR', 'reticulate'))"
-          Rscript -e "reticulate::install_miniconda()"
-          Rscript -e "reticulate::use_miniconda(required = TRUE)"
-          Rscript -e "reticulate::conda_create('quarto-env')"
-          Rscript -e "reticulate::conda_install('quarto-env', c('matplotlib', 'numpy', 'pandas'))"
           
 
       - name: Render book
