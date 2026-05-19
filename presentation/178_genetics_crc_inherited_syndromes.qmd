@@ -126,15 +126,25 @@ APC/β-cat   CDC4/CIN      PIK3CA/PTEN      TP53/BAX        ?
 
 ## Wnt Signaling: The Mechanism
 
+
+:::{.columns}
+:::{.column width="50%"}
+
 **Wnt OFF:**
+
 - No Wnt ligand → APC binds β-catenin
 - Phosphorylation and degradation via proteasome
 - Proliferation inactive
+:::
+:::{.column width="50%"}
 
 **Wnt ON:**
+
 - Wnt ligand binds receptor complex
 - Prevents APC-β-catenin interaction
 - β-catenin accumulates → enters nucleus → activates growth program
+:::
+:::
 
 - **Dysregulation seen in almost all colorectal neoplasms**
 
@@ -462,7 +472,7 @@ Decision driven by **severity of polyposis**:
 | Histology | Tubular | Tubulovillous | Villous |
 | Dysplasia | Low | Moderate | High |
 
-- 0 = Stage 0; 1–4 = Stage I; 5–6 = Stage II; 7–8 = Stage III; 9–12 = Stage IV
+0 = Stage 0; 1–4 = Stage I; 5–6 = Stage II; 7–8 = Stage III; 9–12 = Stage IV
 
 ## FAP: Desmoid Disease
 
@@ -541,6 +551,7 @@ Decision driven by **severity of polyposis**:
 ## Juvenile Polyposis Syndrome (JPS): Overview
 
 **Diagnostic criteria:**
+
 - Any juvenile polyp + family history of JPS, OR
 - >4 synchronous juvenile polyps in large intestine
 

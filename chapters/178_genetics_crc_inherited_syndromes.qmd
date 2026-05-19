@@ -22,6 +22,9 @@ slides_iframe(600)
 
 
 ```{r}
+#| label: CRC classification by polyp burden
+#| echo: false
+
 library(DiagrammeR)
 
 grViz("
@@ -67,6 +70,8 @@ digraph inherited_crc {
 
 
 ```{r}
+#| label: CRC classification by histological types
+#| echo: false
 
 library(DiagrammeR)
 
@@ -117,6 +122,8 @@ digraph inheritance {
 
 
 ```{r}
+#| label: CRC classification by mode of inheritance
+#| echo: false
 
 library(DiagrammeR)
 
@@ -164,6 +171,148 @@ digraph inheritance {
 }
 ")
 ```
+
+
+
+```{r}
+|# label: Hamartomatous polyposis syndromes
+|# echo: false
+
+# Install package if needed
+if (!require("DiagrammeR")) install.packages("DiagrammeR")
+
+library(DiagrammeR)
+
+grViz("
+
+digraph hamartomatous_polyps {
+
+  # =========================================
+  # GLOBAL GRAPH SETTINGS
+  # =========================================
+
+  graph [
+    layout = dot,
+    rankdir = TB,
+    bgcolor = '#f8f9fb',
+    nodesep = 0.5,
+    ranksep = 0.8,
+    pad = 0.4
+  ]
+
+  # =========================================
+  # NODE STYLING
+  # =========================================
+
+  node [
+    shape = box,
+    style = 'rounded,filled',
+    fontname = Helvetica,
+    fontsize = 13,
+    color = '#2c3e50',
+    penwidth = 2,
+    margin = 0.18
+  ]
+
+  # =========================================
+  # EDGE STYLING
+  # =========================================
+
+  edge [
+    color = '#5d6d7e',
+    penwidth = 2,
+    arrowsize = 0.9
+  ]
+
+  # =========================================
+  # TITLE
+  # =========================================
+
+  
+
+  # =========================================
+  # TOP NODE
+  # =========================================
+
+  Top [
+    label = 'Hamartomatous Polyp\\nSyndromes',
+    fillcolor = '#1abc9c',
+    fontcolor = white,
+    width = 3.2,
+    height = 0.9
+  ]
+
+  # =========================================
+  # SECOND LEVEL NODES
+  # =========================================
+
+  JPS [
+    label = 'Juvenile Polyposis\\nSyndrome (JPS)',
+    fillcolor = '#5dade2',
+    fontcolor = white,
+    width = 3,
+    height = 0.9
+  ]
+
+  PJS [
+    label = 'Peutz-Jeghers\\nSyndrome (PJS)',
+    fillcolor = '#af7ac5',
+    fontcolor = white,
+    width = 3,
+    height = 0.9
+  ]
+
+  PHTS [
+    label = 'PTEN Hamartoma\\nTumor Syndrome (PHTS)',
+    fillcolor = '#f5b041',
+    fontcolor = '#4a235a',
+    width = 3.4,
+    height = 0.9
+  ]
+
+  # =========================================
+  # THIRD LEVEL NODES
+  # =========================================
+
+  CS [
+    label = 'Cowden Syndrome (CS)',
+    fillcolor = '#ec7063',
+    fontcolor = white,
+    width = 3,
+    height = 0.8
+  ]
+
+  BRRS [
+    label = 'Bannayan-Riley-\\nRuvalcaba Syndrome (BRRS)',
+    fillcolor = '#48c9b0',
+    fontcolor = white,
+    width = 3.4,
+    height = 0.9
+  ]
+
+  # =========================================
+  # CONNECTIONS
+  # =========================================
+
+  Top -> JPS
+  Top -> PJS
+  Top -> PHTS
+
+  PHTS -> CS
+  PHTS -> BRRS
+
+  # =========================================
+  # RANK ALIGNMENT
+  # =========================================
+
+  {rank = same; JPS; PJS; PHTS}
+  {rank = same; CS; BRRS}
+
+}
+
+")
+```
+
 
 
 Generated with Qwen. 

@@ -11,12 +11,12 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: rocker/tidyverse:4.5.1
+    container: rocker/tidyverse:4.6.0
     steps:
       - name: Checkout
         uses: actions/checkout@v4
