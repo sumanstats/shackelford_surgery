@@ -4,8 +4,6 @@ project:
 execute:
   freeze: auto
   cache: true
-  python:
-    conda-env: quarto-env  
 book:
   title: "MCQs from Shackelford's Surgery"
   reader-mode: true 
