@@ -175,8 +175,8 @@ digraph inheritance {
 
 
 ```{r}
-|# label: Hamartomatous polyposis syndromes
-|# echo: false
+#| label: Hamartomatous polyposis syndromes
+#| echo: false
 
 # Install package if needed
 if (!require("DiagrammeR")) install.packages("DiagrammeR")
@@ -315,6 +315,8 @@ digraph hamartomatous_polyps {
 
 
 ```{python}
+#| label: FAP surveillance
+
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, Polygon
 import matplotlib.patheffects as pe
