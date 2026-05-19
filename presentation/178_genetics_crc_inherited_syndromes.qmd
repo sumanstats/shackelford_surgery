@@ -553,7 +553,7 @@ Decision driven by **severity of polyposis**:
 **Diagnostic criteria:**
 
 - Any juvenile polyp + family history of JPS, OR
-- >4 synchronous juvenile polyps in large intestine
+- \>4 synchronous juvenile polyps in large intestine
 
 - **Genes:** SMAD4, BMPR1A (TGF-β superfamily)
 - **Inheritance:** Autosomal dominant, variable penetrance
