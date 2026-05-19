@@ -314,6 +314,327 @@ digraph hamartomatous_polyps {
 ```
 
 
+```{python}
+import matplotlib.pyplot as plt
+from matplotlib.patches import FancyBboxPatch, Polygon
+import matplotlib.patheffects as pe
+
+# =============================================================================
+# MODERN SLIDE-READY FLOW DIAGRAM
+# =============================================================================
+
+fig, ax = plt.subplots(figsize=(16, 9))
+ax.set_xlim(0, 16)
+ax.set_ylim(0, 9)
+ax.axis('off')
+
+# -----------------------------------------------------------------------------
+# MODERN COLOR PALETTE
+# -----------------------------------------------------------------------------
+C = {
+    'blue': '#2563EB',
+    'cyan': '#06B6D4',
+    'green': '#10B981',
+    'orange': '#F59E0B',
+    'red': '#EF4444',
+    'yellow': '#FBBF24',
+    'dark': '#1F2937',
+    'gray': '#6B7280',
+    'light': '#F8FAFC',
+    'border': '#CBD5E1',
+    'arrow': '#475569',
+    'softblue': '#DBEAFE',
+    'softgreen': '#D1FAE5',
+    'softorange': '#FEF3C7',
+    'softred': '#FEE2E2'
+}
+
+# -----------------------------------------------------------------------------
+# DRAW HELPERS
+# -----------------------------------------------------------------------------
+def box(x, y, w, h, text,
+        fc, ec=None, tc='white',
+        fs=10, bold=True,
+        radius=0.08,
+        shadow=True):
+
+    if ec is None:
+        ec = fc
+
+    patch = FancyBboxPatch(
+        (x - w/2, y - h/2),
+        w, h,
+        boxstyle=f"round,pad=0.03,rounding_size={radius}",
+        facecolor=fc,
+        edgecolor=ec,
+        linewidth=1.5
+    )
+
+    if shadow:
+        patch.set_path_effects([
+            pe.SimplePatchShadow(offset=(2, -2), alpha=0.15),
+            pe.Normal()
+        ])
+
+    ax.add_patch(patch)
+
+    ax.text(
+        x, y, text,
+        ha='center',
+        va='center',
+        fontsize=fs,
+        color=tc,
+        fontweight='bold' if bold else 'normal',
+        family='DejaVu Sans',
+        linespacing=1.3
+    )
+
+
+def diamond(x, y, s, text, fc, ec=None, tc='white', fs=10):
+
+    if ec is None:
+        ec = fc
+
+    poly = Polygon(
+        [(x, y+s),
+         (x+s*1.35, y),
+         (x, y-s),
+         (x-s*1.35, y)],
+        closed=True,
+        facecolor=fc,
+        edgecolor=ec,
+        linewidth=1.5
+    )
+
+    poly.set_path_effects([
+        pe.SimplePatchShadow(offset=(2, -2), alpha=0.15),
+        pe.Normal()
+    ])
+
+    ax.add_patch(poly)
+
+    ax.text(
+        x, y, text,
+        ha='center',
+        va='center',
+        fontsize=fs,
+        color=tc,
+        fontweight='bold',
+        linespacing=1.25
+    )
+
+
+def arrow(x1, y1, x2, y2, lw=2, ls='-'):
+    ax.annotate(
+        '',
+        xy=(x2, y2),
+        xytext=(x1, y1),
+        arrowprops=dict(
+            arrowstyle='-|>',
+            lw=lw,
+            color=C['arrow'],
+            linestyle=ls,
+            shrinkA=5,
+            shrinkB=5
+        )
+    )
+
+# =============================================================================
+# TOP FLOW
+# =============================================================================
+
+box(
+    8, 8.3, 7.8, 0.65,
+    'POST-RESECTION SURVEILLANCE REQUIRED',
+    C['blue'],
+    fs=13
+)
+
+arrow(8, 7.95, 8, 7.55)
+
+box(
+    8, 7.15, 9.5, 0.75,
+    'Surveillance Targets\nRectum  •  Ileal Pouch  •  ATZ  •  End Ileostomy',
+    C['softblue'],
+    ec=C['blue'],
+    tc=C['dark'],
+    fs=11
+)
+
+arrow(8, 6.75, 8, 6.35)
+
+# =============================================================================
+# ATZ SECTION
+# =============================================================================
+
+box(
+    7.9, 5.95, 4.5, 0.8,
+    'ATZ Surveillance\n(High Adenoma Risk)',
+    C['orange'],
+    fs=12
+)
+
+# LEFT INFO
+box(
+    3.0, 5.95, 4.2, 1.0,
+    'Pouch Adenomas\n\n'
+    '• 42% by 7 years\n'
+    '• Usually slow-growing\n'
+    '• Develop over several years',
+    C['softgreen'],
+    ec=C['green'],
+    tc=C['dark'],
+    fs=9,
+    bold=False
+)
+
+arrow(5.1, 5.95, 5.7, 5.95)
+
+# RIGHT INFO
+box(
+    13.0, 5.95, 4.8, 1.15,
+    'ATZ Adenomas\n\n'
+    '• May exist at surgery\n'
+    '• Rapid formation\n'
+    '• ↑ after stapled IPAA\n'
+    '• Malignant potential',
+    C['softorange'],
+    ec=C['orange'],
+    tc=C['dark'],
+    fs=9,
+    bold=False
+)
+
+arrow(10.1, 5.95, 10.65, 5.95)
+
+arrow(8, 5.5, 8, 5.0)
+
+# =============================================================================
+# DECISION NODE
+# =============================================================================
+
+diamond(
+    8, 4.35, 0.65,
+    'ATZ Adenoma\nRequires\nIntervention?',
+    C['red'],
+    fs=10
+)
+
+# BRANCH LABELS
+ax.text(
+    5.4, 4.8,
+    'Simple',
+    fontsize=10,
+    fontweight='bold',
+    color=C['green']
+)
+
+ax.text(
+    10.3, 4.8,
+    'Complex / Villous',
+    fontsize=10,
+    fontweight='bold',
+    color=C['red']
+)
+
+# =============================================================================
+# LEFT SIMPLE PATHWAY
+# =============================================================================
+
+arrow(7.2, 4.35, 5.2, 4.35)
+
+box(
+    3.5, 4.35, 3.4, 0.7,
+    'Simple / Small\nATZ Adenoma',
+    C['softblue'],
+    ec=C['cyan'],
+    tc=C['dark'],
+    fs=10
+)
+
+arrow(3.5, 3.95, 3.5, 3.45)
+
+box(
+    3.5, 3.0, 3.8, 0.75,
+    'Simple Snare\nEndoscopic Removal',
+    C['green'],
+    fs=11
+)
+
+# =============================================================================
+# RIGHT COMPLEX PATHWAY
+# =============================================================================
+
+arrow(8.8, 4.35, 10.5, 4.35)
+
+box(
+    12.6, 4.35, 4.2, 0.75,
+    'Carpeting Villous\nATZ Adenoma',
+    C['softred'],
+    ec=C['red'],
+    tc=C['dark'],
+    fs=10
+)
+
+arrow(12.6, 4, 12.6, 3.5)
+
+box(
+    12.6, 3.2, 5.0, 0.8,
+    'Strip ATZ + Handsewn\nRe-anastomosis',
+    C['softorange'],
+    ec=C['orange'],
+    tc=C['dark'],
+    fs=10
+)
+
+arrow(12.6, 2.79, 12.6, 2.35)
+
+ax.text(
+    13, 2.6,
+    'If not feasible',
+    fontsize=10,
+    style='italic',
+    color=C['gray']
+)
+
+box(
+    12.6, 2.0, 5.2, 0.8,
+    'Formal Redo IPAA\nwith Transabdominal Pouch Mobilization',
+    C['yellow'],
+    ec='#D97706',
+    tc=C['dark'],
+    fs=10
+)
+
+arrow(12.6, 1.6, 12.6, 1.2)
+
+box(
+    12.6, 0.85, 5.8, 0.9,
+    'Preferred Redo Technique:  Transanal Approach\n• Resect half the circumference initially\n• Complete other half after ATZ heals from the first procedure',
+    C['softgreen'],
+    ec=C['green'],
+    tc=C['dark'],
+    fs=10
+)
+
+# =============================================================================
+# FINAL LAYOUT
+# =============================================================================
+
+plt.tight_layout(pad=0.5)
+
+#plt.savefig(
+#    'Modern_ATZ_Flow_Diagram.png',
+#    dpi=400,
+#    bbox_inches='tight',
+#    facecolor='white'
+)
+
+plt.show()
+```
+
+
+
 
 Generated with Qwen. 
 
