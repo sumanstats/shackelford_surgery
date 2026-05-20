@@ -1,0 +1,534 @@
+---
+title: "NCCN Guidelines: Genetic/Familial High-Risk Assessment"
+subtitle: "Colorectal, Endometrial, and Gastric | Version 1.2025"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    smaller: true
+    scrollable: true
+    include-in-header:
+      - text: |
+          <style>
+          .reveal .slides section h2 {
+            font-size: 1.8em !important;
+            line-height: 1.2 !important;
+          }
+          </style>
+---
+
+## Overview & Scope
+
+- **Purpose**: Guide identification of individuals benefiting from cancer risk assessment, genetic counseling/testing, and multidisciplinary management.
+- **Key Syndromes Covered**:
+  - Lynch Syndrome (LS)
+  - Adenomatous Polyposis (FAP, AFAP, MAP)
+  - Hamartomatous Polyposis (PJS, JPS, CS/PHTS)
+  - Serrated Polyposis Syndrome (SPS)
+  - Hereditary Diffuse Gastric Cancer (HDGC/CDH1)
+- **Core Principles**: Universal tumor screening, multigene panel testing (MGPT), gene-specific surveillance, risk-reducing interventions, and family cascade testing.
+
+---
+
+## Principles of Cancer Risk Assessment & Counseling (EVAL-A) 
+
+- **Pre-test Counseling**:
+  - Assess patient goals, collect ≥3-generation pedigree
+  - Discuss inheritance, penetrance, possible outcomes (P/LP, negative, VUS, mosaic)
+  - Review management options, informed consent, financial costs, GINA protections
+
+- **Testing Considerations**:
+  - MGPT often preferred over single-gene testing
+  - Comprehensive testing = full sequencing + large rearrangement analysis
+  - Generally not recommended in children <18 unless results change management (exceptions: FAP, JPS, PJS, CMMRD suspected)
+  - Avoid blood/saliva testing in allogeneic bone marrow transplant recipients (use fibroblast culture)
+
+---
+
+## Genetic Testing Approach & Post-Test (EVAL-A)
+
+- **Testing Strategy**:
+  - Test most informative affected relative first (youngest onset, multiple primaries, closest to proband)
+  - Unaffected testing acceptable if criteria met; discuss limitations of negative results
+  - Do not test family members for VUS clinically; refer to reclassification studies
+- **Post-Test Counseling**:
+  - Refer to genetics provider for: P/LP results, negative but suggestive history, clinically relevant VUS, mosaic/clonal hematopoiesis, discordant lab results, DTC findings
+  - Discuss risks, management, family notification, high-risk clinics, research trials
+  - Present risk as ranges, acknowledge margins of error, emphasize changing lifetime risk over time
+
+---
+
+## Tumor Genomic Testing & Germline Implications (EVAL-A)
+
+- Tumor testing may suggest germline findings, but somatic vs. germline origin must be confirmed
+- Tumor-only sequencing misses ~10% of actionable germline variants (deletions, duplications, splicing)
+- Germline testing should be done in CLIA/CAP-approved labs
+- ctDNA assays for early detection not validated in hereditary syndromes; use only per FDA indications or clinical trials
+- **Reproductive Options**: Discuss prenatal diagnosis, PGT, carrier testing for autosomal recessive genes (e.g., MUTYH)
+
+---
+
+## Comprehensive Assessment & Pedigree (EVAL-B)
+
+**Essential Family History Elements**:
+
+- Parents, siblings, children, aunts/uncles, grandparents, cousins
+- Cancer type, subtype, pathology, age at diagnosis, ethnicity, consanguinity
+- Prior germline test results, allogeneic transplant history
+
+**Directed Examination** (if syndrome suspected):
+
+- Colonoscopy, EGD
+- Eye/skin/oral exam, head circumference (macrocephaly ≥97th %)
+- Pathology verification strongly encouraged for all polyps/cancers
+
+:::{callout-note}
+Pedigree symbols follow NSGC updated nomenclature emphasizing sex/gender inclusivity.
+:::
+
+---
+
+## General Criteria for Testing (HRS-1)
+
+**Testing Clinically Indicated For**:
+
+- Known P/LP variant in blood relative
+- Prior limited testing negative but meets updated criteria
+- P/LP on tumor genomic testing with germline implications
+- Meets LS criteria (HRS-3)
+- Meets adenomatous polyposis criteria (POLYP-1)
+- Clinical criteria for JPS, PJS, or HDGC (HGAST-1)
+- LFS or CS/PHTS criteria (see Breast/Ovarian/Pancreatic Guidelines)
+
+
+---
+
+## General Criteria for Testing (HRS-1)
+
+**Genetic Evaluation Indicated For**:
+
+- Personal/family history of CRC, EC, or gastric cancer
+- Clinical criteria for SPS
+- ≥10 adenomas, ≥2 hamartomas, or ≥5 serrated polyps proximal to rectum (aids surgical/medical management)
+
+---
+
+## Polyposis Risk Assessment (HRS-2)
+
+| Polyp Type/Count | Syndrome Evaluation Pathway |
+|------------------|-----------------------------|
+| ≥10 adenomas | Classical FAP, AFAP, MAP, rare genetic causes, CPUE |
+| ≥5 serrated polyps proximal to rectum (all ≥5mm, ≥2 ≥10mm) OR >20 serrated throughout (≥5 proximal) | Serrated Polyposis Syndrome (SPS) |
+| ≥2 hamartomatous polyps | PJS, JPS, CS/PHTS |
+
+
+- Detailed family/medical history + directed exam required
+- MGPT recommended to differentiate APC from MAP/other syndromes
+- Rare PVs associated with adenomatous polyposis: monoallelic AXIN2, GREM1, POLE, POLD1; biallelic MLH3, MSH3, MBD4, NTHL1
+
+---
+
+## Criteria for Testing Lynch Syndrome (HRS-3)
+
+**Testing Clinically Indicated**:
+
+- Known LS PV in family
+- Personal history of LS-related cancer + any:
+  - Diagnosed <50 y
+  - Synchronous/metachronous LS-related cancer (any age)
+  - 1st/2nd degree relative with LS cancer <50 y
+  - ≥2 1st/2nd degree relatives with LS cancer (any age)
+- Family history: ≥1 1st degree with CRC/EC <50 y; ≥1 1st/2nd degree with CRC/EC + synchronous/metachronous LS cancer; ≥2 LS cancers (≥1 <50 y); ≥3 LS cancers (any age)
+- ≥5% risk by PREMM5, MMRpro, or MMRpredict
+- **MGPT consideration**: CRC/EC at ≥50 y + untested tumor MMR or MMR proficient (Category 2B)
+- PREMM5 ≥2.5% threshold reasonable for those without personal CRC/EC history
+
+---
+
+## MGPT Rationale, Pros & Cons (HRS-A)
+
+| Pros | Cons |
+|------|------|
+| Comparable/higher yield for LS vs. family/tumor criteria | Germline MGPT alone doesn't inform CRC/EC treatment (tumor MSI/IHC still required for ICI) |
+| Identifies PV in 7.8–16% CRC; 9.2–14% EC | Many PVs lack clear clinical actionability |
+| Enables cascade testing & early detection | High VUS rates (29–63% in CRC) |
+| Simplifies referral; not dependent on family/tumor data | Capacity for universal counseling/testing uncertain |
+| | Results may delay surgical decision-making |
+
+**Challenges**: Cascade testing rates 16–65%, cost-effectiveness uncertain, potential selection bias, equity gaps in VUS burden.
+
+**Test Selection**: Minimum panels should include core CRC/polyposis & EC genes (see GENE tables). Panel choice guided by age, phenotype, family history, preference.
+
+---
+
+## Strategies for Testing LS (LS-1)
+
+- **Known familial LS PV**: Test for familial PV. If positive/untested → follow LS surveillance. Offer testing to at-risk relatives.
+- **No known familial PV**: Offer germline MGPT if criteria met.
+  - PV found → follow gene-specific surveillance, offer family testing
+  - Negative/VUS/not tested → tailored surveillance based on individual/family risk
+- Follow NCCN Colorectal Cancer Screening if negative for familial PV.
+
+---
+
+## Principles of dMMR Testing (LS-A)
+
+- **Universal Screening**: IHC and/or MSI on all CRC/EC tumors regardless of age
+- **IHC**: Detects absence of MLH1, MSH2, MSH6, PMS2. Guides germline testing. 5–10% false-negative rate. Can be performed on adenomas (>10mm/high-grade increases sensitivity).
+- **MSI**: MSI-H indicates MMR loss. 5–15% false-negative rate. Mononucleotide panels preferred. NGS-based MSI acceptable if validated.
+- **Tumor vs. Germline**: Abnormal IHC/MSI → follow differential algorithm (LS-A 7-8). Confirm MLH1 loss with BRAF V600E & MLH1 promoter methylation (sporadic if positive).
+- **Neoadjuvant Therapy Note**: IHC less reliable post-chemoradiation (especially MSH6); repeat on pretreatment biopsy if absent.
+
+---
+
+## Tumor Testing Results & Additional Testing (LS-A)
+
+| IHC Result (MLH1/MSH2/MSH6/PMS2) | MSI | BRAF V600E | MLH1 Methylation | Plausible Etiology | Additional Testing |
+|----------------------------------|-----|------------|------------------|-------------------|-------------------|
+| NL / NL / NL / NL | MSS | N/A | N/A | Sporadic or non-LS | None** |
+| Any AB | MSS | N/A | N/A | Sporadic or Germline LS PV | Germline MMR testing or paired germline/somatic tumor testing |
+| AB / NL / NL / AB | N/A | Positive | N/A | Sporadic (or rare constitutional MLH1 epimutation) | None; consider epimutation testing if young onset |
+| AB / NL / NL / AB | N/A | Negative | Positive | Sporadic (or rare constitutional MLH1 epimutation) | None; consider epimutation testing if young onset |
+| AB / NL / NL / AB | N/A | Negative | Negative | Germline MLH1 or rare PMS2 PV | Germline MMR testing or paired testing |
+| NL / AB / AB / NL | N/A | N/A | N/A | Germline MSH2/EPCAM or rare MSH6 PV | Germline MMR testing or paired testing |
+| NL / NL / AB / NL | N/A | N/A | N/A | Germline MSH6 or MSH2 PV or treatment effect | Germline MMR testing; consider MSI/repeat IHC on untreated tumor |
+
+**AB = Abnormal/Absent; NL = Normal. See LS-A for full matrix & footnotes. Recommend genetic evaluation if <50 y regardless of tumor results.
+
+---
+
+## MLH1 Lynch Syndrome: Risks & Surveillance (LS-B)
+
+| Cancer Site | Lifetime Risk (LS) | Surveillance/Prevention |
+|-------------|-------------------|-------------------------|
+| Colorectal | 46–61% | Colonoscopy age 20–25 (or 2–5 y before earliest), repeat every 1–2 y. Consider daily aspirin. |
+| Endometrial | 34–54% | Educate on bleeding; endometrial biopsy q1–2 y starting 30–35 y. Consider TH+BSO at 40 y. |
+| Ovarian | 4–20% | BSO individualized. No routine screening. Consider salpingectomy if delaying oophorectomy. |
+| Gastric/Small Bowel | 5–7% / 0.4–11% | EGD starting 30–40 y, repeat q2–4 y. Biopsy for H. pylori/autoimmune gastritis. |
+| Urothelial | 0.2–7% | Consider annual urinalysis starting 30–35 y if family history. |
+| Pancreatic | 6.2% | Screen if ≥1 FDR/SDR with pancreatic cancer: MRI/MRCP or EUS starting 50 y (or 10 y before earliest). |
+| Prostate | 4.4–13.8% | Shared decision-making for screening at 40 y, annual intervals. |
+| Skin | Increased (sebaceous tumors, keratoacanthomas) | Derm exam q1–2 y. ICI increases skin neoplasia risk. |
+
+---
+
+## MSH2 & EPCAM Lynch Syndrome: Risks & Surveillance (LS-C)
+
+| Cancer Site | Lifetime Risk (LS) | Surveillance/Prevention |
+|-------------|-------------------|-------------------------|
+| Colorectal | 33–52% | Colonoscopy age 20–25, repeat q1–2 y. Consider aspirin. |
+| Endometrial | 21–57% | Biopsy q1–2 y starting 30–35 y. Consider TH+BSO at 40 y. EPCAM risk varies by deletion size/location. |
+| Ovarian | 8–38% | BSO individualized. Consider salpingectomy. |
+| Gastric/Small Bowel | 0.2–9% / 1.1–10% | EGD starting 30–40 y, repeat q2–4 y. H. pylori testing/treatment. |
+| Urothelial | 2.2–28% | Higher risk in males. Consider annual urinalysis starting 30–35 y. |
+| Brain | 2.5–7.7% | Educate on symptoms. |
+| Sarcoma | 4.24% | No clear evidence for surveillance. |
+| Skin | Increased (especially MSH2 c.942+3A>T) | Derm exam q1–2 y. ICI increases risk. |
+
+---
+
+## MSH6 Lynch Syndrome: Risks & Surveillance (LS-D)
+
+| Cancer Site | Lifetime Risk (LS) | Surveillance/Prevention |
+|-------------|-------------------|-------------------------|
+| Colorectal | 10–44% | Colonoscopy age 30–35, repeat q1–3 y. Consider aspirin. |
+| Endometrial | 16–49% | Biopsy q1–2 y starting 30–35 y. Consider TH + opportunistic salpingectomy at 40 y, delayed oophorectomy at 50 y. |
+| Ovarian | ≤1–13% | BSO individualized. No routine screening. |
+| Gastric/Small Bowel | ≤1–7.9% / ≤1–4% | EGD starting 30–40 y, repeat q2–4 y. |
+| Urothelial | 0.7–8.2% | Consider annual urinalysis starting 30–35 y. |
+| Pancreatic | 1.4–1.6% | Screen if ≥1 FDR/SDR with pancreatic cancer: MRI/MRCP or EUS starting 50 y. |
+| Prostate | 2.5–11.6% | Shared decision-making at 40 y, annual intervals. |
+| Skin | Increased | Derm exam q1–2 y. ICI increases risk. |
+
+---
+
+## PMS2 Lynch Syndrome: Risks & Surveillance (LS-E)
+
+| Cancer Site | Lifetime Risk (LS) | Surveillance/Prevention |
+|-------------|-------------------|-------------------------|
+| Colorectal | 8.7–20% | Colonoscopy age 30–35, repeat q1–3 y. Consider aspirin. |
+| Endometrial | 13–26% | Biopsy q1–2 y starting 30–35 y. Consider TH+BSO at 50 y. |
+| Other LS Cancers | Unclear increased risk | Data insufficient for routine risk estimates/surveillance beyond CRC/EC. Individualize based on personal/family history & clinical judgment. |
+| Reproductive | CMMRD risk if both partners carriers | Discuss PGT & carrier testing. |
+
+---
+
+## LS Colonoscopy Follow-up & Surgical Options (LS-F, LS-G)
+
+**Follow-up Findings**:
+
+- **None**: Continue q1–3 y
+- **Adenomas**: Polypectomy; repeat q1–2 y (MLH1/MSH2) or q1–3 y (PMS2/MSH6)
+- **Adenocarcinoma**: Segmental or extended colectomy based on age, PV, family history. Metachronous CRC risk up to 43% with segmental (MLH1/MSH2). Consider extended for high-risk genotypes.
+- **Unresectable adenomas**: Refer to expert center for EMR/ESD or surgery.
+
+---
+
+## LS Colonoscopy Follow-up & Surgical Options (LS-F, LS-G)
+
+**Surgical Considerations**:
+
+- Segmental: Preserves function, higher metachronous risk (~10–32% at 10 y)
+- Extended: Lower metachronous risk (~0–12% at 10 y), worse bowel function, higher perioperative risk
+- Coordinate with risk-reducing gynecologic surgery when indicated. ICI exposure does not modify surgical approach.
+
+---
+
+## Adenomatous Polyposis Testing (POLYP-1)
+
+**Test if**:
+
+- ≥20 cumulative adenomas (recommend)
+- Known PV in polyposis gene
+- Multifocal/bilateral CHRPE, cribriform-morular thyroid cancer, desmoid tumor, hepatoblastoma
+- 10–19 adenomas (consider, especially with family history/young onset)
+- Tumor-only APC P/LP + meets criteria or diagnosed <30 y
+
+**If PV known**: Test for familial PV.
+
+**If no PV known**: Germline MGPT including all polyposis/CRC genes.
+
+**If negative/not tested**: Manage per polyp count & family history. Test siblings for MAP PVs.
+
+---
+
+## APC-Associated Polyposis: FAP vs AFAP (FAP/AFAP-1)
+
+| Feature | Classical FAP | Attenuated FAP (AFAP) |
+|---------|---------------|----------------------|
+| Polyp Burden | ≥100 cumulative | 10–<100 (avg ~30) |
+| Onset | Early adolescence | Later onset (>35–40 y) |
+| Cancer Risk (untreated) | ~100% | ~70% by age 80 |
+| Distribution | Throughout colon | Right-sided predominance |
+| Extracolonic | CHRPE, osteomas, desmoids, thyroid/duodenal/gastric cancer, hepatoblastoma, medulloblastoma | Similar upper GI/thyroid risks; desmoids linked to 3' APC mutations; CHRPE unusual |
+
+- Confirm with APC germline testing (or MGPT if unknown)
+- Genetic testing in children by age 10–15 (or infancy if hepatoblastoma screening planned)
+
+---
+
+## FAP Surveillance & Management (FAP-B, FAP-C, FAP-D)
+
+**Post-Colectomy**:
+
+- IRA: Rectal exam q6–12 mo
+- IPAA: Pouch/rectal cuff annually (shorter if high-risk polyps)
+- End-ileostomy: Visual stoma inspection + ileoscopy q1–3 y
+
+**Duodenal/Periampullary**:
+
+- Upper endoscopy starting 20–25 y. Use Spigelman scoring:
+  - 0: q3–5 y | 1–4: q2–3 y | 5–6: q1–2 y | 7–8: q6–12 mo | 9–12: Expert q3–6 mo, consider duodenectomy
+
+**Gastric**:
+
+- FGPs common; biopsy if ≥10 mm or high-risk features (carpeting, mounds ≥20 mm, white patches, dysplasia)
+- Refer high-risk/unresectable lesions to expert center for ESD vs gastrectomy
+
+**Other**: Thyroid US starting late teens q2–5 y. Consider AFP/US q3–6 mo for first 5 y (hepatoblastoma). Educate on desmoid/brain symptoms.
+
+---
+
+## Surgical Options in FAP/AFAP (FAP-E)
+
+| Procedure | Indications | Pros | Cons |
+|-----------|-------------|------|------|
+| TAC/IRA | Manageable rectal polyposis, AFAP preferred | Low morbidity, good function, avoids stoma/infertility risk | Metachronous rectal cancer risk, requires reliable surveillance |
+| TPC/IPAA | Classical FAP, severe rectal disease, curable rectal cancer | Reduces rectal cancer risk, no permanent stoma | Complex, temporary stoma, infertility/sexual/bl dysfunction risk, variable function |
+| TPC/EI | Low advanced rectal cancer, poor IPAA candidate/contraindication, patient choice | Removes rectal cancer risk, single operation | Permanent stoma, dysfunction risks, may deter family screening |
+
+---
+
+## MUTYH-Associated Polyposis (MAP)
+
+- Autosomal recessive; biallelic MUTYH PVs
+- <100 adenomas (often right-sided), median CRC age 45–59 y
+- Duodenal cancer risk ~5%; may meet SPS criteria
+- **Surveillance**: Colonoscopy starting 25–30 y, repeat q1–2 y. Upper endoscopy starting 30–35 y.
+- **Management**: Polypectomy if manageable. Colectomy+IRA if unmanageable; consider IPAA for dense rectal polyposis. Rectal surveillance q6–12 mo post-IRA.
+- **Heterozygotes**: No increased CRC risk; follow average-risk screening unless personal/family history warrants otherwise.
+
+---
+
+## Colonic Adenomatous Polyposis of Unknown Etiology (CPUE)
+
+| Phenotype (Cumulative Adenomas) | Management/Surveillance |
+|--------------------------------|-------------------------|
+| ≥100 | Manage as Classical FAP |
+| 20–<100 (manageable) | Colonoscopy q1–2 y; upper endoscopy by 20–25 y; surgery if unmanageable |
+| 20–<100 (unmanageable) | Surgical evaluation; upper endoscopy by 20–25 y |
+| 10–19 | Individualize based on age at threshold, burden, family history. Consider upper endoscopy by 20–25 y. |
+
+- **Family History Adjustments**:
+  - FDR ≥100 adenomas: Colonoscopy q12 mo starting 10–15 y (lengthen if negative)
+  - FDR 20–<100: Start late teens q2 y, adjust by relative's age/burden
+  - FDR 10–19: Clinical judgment per screening guidelines
+
+---
+
+## Peutz-Jeghers Syndrome (PJS)
+
+- **Diagnosis**: ≥2 histologically confirmed PJS polyps; OR polyps + family history; OR pigmentation + family history; OR polyps + pigmentation
+- **Gene**: STK11 (66–94% detection rate)
+- **Pediatric Surveillance**:
+  - Upper/Lower endoscopy starting 8–10 y, repeat q2–3 y if polyps found
+  - Small bowel VCE/CT/MRI at 8–10 y, then q2–3 y
+  - Testes: Annual exam starting 10 y
+  - Ovaries: Annual exam for precocious puberty starting 8 y
+
+---
+
+## PJS Adult Surveillance
+
+| Site | Lifetime Risk | Surveillance |
+|------|---------------|--------------|
+| Breast | 32–54% | Annual mammogram + MRI starting ~30 y. Clinical exam q6–12 mo |
+| Colon | 39% | Colonoscopy q2–3 y starting ~18 y |
+| Stomach | 29% | EGD q2–3 y starting ~18 y |
+| Small Bowel | 13% | VCE/CT/MRI q2–3 y starting ~18 y |
+| Pancreas | 11–36% | Annual EUS or MRI/MRCP starting 30–35 y (or 10 y before earliest) |
+| Cervix | ≥10% | Annual pelvic/Pap starting 18–20 y. Consider hysterectomy after childbearing |
+| Uterus | 9–10% | Annual pelvic exam + biopsy if abnormal bleeding |
+| Ovaries | ≥20% | Annual pelvic US + exam starting 18–20 y |
+| Lungs | 7–17% | Smoking cessation education. No routine screening |
+| Testes | 9% | Annual exam (continue from pediatric) |
+
+---
+
+## Juvenile Polyposis Syndrome (JPS)
+
+- **Diagnosis**: ≥5 juvenile colon polyps; OR multiple GI juvenile polyps; OR any juvenile polyp + family history
+- **Genes**: BMPR1A or SMAD4 (~50% combined)
+- **Pediatric Surveillance**:
+  - Upper/Lower endoscopy starting 12–15 y, repeat q2–3 y if polyps found
+  - SMAD4: Screen for HHT within first 6 mo of life
+- **Adult Surveillance**:
+  - Colonoscopy q1–3 y starting ~18 y (extend to q5 y if no PV & negative exams)
+  - EGD q1–3 y starting ~18 y (SMAD4 higher risk than BMPR1A)
+  - Small bowel: No routine recommendations (rare cancer)
+  - Gastrectomy/colectomy if polyps/anemia unmanageable endoscopically
+
+---
+
+## Serrated Polyposis Syndrome (SPS)
+
+- **WHO Criteria**: ≥5 serrated polyps proximal to rectum (all ≥5mm, ≥2 ≥10mm) OR >20 serrated throughout large bowel (≥5 proximal). Count cumulative.
+- **Risk**: CRC prevalence ~19.9%. May overlap with MUTYH or RNF43 variants.
+- **Management**:
+  - High-quality colonoscopy + polypectomy until all ≥5mm removed
+  - Repeat q1–3 y based on burden
+  - Surgical referral if colonoscopic control inadequate or high-grade dysplasia/CRC develops
+- **First-Degree Relatives**:
+  - Screen at earliest: age 40 y, age at SPS diagnosis in relative, or 10 y before earliest CRC
+  - Repeat q5 y if negative. If proximal serrated/multiple adenomas → q1–3 y
+
+---
+
+## Hereditary Diffuse Gastric Cancer (HGAST) Testing Criteria
+
+**Test if**:
+
+- Known CDH1 PV in family
+- Diffuse gastric cancer (DGC) at any age
+- ≥2 1st/2nd degree relatives with gastric cancer (≥1 ≤50 y or ≥1 confirmed DGC)
+- Meets breast cancer testing criteria per Breast/Ovarian/Pancreatic Guidelines
+
+**Strategy**:
+
+- Known familial PV → Test for PV. If positive → follow HGAST management. Offer family testing.
+- No known PV → MGPT including CDH1 + core polyposis/CRC genes. If positive → manage per HGAST-A/B.
+
+---
+
+## CDH1 Risks & Management Overview
+
+| Cancer | Lifetime Risk (CDH1) | Management Notes |
+|--------|---------------------|------------------|
+| Stomach (DGC) | 24.7–33% females; 37.2–42% males | Nearly all carriers have pT1a SRCC. Advanced cancer risk ~10% males/7% females. |
+| Breast (Lobular) | 37–55% females | Follow Breast/Ovarian/Pancreatic Guidelines. |
+
+**Management Options**:
+
+- **Risk-Reducing Gastrectomy**: Maximizes prevention (<1% residual risk). Major complications ~19.2%. Significant QoL impact.
+- **Endoscopic Surveillance**: Avoids surgery but cannot reliably distinguish pT1a from pT1b. Requires expert center, annual EGD, Cambridge biopsy protocol. Repeat q6–12 mo.
+- **Gastrectomy Indicated If**: pT1b+ SRCC, persistent unexplained symptoms, or endoscopic findings suggesting advanced disease (poor distensibility, rigid folds, mucosal irregularities).
+- Shared decision-making essential. Multidisciplinary team recommended.
+
+---
+
+## Cancer Risk Management: GENE-1 to GENE-3
+
+| Gene/Syndrome | CRC Risk/Management | EC/Gastric Risk | Other |
+|---------------|---------------------|-----------------|-------|
+| APC (FAP) | ~100% untreated. FAP/AFAP protocols | No increased EC. Gastric 0.1–7.1% | Duodenal, thyroid, desmoids, hepatoblastoma, CNS |
+| APC I1307K | 5–10%. Colonoscopy q5 y starting 40 (or 10 y before FDR) | No increased risk | Unknown |
+| APC promoter 1B (GAPPS) | Rare polyposis. Colonoscopy at 25 y | No increased EC. Gastric 12–25% | Consider risk-reducing gastrectomy ≥30 y, annual EGD from 15 y |
+| ATM | 5–10%. Manage per family history | No increased EC/Gastric | Breast, ovarian, pancreatic. Counsel for ataxia-telangiectasia |
+| AXIN2 | Insufficient data. Colonoscopy 25–30 y q2–3 y (q1–2 y if polyps) | No increased risk | Oligodontia, ectodermal dysplasia |
+| BLM heterozygotes | 5–10%. Manage per family history | No increased risk | Counsel for Bloom syndrome |
+| BMPR1A (JPS) | 40–50%. JPS protocols | No increased EC. Gastric rare | HHT risk absent |
+
+---
+
+## Cancer Risk Management: GENE-4 to GENE-6
+
+| Gene/Syndrome | CRC Risk/Management | EC/Gastric Risk | Other |
+|---------------|---------------------|-----------------|-------|
+| CDH1 | No established association | No increased EC. Gastric 25–42%. Advanced 7–10% | Lobular breast cancer (37–55%) |
+| CHEK2 | No increased risk. General population screening unless personal/FDR history | No increased risk | Breast, prostate |
+| EPCAM (LS) | 33–52%. LS-C protocol | EC 12–57%. Gastric 0.2–9% | Gynecologic risk varies by deletion size. Counsel for CMMRD |
+| GALNT12 | 5–10%. Manage per family history | No increased risk | Unknown |
+| GREM1 (HMPS) | 11–20%. Colonoscopy 25–30 y q2–3 y (q1–2 y if polyps) | No increased risk | Mixed polyposis (serrated/hamartomatous/hyperplastic/juvenile) |
+| MBD4 biallelic | Insufficient. Colonoscopy 18–20 y q2–3 y | No increased risk | AML (CBC at diagnosis), uveal melanoma (annual ophtho exam) |
+
+---
+
+## Cancer Risk Management: GENE-7 to GENE-9
+
+| Gene/Syndrome | CRC Risk/Management | EC/Gastric Risk | Other |
+|---------------|---------------------|-----------------|-------|
+| MLH1 (LS) | 46–61%. LS-B protocol | EC 34–54%. Gastric 5–7% | LS-B spectrum. Counsel for CMMRD |
+| MSH2 (LS) | 33–52%. LS-C protocol | EC 21–57%. Gastric 0.2–9% | LS-C spectrum. Counsel for CMMRD |
+| MSH6 (LS) | 10–44%. LS-D protocol | EC 16–49%. Gastric ≤1–7.9% | LS-D spectrum. Counsel for CMMRD |
+| MSH3 biallelic | Insufficient. Colonoscopy 25–30 y q2–3 y | No increased risk | Duodenal polyposis, gastric cancer, astrocytoma reported |
+| MLH3 biallelic | Insufficient. Colonoscopy 25–30 y q2–3 y | No increased risk | Breast & brain tumors reported |
+| MUTYH biallelic (MAP) | 70–90% untreated. MAP protocols | No increased EC/Gastric | Duodenal polyposis 17–34%, cancer 4% |
+| MUTYH monoallelic | No increased risk. General screening | No increased risk | ~1–2% population carriers. Slight CRC risk increase in meta-analyses |
+
+---
+
+## Cancer Risk Management: GENE-10 to GENE-12
+
+| Gene/Syndrome | CRC Risk/Management | EC/Gastric Risk | Other |
+|---------------|---------------------|-----------------|-------|
+| NTHL1 biallelic | >20%. Colonoscopy 25–30 y q2–3 y | Increased EC risk. No increased gastric | Breast, urothelial, brain, hematologic, BCC, HNSCC, cervical. Duodenal polyps observed |
+| POLD1 (PPAP) | >20%. Colonoscopy 25–30 y (or 2–5 y before earliest) q2–3 y | Increased EC. No increased gastric | Duodenal adenomas/cancer. EGD starting 30–35 y |
+| POLE (PPAP) | >20%. Colonoscopy 25–30 y (or 2–5 y before earliest) q2–3 y | Increased EC. No increased gastric | Duodenal adenomas/cancer. EGD starting 25–30 y. Case of CRC at 14 y |
+
+---
+
+## Cancer Risk Management: GENE-13 to GENE-15
+
+| Gene/Syndrome | CRC Risk/Management | EC/Gastric Risk | Other |
+|---------------|---------------------|-----------------|-------|
+| PMS2 (LS) | 8.7–20%. LS-E protocol | EC 13–26%. No increased gastric | Other LS cancers unclear. Individualize surveillance. Counsel for CMMRD |
+| PTEN (PHTS) | 9–20%. Breast/Ovarian/Pancreatic Guidelines | EC 28%. No increased gastric | Breast 40–60%+, thyroid 35%, kidney 34%, melanoma 6%. Multiple non-cancer features |
+| RNF43 (SPS) | Insufficient. SPS-1 if criteria met | No increased risk | Rare cause of SPS |
+| RPS20 | Insufficient. Colonoscopy q5 y starting 20 (or 1 y post-transplant <20) | No increased risk | Early-onset CRC (as young as 24 y). Possible DBA link |
+| SMAD4 (JPS) | Up to 50%. JPS protocols | No increased EC. Gastric ≤21% | HHT risk (screen <6 mo). Small intestine cancer possible |
+| STK11 (PJS) | 39%. PJS protocols | Uterine 9–10%. Gastric 29% | Breast, pancreatic, small bowel, lung, testicular, gynecologic |
+| TP53 (LFS) | 5–20%. Colonoscopy q2–5 y starting 20–25 | No increased EC. Gastric 10.7% | Core LFS cancers: breast, sarcoma, osteosarcoma, CNS, ACC. Melanoma, prostate |
+
+---
+
+
+
+## Summary & Clinical Takeaways
+
+1. **Universal Tumor Screening**: IHC/MSI on all CRC/EC maximizes LS detection.
+2. **MGPT Integration**: Expands detection beyond LS; requires careful counseling & VUS management.
+3. **Gene-Specific Management**: Surveillance intervals, surgical considerations, and risk-reducing options vary significantly by gene (e.g., MLH1/MSH2 vs. PMS2/MSH6; FAP vs. AFAP).
+4. **Multidisciplinary Care**: Essential for HDGC gastrectomy decisions, complex polyposis management, and reproductive counseling.
+5. **Family Cascade Testing**: Critical for early detection; tailor approach based on familial PV status & phenotype.
+6. **Dynamic Guidelines**: Emerging data continuously refine penetrance estimates, VUS reclassification, and screening protocols.
+

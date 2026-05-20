@@ -1,0 +1,1076 @@
+---
+title: "NCCN Genetic/Familial: Colorectal, Endometrial, and Gastric"
+subtitle: "NCCN Guidelines Version 3.2024"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    smaller: true
+    scrollable: true
+    include-in-header:
+      - text: |
+          <style>
+          .reveal .slides section h2 {
+            font-size: 1.8em !important;
+            line-height: 1.2 !important;
+          }
+          </style>
+---
+
+
+
+
+
+## Abstract & Guideline Intent
+
+**Purpose:**
+
+1. Identify individuals who may benefit from cancer risk assessment and genetic counseling/testing
+2. Guide decisions related to genetic testing
+3. Facilitate multidisciplinary care for hereditary colorectal, endometrial, and gastric cancer
+
+**Key Updates:**
+
+- Screening and management of EC in Lynch syndrome, PTEN hamartoma tumor syndrome (PHTS), and Peutz-Jeghers syndrome (PJS)
+- Role of multigene panel testing (MGPT)
+- **De-implementation of colon cancer screening in individuals with CHEK2 pathogenic/likely pathogenic variants**
+
+---
+
+## Overview of Hereditary Cancer Risk
+
+- Hereditary cancers characterized by pathogenic/likely pathogenic (P/LP) variants
+- Increased risk for specific cancers; transmitted through mother and/or father
+- Often early age of onset; autosomal dominant inheritance
+- **All individuals suspected of hereditary cancer risk should be offered genetic counseling**
+- Assessment based on thorough personal and family history evaluation
+
+**Syndromes covered:**
+
+- Lynch syndrome (LS)
+- Adenomatous polyposis syndromes (FAP, AFAP, MAP)
+- Hamartomatous polyposis syndromes (JPS, PJS, PHTS)
+
+---
+
+## Endometrial Cancer Epidemiology
+
+- Most common malignancy of the female genital tract in the United States
+- **Estimated 67,880 new cases in 2024; 13,250 deaths**
+- \>600,000 survivors of EC in the United States
+- **~5% of EC cases attributed to a hereditary syndrome**
+  - Lynch syndrome
+  - PTEN hamartoma tumor syndrome (PHTS)
+  - Peutz-Jeghers syndrome (PJS)
+- MGPT has revealed other genes potentially associated with increased EC risk: **BRCA1/2, POLD1, POLE**
+
+---
+
+## Multigene Panel Testing (MGPT) — Definition
+
+**Next-generation sequencing (NGS)** allows simultaneous sequencing of multiple genes.
+
+**Panel Types:**
+
+- **Syndrome-specific:** Multiple genes associated with one syndrome (e.g., LS)
+- **Cancer-specific:** Multiple genes associated with one cancer type (e.g., EC)
+- **Comprehensive cancer panels:** Many genes associated with multiple cancers/syndromes
+
+**Penetrance inclusion:**
+
+- High-penetrance genes
+- High- and moderate-penetrance genes
+- Genes with emerging evidence
+
+---
+
+## MGPT — Clinical Rationale
+
+- Identify clinically actionable P/LP variants that alter patient management
+- Most useful when >1 gene could explain clinical/family history
+- May detect P/LP variants not found with single-gene testing
+- Comparable or higher yield for LS compared with tumor-based testing
+- May be considered when:
+  - Previous limited testing was negative but history strongly suggests inherited susceptibility
+  - Individual meets criteria but had absent deletion/duplication analysis
+  - More than one P/LP variant could influence condition
+
+---
+
+## MGPT — Advantages
+
+- **Efficiency:** More efficient than sequential single-syndrome testing when multiple genes may explain presentation
+- **Yield:** Higher detection rate for LS and other cancer risk genes
+- **Actionability:** Identifies variants that inform screening, surveillance, and treatment
+- **Cascade testing:** Allows family cascade testing and early detection/prevention opportunities
+- **Simplification:** May simplify referral and testing; not entirely dependent on family history or tumor characteristics
+- **Reproductive planning:** Can identify carrier status for recessive disorders in offspring
+
+---
+
+## MGPT — Limitations & Challenges
+
+- **VUS:** Increases likelihood of variants of uncertain significance (VUS)
+  - 29–63% of individuals with CRC may have a VUS depending on panel size
+  - Higher VUS rates in racial/ethnic minority groups
+- **Uncertain management:** Some P/LP variants lack clear management guidelines
+- **Overtreatment risk:** Potential for overtreatment/overscreening due to uncertain findings
+- **Capacity:** Uncertain capacity to deliver pre/post-test counseling to all patients
+  - Current genetic testing rates among EC patients: ~6.4%
+- **Turnaround time:** Longer turnaround may not suit urgent surgical decision-making
+- **Germline alone does NOT inform EC treatment decisions** (tumor MMR testing required for immunotherapy eligibility)
+
+---
+
+## MGPT for Endometrial Cancer — Detection Rates
+
+- MGPT identifies a P/LP variant in **9.2% to 14.7%** of patients with EC
+- Unselected populations yield lower positive rates than those selected by personal/family history
+- **Cancer risk genes other than LS genes found in 3.4% to 11.8%** of patients with EC
+- One prospective study showed **34.5% of LS patients would not have been identified without MGPT**
+  - 6 patients had no MSI/IHC performed
+  - 4 had tumor findings that would not have triggered germline testing
+
+---
+
+## Table 1 — P/LP Variant Rates in EC (Study Data)
+
+| Study (Population) | N | Genes | Total P/LP (%) | LS P/LP (%) |
+|:---|:---|:---|:---|:---|
+| Ring et al, 2016 (high-risk) | 381 | 25 | 35 (9.2%) | 22 (5.8%) |
+| Cadoo et al, 2019 (unselected) | 156 | 75 | 22 (14%) | 5 (3.2%) |
+| Levine et al, 2021 (unselected) | 961 | 47 | 97 (10.1%) | 29 (3%) |
+| Karpel et al, 2022 (high-risk) | 224 | Varied | 33 (14.7%) | 21 (9.4%) |
+| Heald et al, 2022 (high-risk) | 6,490 | Varied | 880 (13.6%) | 532 (8.2%) |
+| Gordhandas et al, 2023 (unselected) | 1,625 | 76–90 | 216 (13%) | 39 (2.4%) |
+
+---
+
+## Table 1 — P/LP Variant Rates in EC (Summary)
+
+| Summary | N | Total P/LP | LS P/LP |
+|:---|:---|:---|:---|
+| **High-risk cohorts** | 7,095 | 938 (13.4%) | 8.1% (575/7,095) |
+| **Unselected cohorts** | 2,742 | 335 (12%) | 2.7% (73/2,742) |
+
+**Key non-LS genes identified:**
+
+- **CHEK2, BRCA1/2, BRIP1, PALB2, RAD51C, ATM, APC, MUTYH** (biallelic), **PTEN, TP53**
+- Moderate/low penetrance: **CHEK2, RAD50, NBN**
+- Recessive: **MUTYH, MSH3, NTHL1**
+
+---
+
+## MGPT for EC — Histology & Clinical Correlations
+
+- **Limited evidence** for endometrial tumor histology as predictor of non-LS P/LP variants
+- Patients with non-LS P/LP variants more likely to have **serous histology** (23% vs 6%; P=.02)
+  - Mutations in **BRCA2, BRIP1, RAD51C** observed in serous cases
+  
+  
+---
+
+## MGPT for EC — Histology & Clinical Correlations
+
+- **39% of non-LS P/LP variants** were of non-endometrioid histology
+- P/LP variant distribution by histology:
+  - Endometrioid: 13.4%
+  - Serous: 8.7%
+  - Clear cell: 23.9%
+  - Carcinosarcoma: 11.3%
+  - De-/undifferentiated: 15.2%
+  - Mixed/high-grade NOS: 14.5%
+- **Age of diagnosis was NOT associated** with greater likelihood of testing positive
+
+---
+
+## MGPT — Minimum Gene Recommendations for EC
+
+**Germline MGPT should include at minimum:**
+
+- **MLH1, MSH2, MSH6, PMS2, EPCAM**
+- **PTEN**
+- **BRCA1, BRCA2**
+
+**May also be considered:**
+
+- **POLD1**
+- **POLE**
+
+---
+
+## MGPT — Minimum Gene Recommendations for EC
+
+
+**Selection/retesting decisions based on:**
+
+- Age at presentation
+- Personal and family history of cancer
+- Patient and provider preference
+
+---
+
+## NCCN Panel Stance on Upfront MGPT for EC
+
+- **Optimal approach remains uncertain**
+- Panel does **not** assert MGPT is logistically simpler than selection based on history + tumor screening
+- **Lack of evidence** regarding impact of MGPT on:
+  - EC incidence and mortality
+  - Inequities in genetic evaluation by race, ethnicity, social determinants
+- **Recommendation (Category 2B):** Consider germline MGPT for patients with EC aged ≥50 years who do not meet other testing criteria, based on comprehensive assessment
+- **Ideally offered with professional genetic expertise** (pre- and post-test counseling)
+
+---
+
+## HRS-1 — General Criteria: Testing Clinically Indicated
+
+- Any blood relative with a known P/LP variant in a cancer susceptibility gene
+- Individuals meeting criteria below who tested negative with previous limited testing and are interested in multigene testing
+- P/LP variant identified on tumor genomic testing with clinical implications if also in germline
+- Individual meeting LS testing criteria (HRS-3) based on:
+  - Family history of LS-associated P/LP variant
+  - Personal/family history of LS-related cancer
+  - Personal history of dMMR tumor
+  
+---
+
+## HRS-1 — General Criteria: Testing Clinically Indicated
+
+
+- Individual meeting adenomatous polyposis testing criteria (POLYP-1)
+- Individual meeting clinical criteria for JPS (JPS-1), PJS (PJS-1), HDGC (HGAST-1)
+- Individual meeting LFS or CS/PHTS testing criteria
+
+---
+
+## HRS-1 — Genetic Evaluation Clinically Indicated
+
+- **Personal or family history of:**
+  - Colorectal cancer (CRC) — see HRS-3
+  - Endometrial cancer (EC) — see HRS-3
+  - Gastric cancer — see HGAST-1
+- Individual meeting clinical criteria for serrated polyposis syndrome (SPS-1)
+- **To aid in surgical decision-making:**
+  - \>10 adenomatous polyps
+  - \>2 hamartomatous polyps
+  - \>5 serrated polyps/lesions proximal to the rectum
+
+---
+
+## Lynch Syndrome — Overview
+
+- Accounts for **~3% of all EC cases**
+- Results from germline P/LP variant in 1 of 4 DNA MMR genes:
+  - **MLH1, MSH2, MSH6, PMS2**
+- **EPCAM** deletions cause MSH2 silencing → LS
+- Autosomal dominant; high penetrance
+- **Importance:** High personal risk for metachronous LS cancers; familial implications
+- EC is the **second most common LS-associated cancer** in those at risk
+
+---
+
+## Lynch Syndrome — EC Risk by Gene
+
+Lifetime EC risk (through age 80) varies by mutated gene:
+
+| Gene | Average Age of Onset | Cumulative Risk (Age 80) |
+|:---|:---|:---|
+| **MLH1** | ~49 years | 34%–54% |
+| **MSH2** | ~49–50 years | 37%–54% |
+| **MSH6** | ~55 years | 22%–40% |
+| **PMS2** | ~49–50 years | 13%–26% |
+| **EPCAM** | Variable | Variable (depends on deletion extent) |
+
+- Individuals with LS (AFAB): lifetime risk up to **60%** for EC
+
+---
+
+## Lynch Syndrome — Testing Strategy Options
+
+**If colorectal or endometrial tumor is available:**
+
+1. **Tumor testing:** IHC or MSI; or comprehensive tumor NGS panel (minimum: 4 MMR genes + EPCAM, BRAF [CRC only], MSI, other familial cancer genes)
+2. **Germline MGPT:** Includes at least 4 MMR genes + EPCAM
+
+**Primary approach for pathology lab–based universal screening:** Tumor testing with IHC and/or MSI
+
+**If no tumor available, insufficient material, or affected relative unavailable:**
+
+- Germline MGPT may be considered
+
+**MGPT recommended for:** Patients diagnosed with EC or CRC aged <50 years or with strong family history
+
+---
+
+## HRS-3 — LS Testing Criteria (Personal History)
+
+**Testing clinically indicated for personal history of LS-related cancer (CRC, EC, or other) with ANY of:**
+
+- Diagnosed **<50 years**
+- A **synchronous or metachronous** LS-related cancer regardless of age
+- **1 first-degree or second-degree relative** with LS-related cancer diagnosed <50 years
+- **≥2 first-degree or second-degree relatives** with LS-related cancer regardless of age
+
+**Or increased model-predicted risk:**
+
+- **≥5% risk** of MMR gene P/LP variant by predictive models (PREMM5, MMRpro, MMRpredict)
+- PREMM5 score **≥2.5%** with personal history of CRC/EC (increased sensitivity, decreased specificity)
+
+---
+
+## HRS-3 — LS Testing Criteria (Family History & Tumor)
+
+**Family history criteria:**
+
+- ≥1 first-degree relative with CRC or EC diagnosed <50 years
+- ≥1 first-degree relative with CRC or EC + synchronous/metachronous LS-related cancer regardless of age
+- ≥2 first- or second-degree relatives with LS-related cancers, including ≥1 diagnosed <50 years
+- ≥3 first- or second-degree relatives with LS-related cancers regardless of age
+
+
+---
+
+## HRS-3 — LS Testing Criteria (Family History & Tumor)
+
+**Tumor-based criteria:**
+
+- Personal history of CRC, EC, or other tumor with MMR deficiency by PCR, NGS, or IHC at any age
+- Personal history of P/LP variant identified on tumor genomic testing with clinical implications if germline
+
+**May be considered:** Personal history of CRC or EC at age ≥50 years + untested for MMR deficiency or absence of MMR deficiency (Category 2B)
+
+---
+
+## LS Tumor Testing — Differential Diagnosis
+
+**If abnormal MSI or IHC identified in CRC or EC:**
+
+- Differential diagnosis required
+- **Absent MSH2 expression by IHC:** Direct germline testing indicated
+- **Absent MLH1 expression by IHC (endometrial tumors):**
+  - Recommend additional tumor testing for **MLH1 hypermethylation**
+  - If hypermethylation present → consistent with **sporadic** (not LS-associated) cancer
+  - If no hypermethylation → consider germline testing
+- Algorithm (LS-1, LS-A) available at NCCN.org for full result scenarios and follow-up
+
+---
+
+## LS-B — MLH1: Endometrial Cancer Management
+
+::: {.columns}
+:::{.column width="50%"}
+**Education & Symptom Recognition:**
+
+- Prompt reporting of dysfunctional uterine bleeding or postmenopausal bleeding
+- Evaluation must include **endometrial biopsy**
+
+
+:::
+:::{.column width="50%"}
+**Screening:**
+
+- Endometrial biopsy every **1–2 years** starting at age **30–35 years** may be considered
+- Transvaginal ultrasound **not recommended** in premenopausal; may consider in postmenopausal at clinician discretion
+
+:::
+:::
+
+**Risk-Reducing Surgery:**
+
+- Total hysterectomy **+ bilateral salpingo-oophorectomy (BSO)** may be considered starting at age **40 years**
+- Coordinate with colorectal surgery if indicated
+- Estrogen replacement therapy should be considered after premature menopause
+
+---
+
+## LS-B — MLH1: Ovarian & Upper GI Surveillance
+
+::: {.columns}
+:::{.column width="50%"}
+**Ovarian Cancer:**
+
+- BSO reduces incidence; timing individualized by childbearing status, menopause, comorbidities, family history, gene
+- **No routine ovarian cancer screening** (CA-125/TVUS for preoperative planning only)
+- **Salpingectomy** option for premenopausal patients not ready for oophorectomy
+- Consider risk-reduction agents (oral contraceptives, progestin IUD)
+
+:::
+
+:::{.column width="50%"}
+**Gastric & Small Bowel Cancer:**
+
+- Upper GI surveillance with **high-quality EGD starting age 30–40 years**, repeat every **2–4 years**
+- Random biopsy of proximal and distal stomach at initial procedure for H. pylori, autoimmune gastritis, intestinal metaplasia
+- Push enteroscopy may enhance small bowel visualization
+- One-time noninvasive H. pylori testing if not undergoing endoscopic surveillance
+
+:::
+:::
+
+
+
+---
+
+## LS-C — MSH2: Endometrial & Ovarian Management
+
+
+::: {.columns}
+:::{.column width="50%"}
+**Endometrial Cancer:**
+
+- Education on abnormal bleeding; endometrial biopsy for evaluation
+- Hysterectomy + BSO may be considered starting at age **40 years** (higher risks of early EC and ovarian cancer)
+- Endometrial biopsy screening every **1–2 years** from age **30–35 years** may be considered
+- Transvaginal ultrasound not recommended premenopausal; may consider postmenopausal
+
+:::
+
+:::{.column width="50%"}
+**Ovarian Cancer:**
+
+- BSO as risk-reducing option; starting age **40 years** for MSH2
+- No routine screening; salpingectomy option for premenopausal patients
+- Consider oral contraceptives and progestin IUDs for risk reduction
+- Estrogen replacement after premature menopause
+
+:::
+:::
+
+
+
+---
+
+## LS-C — MSH2/EPCAM: Upper GI & Special Considerations
+
+
+::: {.columns}
+:::{.column width="50%"}
+**Gastric & Small Bowel:**
+
+- EGD starting **30–40 years**, every **2–4 years** (preferably with colonoscopy)
+- Earlier initiation (<30 years) or shorter interval (<2 years) based on family history or high-risk findings (GIM, adenomas, Barrett esophagus with dysplasia)
+- Random gastric biopsies at initial EGD; H. pylori test/treat
+
+:::
+
+:::{.column width="50%"}
+**EPCAM-Specific Notes:**
+
+- Evidence for gynecologic cancer surveillance recommendations **lacking**
+- Cancer risks historically characterized similarly to MSH2, but EC risk is **variable**
+- Risk related to extent/location of deletion and proximity to MSH2 promoter
+- Currently: counseling and surveillance based on **family history and shared decision-making**
+- Risk-reducing surgery may be considered at later age, similar to **PMS2** guidelines
+
+:::
+:::
+
+
+
+---
+
+## LS-D — MSH6: Endometrial Management
+
+::: {.columns}
+:::{.column width="55%"}
+**Endometrial Cancer:**
+
+- Education on abnormal bleeding; endometrial biopsy for symptoms
+- **Hysterectomy with opportunistic bilateral salpingectomy** may be considered starting at age **40 years**
+- **Delayed bilateral oophorectomy** starting at age **50 years**
+- Endometrial biopsy every **1–2 years** starting at age **30–35 years** may be considered
+- Transvaginal ultrasound not recommended premenopausal; may consider postmenopausal
+
+:::
+
+:::{.column width="45%"}
+**Rationale for delayed oophorectomy:**
+
+- MSH6 carriers have lower ovarian cancer risk than MLH1/MSH2
+- Opportunistic salpingectomy = elective removal of fallopian tubes during other abdominal surgery to prevent tube/ovary/peritoneum cancer
+
+:::
+:::
+
+
+
+---
+
+## LS-D — MSH6: Ovarian & Upper GI Management
+
+
+::: {.columns}
+:::{.column width="50%"}
+**Ovarian Cancer:**
+
+- **Insufficient evidence** for specific RRSO recommendation in MSH6 carriers
+- BSO may reduce incidence; decision individualized
+- Salpingectomy at age 40 with delayed oophorectomy at 50
+- No routine screening; salpingectomy option for premenopausal patients
+- Consider risk-reduction agents (OCP, progestin IUD)
+- Estrogen replacement after premature menopause
+
+:::
+
+:::{.column width="50%"}
+**Gastric & Small Bowel:**
+
+- EGD starting **30–40 years**, every **2–4 years** with colonoscopy
+- Earlier/shorter intervals based on family history or high-risk endoscopic findings
+- Random gastric biopsies at initial EGD; H. pylori test/treat
+
+
+:::
+:::
+
+
+---
+
+## LS-E — PMS2: Endometrial Cancer Surveillance
+
+**Key distinction:** PMS2 carriers at **only modestly increased risk** of EC compared to MLH1, MSH2, MSH6
+
+**Management:**
+
+- Education on abnormal bleeding; endometrial biopsy for evaluation
+- **Hysterectomy with BSO may be considered starting at age 50 years**
+- Endometrial biopsy every **1–2 years** starting at age **30–35 years** may be considered
+- Transvaginal ultrasound not recommended premenopausal; may consider postmenopausal
+
+**Lower risk profile** reflects less aggressive gynecologic cancer risk; surgery deferred to later age than MLH1/MSH2
+
+---
+
+## LS-E — PMS2: Ovarian & Urothelial Considerations
+
+::: {.columns}
+:::{.column width="50%"}
+**Ovarian Cancer:**
+
+- **Insufficient evidence** for specific RRSO recommendation
+- PMS2 carriers appear at **no greater than average risk** for ovarian cancer
+- May reasonably elect **not to have oophorectomy** or defer surveillance
+- If BSO chosen, may consider starting at age **50 years**
+- Salpingectomy option for premenopausal patients
+- Consider risk-reduction agents
+
+:::
+
+:::{.column width="50%"}
+**Urothelial Cancer (Renal Pelvis, Ureter, Bladder):**
+
+- **No clear evidence** to support surveillance
+- May consider in selected individuals with family history
+- Options: annual urinalysis starting at age **30–35 years**
+- Insufficient evidence to recommend particular strategy
+
+:::
+:::
+
+
+
+---
+
+## LS — Hormonal Risk Reduction & Shared Decision-Making
+
+::: {.columns}
+:::{.column width="50%"}
+**Hormonal Contraceptives:**
+
+- Observational study: hormonal contraceptive use associated with **lower EC risk** in MMR carriers (HR 0.39; 95% CI 0.23–0.64; P<.001)
+- **Prospective data needed** before recommendation for gynecologic cancer prevention
+- Risk reduction agents should be considered with detailed discussion of risks/benefits
+
+:::
+
+:::{.column width="50%"}
+**General Principles:**
+
+- Timing of all risk-reducing surgeries individualized based on:
+  - Childbearing completion
+  - Comorbidities
+  - Family history
+  - Specific LS gene (risks vary by mutated gene)
+- Coordination with colorectal surgery when indicated
+
+:::
+:::
+
+
+
+---
+
+## Peutz-Jeghers Syndrome — Overview
+
+- **Autosomal dominant** condition characterized by hamartomatous GI polyps
+- Increased risk for: CRC, breast, pancreas, stomach, small intestine, lung cancers
+- **Gynecologic cancers increased:**
+  - Sex cord tumor with annular tubules (SCTAT)
+  - Endometrial cancer
+  - Minimal deviation adenocarcinoma of cervix
+- **Testicular cancer:** Sertoli cell tumors
+- **STK11/LKB1 mutations** identified in 66–94% of cases
+- Detection rate not 100% → suggests possible genetic heterogeneity
+
+---
+
+## PJS — Gynecologic Cancer Surveillance
+
+**Adults:**
+
+- **Pelvic examination and Pap smear:** Annually, beginning ~ages **18–20 years**
+- **Annual pelvic ultrasound** may be considered
+- **Endometrial biopsy** if abnormal bleeding present
+- **Total hysterectomy** (including uterus and cervix) may be considered when childbearing complete
+
+**Children:**
+
+- **Annual physical examination** for observation of precocious puberty beginning ~age **8 years**
+- **Annual testicular exam** and observation for feminizing changes beginning ~age **10 years**
+
+---
+
+## PJS-2 — Pediatric Surveillance Recommendations
+
+| Site | Risk/Targets | Screening/Intervention | Initiation Age |
+|:---|:---|:---|:---|
+| **Colon/Stomach** | Bleeding, iron deficiency anemia | Upper endoscopy + high-quality colonoscopy with polypectomy; repeat every 2–3y if polyps found | **8–10 years** |
+| **Small intestine** | Bleeding, anemia, intussusception | Video capsule endoscopy or CT/MRI enterography; repeat every 2–3y | **8–10 years** |
+| **Ovary** | SCTAT (~20% lifetime risk) | Annual physical for precocious puberty | **~8 years** |
+| **Testes** | Sertoli cell tumors (~9% risk) | Annual testicular exam + observation for feminizing changes | **~10 years** |
+
+- Earlier/more frequent if signs/symptoms of GI blood loss or intussusception
+
+---
+
+## PJS-3 — Adult Surveillance: GI Cancers
+
+| Cancer Site | Lifetime Risk | Screening Procedure | Initiation Age |
+|:---|:---|:---|:---|
+| **Colon** | 39% | High-quality colonoscopy every 2–3y | **~18 years** |
+| **Stomach** | 29% | Upper endoscopy every 2–3y | **~18 years** |
+| **Small intestine** | 13% | VCE or CT/MR enterography every 2–3y | **~18 years** |
+| **Pancreas** | 11%–36% | Annual EUS or MRI/MRCP (center of expertise) | **~30–35 years** |
+
+- Shorter intervals indicated based on polyp size, number, and pathology
+- Pancreas screening: see also NCCN Guidelines for Breast, Ovarian, and Pancreatic
+
+---
+
+## PJS-3 — Adult Surveillance: Breast & Gynecologic
+
+| Cancer Site | Lifetime Risk | Screening Procedure | Initiation Age |
+|:---|:---|:---|:---|
+| **Breast (female)** | 32%–54% | Mammogram + breast MRI annually; CBE every 6–12mo | **~30 years** |
+| **Cervix** | ≥10% | Annual pelvic exam + Pap; consider total hysterectomy after childbearing | **~18–20 years** |
+| **Uterus (EC)** | 9% | Annual pelvic exam; endometrial biopsy if abnormal bleeding | **~18–20 years** |
+| **Ovary (SCTAT)** | ≥20% | Annual pelvic exam + annual pelvic ultrasound | **~18–20 years** |
+| **Testes** | 9% | Annual testicular exam + observation for feminizing changes | Continued from pediatric |
+| **Lung** | 7%–17% | Education about symptoms and smoking cessation | N/A |
+
+---
+
+## PTEN Hamartoma Tumor Syndrome — Overview
+
+- Spectrum of disorders from germline **PTEN** P/LP variant
+- Includes:
+  - Cowden syndrome
+  - Bannayan-Riley-Ruvalcaba syndrome
+  - PTEN-related Proteus syndrome
+  - Adult Lhermitte-Duclos disease
+  - Proteus-like syndrome
+  - Autism spectrum disorders with macrocephaly
+- **Cowden syndrome incidence:** ~1 in 200,000 (likely underestimated)
+- **~80% of Cowden syndrome** cases associated with germline PTEN P/LP variant
+- One study: germline **KILLIN methylation** may also be associated
+
+---
+
+## PHTS — Cancer Risks & Endometrial Screening
+
+**Associated lesions:** Hamartomatous and/or cancerous lesions in colon, skin, mucous membranes, breast, thyroid, endometrium, brain
+
+**Endometrial Cancer Risk (AFAB):**
+
+- **5% to 22%** lifetime risk (not well defined)
+- Many females have uterine fibroids, but risk not clearly greater than general population
+
+
+---
+
+## PHTS — Cancer Risks & Endometrial Screening
+
+**Screening Recommendations:**
+
+- **No data on EC screening** in PHTS (rare syndrome)
+- Consider screening as early as age **35 years**
+- **Patient education** on symptoms (abnormal bleeding) with prompt reporting
+- Endometrial biopsy for evaluation of symptoms
+- Endometrial biopsy every **1–2 years** may be considered
+- Transvaginal ultrasound not recommended premenopausal; may consider postmenopausal
+
+---
+
+## PHTS — Risk-Reducing Surgery Considerations
+
+- **No data** available regarding risk-reducing surgery in PHTS (AFAB)
+- Options to discuss:
+  - **Risk-reducing mastectomy**
+  - **Hysterectomy**
+- **Oophorectomy is NOT specifically recommended**
+- Counseling should include:
+  - Extent of cancer risk reduction/protection
+  - Risks associated with surgeries
+  - Reproductive options
+- **Psychosocial and quality-of-life aspects** must be addressed
+
+---
+
+## POLD1/POLE — Overview & EC Risk
+
+- Primarily associated with **colonic polyposis** and increased CRC risk
+- **Limited evidence** for increased extracolonic cancer risk including EC
+
+
+::: {.columns}
+:::{.column width="50%"}
+**Key Studies:**
+
+- 2022 study: 9/17 (53%) with POLD1 exonuclease domain variant had EC; 5/43 (12%) with POLE exonuclease domain variant had EC
+- 2023 systematic review & meta-analysis: 11/20 (55%) POLD1 carriers had EC; 11/41 (27%) POLE carriers had EC
+
+:::
+
+:::{.column width="50%"}
+**Panel Assessment:**
+
+- Small sample sizes limit evidence
+- **Currently insufficient evidence** to support risk management strategies for extracolonic cancers including EC
+- NCCN colon cancer risk management recommendations available for these variants
+
+:::
+:::
+
+
+
+---
+
+## GENE-11 — POLD1: Detailed Management
+
+| Feature | Recommendation |
+|:---|:---|
+| **Syndrome** | Polymerase proofreading-associated polyposis (PPAP) |
+| **Estimated absolute CRC risk** | >20% |
+| **Colonoscopy** | Begin age 25–30y (or 2–5y prior to earliest CRC if <25y); repeat every 2–3y if negative |
+| **If polyps found** | Colonoscopy every 1–2y; surgical evaluation if polyp burden unmanageable |
+| **Colorectal phenotype** | 30–100 adenomas |
+| **Other cancers** | EC, breast, brain, possibly others (limited evidence) |
+| **Key molecular note** | Gain-of-function P/LP in exonuclease domain (aa 304–533) = PPAP; LOF/outside domain = MDPL syndrome |
+
+---
+
+## GENE-11 — POLE: Detailed Management
+
+| Feature | Recommendation |
+|:---|:---|
+| **Syndrome** | Polymerase proofreading-associated polyposis (PPAP) |
+| **Estimated absolute CRC risk** | >20% |
+| **Colonoscopy** | Begin age 25–30y (or 2–5y prior to earliest CRC if <25y); repeat every 2–3y if negative |
+| **If polyps found** | Colonoscopy every 1–2y; surgical evaluation if polyp burden unmanageable |
+| **Colorectal phenotype** | 30–100 adenomas |
+| **Other cancers** | Colon, endometrial, ovarian, brain, extracolonic GI; limited evidence for breast, melanoma |
+| **Key molecular note** | Gain-of-function in exonuclease domain (aa 268–471, exons 9–14) = PPAP; LOF/outside = FILS / IMAGE-1 syndromes |
+
+---
+
+## BRCA1/2 — Endometrial Cancer Risk
+
+- Widely accepted as highly penetrant for **breast and ovarian cancer**
+- Also associated with pancreas and prostate cancer
+- **Some studies suggest increased risk of serous uterine cancer**
+
+**Key Evidence:**
+
+- Multicenter prospective cohort (1,083 BRCA1 carriers after RRSO without hysterectomy): increased risk for serous/serous-like EC
+- Dutch cohort (5,980 BRCA1/2 carriers): **2- to 3-fold increased risk** for EC; highest for serous-like (HR 10.48) and p53-abnormal (HR 15.71) in BRCA1
+- Meta-analysis (11 studies, 13,871 patients): EC prevalence 0.62% BRCA1, 0.47% BRCA2
+- Uterine papillary serous carcinoma: 0.20% BRCA1, 0.08% BRCA2
+
+---
+
+## BRCA1/2 — Management & Tamoxifen Consideration
+
+**Risk Attribution:**
+
+- Increased EC risk observed in some patients may be due to **tamoxifen therapy** rather than P/LP variant alone
+- Absolute risk of uterine cancer appears **low overall** despite evidence of increased risk
+
+**Management:**
+
+- Information on gynecologic cancer management in BRCA1/2 carriers found in:
+  - **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic**
+- No specific EC screening recommendations in this colorectal/endometrial guideline
+
+---
+
+## CHEK2 — Background & Early Evidence
+
+- Germline P/LP variants in **CHEK2** associated with increased **breast cancer** risk
+- Association with **CRC risk historically uncertain**
+
+**Early Meta-Analyses (≤2012):**
+
+- Significant associations identified between CHEK2 variants and CRC risk
+- CHEK2 I157T variant: significant association with CRC
+- CHEK2 1100delC variant: strong cumulative evidence (OR 1.88; P=.001)
+
+**Reanalysis:**
+
+- Corrected data from one included study showed **1100delC NOT significantly associated** with CRC risk in familial or sporadic subgroups
+- Larger unselected CRC group showed **reduction in overall CRC risk** in carriers
+
+---
+
+## CHEK2 — Recent Cohort Evidence
+
+**2022 Retrospective Cohort (3,783 patients with CHEK2 P/LP):**
+
+- CHEK2 **NOT associated with CRC**
+- Carriers **less likely** to be diagnosed with CRC (OR 0.62; P<.001)
+- Similar result for 1100delC specifically (OR 0.69; P=.002)
+
+**Second Large Retrospective Study (6,255 carriers):**
+
+- No significant difference in CRC prevalence among truncating (2.2%) or missense (1.8%) carriers vs. non-carriers (2.2%)
+
+**ACMG Clinical Practice Resource (2023):**
+
+- Published data at best supportive of **moderate association**
+- Risk falls below level defined as **low increased risk**
+- Earlier screening model based on old data; not supported by newer large cohorts
+
+---
+
+## CHEK2 — NCCN De-Implementation Recommendation
+
+
+::: {.columns}
+:::{.column width="50%"}
+**For patients with CHEK2 P/LP variant:**
+
+- **Screening and surveillance per general population guidelines**
+  - NCCN Guidelines for Colon Cancer
+  - NCCN Guidelines for Rectal Cancer
+  - NCCN Guidelines for Colorectal Cancer Screening
+
+:::
+
+:::{.column width="50%"}
+**Specific Recommendation:**
+
+- For patients **unaffected by CRC** and **without a first-degree relative with CRC:**
+  - **General population screening is appropriate**
+
+**Rationale:**
+
+- Lack of significant association between CHEK2 P/LP variants and CRC risk in recent large studies
+- Avoid unnecessary intensive screening and patient anxiety
+
+:::
+:::
+
+
+
+---
+
+## GENE-6 — CHEK2: Risk & Management Summary
+
+| Feature | Recommendation |
+|:---|:---|
+| **Estimated absolute CRC risk** | **No increased risk** |
+| **Management (average risk)** | **General population screening** |
+| **Management (personal or 1° family history of CRC/polyps)** | Increased screening per NCCN Colon/Rectal/Colorectal Screening Guidelines |
+| **Strength of evidence** | **Strong** |
+| **Colorectal phenotype** | No polyposis |
+| **Other cancers** | Increased lifetime risk of breast cancer |
+| **Breast cancer management** | Per NCCN Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic |
+
+---
+
+## Multigene Testing — Overview (GENE-1)
+
+- NGS-based tests simultaneously analyze genes associated with specific or multiple phenotypes
+- **More efficient** than single-gene testing when >1 gene may explain presentation
+- Role for individuals who tested negative for single syndrome but history strongly suggests inherited susceptibility
+- **Chances of VUS or uncertain PV increase** as number of genes increases
+- **VUS reclassification is commonplace:** Historically >91% of VUS downgraded to benign/likely benign
+- Clinical phenotypic correlation warranted; discuss with laboratory if evidence supports pathogenicity
+
+**Test selection important:** Commercial tests differ in genes analyzed, variant classification, reclassification procedures, turnaround time, and insurance coverage
+
+---
+
+## Table 1 — Multigene Testing Definitions
+
+| Term | Definition |
+|:---|:---|
+| **Multigene panel** | Laboratory test including >1 gene |
+| **Syndrome-specific panel** | Tests multiple genes for one syndrome only (e.g., LS) |
+| **Cancer-specific panel** | Tests multiple genes associated with one cancer type |
+| **"Comprehensive" cancer panel** | Tests multiple genes associated with multiple cancers/syndromes |
+| **Actionable pathogenic variant** | Results in recommendation for change in clinical management |
+| **Variant of uncertain significance (VUS)** | Sequence variant of uncertain significance; generally not actionable; most ultimately reclassified as benign |
+
+---
+
+## Table 2 — Pros and Cons of Multigene Testing
+
+| Pros | Cons |
+|:---|:---|
+| More efficient when multiple genes may explain presentation | Higher chance of PVs with uncertain clinical management (~3–4%) |
+| Higher chance of providing explanation for cancer cause | Higher chance of VUS (17–38%) |
+| Competitive cost vs. sequential single-gene testing | Higher chance of overtreatment/overscreening if VUS/uncertain PVs misinterpreted |
+| Identifies PVs in multiple actionable genes missed by syndrome-specific panels | — |
+
+---
+
+## HRS-A 1/3 — Rationale for MGPT in LS
+
+**Rationale:**
+
+- Germline MGPT is an **alternative** to tumor- and family history-driven selection
+- **More sensitive** for identifying individuals with LS and other cancer risk genes than selection based on history/tumor criteria alone
+
+**Why consider MGPT?**
+
+- Majority of individuals with personal history of CRC or EC **do not meet** previous NCCN criteria based on family history or tumor-based criteria alone
+- MGPT may simplify referral and testing
+- Not entirely dependent on family history or tumor characteristics
+- Steps for evaluating genetic syndrome are simplified
+
+---
+
+## HRS-A 1/3 — Pros of MGPT
+
+| Advantage | Detail |
+|:---|:---|
+| **LS yield** | Comparable or higher than tumor-/history-based strategies |
+| **Other gene yield** | 7.8%–16.0% PV in CRC; 9.2%–14.7% PV in EC |
+| **Actionability** | Some PVs inform screening and surveillance |
+| **Cascade testing** | Allows family testing and early detection/prevention |
+| **Sensitivity** | Identifies patients who would not meet traditional criteria |
+| **Simplification** | May simplify referral and testing workflow |
+
+---
+
+## HRS-A 1/3 — Cons of MGPT
+
+| Limitation | Detail |
+|:---|:---|
+| **Treatment decisions** | Germline result alone does NOT inform CRC/EC treatment; tumor MSI/IHC required for immunotherapy |
+| **Uncertain PVs** | PVs in genes with uncertain clinical management will be identified |
+| **VUS burden** | 29%–63% of CRC patients may have VUS depending on panel size |
+| **Health equity** | Higher VUS rates in racial/ethnic minorities; propagates inequities |
+| **Capacity** | Uncertain capacity to counsel all patients (150,000 CRC + 66,200 EC annually) |
+| **Timing** | Results may not return in time for surgical decision-making |
+
+---
+
+## HRS-A 2/3 — Challenges & Evidence Gaps
+
+| Challenge | Detail |
+|:---|:---|
+| **Cascade testing impact** | Uncertain; reported in only 16%–65% of families |
+| **Cost effectiveness** | Uncertain; no recent U.S.-based study using current costs |
+| **Unselected yield** | Yield in CRC unselected by other characteristics uncertain |
+| **Selection bias** | Most studies have potential bias that may overestimate yield |
+| **Racial/ethnic spectrum** | Spectrum of PVs in diverse populations requires additional research |
+
+**Swiss study suggested MGPT cost-effective relative to tumor-based LS screening, but U.S. data lacking**
+
+---
+
+## HRS-A 2/3 — Test Selection: CRC Panels
+
+**Minimum genes for CRC/polyposis risk:**
+
+- **APC, BMPR1A, EPCAM, MUTYH, MLH1, MSH2, MSH6, PMS2, PTEN, SMAD4, STK11, TP53**
+
+**May also be considered:**
+
+- Monoallelic PVs: **AXIN2, GREM1, POLE, POLD1**
+- Biallelic PVs: **MSH3, MLH3, MBD4, NTHL1**
+
+**Additional genes on some panels:**
+
+- ATM, BLM, CHEK2, FOCAD, GALNT12, RNF43, RPS20
+
+---
+
+## HRS-A 2/3 — Test Selection: EC Panels
+
+::: {.columns}
+:::{.column width="50%"}
+**Minimum genes for EC risk:**
+
+- **MLH1, MSH2, MSH6, PMS2, EPCAM**
+- **PTEN**
+- **BRCA1, BRCA2**
+
+:::
+
+:::{.column width="50%"}
+**May also be considered:**
+
+- **POLD1**
+- **POLE**
+
+:::
+:::
+
+
+
+**Selection/retesting beyond minimum sets based on:**
+
+- Age at presentation
+- Polyp phenotype
+- Personal and family history
+- Patient and provider preference
+
+---
+
+## Summary — Key Takeaways on MGPT & EC
+
+1. **MGPT identifies P/LP variants in 9–15% of EC patients**, with higher yields in high-risk cohorts
+2. **Minimum EC panel genes:** MLH1, MSH2, MSH6, PMS2, EPCAM, PTEN, BRCA1/2
+3. **POLD1/POLE** may be considered but extracolonic management evidence is insufficient
+4. **VUS rates are significant** (especially in minority populations) and require expert counseling
+5. **Germline MGPT alone does NOT guide immunotherapy decisions** — tumor MMR testing required
+6. **Optimal upfront MGPT approach remains uncertain** — shared decision-making recommended
+
+---
+
+## Summary — Syndrome-Specific EC Management
+
+| Syndrome | Key EC Risk Management |
+|:---|:---|
+| **Lynch (MLH1/MSH2)** | Consider hysterectomy + BSO starting age **40y**; endometrial biopsy every 1–2y from 30–35y |
+| **Lynch (MSH6)** | Hysterectomy + salpingectomy at **40y**; delayed oophorectomy at **50y** |
+| **Lynch (PMS2)** | Hysterectomy + BSO may be considered starting **50y**; lower risk profile |
+| **Lynch (EPCAM)** | Manage based on **family history**; later surgery similar to PMS2 |
+| **PJS** | Annual pelvic exam + Pap from 18–20y; endometrial biopsy if bleeding; hysterectomy after childbearing |
+| **PHTS** | Consider endometrial biopsy every 1–2y from **35y**; educate on bleeding symptoms |
+
+---
+
+## Summary — CHEK2 & Colorectal De-Implementation
+
+- **CHEK2 P/LP variants:** No longer considered to confer significantly increased CRC risk
+- **Recommendation:** General population CRC screening for unaffected carriers without first-degree family history
+- **Rationale based on:**
+  - Large retrospective cohorts showing no association
+  - ACMG review concluding risk below "low increased risk" threshold
+  - Older screening models invalidated by newer data
+
+**Clinical action:** Remove CHEK2 from high-risk colorectal surveillance protocols; redirect to average-risk guidelines
+
