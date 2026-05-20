@@ -3,6 +3,7 @@
 .RData
 _book/
 .quarto
+_presentation
 rsconnect
 .DS_Store
 imgs/.DS_Store

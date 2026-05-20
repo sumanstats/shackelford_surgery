@@ -1,0 +1,863 @@
+---
+title: "JSCCR Guidelines 2024 for Hereditary Colorectal Cancer"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    smaller: true
+    scrollable: true
+    include-in-header:
+      - text: |
+          <style>
+          .reveal .slides section h2 {
+            font-size: 1.8em !important;
+            line-height: 1.2 !important;
+          }
+          </style>
+---
+
+## Definition and Classification
+
+**Hereditary Colorectal Cancers (HCRCs)** are disorders for which causative genes have been identified that increase the risk of colorectal cancer (CRC).
+
+### Classification
+
+- **Polyposis syndromes**
+  - Adenomatous polyposis (≥10 adenomatous polyps)
+  - Hamartomatous polyposis
+  - Serrated polyposis
+
+- **Non-polyposis syndromes**
+  - Lynch syndrome
+  - Li-Fraumeni syndrome
+
+::: {.callout}
+**Key Point:** The mode of inheritance, density of colorectal polyps, histological type, risk of CRC, and extra-colorectal manifestations vary depending on the causative gene.
+:::
+
+## Table 4: Genetic and Clinical Characteristics of Representative HCRCs (Part 1)
+
+| Disorder | Gene | Inheritance | Prevalence | Colonic Polyps | CRC Risk | Extra-colonic |
+|----------|------|-------------|------------|----------------|----------|---------------|
+| **FAP** | APC | AD | 1/20,000–1/10,000 | >100 adenomas | ~100% | Stomach, duodenum, desmoid, thyroid |
+| **AFAP** | APC | AD | Rare | >10, <100 adenomas | 70% | Duodenum, goiter |
+| **MAP** | MUTYH | AR | Rare | <100 adenoma/HP | 70–90% | Duodenum, thyroid, sebaceous |
+| **PPAP** | POLD1/POLE | AD | 0.1–0.4% | >30, <100 adenomas | >20% | Endometrial, breast, brain |
+| **CMMRD** | MLH1/MSH2/MSH6/PMS2 | AR | Very rare | Adenomatous | High | Hematological, brain |
+
+::: {.small}
+AD = autosomal dominant, AR = autosomal recessive, HP = hyperplastic polyp
+:::
+
+## Table 4: Genetic and Clinical Characteristics (Part 2)
+
+| Disorder | Gene | Inheritance | Colonic Polyps | CRC Risk | Extra-colonic Manifestations |
+|----------|------|-------------|----------------|----------|------------------------------|
+| **PJS** | STK11 | AD | >5 hamartomas | 39% | Stomach, small bowel, breast, pancreas |
+| **JPS** | BMPR1A/SMAD4 | AD | >5 hamartomas | 40–50% | Stomach, small bowel, pancreas |
+| **CS/PHTS** | PTEN | AD | <100 hamartomas | 11–20% | Breast, endometrial, thyroid, renal |
+| **SPS** | RNF43 | AD | >5, <100 SSL | Variable | — |
+| **LS (MLH1)** | MLH1 | AD | — | 46–61% | Endometrial, gastric, ovarian, urinary |
+| **LS (MSH2)** | MSH2 | AD | — | 33–52% | Endometrial, gastric, ovarian, urinary |
+| **LS (MSH6)** | MSH6 | AD | — | 10–44% | Endometrial |
+| **LS (PMS2)** | PMS2 | AD | — | 8.7–20% | — |
+
+## Figure 1: Percentage of Genetically Predisposed CRCs
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  Colorectal cancer with genetic predisposition ≈ 30%    │
+│  ┌─────────────────────────────────────────────────┐    │
+│  │ Lynch syndrome ≈ 3%                             │    │
+│  │ FAP, MAP ≈ 1%                                   │    │
+│  │ PJS, JPS, CS/PHTS, LFS, etc. ≈ 1%              │    │
+│  └─────────────────────────────────────────────────┘    │
+│  Colorectal cancer with moderate genetic risk ≈ 5%      │
+│  (BRCA1/2, PALB2, ATM, CHEK2, etc.)                    │
+│  Familial colorectal cancer: ≈ 20%                      │
+│  Sporadic colorectal cancer: ≈ 70%                      │
+└─────────────────────────────────────────────────────────┘
+```
+
+::: {.highlight-box}
+Approximately **5%** of all CRCs are HCRC with identified causative genes. Another **~10%** have hereditary cancer predisposition syndromes.
+:::
+
+## Mechanisms of Carcinogenesis
+
+### Two-Hit Theory (Knudson)
+
+**Hereditary CRC (Autosomal dominant):**
+
+- **First hit:** Germline pathogenic variant (e.g., APC, MLH1)
+- **Second hit:** Acquired somatic variant in wild-type allele
+- Result: Loss of tumor suppressor function → Tumor promotion
+
+**Sporadic CRC:**
+
+- **First hit:** Pathogenic somatic variant
+- **Second hit:** Additional somatic variant
+- Result: Tumor promotion
+
+::: {.callout}
+Multiple tumors develop at a younger age in HCRC because all cells carry one pathogenic variant.
+:::
+
+## Figure 3: Tumorigenesis in FAP vs Lynch Syndrome
+
+| Stage | FAP | Lynch Syndrome |
+|-------|-----|----------------|
+| Normal mucosa | Normal | Normal |
+| Initial lesion | Aberrant crypt foci | MMR-deficient crypt |
+| Adenoma | Low-grade → High-grade | Rapid progression |
+| Cancer | Colorectal cancer | Colorectal cancer |
+| **Mechanism** | Chromosomal instability (CIN) | Mismatch repair impairment (MSI) |
+
+#### Key Differences:
+- **FAP:** APC mutation → β-catenin accumulation → chromosomal instability
+- **Lynch:** MMR gene mutation → microsatellite instability (MSI)
+
+## Diagnostic Process: 3-Step Approach
+
+### Step 1: Risk Assessment with Clinical Information
+- Young onset
+- Multiple colorectal cancers (synchronous/metachronous)
+- Comorbidity extracolonic disease
+- Physical characteristics (CHRPE, osteomas, lip pigmentation)
+- Family history of cancer (up to third-degree relatives)
+
+
+## Diagnostic Process: 3-Step Approach
+
+### Step 2: Pathological Assessment
+- Histology (adenomatous, hamartomatous, serrated)
+- Molecular: MSI test, MMR-IHC test
+
+### Step 3: Genetic Testing
+- Multi-gene panel testing (MGPT)
+- Direct sequencing, MLPA, WES, WGS
+
+## Figure 5: Flowchart for Diagnosis of Hereditary Colorectal Polyposis
+
+```
+STEP 2: Pathological Assessment
+    │
+    ├── ≥10 adenomatous polyps ──→ STEP 3: Multi-gene panel testing
+    │                                    │
+    │                    ┌─ GPVs of APC ───────────→ FAP
+    │                    ├─ Biallelic GPVs of MUTYH → MAP
+    │                    ├─ GPVs of POLE/POLD1 ────→ PPAP
+    │                    ├─ GPVs of other genes ────→ MSH3-AP, NTHL1-AP, etc.
+    │                    └─ Unknown ────────────────→ CPUE
+    │
+    ├── ≥2 hamartomatous polyps ──→ GPVs of STK11 → PJS
+    │                                GPVs of SMAD4/BMPR1A → JPS
+    │                                GPVs of PTEN → CS/PHTS
+    │
+    └── ≥5 serrated polyps ────────→ GPVs of RNF43, MUTYH, GREM1 → SPS
+```
+
+## Table 5: Classification of Polyposis and Diseases to Differentiate
+
+| Colonoscopy Findings | Histology | Number | Diseases | Candidate Genes |
+|----------------------|-----------|--------|----------|-----------------|
+| Adenomatous polyposis | Adenoma | >10 | FAP, MAP, PPAP, CMMRD | APC, MUTYH, POLD1, POLE, MLH1, MSH2, MSH6, PMS2, MSH3, MLH3, NTHL1, AXIN2 |
+| Hamartomatous polyposis | Hamartoma | >2 | PJS, JPS, CS/PHTS, HMPS | STK11, BMPR1A, SMAD4, PTEN |
+| Serrated polyposis | HP, SSL | >5 (oral to sigmoid) | SPS, MAP | RNF43, MUTYH, GREM1 |
+| Mixed polyposis | JP, HP, SSL | Variable | HMPS, JP | GREM1, BMPR1A |
+
+## Genetic Testing Methods
+
+### Table 6: Types of Germline Genetic Tests
+
+| Test Method | Application | Genes |
+|-------------|-------------|-------|
+| **Direct sequencing (Sanger)** | Diagnosis of relatives (single-site analysis) | Known variant |
+| **MLPA** | Large deletions/duplications; relative diagnosis | Known variant |
+| **Multi-gene panel testing (MGPT)** | Targeted sequencing for suspected HCRC | MLH1, MSH2, MSH6, PMS2, EPCAM (Lynch); APC, MUTYH, POLD1, POLE, MSH3, MLH3, NTHL1, AXIN2 (polyposis) |
+| **Whole exome sequencing** | Atypical phenotypes | All exons |
+| **Whole genome sequencing** | Inversions, translocations, pseudo-exons | All regions |
+
+::: {.highlight-box}
+**MGPT** is now widely recommended because multiple causative genes are often suspected based on clinical findings.
+:::
+
+## Interpretation of Genetic Test Results
+
+### Table 7: Classification of Gene Variants
+
+| ClinVar | InSiGHT Class | Clinical Significance |
+|---------|---------------|----------------------|
+| Pathogenic | Class 5 | Definite pathogenic variant |
+| Likely pathogenic | Class 4 | Likely pathogenic |
+| Uncertain significance | Class 3 | Unknown significance — manage as hereditary until clarified |
+| Likely benign | Class 2 | Likely not pathogenic |
+| Benign | Class 1 | Not pathogenic |
+
+### Key Points:
+- **Pathogenic/Likely pathogenic:** Medical management indicated
+- **VUS:** Proceed with caution; manage as hereditary until significance clarified
+- **No genetic abnormality detected:** Consider technical limitations (mosaicism, unknown genes)
+
+---
+
+## Overview of FAP
+
+**Familial adenomatous polyposis (FAP)** is an autosomal dominant disorder characterized by colorectal adenomatous polyposis, caused primarily by germline pathogenic variants in the **APC gene** (chromosome 5q22.2).
+
+### Clinical Features:
+
+::: {.columns}
+:::{.column width="50%"}
+- **Classical FAP:** Hundreds to thousands of colorectal adenomatous polyps
+  - Onset: average age 16 years (range 7–36)
+  - 95% develop polyps by age 35
+  - CRC inevitable without proctocolectomy
+  - Average age at CRC diagnosis: 39 years (untreated)
+
+:::
+
+:::{.column width="50%"}
+- **Attenuated FAP (AFAP):** ~10–100 adenomas
+  - Later onset (average 50–55 years)
+  - Lower lifetime CRC risk (70%)
+  - Predominantly proximal polyps
+
+:::
+:::
+
+
+## FAP Phenotypes: Dense vs Sparse
+
+### Severe/Profuse/Dense FAP
+- \>1,000 adenomas covering mucosa
+- No normal mucosa visible
+- Germline variants often in APC codons 1250–1464 (especially codon 1309)
+- Median age for CRC: **41 years**
+
+::: {.columns}
+:::{.column width="50%"}
+### Sparse FAP
+- ~100–1,000 adenomas against background of normal mucosa
+- Median age for CRC: **48 years**
+
+:::
+
+:::{.column width="50%"}
+### Attenuated FAP
+- ~10–100 adenomas
+- Germline variants in 5' or 3' ends of APC
+- Median age for CRC: **59 years**
+
+:::
+:::
+
+
+
+## Figure 8: Classification of Adenomatous Polyposis
+
+```
+Adenomatous Polyposis
+    │
+    ├── Autosomal Dominant:
+    │   ├── Familial adenomatous polyposis (APC)
+    │   ├── Polymerase proofreading-associated polyposis (PPAP) — POLE/POLD1
+    │   └── AXIN2-associated polyposis
+    │
+    └── Autosomal Recessive:
+        ├── MUTYH-associated polyposis (MAP)
+        ├── NTHL1-associated polyposis
+        ├── MSH3-associated polyposis
+        ├── MLH3-associated polyposis
+        ├── MBD4-associated neoplasia
+        ├── Constitutional mismatch repair deficiency (CMMRD)
+        └── Colonic adenomatous polyposis of unknown etiology (CPUE)
+```
+
+## Associated Tumors and Extracolonic Manifestations
+
+### Major Extracolonic Manifestations:
+| Manifestation | Frequency | Notes |
+|---------------|-----------|-------|
+| Fundic gland polyposis | 88% | Useful for auxiliary diagnosis |
+| Duodenal adenomas | 30–90% | Second leading cause of death |
+| Desmoid tumors | 8–20% | Intra-abdominal type: 70% |
+| Thyroid cancer | 1.2–12% | 95% in females; cribriform-morular variant |
+| Hepatoblastoma | 0.4–2.5% | Median age: 20 months |
+| Adrenal tumors | 7.4–16% | Mostly benign adenomas |
+| Osteomas | Common | Skull, mandible |
+| CHRPE | ~80% | Asymptomatic, from birth |
+
+## Epidemiology and Prognosis
+
+### Key Statistics:
+- Prevalence: ~1:17,400 in Japan
+- Accounts for <1% of all CRC cases
+- ~50% develop CRC in their 40s; nearly all by age 60 if untreated
+- CRC remains leading cause of death (~60% of FAP-related deaths since 1990s)
+- **Desmoid tumors:** ~10% of deaths
+- **Duodenal cancer:** ~6% of deaths
+
+## FAP Surveillance and Treatment
+
+### Colorectal Surveillance
+| FAP Type | Start Age | Interval |
+|----------|-----------|----------|
+| Classical FAP | ~10 years | 1–2 years |
+| AFAP | 18–20 years | 2–3 years |
+
+### Surgical Options (Figure 9)
+
+| Procedure | Advantages | Disadvantages |
+|-----------|------------|---------------|
+| **Total proctocolectomy with ileostomy** | CRC completely prevented | Permanent stoma, body image issues |
+| **Total proctocolectomy with IPAA** | CRC almost prevented; good function | Complex surgery; pouchitis risk |
+| **Total colectomy with IRA** | Natural anal function; easier technique | Rectal cancer risk remains |
+
+::: {.highlight-box}
+**Timing of surgery:** Late teens for classical FAP; consider genotype (rapid risk increase after age 34 for classical, 49 for AFAP).
+:::
+
+## Chemoprevention in FAP
+
+### CQ2: Is chemoprevention effective?
+
+::: {.recommendation-strong}
+**Evidence Level: B | Recommendation: None (94.4% agreement)**
+
+Chemoprevention has shown some ability to suppress adenomas during limited periods, but insufficient evidence exists for recommendation due to lack of robust long-term data.
+:::
+
+### Agents Evaluated:
+| Agent | Effect | Notes |
+|-------|--------|-------|
+| **Sulindac (NSAID)** | Suppresses growth/proliferation | Adenomas increase after discontinuation |
+| **Celecoxib (COX-2)** | Reduces number/size | Cardiovascular risk concerns |
+| **Low-dose aspirin** | Significant reduction in polyp growth (J-FAPP IV) | Cost-effective with intensive polypectomy |
+| **Eicosapentaenoic acid** | Reduces rectal polyp number/size | No effect in general population |
+| **Eflornithine + sulindac** | Delays need for colectomy | Combination therapy |
+
+## Duodenal Adenomas in FAP
+
+### Characteristics:
+- Present in 30–90% of FAP patients
+- Cumulative incidence: 39.2% by age 50
+- Ampullary tumors in up to 72%
+- Duodenal cancer: ~3% of deaths
+- Relative risk: 250–330× general population
+
+### Spigelman Classification:
+| Factor | Points |
+|--------|--------|
+| Number of polyps: 1–4 / 5–20 / >20 | 1 / 2 / 3 |
+| Size: 1–4mm / 5–10mm / >10mm | 1 / 2 / 3 |
+| Histology: Tubular / Tubulovillous / Villous | 1 / 2 / 3 |
+| Dysplasia: Mild / Moderate / Severe | 1 / 2 / 3 |
+
+**Stages:** 0 (0 pts), I (1–4), II (5–6), III (7–8), IV (9–12), V (carcinoma)
+
+## Figure 14: Surveillance Based on Spigelman Classification
+
+```
+Endoscopic Surveillance
+    │
+    ├── Stage 0–III ──→ Every 2–5 years
+    │       └── Survey/biopsy or endoscopic treatment
+    │
+    ├── Stage IV ────→ Every 6–12 months
+    │       └── PD (pancreaticoduodenectomy) or PSD (pancreas-sparing duodenectomy)
+    │
+    └── Stage V ─────→ PD (pancreaticoduodenectomy)
+```
+
+### CQ3: Endoscopic treatment for duodenal adenomas?
+
+::: {.recommendation-weak}
+**Evidence Level: C | Recommendation Grade: 2**
+
+- **Non-periampullary:** Weakly recommended with careful case selection
+- **Periampullary:** Weakly recommended for clinically significant lesions
+:::
+
+## Desmoid Tumors in FAP
+
+### Characteristics:
+- 8–20% of FAP patients (10–15% in Japan)
+- Intra-abdominal: 70–80%
+- Often develop within 2–3 years after colectomy
+- Female predominance; younger onset
+- Correlation with APC variants 3' of codon 1399/1444
+
+### Risk Factors (Meta-analysis):
+| Factor | Odds Ratio |
+|--------|------------|
+| Family history | 7.02 (95% CI: 4.15–11.9) |
+| APC variant distal to codon 1399 | 4.37 (95% CI: 2.14–8.91) |
+| History of abdominal surgery | 3.35 (95% CI: 1.33–8.41) |
+| Female sex | 1.57 (95% CI: 1.13–2.18) |
+
+## Table 9: New Japanese Classification of Desmoid Tumors
+
+| Grade | Location | Size | Symptoms |
+|-------|----------|------|----------|
+| 1 | Extra-abdominal | <10 cm | None–any |
+| 2A | Extra-abdominal | ≥10 cm | None–any |
+| 2B | Extra-abdominal | Any | Motion restriction (+) |
+| 3A | Intra-abdominal | <10 cm | No obstruction |
+| 3B | Intra-abdominal | ≥10 cm | No obstruction |
+| 4A | Intra-abdominal | Any | Urinary tract obstruction (+) |
+| 4B | Intra-abdominal | Any | Incomplete bowel obstruction (+) |
+| 4C | Intra-abdominal | Any | Complete bowel obstruction (+) |
+| 5 | Intra-abdominal | Any | Abscess/fistula/dehiscence |
+
+## Figure 16: Treatment Plans for Intra-abdominal Desmoid Tumors
+
+```
+Clinical symptoms + Radiological diagnosis
+    │
+    ├── Stage I ────→ Watch and wait or NSAIDs
+    ├── Stage II ────→ NSAIDs ± TAM (tamoxifen)
+    ├── Stage III ───→ Chemotherapy ± NSAIDs ± TAM
+    └── Stage IV ────→ Chemotherapy, Bypass operation, etc.
+```
+
+### Treatment Options:
+| Therapy | Response Rate | Notes |
+|---------|---------------|-------|
+| Anti-estrogen + NSAIDs | ~51% | First-line for mild cases |
+| Imatinib (TKI) | 6–19% response; 84–91% disease control | |
+| Sorafenib | 33% response | Significant PFS benefit vs placebo |
+| Pazopanib | 37% response | Better than MTX+vinblastine |
+| Methotrexate + vinca alkaloid | 35–40% response | |
+| **Nirogacestat** (gamma-secretase inhibitor) | FDA approved Nov 2023 | Progressive desmoid tumors |
+
+### CQ4: Surveillance for desmoid tumors?
+
+::: {.recommendation-weak}
+**Evidence Level: C | Recommendation Grade: 2 (94.4% agreement)**
+
+Surveillance is weakly recommended, especially after abdominal surgery, to enable less invasive treatment if diagnosed early.
+:::
+
+## Thyroid Cancer Surveillance in FAP
+
+### Characteristics:
+- Cumulative risk: 1.2–12% (meta-analysis: ~2.6%)
+- Average age at diagnosis: 31 years
+- 95% in females
+- 83% papillary carcinoma (26% cribriform-morular variant)
+- 46% bilateral, 59% multicentric
+- 79% of variants in APC mutation cluster region (codons 1286–1513)
+
+### Japanese Study (129 patients):
+- Prevalence: 6.4%
+- Female:male ratio: 8:1
+- Women age 17–41; Men age 39–57
+- Ultrasound screening: 6.9% vs. without screening: 1.4%
+
+### CQ5: Surveillance for thyroid cancer?
+
+::: {.recommendation-weak}
+**Evidence Level: C | Recommendation Grade: 2**
+
+Surveillance is weakly recommended for **young female patients with FAP**, using neck palpation and ultrasound.
+:::
+
+## Pediatric FAP Management
+
+### Gastrointestinal Lesions:
+- First colonoscopy at average age 13 years
+- <100 polyps: 79%; 101–500: 17%; >500: 4%
+- Mean annual increase: 12.5 polyps/year
+- Codon 1309 variant: 89 polyps/year
+- CRC extremely rare <20 years (<0.2%)
+
+### Hepatoblastoma Screening:
+- Cumulative risk: 0.4–2.5%
+- Median age: 20 months (range: newborn–11.6 years)
+- Screening: liver palpation, abdominal US, serum AFP every 3–6 months until age 5
+
+### Genetic Testing in Minors:
+- Classical FAP: early-to-mid-teens with parental involvement
+- AFAP: late adolescence
+- If hepatoblastoma screening: consider predictive diagnosis in infancy
+
+## CQ1: Genetic Testing in Colorectal Adenomatous Polyposis
+
+::: {.recommendation-strong}
+**Evidence Level: C | Recommendation Grade: 1**
+
+**Genetic testing MUST be performed** in patients with colorectal adenomatous polyposis.
+:::
+
+### Rationale:
+- Diagnostic guidance and therapeutic decision-making
+- Surveillance strategies for proband
+- Diagnosis for at-risk relatives
+- Genotype-phenotype correlations:
+  - APC variant location → adenoma density, extracolonic manifestations
+  - Prediction of desmoid tumor risk
+  - Timing of prophylactic colectomy
+- 20–25% de novo cases — no family history does not exclude FAP
+
+### Detection Rates (Japanese study, 123 patients):
+| Phenotype | APC Detection Rate |
+|-----------|-------------------|
+| Dense polyposis | 93% |
+| Sparse polyposis | 72% |
+| <100 adenomas | 17% |
+
+---
+
+## Overview of Lynch Syndrome
+
+**Lynch syndrome** is an autosomal dominant disease caused by germline pathogenic variants in DNA mismatch repair (MMR) genes:
+
+- **MLH1** (chromosome 3)
+- **MSH2** (chromosome 2)
+- **MSH6** (chromosome 2)
+- **PMS2** (chromosome 7)
+- **EPCAM** (chromosome 2) — causes MSH2 loss via epimutation
+
+
+## Overview of Lynch Syndrome
+
+### Clinical Characteristics of CRC:
+- Younger age of onset
+- Multiple/synchronous/metachronous tumors
+- Predominantly proximal (right-sided) colon
+- Poorly differentiated adenocarcinoma more common
+- Histology: tumor-infiltrating lymphocytes, medullary growth, mucinous/signet ring, Crohn's-like reaction
+
+## Lynch Syndrome-Associated Tumors
+
+### Table 10: Cumulative Risks by Age 80
+
+| Cancer | MLH1 | MSH2/EPCAM | MSH6 | PMS2 | General US Pop |
+|--------|------|------------|------|------|----------------|
+| **Colorectal** | 46–61% | 33–52% | 10–44% | 8.7–20% | 4.1% |
+| **Endometrial** | 34–54% | 21–57% | 16–49% | 13–26% | 3.1% |
+| **Ovarian** | 4–20% | 8–38% | ≤1–13% | 1.3–3% | 1.1% |
+| **Gastric** | 5–27% | 0.2–27% | ≤1–7.9% | — | 0.8% |
+| **Upper urinary tract** | 0.2–5% | 2.2–28% | 0.7–5.5% | ≤1–3.7% | — |
+| **Small bowel** | 0.4–11% | 1.1–10% | ≤1–4% | 0.1–0.3% | 0.3% |
+| **Brain** | 0.7–1.7% | 2.5–7.7% | 0.8–1.8% | 0.6–≤1% | 0.5% |
+
+## Diagnostic Process for Lynch Syndrome
+
+### Figure 17: Diagnostic Algorithm
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  Screening Criteria:                                                │
+│  • Amsterdam criteria II (strict, high specificity)                 │
+│  • Revised Bethesda guidelines (lenient, high sensitivity)          │
+│  • Universal tumor screening (MSI/MMR-IHC for all CRC)              │
+│  • Companion diagnostics (MSI for treatment selection)              │
+│  • Comprehensive genomic profiling                                  │
+└─────────────────────────────────────────────────────────────────────┘
+                              ↓
+                    MSI testing or MMR-IHC
+                              ↓
+              ┌───────────────┼───────────────┐
+              ↓               ↓               ↓
+          MSI-H/dMMR    BRAF V600E+      Loss of MLH1
+              ↓           or mMLH1+           ↓
+        ┌─────┴─────┐        ↓            mMLH1 test
+        ↓           ↓    Sporadic MSI        ↓
+    BRAF IHC    Genetic    CRC              ↓
+    testing     counseling              Sporadic / Lynch-like
+        ↓           ↓
+    ┌───┴───┐   Genetic testing
+    ↓       ↓       ↓
+ Lynch   Lynch    VUS ──→ Manage as Lynch
+syndrome  -like    until clarified
+```
+
+## Universal Screening for Lynch Syndrome
+
+### CQ6: Should universal screening be performed?
+
+::: {.recommendation-strong}
+**Evidence Level: C | Recommendation Grade: 1 (94.4% agreement)**
+
+Universal screening for Lynch syndrome in patients with CRC is **strongly recommended**.
+:::
+
+### Rationale:
+- Sensitivity of clinicopathological criteria is limited
+- 12–28% of Lynch syndrome missed by revised Bethesda guidelines
+- Universal screening sensitivity: MSI 93%, MMR-IHC 91%, combined 97%
+- Cost-effectiveness supported by QALY analyses
+- Prevalence in Japan: ~0.7–1.01% of CRC (lower than West, but significant)
+- Consider age-restricted screening (≤70 years) for cost-effectiveness
+
+### Testing Strategy:
+| Approach | Sensitivity | Specificity |
+|----------|-------------|-------------|
+| Amsterdam criteria II | 27.2% | 97.9% |
+| Revised Bethesda | 88.1% | 54.4% |
+| Universal MSI/MMR-IHC | >90% | High |
+
+## Characteristic Histopathological Features
+
+### Revised Bethesda Guidelines Features:
+1. **Tumor-infiltrating lymphocytes**
+2. **Medullary growth pattern**
+3. **Mucinous/signet-ring cell differentiation**
+4. **Crohn's-like lymphocytic reaction**
+
+### MMR-IHC Patterns:
+| Gene | IHC Pattern |
+|------|-------------|
+| MLH1 | Loss of MLH1 and PMS2 |
+| MSH2 | Loss of MSH2 and MSH6 |
+| MSH6 | Loss of MSH6 only |
+| PMS2 | Loss of PMS2 only |
+| EPCAM | Loss of MSH2 (and MSH6) |
+
+::: {.highlight-box}
+**Exception:** MLH1 missense variants may show only PMS2 loss. If strong clinical suspicion, perform MSI testing.
+:::
+
+## Surveillance in Lynch Syndrome
+
+### Table 11: Recommended Surveillance Protocols
+
+| Site | Test | Start Age | Interval | Notes |
+|------|------|-----------|----------|-------|
+| **Colorectum** | Colonoscopy | MLH1/MSH2: 20–25 yr; MSH6/PMS2: 30–35 yr | 1–2 years (MLH1/MSH2/MSH6); 1–3 years (PMS2) | High-quality colonoscopy essential |
+| **Uterus** | Endometrial biopsy | 30–35 years | 1–2 years | High sensitivity/specificity |
+| **Ovary** | Transvaginal US | Consider at discretion | — | Limited evidence |
+| **Stomach/Duodenum** | EGD + HP testing | 30–35 years | 1–3 years | Higher risk in East Asia |
+| **Urinary tract** | Urinalysis/cytology | 30–35 years | 1 year | Consider for MSH2 carriers |
+| **Pancreas** | EUS or MRI/MRCP | 50 years | 1 year | If family history of pancreatic cancer |
+
+## Colonoscopy Surveillance Personalization
+
+### CQ7: Should surveillance be personalized by causative gene?
+
+::: {.recommendation-strong}
+**Evidence Level: C | Recommendation Grade: 1 (100% agreement)**
+
+Colonoscopy surveillance **must be personalized** based on the causative gene.
+:::
+
+### Gene-Specific Recommendations:
+
+| Gene | Start Age | Interval | Rationale |
+|------|-----------|----------|-----------|
+| **MLH1** | 20–25 years | 1–2 years | Highest CRC risk (46–61%) |
+| **MSH2/EPCAM** | 20–25 years | 1–2 years | High risk (33–52%) |
+| **MSH6** | 30–35 years | 1–2 years | Lower risk (10–44%); later onset |
+| **PMS2** | 30–35 years | 1–3 years | Lowest risk (8.7–20%) |
+
+### Additional Risk Factors for Shorter Intervals:
+- History of CRC or adenoma
+- Male sex
+- Age >40 years
+- MLH1 or MSH2 variants
+
+## Surgery for Lynch Syndrome CRC
+
+### Surgical Options:
+| Approach | Indication | Notes |
+|----------|------------|-------|
+| Segmental colectomy | Standard approach | Equivalent to sporadic CRC |
+| Total colectomy | MLH1/MSH2 variants | Recommended in West; 22.4% metachronous CRC after segmental vs. 4.7% after extended |
+| Proctocolectomy | Rectal cancer | Consider for MLH1/MSH2 |
+
+### Key Considerations:
+- No consensus on prophylactic colectomy for asymptomatic carriers
+- In Japan: individualized approach considering age, comorbidities
+- Extended surgery not strongly recommended for MSH6/PMS2 variants
+- Quality colonoscopy and endoscopic resection of precancerous lesions essential
+
+## Chemoprevention in Lynch Syndrome
+
+### CQ8: Is chemoprevention as effective as surveillance?
+
+::: {.recommendation-weak}
+**Evidence Level: B | Recommendation Grade: 2 (100% agreement)**
+
+Aspirin **should NOT be routinely administered** for cancer chemoprevention in Lynch syndrome.
+:::
+
+### Evidence:
+| Study | Intervention | Result |
+|-------|--------------|--------|
+| **CAPP2** | Aspirin 600 mg/day | After 10 years: HR 0.65 for CRC (significant) |
+| | | Effect only with >2 years of use |
+| | Resistant starch 30 g/day | No effect on CRC; reduced non-CRC Lynch tumors by 46% |
+| **CAPP3** (ongoing) | Aspirin 600 vs 300 vs 100 mg/day | Optimal dose under investigation |
+
+### Concerns:
+- Long-term GI complications
+- Contraindicated after 28 weeks pregnancy
+- Body weight-dependent effects
+- CAPP2 had ~40% attrition over 20 years
+
+## Gynecological Tumors in Lynch Syndrome
+
+### Endometrial Cancer:
+- Second most common cancer in women with Lynch syndrome
+- Penetrance: up to ~60%
+- Often **sentinel malignancy** (precedes CRC)
+- In Japan: well-differentiated endometrioid type, stage I, younger age
+- Prognosis better than sporadic cases (MSI-H; responsive to immunotherapy)
+
+### Ovarian Cancer:
+- Non-serous types (endometrioid, clear cell)
+- Stage I presentation common
+- Better prognosis than sporadic ovarian cancer
+- Higher incidence of concurrent endometrial cancer
+
+## Risk-Reducing Gynecological Surgery
+
+### CQ9: Is risk-reducing surgery beneficial?
+
+::: {.highlight-box}
+**Evidence Level: C | Recommendation: None**
+
+Risk-reducing surgery does **NOT reduce mortality** but should be considered as an option to reduce cancer risk.
+:::
+
+### Evidence:
+| Study | Finding |
+|-------|---------|
+| Schmeler et al. | Hysterectomy: 0% endometrial cancer vs. 33% without (13.3-year FU) |
+| | BSO: 0% ovarian cancer vs. 5.5% without (10.6-year FU) |
+| PLSD study | Effect similar at age 25 vs. 40 years |
+| | Little benefit before age 40 |
+
+### Considerations:
+- Desire for childbearing
+- Comorbidities
+- Family history
+- Causative MMR gene
+- Menopausal symptoms, bone health, lipid profile after RRSO
+- Occult cancer in 5–17% of endometrial specimens
+
+## Upper GI Surveillance in Lynch Syndrome
+
+### CQ10: Is HP infection screening beneficial?
+
+::: {.recommendation-weak}
+**Evidence Level: C | Recommendation Grade: 2 (88.9% agreement)**
+
+Screening for **H. pylori infection is weakly recommended** to reduce gastric cancer risk.
+:::
+
+### Rationale:
+- Gastric cancer risk in Lynch syndrome:
+  - Western countries: up to 13%
+  - East Asia (including Japan): up to **41%**
+- HP infection leads to chronic inflammation → atrophic gastritis → intestinal metaplasia
+- Japanese studies: all 6 gastric cancer specimens tested positive for HP
+- Intestinal-type gastric adenocarcinoma predominates
+- Eradication therapy should be considered if HP positive
+
+### Surveillance:
+- Upper GI endoscopy every 1–3 years starting at age 30–35
+- Especially in East Asia or with family history of gastric cancer
+
+## Chemotherapy for Advanced Lynch Syndrome CRC
+
+### Immune Checkpoint Inhibitors:
+| Trial | Regimen | Response Rate | Lynch Syndrome Subgroup |
+|-------|---------|---------------|------------------------|
+| **KEYNOTE-016** | Pembrolizumab (3rd line) | 40% (MSI-H CRC) | 46% |
+| **KEYNOTE-164** | Pembrolizumab (2nd+ line) | Confirmed efficacy | — |
+| **KEYNOTE-177** | Pembrolizumab vs chemo (1st line) | Significant PFS benefit | ~90% MSI-H |
+| **CheckMate-142** | Nivolumab | 31% | 33% |
+| | Nivolumab + ipilimumab | 55% | 71% |
+
+::: {.highlight-box}
+**~90% of Lynch syndrome-associated CRCs are MSI-H/dMMR**
+
+Immune checkpoint inhibitors are **strongly recommended** for advanced/recurrent CRC in Lynch syndrome.
+:::
+
+## Management of Relatives
+
+### Figure 19: Management of Biological Relatives
+
+```
+┌─────────────────┐  ┌─────────────────────────┐  ┌─────────────────┐
+│ Relatives with  │  │ Relatives without       │  │ Relatives       │
+│ GPV             │  │ genetic testing         │  │ without GPV     │
+└────────┬────────┘  └────────────┬────────────┘  └────────┬────────┘
+         │                        │                        │
+         └────────────┬───────────┘                        │
+                      ↓                                    ↓
+         ┌────────────────────────┐           ┌────────────────────────┐
+         │ Surveillance as Lynch  │           │ General cancer         │
+         │ syndrome               │           │ screening              │
+         └────────────────────────┘           └────────────────────────┘
+```
+
+### Principles:
+- At-risk relatives (especially first-degree) should receive genetic counseling
+- Genetic testing ideally in adulthood
+- If GPV identified: surveillance as Lynch syndrome
+- If no GPV: general population screening
+- If untested: surveillance as Lynch syndrome (precautionary)
+
+## Summary of Clinical Questions
+
+### FAP Clinical Questions:
+
+| CQ | Question | Evidence | Grade | Agreement |
+|----|----------|----------|-------|-----------|
+| **CQ1** | Genetic testing in adenomatous polyposis? | C | **1 (Strong)** | — |
+| **CQ2** | Chemoprevention effective? | B | None | 94.4% |
+| **CQ3** | Endoscopic treatment for duodenal adenomas? | C | **2 (Weak)** | — |
+| **CQ4** | Desmoid tumor surveillance useful? | C | **2 (Weak)** | 94.4% |
+| **CQ5** | Thyroid cancer surveillance useful? | C | **2 (Weak)** | — |
+
+### Lynch Syndrome Clinical Questions:
+
+| CQ | Question | Evidence | Grade | Agreement |
+|----|----------|----------|-------|-----------|
+| **CQ6** | Universal screening for MMR deficiency? | C | **1 (Strong)** | 94.4% |
+| **CQ7** | Personalized colonoscopy by gene? | C | **1 (Strong)** | 100% |
+| **CQ8** | Chemoprevention (aspirin) effective? | B | **2 (Weak)** — NOT recommended | 100% |
+| **CQ9** | Risk-reducing gynecological surgery? | C | None | — |
+| **CQ10** | HP infection screening beneficial? | C | **2 (Weak)** | 88.9% |
+
+## Key Takeaways
+
+### FAP:
+1. **Genetic testing is mandatory** for all adenomatous polyposis (MGPT preferred)
+2. **Prophylactic colectomy** is the most reliable treatment — timing based on genotype
+3. **Duodenal surveillance** essential (Spigelman classification guides management)
+4. **Desmoid surveillance** after surgery, especially with 3' APC variants
+5. **Thyroid surveillance** for young females
+6. **Chemoprevention** not routinely recommended (insufficient long-term data)
+
+### Lynch Syndrome:
+1. **Universal screening** recommended for all CRC patients
+2. **Gene-specific surveillance** intervals (earlier/more frequent for MLH1/MSH2)
+3. **Immunotherapy** highly effective for advanced MSI-H/dMMR CRC
+4. **Aspirin chemoprevention** NOT routinely recommended
+5. **HP screening** recommended in East Asian populations
+6. **Risk-reducing surgery** reduces incidence but not mortality — individualized decision
+
+## Multidisciplinary Care
+
+### Essential Team Members:
+- Gastroenterologists
+- Colorectal surgeons
+- Gynecologists
+- Genetic counselors
+- Pathologists
+- Clinical psychologists
+- Medical social workers
+- Patient advocacy groups
+
+### Genetic Counseling:
+- Provide at appropriate times before, during, and after testing
+- Shared decision-making considering patient values
+- Psychosocial support for coping with hereditary risk
+- Information on surveillance, prevention, and family implications
+
