@@ -20,7 +20,7 @@ book:
   # Multi-volume structure
   chapters:
     - index.qmd
-    - chapters/32_esophageal_cancer_diagnosis_staging.qmd
+    - chapters/31_esophageal_cancer_diagnosis_staging.qmd
     - chapters/33_esophagectomy_techniques.qmd
     - chapters/59_gastric_adenoca_trials.qmd
     - chapters/82_gastrointestinal_stromal_tumors.qmd

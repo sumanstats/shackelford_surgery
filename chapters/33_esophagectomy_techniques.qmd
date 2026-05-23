@@ -1,5 +1,15 @@
 # 33-Esophagectomy techniques
 
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+
 Generated with Claude.
 
 **1. What is the cornerstone of therapy for patients with early or locally advanced esophageal cancer in the absence of systemic metastases?**
