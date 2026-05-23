@@ -2,7 +2,7 @@
 title: "Esophageal Cancer Diagnosis and Staging"
 format:
   revealjs:
-    theme: default
+    theme: dark
     smaller: true
     scrollable: true
 ---

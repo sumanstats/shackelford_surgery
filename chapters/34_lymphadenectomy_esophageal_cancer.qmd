@@ -1,5 +1,14 @@
 # 34-Extent of Lymphadenectomy for Esophageal Cancer
 
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+
 Generated with Claude.
 
 **1. What remains a controversial issue in the surgical management of esophageal cancer?**

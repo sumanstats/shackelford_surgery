@@ -1,0 +1,874 @@
+---
+title: "Endoscopic Ultrasound of the Esophagus"
+format:
+  revealjs:
+    theme: dark
+    smaller: true
+    scrollable: true
+---
+
+## Overview 
+
+**EUS**
+
+- Combines **endoscopy** (flexible tube with light and camera) with **ultrasound technology**
+- Visualizes internal organs and tissues in the **upper and lower GI tract**
+- Evaluates:
+  - Esophagus, stomach, small intestine, colon, rectum
+  - Surrounding organs: pancreas, liver, lymph nodes
+- Chapter focus: Basic principles of endosonography → EUS in the esophagus as it pertains to **esophageal cancer**
+
+
+
+::: {.callout-note appearance="minimal"}
+- Key Advantage Over CT/MRI:
+
+    - Potential to obtain **tissue samples** for histopathology and molecular testing
+:::
+
+
+
+---
+
+### Principles of Endosonography: Fundamentals
+
+**How Ultrasonography Works**
+
+- Based on **high-frequency sound waves**
+- Produced by applying voltage to a **transducer (piezoelectric crystal)**
+- Sound waves transmitted through the GI tract lumen into the body
+
+## Image Formation
+
+1. Sound waves encounter **tissue boundaries** (e.g., solid organs vs. fluid-filled areas)
+2. Waves are **reflected back** to the ultrasound probe
+3. The **time** for round-trip + **strength** of reflected waves → creates the image
+
+## Doppler Evaluation
+
+- Measures **blood flow** through frequency change of the sound wave
+
+
+
+## Echogenicity
+
+
+The ability of a tissue to **reflect or transmit** ultrasound waves in the context of surrounding tissues.
+
+::: {.callout-tip appearance="minimal"}
+A visible contrast difference appears on screen whenever there is an interface of structures with different echogenicity.
+:::
+
+## Classification of Structures
+
+| Term | Appearance | Examples |
+|------|-----------|----------|
+| **Hyperechoic** | White | Fat, air |
+| **Hypoechoic** | Gray (darker) | Lymph nodes, tumors |
+| **Isoechoic** | Same as surrounding | Difficult to distinguish |
+| **Anechoic** | Black | Fluid-filled: cysts, arteries, veins |
+
+## Clinical Pearl
+
+Isoechoic lesions require identification through **subtleties in tissue interface**, shape, size, and location — a skill of the trained endosonographer.
+
+
+
+## Types of Echoendoscopes: Radial {.smaller}
+
+::: {.columns}
+
+::: {.column width="50%"}
+Radial EUS Endoscope
+
+- **270–360°** ultrasonic probe at the tip
+- Examines organs/lesions on the wall close to the GI tract
+- Images are **perpendicular** to endoscope tip's axis
+- **Cross-sectional orientation** — like an axial CT scan slice
+- Best for examining **esophageal wall layers**
+:::
+
+::: {.column width="50%"}
+Typical Use
+
+- Staging esophageal cancers
+- Evaluating subepithelial lesions
+- Anatomical landmark identification
+
+::: {.callout-note appearance="minimal"}
+Often uses a **thin water-filled balloon** over the probe to improve contact
+:::
+:::
+
+:::
+
+
+
+## Types of Echoendoscopes: Linear
+
+::: {.columns}
+
+::: {.column width="50%"}
+Linear Echoendoscope
+
+- **100–180°** ultrasonic probe along one side of the tip
+- Generates view **parallel** to the echoendoscope's shaft
+- Optical viewing field is **oblique** (45–60° viewing angle)
+:::
+
+::: {.column width="50%"}
+Greatest Advantage
+
+**Fine-Needle Aspiration / Biopsy (FNA/FNB)**
+
+- Needle exits obliquely along the side of the probe
+- Location and depth monitored under **ultrasound guidance**
+- Enables tissue sampling **and** therapeutic interventions within the esophagus
+:::
+
+:::
+
+
+
+## Radial vs. Linear: Comparison
+
+| Feature | Radial | Linear |
+|---------|--------|--------|
+| **View angle** | 270–360° | 100–180° |
+| **Image plane** | Perpendicular (cross-sectional) | Parallel to shaft |
+| **Image orientation** | Like axial CT | Longitudinal |
+| **FNA/FNB capability** | No | Yes |
+| **Best use** | Wall layer assessment, anatomy | Tissue acquisition, interventions |
+| **Balloon often used?** | Yes | No (usually unnecessary) |
+
+
+
+## Imaging Artifacts in Esophageal EUS
+
+**Common Challenge**: Tangential Imaging
+
+- Occurs when transducer is at an angle **other than 90°** to the structure
+- Leads to **overestimation** of object thickness
+- Esophagus is particularly prone due to **wall compression** by the probe
+
+**[Other Artifacts]{.underline}**
+
+- Reverberation
+- Mirror image
+- Attenuation artifact
+
+
+
+## Reducing Artifacts During Esophageal EUS
+
+::: {.columns}
+
+:::: {.column width="50%"}
+1. Water-Filled Balloon
+
+- Thin balloon over the ultrasound probe fills with water
+- Reduces **attenuation artifacts** from insufficient probe-wall contact
+- Most often used during **radial** examinations
+- Usually unnecessary for linear exams
+::::
+
+:::: {.column width="50%"}
+2. Water in the Esophageal Lumen
+
+- Placed through the **biopsy channel** or via **air/water button**
+- Improves acoustic coupling
+
+::: {.callout-caution appearance="minimal"}
+**Caution:** Risk of **aspiration** with high volumes — use water cautiously
+:::
+::::
+
+:::
+
+
+
+## Normal Anatomy: Five Layers of the Esophageal Wall
+
+Knowing the layers is **vital** for staging esophageal cancers and evaluating subepithelial lesions.
+
+| Layer | Echogenicity | Histologic Correlate |
+|-------|--------------|----------------------|
+| **1st** | Hyperechoic (white) | Interface between superficial mucosa and water |
+| **2nd** | Hypoechoic (dark) | Deep mucosa |
+| **3rd** | Hyperechoic (white) | Submucosa + acoustic interface with muscularis propria |
+| **4th** | Hypoechoic (dark) | Muscularis propria |
+| **5th** | Hyperechoic (white) | Outer adventitia (at esophageal level) |
+
+::: {.callout-note appearance="minimal"}
+Best examined using a **radial echoendoscope**
+:::
+
+
+
+## Figure 30.1: Five Layers of the Esophageal Wall
+
+
+**Key Layers**
+
+- **m** = Mucosa
+- **mm** = Muscularis mucosa
+- **sm** = Submucosa
+- **mp** = Muscularis propria
+- **s** = Serosa
+
+
+Five concentric alternating hyperechoic/hypoechoic rings
+
+
+
+## Normal Anatomy: Radial Endosonography — Starting Point
+
+**[Step-by-Step Approach]{.underline}**
+
+1. Place radial echoendoscope at the **gastroesophageal junction (GEJ)**
+2. **Inflate the balloon** on the radial echoendoscope
+3. First structure seen: **aorta** (round, anechoic, confirmed with Doppler)
+4. Use electronic rotation to place aorta at **5 o'clock position** (like a CT slice)
+5. Ensure transducer is centered in the balloon
+6. **Slowly withdraw** the scope
+
+
+
+## Figure 30.2: Anatomical Landmarks at the GEJ
+
+**Key Structures**
+
+- **Aorta** positioned at 5 o'clock
+- **IVC** (Inferior Vena Cava)
+- **Liver** visible
+
+
+Orientation mimics a **CT scan slice** for intuitive anatomical correlation
+
+
+
+## Radial EUS: Mid-Esophageal Landmarks
+
+[As the Scope is Withdrawn from GEJ]{.underline}
+
+| Distance from Incisors | Landmark | Position |
+|------------------------|----------|----------|
+| **33–35 cm** | Left atrium | 10–12 o'clock |
+| Just above LA | Subcarinal space | 12 o'clock (3–4 cm long) |
+| **27–29 cm** | Left & right mainstem bronchi | 2 and 10 o'clock |
+
+[Characteristics]{.underline}
+
+- **Left atrium**: first major landmark after GEJ
+- **Subcarinal space**: examine carefully for **lymph nodes**
+- **Bronchi**: appear as **bright strands** due to air within them
+
+
+
+## Figure 30.3: Left Atrium
+
+**[Visible Structures]{.underline}**
+
+- **Left Atrium**
+- **Spine**
+- **Aorta**
+- **Subcarinal LN** (lymph node)
+
+
+Typical location: **33–35 cm from incisors**
+
+## Figure 30.4: Subcarinal Space
+
+[**Key Features**]{.underline}
+
+- Located at **12 o'clock**
+- 3–4 cm in length
+- Important site for **lymph node assessment**
+
+
+Visible landmarks: Carina, Aortic Arch, Aorto-Pulmonary Window
+
+
+## Radial EUS: Proximal Landmarks
+
+Findings Over the Next 2–3 cm (after bronchi)
+
+1. **Left and right mainstem bronchi** merge → form the **trachea** at 12 o'clock
+2. **Azygous vein** joins the **superior vena cava**
+3. **Elongation of aorta** → represents the **aortic arch**
+
+Aortopulmonary Window (APW)
+
+- Once aortic arch is identified, **advance scope 2–3 cm**
+- APW located at **3 o'clock position**
+- **Critical window** for identifying pathological lymph nodes
+
+
+
+## Figure 30.5: Left and Right Mainstem Bronchi
+
+[**Visible Structures**]{.underline}
+
+- **Tracheal bifurcation**
+- **Azygos arch**
+- **Thoracic duct**
+- **Aortic arch**
+
+
+Bronchi appear as **bright strands** due to air
+
+
+
+## Figure 30.6: Aorto-Pulmonary Window (Radial)
+
+[**Key Features**]{.underline}
+
+- Located at **3 o'clock**
+- AA = Aortic Arch
+- APW = Aorto-Pulmonary Window
+
+::: {.callout-tip appearance="minimal"}
+Essential window for detecting **pathological lymph nodes**
+:::
+
+
+
+## Normal Anatomy: Linear Endosonography
+
+- Why Linear is More Challenging
+
+    - Plane of view is **parallel** to the endoscope axis
+    - Less intuitive than radial EUS
+    - Requires **in-depth anatomical knowledge** and optimal scope rotation
+
+- General Approach
+
+    1. After intubation, advance linear scope to the **GEJ**
+    2. Begin examination during **withdrawal**
+    3. Divided into: **distal, mid, and proximal** esophagus
+    
+## Normal Anatomy: Linear Endosonography
+
+First Structure Identified
+
+- **Descending thoracic aorta**
+- Rotate **clockwise** → identify the **left atrium**
+  - Appears as contracting chamber
+  - Mitral valve opening into left ventricle visible
+
+
+
+## Linear EUS: Mid-Esophageal Structures
+
+With Continued Withdrawal
+
+- **Ascending aorta** and **pulmonary artery** come into view
+- Important for identifying **subcarinal lymph nodes** (Thoracic Node Station 7)
+
+Continued Clockwise Rotation
+
+- Brings the **superior vena cava** into view
+
+Blind Spot
+
+- Appears as scope is pulled over the **air-filled left mainstem bronchus**
+- With rotation at this level:
+  - **Arch of aorta** becomes visible
+  - Just distal to arch: **cross-sectional view of right pulmonary artery**
+
+
+
+## Figure 30.7: Subcarinal Space (Linear — Station 7)
+
+Visible Structures
+
+- **LA** = Left Atrium
+- **LV** = Left Ventricle
+- **PA** = Pulmonary artery
+
+::: {.callout-note appearance="minimal"}
+Thoracic node **station 7** — critical for lung/esophageal cancer staging
+:::
+
+
+
+## Aortopulmonary Window (Linear — Station 5)
+
+Location and Importance
+
+- Between **aortic arch** and **right pulmonary artery**
+- **Thoracic nodal station 5**
+- Malignant mediastinal lymph nodes often identified here
+
+Proximal Esophagus / Neck Withdrawal
+
+- **Trachea** anteriorly
+- **Spine** posteriorly
+- Vascular structures:
+  - Left common carotid
+  - Right common carotid
+  - Deep internal jugular veins
+
+
+
+## Figure 30.8: Aorto-Pulmonary Window (Linear — Station 5)
+
+Visible Structures
+
+- **PA** = Pulmonary Artery
+- **APW** = Aorto-Pulmonary Window
+- **Aortic arch**
+
+::: {.callout-tip appearance="minimal"}
+Critical for staging mediastinal lymphadenopathy
+:::
+
+
+
+## Linear EUS: Azygous Vein Tracking
+
+Returning to Distal Esophagus
+
+- Identify the **azygous vein**
+- **Rotate counterclockwise** from descending aorta → azygous vein comes into view
+- **Withdraw scope while tracking** the azygous vein
+- Reveals the **superior vena cava**
+
+::: {.callout-note appearance="minimal"}
+Useful technique to map the posterior mediastinal vascular anatomy
+:::
+
+
+
+## Indications for EUS of the Esophagus
+
+- EUS is both a **diagnostic** and **therapeutic** tool with a wide variety of indications.
+
+- Primary Roles in the Esophagus
+
+    - **Local staging** of esophageal cancer
+    - Evaluation and sampling of **subepithelial lesions**
+    - Evaluation of **posterior mediastinal lesions**
+    - Assessment of **paraoesophageal / posterior mediastinal adenopathy**
+
+## Additional Applications (beyond this chapter)
+
+- Esophageal subepithelial lesions
+- Mediastinal masses and lymphadenopathy
+- Lung cancer staging
+
+::: {.callout-tip appearance="minimal"}
+**Chapter Focus:** Role of EUS in esophageal cancer
+:::
+
+
+
+## EUS vs. CT in T-Staging
+
+Diagnostic Accuracy Comparison
+
+| Modality | T-Staging Accuracy |
+|----------|-------------------|
+| **CT Scan** | 45% |
+| **EUS** | 85% |
+
+*Based on systematic review data*
+
+## Additional Advantages of EUS
+
+- Allows **tissue acquisition (FNA)** of nodal structures in and around the esophagus
+- Superior for locoregional staging
+
+## Requirements for Accurate Evaluation
+
+- Excellent understanding of **esophageal and periesophageal anatomy**
+- Knowledge of **staging classifications**
+- Basic understanding of **EUS techniques** and **image interpretation**
+
+
+
+## Esophageal Cancer Staging: AJCC System
+
+TNM Classification
+
+Esophageal cancer staging uses the **American Joint Committee on Cancer (AJCC)** system:
+
+| Component | Definition |
+|--------|-----------|
+| **T** | Depth of invasion of the primary tumor |
+| **N** | Lymph node involvement |
+| **M** | Extent of metastatic disease |
+
+::: {.callout-note appearance="minimal"}
+The TNM components are **the same** for esophageal **adenocarcinoma** and **squamous cell carcinoma**
+:::
+
+
+
+## Tumor (T) Staging: Overview
+
+| Stage | Depth of Invasion |
+|-------|-------------------|
+| **T1a** | Mucosa (lamina propria or muscularis mucosae) |
+| **T1b** | Submucosa |
+| **T2** | Muscularis propria (4th hypoechoic layer) |
+| **T3** | Through muscularis propria → adventitia |
+| **T4** | Through adventitia → adjacent structures |
+
+
+
+## T1a Tumor: Confined to Mucosa
+
+Definition
+
+- Cancerous involvement **limited to the mucosa**
+- Invades into the **lamina propria** or **muscularis mucosae**
+
+Clinical Significance
+
+- **<5% risk** of nodal metastasis
+- Can be treated with **endoscopic resection**
+
+
+
+## T1b Tumor: Submucosal Invasion
+
+Definition
+
+- Invasion extends into the **submucosa**
+
+Clinical Significance
+
+- **15–30% rate** of lymph node metastasis
+- Treated with **surgical resection**
+
+## Distinguishing T1a from T1b
+
+- **Critical distinction** for treatment planning
+- Meta-analysis: EUS sensitivity of **85%** for distinguishing T1a vs T1b
+- Some debate exists regarding EUS accuracy in early disease (risk of overstaging)
+
+
+
+## T2 Tumor: Muscularis Propria Invasion
+
+Definition
+
+- Tumor invades the **muscularis propria**
+- Corresponds to the **4th hypoechoic layer** seen on EUS
+
+Clinical Relevance
+
+- Detection of suspicious lymph nodes can **change treatment course**, especially for T2 disease
+- Accurate staging determines need for neoadjuvant therapy
+
+
+
+
+
+## T3 Tumor: Adventitial Invasion
+
+Definition
+
+- Tumor invades **through the muscularis propria**
+- Involves the **adventitia**
+
+Imaging Features
+
+- Disruption of the 4th hypoechoic layer
+- Extension into the 5th hyperechoic layer (adventitia)
+
+
+
+
+
+## T4 Tumor: Adjacent Structure Invasion
+
+Definition
+
+- Tumor invades **through the adventitia**
+- Involves **adjacent structures** (e.g., aorta, trachea, pericardium)
+
+Clinical Significance
+
+- Generally considered **unresectable**
+- Requires multimodal therapy approach
+
+
+
+## Nodal (N) Staging
+
+Definition
+
+- Nodal stage determined by the **number of lymph nodes involved**
+
+Prognostic Significance
+
+| Malignant Lymph Nodes | Median Survival |
+|----------------------|-----------------|
+| **0 nodes** | 66 months |
+| **>2 nodes** | 6.5 months |
+
+
+Clinical Impact
+
+- Detection of suspicious nodes can **change treatment course**
+- Especially impactful for patients with **T2 disease**
+
+::: {.callout-caution appearance="minimal"}
+Number of positive lymph nodes **directly correlates** with decreased survival
+:::
+
+
+## EUS Features of Malignant Lymph Nodes
+
+Four Key Features
+
+1. **Size > 1 cm**
+2. **Round shape**
+3. **Clearly demarcated borders**
+4. **Hypoechoic**
+
+Predictive Value
+
+| Number of Features Present | Probability of Metastatic Involvement |
+|---------------------------|--------------------------------------|
+| Some features | ~80% |
+| **All 4 features** | **80–100%** |
+
+
+
+## N-Staging: EUS Accuracy
+
+Comparative Accuracy
+
+| Modality | Accuracy for N-Staging |
+|----------|------------------------|
+| **Helical CT** | 51% |
+| **EUS alone** | 74% |
+| **EUS + FNA** | 87% |
+
+*Based on prospective study data*
+
+## Limitations of EUS-FNA for Lymph Nodes
+
+- Potential **seeding risk**
+- Added **time and cost**
+- **Inability to sample nodes through tumor**
+
+::: {.callout-note appearance="minimal"}
+**Authors' practice:** FNA of suspicious-appearing lymph nodes is **not routinely performed**
+:::
+
+
+
+## Distant Metastasis (M) Staging
+
+Definition
+
+Spread of tumor **outside of regional lymph nodes**
+
+Common Sites of Distant Metastasis
+
+| Site | Frequency |
+|------|-----------|
+| **Liver** | 33.4% |
+| **Distant (nonregional) lymph nodes** | 26.6% |
+| **Lung** | 20.5% |
+| **Bone** | 15.7% |
+| **Brain** | 3.8% |
+
+**Role of EUS in M-Staging**: **Limited** for detecting metastatic disease
+
+
+
+## M-Staging: Imaging Modality Comparison
+
+Accuracy for Distant Metastasis Detection
+
+| Modality | Accuracy |
+|----------|----------|
+| **PET** | 86% |
+| **Combined CT + EUS** | 62% |
+
+NCCN Recommendations
+
+1. **CT of chest, abdomen, and pelvis** at time of cancer diagnosis
+2. If no overt distant metastatic disease on CT:
+   - **Both EUS and PET** recommended for additional examination
+
+::: {.callout-tip appearance="minimal"}
+**PET is superior** to combined CT + EUS for detecting distant metastases
+:::
+
+
+
+## Role of EUS in Obstructing Tumors {.smaller}
+
+#### The Challenge
+
+- **20–36%** of esophageal cancers prevent passage of the echoendoscope
+- Due to **high-grade malignant strictures**
+- Inability to pass the scope **limits accurate T and N staging**
+
+::: {.callout-note appearance="minimal"}
+Staging accuracy is **much higher** in traversable vs. nontraversable cancers
+:::
+
+
+
+## Overcoming Obstructing Tumor Limitations: Method 1
+
+#### Limited EUS Staging Proximal to the Stricture
+
+**Approach:**
+
+- Perform staging examination only above the stricture
+- May be a **safe alternative** to esophageal dilation
+
+**Limitations:**
+
+- Accuracy only **28%**
+- Lymph node assessment **distal** to the lesion is limited
+- Cannot visualize the **celiac axis**
+
+
+
+## Overcoming Obstructing Tumor Limitations: Method 2
+
+#### Dilation of the Stricture
+
+**Goal:** Allow passage of the 12–13 mm diameter echoendoscope
+
+**Outcomes:**
+
+- Success rate of passing EUS scope: **33%** (standard dilation)
+- **87%** success when dilated to 14–16 mm (2000 study)
+- Only **33%** had accurate preoperative assessment of tumor depth after dilation
+
+**Risks:**
+
+- Esophageal perforation risk: **up to 24%**
+
+
+
+## Overcoming Obstructing Tumor Limitations: Method 3
+
+#### High-Frequency Catheter Ultrasonic Probes (HFCP) / Mini Probes
+
+**Advantages:**
+
+- Small diameter (**3 mm**) → may pass beyond stenotic lumen
+- Detailed examination of esophageal wall possible
+
+**Limitations:**
+
+- Higher frequency (**20 MHz**) → limited depth of penetration
+- **Poor accuracy** for N-staging
+- **Cannot discriminate** between T3 and T4 tumors
+- Not routinely used in clinical practice
+
+
+
+## Authors' Approach to Obstructing Tumors
+
+::: {.callout-caution appearance="minimal"}
+**Dilation of obstructing tumors is NOT regularly performed** in the authors' practice
+:::
+
+#### Rationale
+
+1. **Risk of perforation**
+2. Detailed information obtainable from **CT and PET scans**
+3. Obstructing tumors are usually at least **T3 stage**
+4. Require **neoadjuvant chemotherapy** regardless
+
+::: {.callout-tip appearance="minimal"}
+Clinical decision-making often proceeds without full EUS staging in obstructing tumors
+:::
+
+
+
+## Role of EUS After Neoadjuvant Chemotherapy
+
+#### The Controversy
+
+Role of EUS after neoadjuvant chemoradiation (CRT) is **controversial** because treatment causes:
+
+- **Inflammation**
+- **Fibrosis**
+- **Necrosis**
+
+→ Leads to **hypoechoic appearance** of the esophageal wall
+
+→ Limits EUS ability to **accurately differentiate wall layers**
+
+
+
+## EUS Accuracy After Neoadjuvant Therapy
+
+#### Study Findings
+
+| Outcome | EUS Accuracy |
+|---------|--------------|
+| Correctly identifying **complete response** to CRT | **27%** |
+| Tumor and nodal staging accuracy **after chemotherapy** | **60%** |
+
+::: {.callout-caution appearance="minimal"}
+**Limited sensitivity** → EUS after neoadjuvant chemotherapy is **not common practice** at the authors' center
+:::
+
+#### Implication
+
+- Poor ability to **downstage** disease accurately
+- Treatment decisions post-CRT rely on other modalities
+
+
+
+## Conclusion
+
+#### Key Takeaways
+
+::: {.columns}
+
+:::: {.column width="50%"}
+#### EUS as a Tool
+
+- **Powerful tool** for diagnosis and staging of esophageal cancer
+- **Linear endoscopes** expanded the role:
+  - Accurate visualization
+  - Tissue acquisition (FNA/FNB)
+  - Accurate diagnosis and locoregional staging
+::::
+
+:::: {.column width="50%"}
+#### Clinical Impact
+
+- Data obtained by EUS has **meaningful and significant impact** on medical and surgical management
+- Beyond esophageal cancer:
+  - Subepithelial lesions
+  - Mediastinal masses & lymphadenopathy
+  - Lung cancer
+::::
+
+:::
+
+## Future Directions
+
+- Since introduction, **advances in technology and techniques** have dramatically expanded applications
+- Evolution from **diagnostic → interventional EUS**
+- Expected to continue emerging as an **invaluable tool** in esophageal disease management
+
+
+
+## Summary Table: Key EUS Applications in Esophageal Cancer
+
+| Application | Role of EUS | Accuracy / Notes |
+|-------------|-------------|------------------|
+| **T-staging** | Excellent | 85% accuracy (vs 45% CT) |
+| **N-staging** | Very good | 87% with FNA |
+| **M-staging** | Limited | PET is superior (86% vs 62%) |
+| **T1a vs T1b distinction** | Good | 85% sensitivity |
+| **Post-neoadjuvant restaging** | Poor | 27–60% accuracy |
+| **Obstructing tumors** | Challenging | Consider CT/PET instead |
+

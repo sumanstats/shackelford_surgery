@@ -1,4 +1,4 @@
-# 32-Esophageal Cancer Diagnosis and Staging
+# 31-Esophageal Cancer Diagnosis and Staging
 
 
 

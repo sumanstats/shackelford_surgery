@@ -1,0 +1,27 @@
+# 32 Neoadjuvant Treatments in Locally Advanced Esophageal Cancer
+
+
+## Generated with Claude.
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+
+## Generated with Kimi AI.
+
+
+
+<iframe    src="../presentation/32_neoadjuvant_locally_advanced_esophageal_cancer_kimi.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+  allow="fullscreen"
+  allowfullscreen>
+</iframe>
+
+

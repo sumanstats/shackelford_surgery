@@ -1,0 +1,647 @@
+---
+title: "Neoadjuvant Treatments in Locally Advanced Esophageal Cancer"
+format:
+  revealjs:
+    theme: dark
+    smaller: true
+    scrollable: true
+---
+
+
+
+## Introduction — The Multimodal Imperative
+
+
+**Historical Challenge**
+
+- Early nCT/nCRT regimens: high toxicity, treatment-related mortality, marginal survival benefit
+- Over 40 years of evolution driven by better understanding of **tumor histology and biology**
+
+**Core Principle**
+
+- Multiple RCTs: nCT or nCRT confers better survival vs surgery alone
+- Controls **local** and **micrometastatic** disease
+- Majority of patients ultimately die of recurrence
+
+## Introduction — The Multimodal Imperative
+
+**Current Landscape**
+
+- Ideal regimen still not fully elucidated
+- Immunotherapy role yet to be clearly defined
+- **Surgical standard:** Transthoracic *en bloc* esophagogastrectomy + extended lymphadenectomy
+  - Highest R0 resection rate
+  - Lowest locoregional recurrence
+
+**Chapter Focus**
+
+- Evolution of neoadjuvant treatments
+- Evidence base for treatment decisions
+- Future trends in management
+
+
+---
+
+## Neoadjuvant Radiotherapy (nRT) vs Surgery Alone
+
+**Historical Context**
+
+- First studies: 1950s, primarily ESCC
+- Goal: local disease response + R0 resection
+- 5-year OS: only **6–10%** — minimal benefit over surgery alone
+
+**Cochrane Review (5 trials, n = 1147)**
+
+- Majority ESCC
+- Absolute survival benefit: **only 4% at 5 years** vs surgery alone
+- Failed to reach statistical significance
+- nRT dose considerably lower than modern regimens
+- Did not combine nRT with concurrent chemotherapy
+
+
+## Neoadjuvant Radiotherapy (nRT) vs Surgery Alone
+
+**Higher-Dose nRT — Still Insufficient**
+
+- Even higher doses of nRT alone fail to achieve meaningful survival improvement
+- Chinese multiarm study (40 Gy nRT vs surgery):
+  - Improved **3-year** OS with nRT
+  - Not sustained at **5 years**
+
+
+
+**Conclusion:** nRT alone is **not** an accepted standard of care for locally advanced esophageal cancer. Its use as a solitary treatment strategy should remain in the **palliative** realm.
+
+
+## Neoadjuvant Chemoradiotherapy (nCRT) — Rationale
+
+**Rationale for Adding Chemotherapy to RT**
+
+- Systemic treatment extends efficacy to **micrometastatic disease** beyond the radiation field
+- Several agents act as **radiosensitizers**:
+  - 5-FU
+  - Cisplatin
+  - Paclitaxel
+
+
+**Histological Sensitivity**
+
+- ESCC is **particularly sensitive** to radiotherapy
+- EAC has more attenuated response
+- This difference drives histology-specific treatment decisions
+
+
+**Meta-analysis of 26 early studies (n = 1335)**
+
+- pCR achieved in **24%** of patients
+- Dose-related response confirmed
+- Role of combined systemic treatment formalized
+
+**Early Toxicity Challenges**
+
+- 64.8 Gy nCRT → **9%** treatment-related deaths
+- Cisplatin/vinblastine/5FU (Forastiere 1990) → grade III–IV myelosuppression in **93%**
+- Bosset et al.: nCRT deaths significantly higher than post-surgery
+
+
+## Table 32.1 — Randomized nCRT vs Surgery (Part 1: 1992–2008)
+
+| Trial | Year | N | Histology | Neoadjuvant Regimen | %pCR | Survival Outcome |
+|---|---|---|---|---|---|---|
+| Nygaard | 1992 | Sx46 / nCRT41 | ESCC | Cisplatin, bleomycin, 35 Gy | 24 | 3-yr OS: 9% vs **13%** |
+| Le Prise | 1994 | Sx45 / nCRT41 | ESCC | Cisplatin, 5FU, 20 Gy | 10 | 3-yr OS: 14% vs 19% |
+| Apinop | 1994 | Sx34 / nCRT35 | ESCC | Cisplatin, 5FU, 40 Gy | 20 | 3-yr OS: 20% vs 26% |
+| Walsh | 1996 | Sx55 / nCRT58 | EAC | Cisplatin, 5FU, 40 Gy | 22 | 3-yr OS: 6% vs **32%\*** |
+| Bosset | 1997 | Sx139 / nCRT143 | ESCC | Cisplatin, 37 Gy | 20 | 3-yr OS: 34% vs 36% |
+| Urba | 2001 | Sx50 / nCRT50 | EAC/ESCC | Cisplatin, vinblastine, 5FU, 45 Gy | 28 | 3-yr OS: 15% vs **32%\*** |
+| Lee | 2004 | Sx50 / nCRT51 | ESCC | Cisplatin, 5FU, 45.6 Gy | 43 | Median OS: 27.3 vs 28.2 mo |
+| Burmeister | 2005 | Sx128 / nCRT128 | EAC/ESCC | Cisplatin, 5FU, 35 Gy | 12.5 | Median OS: 19.3 vs 22.2 mo |
+| Tepper | 2008 | Sx30 / nCRT26 | EAC/ESCC | Cisplatin, 5FU, 50.4 Gy | 33.3 | 5-yr OS: 16% vs **39%\*** |
+
+\* *Statistically significant* | EAC = Esophageal adenocarcinoma; ESCC = Esophageal squamous cell carcinoma
+
+
+
+## Table 32.1 — Randomized nCRT vs Surgery (Part 2: 2009–2018)
+
+| Trial | Year | N | Histology | Neoadjuvant Regimen | %pCR | Survival Outcome |
+|---|---|---|---|---|---|---|
+| Cao | 2009 | Sx118 / nCRT118 | ESCC | Cisplatin, mitomycin, 5FU, 40 Gy | 22.3 | 3-yr OS: 53.4% vs **73.3%\*** |
+| Lv | 2010 | Sx80 / nCRT78 | ESCC | Paclitaxel, cisplatin, 40 Gy | NR | 5-yr OS: 33.8% vs **87.5%\*** |
+| **CROSS** | **2012** | **Sx188 / nCRT178** | **EAC/ESCC** | **Carboplatin, paclitaxel, 41.4 Gy** | **29** | **Median OS: 24.0 vs 49.4 mo\*** |
+| Mariette | 2014 | Sx97 / nCRT98 | ESCC | Cisplatin, 5FU, 45 Gy | 33.3 | Median OS: 31.8 vs 41.2 mo |
+| Bass | 2014 | Sx107 / nCRT104 | EAC/ESCC | Cisplatin, 5FU, 40 Gy | 25/31 | Mean OS: 23.5 vs **63.8 mo\*** |
+| Yang (NEOCRTEC5010) | 2018 | Sx227 / nCRT224 | ESCC | Vinorelbine, cisplatin, 40 Gy | 43.2 | Median OS: 66.1 vs **100.1 mo\*** |
+
+\* *Statistically significant* | Sx = Surgery alone
+
+
+
+## The CROSS Trial — Landmark Evidence
+
+
+**Design (van Hagen et al., 2012; n = 366)**
+
+- Regimen: **Carboplatin + Paclitaxel + 41.4 Gy**
+- Mixed histology: EAC & ESCC
+
+**Key Pathological Outcomes**
+
+- pCR: 25% (EAC) vs **49%** (ESCC)
+- R0 resection: **92%** (nCRT) vs 69% (surgery)
+- Nodal positivity: 31% (nCRT) vs 75% (surgery)
+- Locoregional recurrence: **22%** vs 38% (HR 0.45, P <0.001)
+
+
+**Survival (Long-term follow-up, median 45 months)**
+
+- Median OS: **48.6 mo** (nCRT) vs 24.0 mo (surgery), P = 0.003
+- ESCC median OS: **81.6 months**
+- EAC median OS: 43.2 months
+
+
+
+The CROSS trial **firmly established** nCRT as standard of care for both ESCC and EAC in the West
+
+
+
+**Caveat on Surgical Approach**
+
+- Dutch CROSS data: persistent chemoradiation benefit with transhiatal resection but **limited benefit** with transthoracic esophagectomy — raising questions about necessity of nCRT when en bloc surgery is performed
+
+
+
+
+## nCRT vs Surgery — Key Trial Findings: EAC
+
+
+**Walsh et al. (1996) — EAC, n = 113**
+
+- 5FU + cisplatin + 40 Gy vs surgery alone
+- pCR: 25%; nodal positivity: 42% vs 82%
+- 3-yr OS: **32%** vs 6%
+- *Caveat: surgery alone arm OS far below contemporary benchmarks*
+
+**Tepper et al. (2008) — 77% EAC, n = 56**
+
+- Cisplatin + 5FU + 50.4 Gy
+- 5-yr OS: **39%** (nCRT) vs 16% (surgery)
+
+
+**FFCD 9901 (Mariette, 2014) — 70% ESCC, Stage I/II only**
+
+- No significant difference in R0 or 3-yr OS
+- **6× increase** in postoperative mortality in radiated arm
+- Interpretation: unsuitability of trimodal therapy in **early-stage** ESCC
+
+**NEOCRTEC5010 (Yang, 2018) — ESCC, n = 451**
+
+- Vinorelbine + cisplatin + 40 Gy
+- pCR: 43.2%; R0: 98.4% vs 91.2%
+- Median OS: **100.1** vs 66.5 months (P = 0.002)
+- 5-yr OS: 59.1% (trimodal) vs 49.1% (surgery) — better than CROSS
+
+
+## Role of nCRT in Systemic Control
+
+
+**Locoregional vs Distant Recurrence**
+
+- Retrospective study (n = 204): nCRT vs surgery
+  - Locoregional recurrence: **12% vs 28%** (P = 0.001)
+  - Distal recurrence: 25% vs 35% (P = .210) — *not significant*
+- Burmeister et al.: 5-yr PFS improved with nCRT in **ESCC** but **not** EAC
+- Lv et al. (ESCC): systemic recurrence death — surgery 38.8% vs nCRT 25.0% (P = .011)
+
+**CROSS Recurrence Data**
+
+- Clear locoregional benefit from nCRT
+- **No reduction** in distant disease relapse for whole cohort
+- ESCC subset: some systemic benefit at 5 years (HR 0.75, 95% CI 0.56–1.01)
+
+
+**Impact of Pathological Complete Response**
+
+*Multicenter study (n = 895, median follow-up 52.9 months)*
+
+| Scenario | ESCC Recurrence | EAC Recurrence |
+|---|---|---|
+| **pCR achieved** | 21% | 24% |
+| — Locoregional | 4.3% | 14.0% |
+| — Distal | 1.7% | 17.4% |
+| **No pCR** | 56% | 50% |
+
+- ESCC: equal locoregional & distal recurrence (16.7% vs 17.5%)
+- EAC: predominantly **distal** recurrence (32.5% vs 6.3% locoregional)
+- After pCR: locoregional recurrence 6%, distant mets 26%
+
+
+
+nCRT provides excellent **local** control when pCR achieved; when not — both local and distal control are suboptimal, especially in EAC
+
+
+
+
+
+
+## nCRT in Early-Stage Esophageal Cancer
+
+
+**FFCD 9901 — Stage I & II (Mariette et al., n = 195)**
+
+- 5FU + cisplatin + 45 Gy vs transthoracic surgery
+- R0 resection: comparable (92.9% vs 92.1%)
+- pCR: 33% in nCRT group
+- Local failure: **28.6%** (nCRT) vs **44.3%** (surgery), P = .02
+- Distant recurrence: **no difference** (22.5% vs 28.9%)
+- Overall survival: **no difference** (31.8 vs 41.1 months)
+- In-hospital mortality: **11.1%** (nCRT) vs 3.4% (surgery), P = .049
+
+
+
+Oncologic benefit of nCRT in locally advanced disease **not maintained** in early-stage disease
+
+
+**cT3N0 Retrospective Study (30 European centers, n = 382)**
+
+- Addition of neoadjuvant treatment → more R0 resections, fewer positive nodes, more downstaging, longer OS (38.4 vs 29.9 months, P = .007)
+- Outcomes did **not differ** between nCRT vs nCT
+
+**Definitive CRT Without Surgery in ESCC?**
+
+- ESCC highly sensitive to RT — surgery necessity questioned
+- Registry study (n = 3123, stage I–III): adding surgery to nCRT → survival benefit, but only from **stage IIA** upward
+- JCOG0502 (cT1bN0): 5-yr OS similar — surgery vs definitive CRT (86.5% vs 85.5%)
+- Multiple ongoing trials addressing selective surgery after induction CRT — results anticipated mid-2020s
+
+
+
+## Balancing Toxicity and Benefit of nCRT
+
+
+**Preoperative Toxicity**
+
+- Bone marrow suppression
+- Nutritional depletion
+- Renal damage
+- Liver damage
+
+*Early concern (Bosset et al.):* nCRT mortality negated survival benefit — but split-dose radiation now known to be deleterious
+
+**Modern nCRT Safety Data**
+
+- Treatment-related deaths: **<2%** in recent studies
+- CROSS: most common — leukopenia, neutropenia, anorexia, fatigue (2–6%); only 1/176 deaths awaiting surgery
+- NEOCRTEC5010: treatment-associated mortality **1.3%**
+
+
+**Postoperative Morbidity**
+
+*Multi-institutional study (n = 2944):* nCRT **not** associated with:
+- ↑ Anastomotic leak
+- ↑ Pneumonia
+- ↑ Overall morbidity/mortality
+
+But nCRT **was** associated with:
+- ↑ Chylothorax (2.5% vs 0.2%, P = .020)
+- ↑ Cardiovascular complications (8.6% vs 0.1%, P = .037)
+- ↑ Thromboembolic events (8.6% vs 6.0%, P = .037)
+
+**Meta-analysis (12 RCTs, n = 1529):**  
+No increase in postoperative morbidity (RR 0.97) or mortality (RR 0.56)
+
+**Recommendation:** Reserve nCRT for **locally advanced** disease; role in early-stage disease remains unclear
+
+
+## The Case for Neoadjuvant Chemotherapy (nCT)
+
+
+**Rationale for nCT**
+
+1. Controls **occult distant/micrometastatic** disease
+2. Improves dysphagia → better nutrition pre-surgery
+3. Downstaging of non-resectable lesions
+4. Optimal drug delivery via intact blood supply
+5. **Assesses in-vivo tumor response** — guides further therapy
+6. Avoids futile surgery if disease progresses
+
+**Early Negative Studies**
+
+- *Kelsen et al. (Intergroup 0113):* Cisplatin + 5FU — no OS benefit vs surgery alone
+- *Subset:* Responders had markedly better survival (HR 2.83, P <0.001)
+- *Schlag et al. (ESCC):* No OS benefit overall, but **responders** — median OS 42.2 vs 13.8 months
+- *Ancona et al. (ESCC):* No ITT benefit; but in **40% major responders** — median OS 53 months, 5-yr OS 60%
+
+
+**Positive Pivotal Studies**
+
+**MRC OEO2 (n = 802, EAC + ESCC)**
+
+- Cisplatin + 5FU vs surgery alone
+- 2-yr OS: 34% → **43%**; 5-yr OS: 17% → **23%**
+- HR 0.79 (95% CI 0.67–0.93, P = .004)
+- Established nCT as standard for locally advanced EAC
+- Long-term follow-up: EAC slightly greater benefit than ESCC
+
+**MAGIC Trial (n = 503, predominantly EAC)**
+
+- ECF (epirubicin, cisplatin, 5FU) perioperative
+- R0: 79.3% vs 70.3% (P = .03)
+- Smaller tumors, less advanced nodal disease
+- 5-yr OS: **36.3%** vs 23% (HR 0.75, P = .009)
+- *Only 55% received postoperative therapy*
+
+**FNLCC/FFCD (cisplatin + 5FU, 75% lower esophageal/junction)**
+
+- Comparable survival outcomes to MAGIC
+
+
+## Table 32.2 — Randomized nCT vs Upfront Surgery
+
+| Trial | Year | N | Histology | nCT Regimen | %R0 | Survival Outcome |
+|---|---|---|---|---|---|---|
+| Schlag | 1992 | Sx24 / nCT22 | ESCC | Cisplatin, 5FU | NR | Median OS: 5 vs 7.5 mo |
+| Kelsen (INT-0113) | 1998 | Sx213 / nCT227 | EAC, ESCC | Cisplatin, 5FU | 135/133 | Median OS: 16.1 vs 14.9 mo |
+| Ancona | 2001 | Sx47 / nCT47 | ESCC | Cisplatin, 5FU | 24/25 | Median OS: ns (ITT); ↑ in responders |
+| **MRC OEO2** | **2002** | **Sx402 / nCT400** | **EAC, ESCC** | **Cisplatin, 5FU** | **233/215** | **Median OS: 13.3 vs 16.8 mo\*** |
+| **MAGIC** | **2006** | **Sx253 / nCT250** | **EAC** | **Epirubicin, cisplatin, 5FU** | **NR** | **5-yr OS: 23% vs 36%\*** |
+| Schuhmacher | 2010 | Sx72 / nCT72 | EAC | Cisplatin, 5FU | 49/59 | Median OS: 52.3 vs 64.6 mo |
+| Boonstra | 2011 | Sx84 / nCT85 | ESCC | Cisplatin, etoposide | 40/49 | Median OS: 12.0 vs **16.0 mo\*** |
+| **FNLCC/FFCD** | **2011** | **Sx111 / nCT113** | **EAC** | **Cisplatin, 5FU** | **81/95** | **5-yr OS: 24% vs 38%\*** |
+
+\* *Statistically significant* | Sx = Surgery alone; nCT = neoadjuvant chemotherapy + surgery
+
+
+
+## The Dawn of the Docetaxel Era — EAC
+
+**Background**
+
+- Earlier studies: doublet regimens (platinum + 5FU)
+- MAGIC: added anthracycline (triplet) → further survival gain
+- Observation: metastatic gastric Ca responds well to docetaxel-based triplet therapy
+
+**DCF (Docetaxel + Cisplatin + 5FU)**
+
+- Phase II (Ferri et al.): perioperative DCF for EAC
+- Exceptional **5-yr OS >50%** despite heavy tumor burden
+
+**FLOT4 Trial (Al-Batran et al., 2019, n = 716)**
+
+- **FLOT** (5FU + leucovorin + oxaliplatin + docetaxel) vs ECF (MAGIC regimen)
+- Median OS: 35 → **50 months**
+- Equivalent toxicity and postoperative complications
+- Validated in real-world RealFLOT study (n = 206)
+
+
+**FLOT Extended to True EAC**
+
+- FLOT4 included type II esophagogastric junction — excluded type I/true EAC
+- Genomic analysis: proximal gastric & EAC are **almost identical** — should be treated as single disease (gastroesophageal adenocarcinoma)
+- Multicenter observational cohort (3 high-volume centers): FLOT4 results **extrapolate** to EAC patients
+- Neoadjuvant FLOT + en bloc transthoracic surgery → **5-yr OS 60%** despite disease burden
+
+
+
+**Docetaxel-based nCT is now the standard of care for resectable locally advanced EAC**
+
+
+## The Dawn of the Docetaxel Era — ESCC
+
+
+**Cisplatin + 5FU Established in ESCC**
+
+- JCOG 9204 (Ando et al.): cisplatin + 5FU → survival benefit in **adjuvant** setting for stage II/III ESCC
+- JCOG 9907: **neoadjuvant** CF superior to adjuvant CF
+  - 5-yr OS improved by 12% → **55%**
+  - But: concerns about undertreatment and high early postoperative recurrence
+
+
+**Adding Docetaxel — DCF vs CF in ESCC**
+
+**NExT Trial (preliminary results)**
+
+- DCF vs CF alone: 3-yr OS **72.1% vs 62.6%** — significant improvement
+
+**Retrospective data**
+
+- DCF vs CF: 3-yr OS **79% vs 65%** (P <0.05)
+
+**Real-world data (n = 2148)**
+
+- DCF vs CF: significantly longer OS (HR 0.868, 95% CI 0.770–0.978, P = .002)
+- **No increase** in treatment/postoperative morbidity or mortality
+
+**Randomized multicentric study**
+
+- Adding Adriamycin to CF → still inferior to **docetaxel-based triplet**
+
+
+
+For ESCC: nCT provides an effective alternative to nCRT, with docetaxel-based triplets leading outcomes
+
+
+
+
+## nCT vs nCRT — Evidence in ESCC
+
+
+**Key Debate**
+
+- nCRT proponents: higher R0 + pCR rates
+- nCT proponents: similar survival; chemotherapy in nCRT may itself control disease beyond radiation field
+
+**RCT (Wang et al., 2021 — ESCC, n = 264)**
+
+- nCRT (40 Gy + paclitaxel/cisplatin) vs nCT (paclitaxel + cisplatin)
+- Fewer cancer-related deaths with nCRT
+- 3-yr OS: **64% vs 55%** — *not statistically significant*
+- pCR higher in nCRT; trend to lower recurrence (38% vs 49%, P = .062)
+
+**Chinese 4-arm study (nCT / nCRT / surgery / nRT)**
+
+- All neoadjuvant therapies improved 3-yr OS
+- At **5 years**: nCT and nCRT had **similar outcomes**
+
+
+**NExT Trial (Kato et al., n = 601)**
+
+- 200 patients: nCRT arm (CF + 41.4 Gy)
+- nCRT median OS: **6.0 years** — did not differ from nCT arms
+- Despite PFS longer in nCRT (5.3 vs 2.7 years)
+- Treatment-related deaths similar (1.0–2.0%)
+
+**Retrospective support**
+
+- Multiple propensity-matched studies confirm **non-inferiority** of nCRT over nCT
+- Differing chemotherapy regimens within nCRT do not significantly affect ESCC survival
+
+
+For ESCC: **Both nCT and nCRT are accepted standards of care**. nCRT achieves better locoregional control; nCT achieves equivalent overall survival.
+
+
+## nCT vs nCRT — Evidence in EAC
+
+
+**POET Trial (Stahl et al., n = 119, Siewert I–III adenocarcinoma)**
+
+- nCRT vs nCT; 3- and 5-yr OS: 46.7%/39.5% (nCRT) vs 26.1%/24.4% (nCT)
+- Suggests nCRT superiority — but nCT arm OS lower than expected with modern regimens
+- Only 47% in nCT arm had transthoracic esophagectomy — confounding surgical approach
+
+**NeoRes Trial (Klevebro, n = 181 — EAC & ESCC)**
+
+- nCRT vs nCT (CF ± 40 Gy)
+- Higher pCR and R0 with radiation — but **no survival difference**
+- Trend: EAC → better with nCT; ESCC → slightly better with nCRT
+- Long-term 2019 results: 42.2% vs 39.6% (P = 0.60)
+- Limitations: underpowered for subset analysis; low RT dose; non-standard chemotherapy
+
+
+**NeoAEGIS Trial (Reynolds et al., n = 362 — adenocarcinoma)**
+
+- CROSS vs MAGIC/ECF (± FLOT in latter phase)
+- 3-yr OS: **57% vs 55%** (HR 1.03, 95% CI 0.77–1.38) — *no inferiority*
+- FLOT only 15% of nCT cohort — potentially underestimating nCT arm performance
+
+**ESOPEC Trial**
+
+- Comparing FLOT vs CROSS for EAC — results awaited
+
+**Summary for EAC**
+
+- nCT is at least **non-inferior** to nCRT
+- When pCR achieved after nCRT, survival still inferior vs nCT pCR (OR 2.50, P <0.05) → systemic control > local control for survival
+- Population-based study (n = 11,167 EAC + 2367 ESCC): 5-yr OS similar overall (37% nCRT vs 36% nCT); ESCC significantly better with nCRT (45% vs 38%, P = .026)
+
+
+## Table 32.3 — Comparison: nCT vs nCRT
+
+| Trial | Year | Histology | N | nCT Regimen | nCRT Regimen | Survival Outcome |
+|---|---|---|---|---|---|---|
+| Nygaard | 1992 | ESCC | — | Cisplatin, bleomycin | + 35 Gy | 3-yr OS: 17% vs 3%\* |
+| Cao | 2009 | ESCC | 237 | Cisplatin, mitomycin, 5FU | + 40 Gy | 3-yr OS: 57.1% vs 73.3%\* |
+| Burmeister | 2011 | EAC | 75 | Cisplatin, 5FU | + 35 Gy | 5-yr OS: 36% vs 45% |
+| Klevebro (NeoRes) | 2016 | EAC/ESCC | 181 | Cisplatin, 5FU | + 40 Gy | 3-yr OS: 49% vs 47% |
+| Stahl (POET) | 2017 | EAC | 119 | Cisplatin, leucovorin, 5FU | + etoposide, 50 Gy | 3-yr OS: 27.7% vs 47.4%\* |
+| Reynolds (NeoAEGIS) | 2021 | EAC | 377 | ECF/FLOT | Carboplatin, paclitaxel, 41.4 Gy | 3-yr OS: 57% vs 56% |
+| Wang | 2021 | ESCC | 264 | Cisplatin, paclitaxel | + 40 Gy | 1-yr OS: 82.6% vs 87.1% |
+
+\* *Statistically significant*
+
+
+
+## Safety — nCT vs nCRT
+
+
+**Postoperative Mortality — Historical Data**
+
+- Stahl et al. & Bedenne et al.: perioperative mortality **9–12%** with nCRT + surgery
+- Stahl: nCRT mortality 9% vs nCT **3.8%** — higher but not statistically significant
+
+**Modern Minimally Invasive Data**
+
+- 2021 prospective multicenter RCT (minimally invasive esophagectomy):
+  - Postoperative morbidity: 47.4% (nCRT) vs 42.6% (nCT)
+  - Postoperative mortality: 3.5% vs 2.8%
+  - **No significant difference**
+
+
+**NeoAEGIS Safety Data**
+
+- Similar overall safety profile
+- But: significantly more patients on nCRT had **Clavien-Dindo grade III+** complications (30% vs 17%, P = .05)
+- Higher mean **comprehensive complication index** with nCRT
+
+**Meta-analysis (2022, n = 3137 ESCC patients, 18 studies)**
+
+- nCRT vs nCT: **no difference** in incidence of postoperative complications
+
+
+
+nCRT and nCT have broadly comparable safety in modern series, though nCRT may be associated with higher-grade complications in some studies
+
+
+
+## Immunotherapy and Biological Agents
+
+
+**HER2 — Trastuzumab**
+
+- ToGA study: trastuzumab + CF in **HER2-positive advanced** gastric adenocarcinoma → median OS 11.1 → **13.5 months**
+- NRG Oncology/RTOG 1010 (resectable EAC, HER2+):
+  - Added trastuzumab to cisplatin + paclitaxel + 50.5 Gy → surgery
+  - **No survival benefit**
+  - Treatment-related deaths: 6% (trastuzumab) vs 3% (no trastuzumab)
+
+**PD-1/PD-L1 Inhibitors**
+
+- **KEYNOTE-590**: pembrolizumab + CF vs CF alone for advanced/metastatic esophageal cancer → improved OS, equivalent safety
+- Preliminary data: preoperative pembrolizumab and nivolumab independently **increase tumoral response** to neoadjuvant therapy (survival data pending)
+
+
+**Ongoing Trials**
+
+- Neoadjuvant **pembrolizumab** + nCRT/nCT
+- Neoadjuvant **avelumab** + perioperative chemotherapy (phase II — preliminary results)
+- **ESONICT-2**: Toripalimab + docetaxel + cisplatin for ESCC
+  - Major pathological response: **41.7%**
+  - Survival data pending
+
+**Safety of Immunotherapy + nCT**
+
+- Several authors confirm immunotherapy **safe** when added concurrently with nCT — no increase in postoperative morbidity or mortality
+
+
+
+**Current limitation:** Paucity of survival outcome data for neoadjuvant immunotherapy. Recommendations cannot yet be made for routine use — prospective trial results awaited.
+
+
+## Summary — Histology-Guided Treatment Strategy
+
+
+### Esophageal Adenocarcinoma (EAC)
+
+- **Standard of care:** Docetaxel-based perioperative chemotherapy (FLOT) + en bloc surgery
+- nCRT is at least non-inferior but not clearly superior
+- FLOT → 5-yr OS **~60%** when combined with en bloc resection
+- ESOPEC, TOPGEAR, RACE trials will refine further
+
+
+### Esophageal SCC (ESCC)
+
+- **Standard of care:** nCRT followed by surgery remains preferred option
+- Adjuvant checkpoint inhibition in **residual disease** is the best augmentation
+- Docetaxel-based nCT is a **viable regional alternative**
+- Selective omission of surgery after induction CRT — on the horizon
+
+
+### Shared Principles
+
+- Chemotherapy or chemoradiotherapy **must** precede surgery in locally advanced disease
+- nCRT achieves superior **locoregional control**, especially in ESCC
+- nCT provides superior **systemic disease control** — pCR after nCT predicts better OS than pCR after nCRT
+- Significant **regional practice variation** exists globally
+- **Immunotherapy** integration — promising pathological responses; survival data pending
+
+**Emerging frontier:** Selective surgery after induction chemoradiation for both ESCC and EAC — future trials may enable definitive non-surgical management in select patients.
+
+
+
+
+
+## Key Take-Home Points
+
+::: {.incremental}
+
+- **nRT alone** is not a standard of care — only palliative utility
+- **nCRT** (CROSS regimen: carboplatin + paclitaxel + 41.4 Gy) is an established Western standard for both EAC and ESCC
+- **ESCC** shows superior pCR (49%) and survival with nCRT vs EAC (25%)
+- **nCT** (FLOT) is the preferred approach for EAC — especially when combined with transthoracic en bloc surgery
+- **pCR** after nCT predicts better survival than pCR after nCRT — systemic control matters more than locoregional control in EAC
+- **ESCC:** both nCT and nCRT are acceptable standards; nCRT improves local control but overall survival is equivalent
+- **Docetaxel-based triplet nCT (DCF/FLOT)** has superseded older doublet regimens
+- **Immunotherapy** shows promise in increasing pathological response rates; survival benefit yet to be confirmed
+- **Surgery approach matters:** en bloc transthoracic esophagectomy may reduce the added benefit of nCRT by providing superior locoregional control independently
+
+:::

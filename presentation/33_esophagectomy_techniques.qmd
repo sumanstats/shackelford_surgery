@@ -2,7 +2,7 @@
 title: "Esophagectomy Techniques"
 format:
   revealjs:
-    theme: simple
+    theme: dark
     smaller: true
     scrollable: false
 ---
