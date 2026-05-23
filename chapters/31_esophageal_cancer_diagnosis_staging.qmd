@@ -1,5 +1,16 @@
 # 32-Esophageal Cancer Diagnosis and Staging
 
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+
 Generated with Claude.
 
 ## Epidemiology

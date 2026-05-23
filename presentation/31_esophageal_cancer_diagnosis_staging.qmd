@@ -1,0 +1,289 @@
+---
+title: "Esophageal Cancer Diagnosis and Staging"
+format:
+  revealjs:
+    theme: default
+    smaller: true
+    scrollable: true
+---
+
+## Epidemiology & Demographics
+
+- **Incidence & Mortality**
+  - ~20,640 new US cases annually; ~16,410 deaths
+  - 604,000 global new cases; 544,000 deaths (2020)
+  - 7th most common cancer, 6th leading cause of cancer death worldwide
+- **Histologic Trends**
+  - ~90% globally: Squamous Cell Carcinoma (SCC)
+  - US: Adenocarcinoma (AC) incidence surpassing SCC
+  - SCC 3× more frequent in Blacks vs Caucasians
+- **Risk Factors & Survival**
+  - SCC: Smoking, alcohol, genetic predisposition
+  - AC: GERD, Barrett’s esophagus, obesity, diabetes, Parkinson’s, eczema
+  - Overall 5-year survival: ~20%
+
+## Anatomy & Lymphatic Drainage
+
+- **Structure & Dimensions**
+  - 20–30 cm length; posterior mediastinum
+  - Three natural constrictions: cricopharyngeus, broncho-aortic, GEJ
+  - Layers: Mucosa (stratified squamous), submucosa, muscularis propria, adventitia
+- **Anatomic Divisions** (measured from incisors)
+  - Cervical: 15 to <20 cm
+  - Upper thoracic: 20 to <25 cm
+  - Middle thoracic: 25 to <30 cm
+  - Lower thoracic: 30 to 40 cm
+
+## Anatomy & Lymphatic Drainage
+
+- **Lymphatics & Metastasis**
+  - Rich submucosal network → longitudinal & transverse spread
+  - Drains to cervical, tracheobronchial, mediastinal, gastric, celiac nodes
+  - Common distant sites: liver, lungs, adrenal, retroperitoneal nodes
+
+## Staging Nomenclature
+
+- **Clinical Stage (cTNM)**
+  - Pretreatment: physical exam, imaging, endoscopy, biopsies
+- **Pathologic Stage (pTNM)**
+  - Postsurgical: adds histologic exam of resected tissue
+- **Post-Therapy Stage**
+  - Neoadjuvant: `ycTNM` (clinical) or `ypTNM` (pathologic)
+- **Residual Tumor (R Status)**
+  - R0: No residual tumor
+  - R1: Microscopic residual
+  - R2: Macroscopic residual
+  - *Note:* US (CAP) defines R1 as tumor at margin; UK defines R1 as tumor ≤1 mm from margin
+
+## Histologic Type & Tumor Grade
+
+- **Primary Subtypes**
+  - **SCC:** Keratinocyte-like cells, intercellular bridges; often more sensitive to chemoradiation
+  - **AC:** Glandular differentiation, arises from Barrett’s; better long-term prognosis post-resection
+  - **ASC (Adeno-squamous):** Rare, mixed differentiation, aggressive behavior
+- **Tumor Grade (G)**
+  - Reflects differentiation & growth potential
+  - GX: Undetermined
+  - G1: Well-differentiated (low)
+  - G2: Moderately differentiated (intermediate)
+  - G3: Poorly differentiated/undifferentiated (high)
+  - *8th Ed Update:* G4 eliminated; undifferentiated grouped into G3
+
+## TNM Classification: T Stage
+
+- **Depth of Invasion**
+  - TX/T0: Cannot assess / No evidence
+  - Tis: High-grade dysplasia
+  - T1a: Lamina propria or muscularis mucosa
+  - T1b: Submucosa
+  - T2: Muscularis propria
+  - T3: Adventitia
+  - T4: Adjacent structures
+    - T4a: Resectable (pleura, pericardium, diaphragm, peritoneum, azygos vein)
+    - T4b: Unresectable (aorta, vertebral body, trachea)
+- **Clinical Utility:** Guides resectability, multimodality planning, and prognosis
+
+## TNM Classification: N & M Stages
+
+- **Nodal Classification (N)**
+  - N0: No positive nodes
+  - N1: 1–2 involved nodes
+  - N2: 3–6 involved nodes
+  - N3: ≥7 involved nodes
+  - *Key:* Number of nodes examined predicts survival; ≥30 nodes optimal
+- **Metastasis (M)**
+  - M0: No distant metastases
+  - M1: Distant metastases present
+- **Note:** T, N, M criteria apply uniformly to cervical, thoracic, and GEJ tumors ≤2 cm from cardia, regardless of histology
+
+## 8th Edition AJCC/UICC Updates
+
+- **T Category**
+  - T4a expanded to include peritoneum & azygos vein
+  - T1 subdivided into T1a/T1b (used for pathologic & post-neoadjuvant staging)
+- **N Category**
+  - N3 disease now staged as Stage IVA (any T)
+  - Nodal burden classification retained
+- **Other Updates**
+  - G4 removed; undifferentiated → G3
+  - Tumor Location (L) introduced to subcategorize pT3 SCC
+  - Separate stage groups for clinical, pathologic, and post-neoadjuvant settings
+
+## Stage Groupings & Prognostic Factors
+
+- **Histology-Specific Groupings**
+  - SCC & AC staged differently due to survival disparities
+  - Early/intermediate SCC has worse survival than similarly staged AC
+- **Key Modifiers**
+  - Grade differentiation (G1–G3) splits Stage I into IA/IB (SCC) and IA/IB/IC (AC)
+  - Location stratifies pT3 SCC and excludes T2 (previously included)
+- **Post-Neoadjuvant Staging**
+  - ypT0–T2 grouped together; staging depends primarily on ypN status
+  - Histology has less prognostic impact after neoadjuvant therapy
+
+## GEJ Tumors & Anatomic Location
+
+- **Siewert Classification (Historical)**
+  - Type I: Epicenter 1–5 cm above GEJ (distal esophagus)
+  - Type II: Epicenter within 1 cm proximal to 2 cm distal of GEJ (cardia)
+  - Type III: Epicenter 2–5 cm below GEJ, infiltrating upward
+- **AJCC 8th Edition Rule**
+  - Epicenters no more than 2 cm in the gastric cardia → Staged as **Esophageal Cancer**
+  - \>2 cm distal to GEJ → Staged as **Gastric Cancer**
+
+## GEJ Tumors & Anatomic Location
+
+::: {.columns}
+:::{.column width="50%"}
+- Epicenter of the tumor is determined from the upper and lower borders of the
+tumor length
+- Its essential for the surgical resection to know the **upper border for the cervical and upper thoracic tumors** and the **lower border for cancers of the lower esophagus and GEJ**.
+
+:::
+
+:::{.column width="50%"}
+- **Clinical Impact:** Epicenter determination critical for treatment pathway & staging algorithm
+
+:::
+:::
+  
+
+## Diagnostic Tools: Initial Evaluation
+
+- **Upper GI Contrast Studies**
+  - Historically used as "roadmap" for dysphagia
+  - Identifies strictures with mucosal irregularity, polypoid tumor, apple-core constrictions
+  - Double contrast barium studies: limited PPV (~42%); largely replaced by endoscopy
+- **Flexible Upper Endoscopy**
+  - Gold standard for visualization & tissue acquisition
+  - Reports: esophageal lumen/tumor morphology, distance from incisors, length of lesion, circumferential involvement, position in relation to GEJ, skip lesions,  Barrett’s (presence/location/length)
+  - **Biopsy Protocol:** ≥6 samples → ~100% diagnostic yield; avoid necrotic/fibrotic zones
+  - Brush cytology useful for tight strictures; perform before biopsy
+  - EUS: where standard biopsy or brushings do not yield a diagnosis in cases with high suspicion
+
+## FDG-PET/CT Staging
+
+- **Mechanism & Utility**
+  - Detects metabolically active tissue via 18F-FDG uptake
+  - Integrated PET/CT aligns functional & anatomic data
+  - High accuracy for distant nodal and visceral metastases
+  - SUV (standardized uptake value)
+- **Performance**
+  - Primary tumor sensitivity: 78–95% (false negatives in T1/T2)
+  - Nodal staging: Poor sensitivity (38–82%), high specificity (76–95%)
+  - Changes management in 3–20% of cases; upstages occult M1 disease
+- **Limitations**
+  - Not recommended for early-stage (Tis/T1) disease
+  - Poor spatial resolution for juxta-tumoral nodes
+
+## CT Scan & MRI
+
+- **CT Scan (First-Line)**
+  - Esophageal wall >5 mm = abnormal
+  - Excellent for excluding T4 invasion (fat plane obliteration, >90° aortic contact)
+  - Nodal criteria (pathologic nodes): Size-based (>1 cm intrathoracic/abdominal; >0.5 cm supraclavicular, >0.6cm retrocrural)
+  - Limited sensitivity for distant mets (37–66%); inferior for peritoneal disease
+- **MRI**
+  - Multiplanar imaging; high-resolution T2 & diffusion-weighted sequences
+  - T-stage accuracy: ~60% (conventional) → 81% (high-res); T3/T4 detection >95%
+  - Similar nodal limitations as CT
+
+## Endoscopic Ultrasound (EUS) & FNA
+
+- **T Staging**
+  - Visualizes 5 esophageal wall layers
+  - Accuracy improves with deeper tumors (T3/T4: ~86%)
+  - Struggles with T1a vs T1b differentiation; operator-dependent
+  - Over-staging risk from peritumoral inflammation
+- **N Staging & FNA**
+  - Identifies suspicious nodes + cytologic confirmation via FNA
+  - Sensitivity/Specificity/Accuracy >85% for locoregional nodes
+  - FNA indicated for celiac, porta hepatis, cervical, upper thoracic adenopathy
+  - Avoid FNA when primary tumor obstructs needle path
+
+## Endoscopic Mucosal Resection (EMR)
+
+- **Role in Staging & Therapy**
+  - Resects mucosa ± submucosa down to muscularis propria
+  - Provides definitive histology: depth, lymphovascular invasion, differentiation
+  - Highly effective for differentiating cT1a from cT1b
+- **Clinical Indications**
+  - T1aN0 lesions: <2% nodal risk → EMR preferred over surgery
+  - T1b or deeper: Requires esophagectomy + lymphadenectomy
+- **Limitations**
+  - High inter-pathologist variability in depth assessment (~48% discordance)
+  - Piecemeal resection complicates margin evaluation
+
+## Bronchoscopy & EBUS
+
+- **Flexible Bronchoscopy**
+  - Evaluates mid/upper esophageal tumors for airway invasion
+  - Signs of invasion: widened carina, external compression, fistula
+  - Biopsy/cytology required; visual bulging often benign
+- **Endobronchial Ultrasound (EBUS)**
+  - Assesses tracheobronchial wall integrity (adventitia disruption)
+  - Superior to CT/MRI/bronchoscopy alone (Sensitivity 92%, Specificity 83%)
+  - Combined EBUS + EUS reduces false-positive nodal FNA results
+  - Upstages ~12% of patients; valuable for peri-tracheal/subcarinal nodes
+
+## Laparoscopy & Thoracoscopy
+
+- **Diagnostic Role**
+  - Detects occult intraperitoneal/intrathoracic metastases missed by CT/PET
+  - Samples regional nodes; assesses liver surface & peritoneal cavity
+  - Particularly valuable for distal esophageal/GEJ adenocarcinomas
+- **Impact & Limitations**
+  - Changes staging in ~32% of AC cases
+  - Upstages nodal status in 0–21%, downstages in 4–19%
+  - Requires general anesthesia, longer OR time; role diminishing with improved PET/CT
+  - Reserved for highly selected cases with suspicious imaging
+
+## Therapy Monitoring & Restaging
+
+- **Post-Neoadjuvant Assessment**
+  - NCCN recommends FDG-PET/CT, contrast CT, endoscopy ± biopsy
+- **Modality Limitations**
+  - **CT:** Morphologic only; 35% sensitivity for pathologic response
+  - **EUS:** Poor reproducibility; invasive; limited by post-radiation changes
+  - **Endoscopic Biopsy:** ~50% accuracy; bite-on-bite technique improves sensitivity to 74%
+- **FDG-PET/CT Utility**
+  - Moderate accuracy (Sens 62%, Spec 73%)
+  - Detects interval metastases in ~10%
+  - Cannot reliably distinguish residual tumor from inflammation
+
+## Surveillance Strategy Post-Therapy
+
+- **Clinical Reality**
+  - Salvage rate after recurrence is low (~2%)
+  - Differentiating fibrosis vs residual disease remains challenging
+  - Active surveillance considered for complete responders unfit/unwilling for surgery
+- **NCCN Consensus Guidelines**
+  1. H&P every 3–6 months (years 1–3), then every 6 months (years 4–5), then annually
+  2. CBC & chemistry as clinically indicated
+  3. Imaging & endoscopy as clinically indicated
+  4. Dilation for anastomotic stenosis
+  5. Nutritional counseling
+- *Future:* Liquid biopsy & molecular tools may improve preclinical recurrence detection
+
+## Future Directions & Standardization
+
+- **9th Edition Expectations**
+  - Precision surgical treatment & individualized staging
+  - Enhanced post-neoadjuvant prognostic modeling
+- **Pathology & Reporting Standardization**
+  - Adopt modified Ryan Tumor Regression Grading (TRG) system
+  - Uniform circumferential resection margin criteria (CAP vs UK)
+  - Report distance to margin (mm) & separate nodal yield by region
+- **Emerging Technologies**
+  - Circulating tumor DNA (ctDNA) for minimal residual disease monitoring
+  - Advanced functional imaging & AI-assisted staging
+  - Integration into national registries (e.g., ESODATA) for quality improvement
+
+## Summary & Key Takeaways
+
+- Accurate staging dictates multimodality vs endoscopic vs surgical pathways
+- 8th Edition TNM integrates histology, grade, location, and nodal burden
+- Diagnostic algorithm: Endoscopy/Biopsy → CT/PET → EUS/FNA → EMR (if early) → Laparoscopy/EBUS (selected)
+- Post-neoadjuvant restaging remains imperfect; PET/CT & bite-on-bite biopsy show promise
+- Multidisciplinary tumor board review is essential for optimal management
+- Ongoing standardization in TRG, margins, and liquid biopsy will refine precision care
