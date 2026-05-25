@@ -14,9 +14,7 @@ slides_iframe(600)
   src="../presentation/178_nccn_genetics_colorectal.html"
   width="100%"
   height="600"
-  style="border:none;"
-  allow="fullscreen"
-  allowfullscreen>
+  style="border:none;">
 </iframe>
 
 
@@ -24,18 +22,14 @@ slides_iframe(600)
   src="../presentation/178_nccn_2024_hereditary.html"
   width="100%"
   height="600"
-  style="border:none;"
-  allow="fullscreen"
-  allowfullscreen>
+  style="border:none;">
 </iframe>
 
 <iframe
   src="../presentation/178_jsccr_hereditary.html"
   width="100%"
   height="600"
-  style="border:none;"
-  allow="fullscreen"
-  allowfullscreen>
+  style="border:none;">
 </iframe>
 
 

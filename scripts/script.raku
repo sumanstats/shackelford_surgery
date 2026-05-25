@@ -19,7 +19,7 @@ for $input.IO.lines -> $line {
         next;
     }
 
-    # Match chapter lines like "1. Title ..."
+    # Match chapter lines like "1 Title ..."
     if $trim ~~ /^(\d+)\s+(.+)/ {
         my $title = $1;
 
@@ -27,7 +27,7 @@ for $input.IO.lines -> $line {
 
         # sanitize filename: replace spaces with _
         my $filename = "$0_" ~ $title.subst(/\s+/, '_', :g)
-                                .subst(/<[\\ \/ : * ? " < > | ,]>/, '', :g);
+                                .subst(/<[\\ \/ : * ? " ’ < > | ,]>/, '', :g);
 
         my $file = $current-dir.add("$filename.qmd");
 
