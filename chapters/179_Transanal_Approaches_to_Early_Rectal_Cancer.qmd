@@ -1,0 +1,1011 @@
+# 179-Transanal Approaches to Early Rectal Cancer
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+Generated with Copilot chat. 
+
+**1. What has been the traditional trimodality treatment for stages II and III rectal cancer over the past several decades?**
+
+- **Neoadjuvant chemoradiation, total mesorectal excision surgery, and adjuvant chemotherapy**
+- Upfront local excision, adjuvant radiation, and surveillance
+- Total neoadjuvant therapy alone followed by watch-and-wait
+- Endoscopic mucosal resection, chemotherapy, and immunotherapy
+
+*Explanation: "The introduction states that stages II and III rectal cancer have traditionally been treated with neoadjuvant chemoradiation, TME surgery, and adjuvant chemotherapy."*
+
+
+**2. According to the chapter, what percentage of patients may have a complete or near-complete clinical response with growing international experience with total neoadjuvant therapy (TNT)?**
+
+- 10% to 20%
+- 25% to 30%
+- **40% to 50%**
+- 60% to 70%
+
+*Explanation: "The chapter notes that 40% to 50% of patients may have a complete or near-complete clinical response and be candidates for watch-and-wait protocols and organ preservation."*
+
+
+**3. What is the recommended treatment for stage I rectal cancer according to the chapter?**
+
+- Local excision followed by routine radiation therapy
+- **TME surgery without neoadjuvant or adjuvant chemotherapy or radiation therapy**
+- Chemoradiation alone
+- Watch-and-wait without surgery
+
+*Explanation: "The text states that recommended treatment for stage I rectal cancer is TME surgery without neoadjuvant or adjuvant chemotherapy or radiation therapy."*
+
+
+**4. Which of the following is listed as a reason why organ preservation for stage I rectal cancer using local excision has not been universally adopted?**
+
+- Universal agreement on local excision techniques
+- **Limited data from high-quality randomized trials**
+- No concern about occult lymph node metastasis
+- Consistent patient preference for local excision
+
+*Explanation: "One reason specifically listed is the limited data from high-quality randomized trials supporting local excision-based organ preservation."*
+
+
+**5. Which patient-centered issue is specifically mentioned as influencing decisions about local excision for stage I rectal cancer?**
+
+- Preference for longer hospital stay
+- **Balancing recurrence risk versus quality-of-life concerns such as functional derangements and defunctioning stomas**
+- Avoiding any postoperative surveillance
+- Preference for immediate chemotherapy in all cases
+
+*Explanation: "The chapter emphasizes patient preferences balancing recurrence risk against quality-of-life concerns, including functional derangements and defunctioning stomas."*
+
+
+**6. How does the EAES consensus statement broadly characterize early rectal cancer (ERC)?**
+
+- A rectal cancer that always requires pelvic exenteration
+- **A rectal cancer with good prognostic features that might be safely removed while preserving the rectum**
+- Any metastatic rectal cancer confined to the liver
+- Only benign rectal polyps without malignant potential
+
+*Explanation: "The EAES consensus statement defines ERC as a rectal cancer with good prognostic features that might be safely removed preserving the rectum with very limited relapse risk after local excision."*
+
+
+**7. Early rectal cancer is generally thought of as which tumor category?**
+
+- T3-4 N1 tumors only
+- **T1-2 N0 tumors including malignant polyps**
+- All rectal tumors below the peritoneal reflection
+- Only carcinoma in situ
+
+*Explanation: "The chapter notes that ERC is generally thought of as T1-2 N0 tumors, including malignant polyps."*
+
+
+**8. What risk of malignant potential is reported for polyps ranging from 1.5 to 3.5 cm?**
+
+- 5% to 10%
+- **19% to 43%**
+- 50% to 60%
+- 76% to 90%
+
+*Explanation: "The article states that polyps 1.5 to 3.5 cm in size hold a 19% to 43% risk of malignant potential."*
+
+
+**9. What risk of malignant potential is reported for polyps larger than 3.5 cm?**
+
+- 19%
+- 33%
+- 50%
+- **76%**
+
+*Explanation: "The chapter states that polyps greater than 3.5 cm have a 76% risk of malignant potential."*
+
+
+**10. What is the basic morphology-based classification used in reporting rectal polyps?**
+
+- Tubular or villous
+- Mucinous or nonmucinous
+- **Pedunculated or sessile**
+- Low-grade or high-grade
+
+*Explanation: "The text identifies classifying polyps as pedunculated or sessile based on morphology as a basic reporting parameter."*
+
+
+**11. Which classification systems are specifically mentioned as expanding morphology assessment to estimate malignant potential?**
+
+- Dukes and TNM
+- Hinchey and Forrest
+- **Kudo and Paris**
+- AJCC and Clavien-Dindo
+
+*Explanation: "The chapter states that characteristics from the Kudo and Paris classification systems can help estimate malignant potential."*
+
+
+**12. Which endoscopic feature is mentioned as suggesting higher malignant potential in rectal polyps?**
+
+- Smooth shiny surface only
+- **Central depression**
+- Uniform yellow coloration
+- Complete compressibility
+
+*Explanation: "The text lists central depression, ulceration, nodularity, and surface pit pattern as features associated with higher malignant potential."*
+
+
+**13. Why should adverse histologic features be included in a synoptic report for early rectal cancer?**
+
+- **To determine whether local excision alone may be curative**
+- To eliminate the need for pathology review
+- To replace imaging in all patients
+- To automatically assign stage IV disease
+
+*Explanation: "These pathologic classifications are intended to identify cancers with high risk of lymph node metastasis and determine whether local excision alone may be curative."*
+
+
+**14. What pathologic designation is highlighted as particularly significant in T1 cancers?**
+
+- Tumor color
+- **Depth of submucosal invasion**
+- CEA level
+- Patient age
+
+*Explanation: "The chapter notes that the depth of submucosal invasion is a particularly significant pathologic designation for T1 cancers."*
+
+
+**15. Which system is used to estimate depth of submucosal invasion in pedunculated lesions?**
+
+- Kikuchi levels
+- **Haggitt levels**
+- Morson grades
+- Dworak score
+
+*Explanation: "For pedunculated lesions, Haggitt levels are used to estimate depth based on degree of invasion from the head of the polyp to the stalk."*
+
+
+**16. Which classification system is used for sessile T1 lesions based on depth of invasion through the submucosa?**
+
+- Paris classification
+- Haggitt classification
+- **Kikuchi classification**
+- Bethesda classification
+
+*Explanation: "For sessile lesions, the Kikuchi classification divides T1 cancers into three levels based on depth of invasion through the submucosa."*
+
+
+**17. In the Ueno and Kitajima method, from what landmark is the deepest submucosal invasion measured?**
+
+- Serosal surface
+- Mesorectal fascia
+- **Muscularis mucosa**
+- External sphincter
+
+*Explanation: "The Ueno and Kitajima system measures the deepest submucosal invasion from the level of the muscularis mucosa in millimeters."*
+
+
+**18. Which Haggitt level is considered high risk for lymph node metastasis?**
+
+- Level 0
+- Level 1
+- Level 2
+- **Level 4**
+
+*Explanation: "The chapter states that Haggitt level 4 lesions have been considered high risk for lymph node metastasis."*
+
+
+**19. Which Kikuchi category is considered high risk for lymph node metastasis?**
+
+- sm1 only
+- **sm2-3**
+- sm0
+- No Kikuchi level is considered high risk
+
+*Explanation: "Kikuchi sm2-3 tumors are specifically identified as high risk for lymph node metastasis."*
+
+
+**20. What depth of submucosal invasion has traditionally been considered high risk for lymph node metastasis?**
+
+- More than 100 to 150 μm
+- More than 500 to 750 μm
+- **More than 1000 to 1500 μm**
+- More than 3000 to 3500 μm
+
+*Explanation: "The chapter states that greater than 1000 to 1500 μm of submucosal invasion has been considered a high-risk feature for lymph node metastasis."*
+
+
+**21. According to the meta-analysis by Zwager et al. cited in the chapter, what was the reported risk of lymph node metastasis in T1 colorectal cancers with deep submucosal invasion when other risk factors were absent?**
+
+- 0.6%
+- **2.6%**
+- 6.2%
+- 12.6%
+
+*Explanation: "The chapter reports that Zwager et al. found a low 2.6% risk of lymph node metastasis in deeply invasive T1 cancers when other risk factors were absent."*
+
+
+**22. What type of resection is described as mandatory for malignant rectal lesions?**
+
+- Fragmented mucosal resection
+- **Nonfragmented, full-thickness, margin-negative resection**
+- Submucosal-only dissection
+- Piecemal excision without margin assessment
+
+*Explanation: "The text states that nonfragmented, full-thickness, margin-negative tumor resection is mandatory."*
+
+
+**23. What intended margin is desired during local excision of malignant rectal lesions?**
+
+- 1 mm
+- 2 mm
+- 5 mm
+- **1 cm**
+
+*Explanation: "The chapter states that an intended 1-cm margin is desired."*
+
+
+**24. What margin is considered adequate by most authors when a 1-cm margin is not achieved?**
+
+- **At least 2 mm**
+- At least 0.5 mm
+- Exactly 1 mm
+- At least 5 cm
+
+*Explanation: "Although 1 cm is desired, the text notes that a margin of at least 2 mm is considered adequate by most authors."*
+
+
+**25. Why should the specimen be removed as a full-thickness excision?**
+
+- To intentionally breach the mesorectal fascia
+- **To avoid a positive deep margin and allow pathologic evaluation of all rectal wall layers**
+- To shorten surveillance follow-up
+- To eliminate the need for orientation of the specimen
+
+*Explanation: "The chapter explains that full-thickness excision avoids a positive deep margin and permits evaluation of all layers of the rectal wall."*
+
+
+**26. What does the chapter say about submucosal dissections for these malignant lesions?**
+
+- They are preferred in all T1 cancers
+- They are useful only in T2 cancers
+- **They have no purpose in diagnosis or treatment**
+- They replace full-thickness excision
+
+*Explanation: "The text explicitly states that submucosal dissections have no purpose in the diagnosis or treatment of these malignant lesions."*
+
+
+**27. Which histologic type beyond adenocarcinoma is mentioned as potentially having a more aggressive course?**
+
+- **Signet-ring cell carcinoma**
+- Leiomyoma
+- Lipoma
+- Hyperplastic polyp
+
+*Explanation: "The chapter lists signet-ring cell carcinoma among histologic types that may carry increased risk of lymphovascular invasion, nodal metastasis, or a more aggressive course."*
+
+
+**28. Which histologic grade has the strongest correlation with adverse outcomes?**
+
+- Highly differentiated tumors
+- Moderately differentiated tumors
+- **Poorly differentiated tumors**
+- Grade cannot influence prognosis
+
+*Explanation: "The text states that the strongest correlation with adverse outcomes occurs with poorly differentiated tumors."*
+
+
+**29. How many tiers are included in the grading system based on glandular differentiation?**
+
+- Two
+- Three
+- **Four**
+- Five
+
+*Explanation: "The article describes a four-tiered grading system: highly differentiated (I), moderately differentiated (II), poorly differentiated (III), and undifferentiated (IV)."*
+
+
+**30. Which factors are described as the most recognized predictors of lymph node metastasis?**
+
+- Tumor color and ulceration
+- **Lymphovascular and perineural invasion**
+- Patient age and sex
+- CEA and CA 19-9 levels only
+
+*Explanation: "The chapter identifies lymphovascular invasion and perineural invasion as the most recognized predictors of lymph node metastasis."*
+
+
+**31. Extramural venous or large vessel invasion is proven to be an independent adverse risk factor for what?**
+
+- Pulmonary embolism
+- **Liver metastasis**
+- Anal stenosis
+- Urinary retention
+
+*Explanation: "The text states that extramural venous or large vessel invasion is an independent adverse risk factor for liver metastasis."*
+
+
+**32. What is the prognostic significance of any perineural invasion according to the chapter?**
+
+- It is a favorable sign
+- It predicts only local bleeding
+- **It is an independent indicator of poor prognosis**
+- It has no demonstrated prognostic value
+
+*Explanation: "The chapter states that any perineural invasion has been demonstrated to be an independent indicator of poor prognosis."*
+
+
+**33. How is tumor budding defined in the chapter?**
+
+- Clusters of 10 or more tumor cells in the tumor center
+- **Single cells or small clusters of fewer than 5 cells at the advancing front of the tumor**
+- Only grossly visible nodules on MRI
+- Mucin pools within the rectal wall
+
+*Explanation: "Tumor budding is defined as single cells or small clusters of fewer than five cells at the advancing front of the tumor."*
+
+
+**34. What tumor budding score corresponds to a low score per high-powered field?**
+
+- **0-4 buds**
+- 5-9 buds
+- 10-14 buds
+- 15 or more buds
+
+*Explanation: "The chapter states that low tumor budding corresponds to 0 to 4 buds per high-powered field."*
+
+
+**35. What tumor budding score corresponds to an intermediate score per high-powered field?**
+
+- 0-4 buds
+- **5-9 buds**
+- 10-12 buds
+- 15 or more buds
+
+*Explanation: "Intermediate tumor budding is defined as 5 to 9 buds per high-powered field."*
+
+
+**36. What tumor budding score corresponds to a high score per high-powered field?**
+
+- 7 or more buds
+- 8 or more buds
+- **10 or more buds**
+- 12 or more buds
+
+*Explanation: "The article states that a high tumor budding score is 10 or more buds per high-powered field."*
+
+
+**37. What is the significance of intermediate or high tumor budding?**
+
+- It predicts lower operative time
+- **It is a significant risk factor for lymph node involvement**
+- It eliminates the need for TME
+- It is useful only for benign polyps
+
+*Explanation: "The chapter states that intermediate or high tumor budding score is a significant risk factor for lymph node involvement."*
+
+
+**38. Using the discussed pathologic features, tumors can be grouped into which two broad categories?**
+
+- Benign vs malignant
+- Colon vs rectal
+- **Low-risk T1 lesions vs high-risk T1 and T2 lesions**
+- Radiated vs nonradiated lesions
+
+*Explanation: "The chapter explains that tumors can be grouped into low-risk T1 lesions or high-risk T1 and T2 lesions."*
+
+
+**39. According to the ACPGBI table, what degree of risk is assigned to a resection margin less than 1 mm?**
+
+- 0
+- 1
+- 2
+- **4**
+
+*Explanation: "Table 179.1 assigns a degree of risk of 4 to a resection margin less than 1 mm."*
+
+
+**40. What grade of risk corresponds to a total score of 3 in the ACPGBI table?**
+
+- Low
+- Medium
+- **High**
+- Very high
+
+*Explanation: "A total score of 3 is classified as high risk in Table 179.1."*
+
+
+**41. What estimated potential risk of residual cancer is associated with a total score of 3?**
+
+- Less than 5%
+- 5% to 10%
+- **8% to 15%**
+- More than 20%
+
+*Explanation: "The chapter’s ACPGBI table lists an 8% to 15% potential risk of residual cancer for a score of 3."*
+
+
+**42. What course of action is recommended for a total score of 3 in the ACPGBI table?**
+
+- Routine follow-up only
+- **Discuss risks with the patient and err toward surgery**
+- Adjuvant chemotherapy only
+- Watch-and-wait without discussion
+
+*Explanation: "For a total score of 3, the table recommends discussing risks with the patient and erring toward surgery."*
+
+
+**43. What grade of risk corresponds to a total score of 4 or more in the ACPGBI table?**
+
+- Medium
+- High
+- **Very high**
+- Unclassifiable
+
+*Explanation: "Table 179.1 classifies a total score of 4 or more as very high risk."*
+
+
+**44. What estimated potential risk of residual cancer is associated with a total score of 4 or more?**
+
+- 5% to 10%
+- 8% to 15%
+- 15% to 20%
+- **More than 20%**
+
+*Explanation: "A total score of 4 or more is associated with more than 20% potential residual cancer risk in the table."*
+
+
+**45. What course of action is recommended for a total score of 4 or more in the ACPGBI table?**
+
+- Routine follow-up
+- **Recommend surgery unless the patient is unfit**
+- Observation only
+- Short-course radiation without surgery
+
+*Explanation: "For a very high-risk score of 4 or more, the table recommends surgery unless the patient is unfit."*
+
+
+**46. Which disease-specific symptom should receive special attention during preoperative evaluation?**
+
+- Seasonal allergies
+- **Stool continence**
+- Visual acuity
+- Hearing loss
+
+*Explanation: "The preoperative workup section specifically states that stool continence should receive special attention."*
+
+
+**47. During digital rectal examination, which lesion characteristic should be noted?**
+
+- Only the patient’s weight
+- **Whether the lesion is firm or soft and mobile or fixed**
+- Only blood pressure
+- Only skin color
+
+*Explanation: "The text says DRE should note whether the lesion is firm or soft and whether it is mobile or fixed."*
+
+
+**48. Why is assessment of the tumor’s relationship to the anorectal ring, sphincter tone, and anal canal length important?**
+
+- To determine chemotherapy dose only
+- **For surgical equipment choice and counseling about postoperative functional impact**
+- To eliminate the need for imaging
+- Only for anesthesia billing
+
+*Explanation: "The chapter states these features are important for choosing equipment and counseling patients regarding possible postoperative functional impact."*
+
+
+**49. Who should perform rigid proctoscopy according to the chapter?**
+
+- Any clinic nurse
+- **The operating surgeon**
+- The radiologist
+- The pathologist
+
+*Explanation: "The text specifically states that rigid proctoscopy should be performed by the operating surgeon."*
+
+
+**50. What is the purpose of standard staging workup according to NCCN guidelines in this setting?**
+
+- To determine only bowel preparation type
+- **To rule out metastatic disease**
+- To replace pathology review
+- To confirm benign disease without biopsy
+
+*Explanation: "The chapter states that standard staging workup according to NCCN guidelines should be followed to rule out metastatic disease."*
+
+
+**51. Which imaging study is listed as part of standard staging workup?**
+
+- **CT abdomen and pelvis with intravenous and oral contrast**
+- MRI brain in all patients
+- PET scan without exception
+- Upper GI contrast study
+
+*Explanation: "The standard workup includes CT of the abdomen and pelvis with intravenous and oral contrast."*
+
+
+**52. Which chest imaging study is listed as part of the standard staging workup?**
+
+- Chest x-ray only
+- **CT chest with or without intravenous contrast**
+- Cardiac MRI
+- No chest imaging is needed
+
+*Explanation: "The chapter lists CT chest with or without intravenous contrast as part of standard staging."*
+
+
+**53. Which tumor marker is specifically included in the standard staging workup?**
+
+- CA 125
+- PSA
+- **CEA**
+- AFP
+
+*Explanation: "The article states that carcinoembryonic antigen (CEA) level should be obtained during standard staging workup."*
+
+
+**54. Which imaging modality has supplanted endorectal ultrasound (EUS) as the primary locoregional imaging modality for rectal cancer?**
+
+- PET-CT
+- **Rectal cancer protocol pelvic MRI**
+- Plain abdominal radiography
+- Transperineal ultrasound
+
+*Explanation: "The chapter states that rectal cancer protocol pelvic MRI has supplanted EUS as the primary locoregional imaging modality."*
+
+
+**55. What is one important limitation of MRI mentioned in the chapter?**
+
+- It cannot image mesorectal nodes at all
+- **It cannot differentiate T stage of tumors confined to the bowel wall (T1-T2)**
+- It is never available in accredited centers
+- It always understages rectal cancer
+
+*Explanation: "The text notes that MRI cannot reliably differentiate T1 from T2 tumors confined to the bowel wall."*
+
+
+**56. How may MRI affect staging of T1-T2 tumors confined to the bowel wall?**
+
+- **It may lead to overstaging**
+- It always results in downstaging
+- It has no effect on staging accuracy
+- It converts all lesions to N-positive disease
+
+*Explanation: "The chapter states that MRI may lead to overstaging when evaluating tumors confined to the bowel wall."*
+
+
+**57. How is EUS described relative to MRI for early tumors?**
+
+- Inferior for differentiating T1 from T2
+- **Complementary because it better differentiates between T1 and T2 tumors**
+- Obsolete and never used
+- Useful only for liver metastases
+
+*Explanation: "The chapter says EUS is complementary to MRI because it provides better differentiation between T1 and T2 tumors."*
+
+
+**58. When should rectal cancer patients be discussed by the multidisciplinary team (MDT)?**
+
+- Only after recurrence
+- Only after surgery
+- **At initial presentation and again after definitive surgery or adjuvant treatment is completed**
+- Only when pathology is unavailable
+
+*Explanation: "The chapter states that patients should be discussed with the rectal cancer MDT at initial presentation and again after treatment outcomes are available."*
+
+
+**59. Organ preservation in rectal cancer should be viewed as what?**
+
+- **A strategy to reduce surgical morbidity without compromising survival**
+- A replacement for all surgery regardless of stage
+- A way to avoid pathology review
+- An approach used only for metastatic disease
+
+*Explanation: "The organ preservation section states that rectal preservation should be viewed as a strategy to reduce surgical morbidity without compromising survival."*
+
+
+**60. Which of the following is a functional deficit after TME that organ preservation may avoid?**
+
+- Cataracts
+- **Low anterior resection syndrome (LARS)**
+- Hearing impairment
+- Renal stones
+
+*Explanation: "The chapter notes that one benefit of organ preservation is avoidance of functional deficits after TME, including LARS."*
+
+
+**61. Local excision of T1N0 rectal cancer is generally considered what?**
+
+- Contraindicated in all patients
+- **An acceptable option and often preferred in patients unfit for or unwilling to accept radical surgery**
+- Worse than no treatment
+- Reserved only for T4 disease
+
+*Explanation: "The text states that local excision of T1N0 rectal cancer is generally acceptable and often preferred in patients who are unfit for or unwilling to accept radical surgery."*
+
+
+**62. How is local recurrence after TES excision of T1 rectal cancer without unfavorable histologic features characterized relative to TME?**
+
+- Clearly better than TME
+- **Close to but not generally considered equal to or better than TME**
+- Far worse with no overlap
+- Not discussed in the chapter
+
+*Explanation: "The chapter states that local recurrence after TES excision of T1 cancers without unfavorable features is close to but not generally considered equal to or better than TME."*
+
+
+**63. How are locally excised T1 rectal cancers with unfavorable histologic features and T2 rectal cancers viewed as stand-alone treatment?**
+
+- They are advised as stand-alone treatment
+- **They are not advised as stand-alone treatment because local recurrence is higher than with TME**
+- They never recur
+- They require no follow-up
+
+*Explanation: "The chapter states that these higher-risk locally excised cancers have higher local recurrence than TME and are therefore not advised as stand-alone treatment."*
+
+
+**64. In the CALGB 8984 phase II trial, what 6-year failure-free survival rate was reported for T2 cancers treated with adjuvant radiation therapy?**
+
+- 51%
+- 61%
+- **71%**
+- 81%
+
+*Explanation: "The chapter reports that adjuvant radiation therapy in CALGB 8984 yielded a 6-year failure-free survival rate of 71% for T2 cancers."*
+
+
+**65. What did the Lezoche randomized controlled trial show at 5 years for T2N0 low rectal tumors treated with neoadjuvant chemoradiotherapy followed by transanal excision versus laparoscopic TME?**
+
+- Transanal excision had markedly worse cancer-related survival
+- Laparoscopic TME had no local recurrences while transanal excision had many
+- **There were no discernible differences in local recurrence or cancer-related survival**
+- Both strategies were abandoned due to toxicity
+
+*Explanation: "The chapter states that the Lezoche study found no discernible differences in local recurrence or cancer-related survival at 5 years."*
+
+
+**66. Which is an advantage of neoadjuvant therapy (NAT) before TME in locally advanced rectal cancer?**
+
+- Higher incidence of positive circumferential margins
+- **Reduction in local recurrence**
+- Inability to downsize tumors
+- Lower sphincter preservation rates
+
+*Explanation: "The chapter states that NAT reduces local recurrence, downsizes tumors, lowers positive circumferential resection margin incidence, and improves sphincter preservation."*
+
+
+**67. What range of local recurrence is reported across the selected multiinstitutional NAT followed by local excision trials for early rectal cancer?**
+
+- 0% to 2%
+- **4% to 11%**
+- 15% to 20%
+- 25% to 35%
+
+*Explanation: "The chapter notes that across these trials, the incidence of local recurrence ranges from 4% to 11%."*
+
+
+**68. What regimen was investigated in the Canadian phase II NEO trial before local excision?**
+
+- One year of immunotherapy
+- **Three months of neoadjuvant FOLFOX or CAPOX**
+- Immediate TME without systemic therapy
+- Short-course radiation only
+
+*Explanation: "The NEO trial investigated 3 months of neoadjuvant FOLFOX or CAPOX followed by local excision."*
+
+
+**69. Which patients were included in the NEO trial according to the chapter?**
+
+- Only T4 N2 upper rectal cancer
+- **T1-3ab, N0 low-to-midrectal cancer**
+- Only metastatic rectal cancer
+- Only palliative cases with obstruction
+
+*Explanation: "The chapter states that the NEO trial included patients with T1-3ab, N0 low-to-midrectal cancer."*
+
+
+**70. What was the incidence of ypT0-1 tumors in the NEO trial?**
+
+- 37%
+- 47%
+- **57%**
+- 67%
+
+*Explanation: "The chapter reports a 57% incidence of ypT0-1 tumors in the NEO trial."*
+
+
+**71. What did the PROSPECT randomized controlled trial show for selected stage II and III rectal cancers?**
+
+- Neoadjuvant FOLFOX or CAPOX followed by TME was oncologically inferior to chemoradiation
+- **Neoadjuvant FOLFOX or CAPOX followed by TME was not oncologically inferior to neoadjuvant chemoradiation followed by TME**
+- Chemotherapy was contraindicated before TME
+- Neither regimen permitted sphincter preservation
+
+*Explanation: "The chapter states that long-term results from PROSPECT showed neoadjuvant FOLFOX or CAPOX followed by TME was not oncologically inferior to neoadjuvant chemoradiation followed by TME in selected stage II and III cancers."*
+
+
+**72. According to the chapter, which step comes first in the broader combined multistep approach to local excision outcomes?**
+
+- **Proper patient selection**
+- Immediate salvage TME for all patients
+- Skipping histologic review
+- Avoiding surveillance
+
+*Explanation: "The first step in the broader combined multistep approach is proper patient selection."*
+
+
+**73. What does the chapter identify as essential for patients managed through local excision pathways over time?**
+
+- Avoidance of all follow-up visits
+- **Long-term ability to adhere to surveillance recommendations**
+- Lifelong inpatient monitoring
+- No multidisciplinary support
+
+*Explanation: "The chapter emphasizes a long-term investment from the patient, including the ability to adhere to surveillance recommendations."*
+
+
+**74. Why was conventional transanal excision (TAE) traditionally limited to lesions within 8 cm of the anal verge and smaller than 3 cm?**
+
+- **Because of limited visibility, lighting, and reach**
+- Because pathology cannot assess larger tumors
+- Because anesthesia is impossible beyond 8 cm
+- Because local excision is forbidden in the rectum
+
+*Explanation: "The chapter explains that TAE was conventionally limited by the restricted visibility, lighting, and reach of standard instruments."*
+
+
+**75. Who developed transanal endoscopic microsurgery (TEM) in the mid-1980s?**
+
+- Billroth and Halsted
+- **Gerhard Büess and Richard Wolf Medical Instruments**
+- Parks and Miles
+- Atallah and Larach
+
+*Explanation: "The chapter states that TEM was developed by Dr. Gerhard Büess and Richard Wolf Medical Instruments in the mid-1980s."*
+
+
+**76. What new capability did TEM provide compared with conventional TAE?**
+
+- It only worked for lesions less than 1 cm
+- **It allowed resection of lesions larger than 3 cm and up to the rectosigmoid junction**
+- It eliminated the need for anesthesia
+- It was limited to the anal canal only
+
+*Explanation: "The text states that TEM allowed resection of lesions larger than 3 cm and those located up to the rectosigmoid junction."*
+
+
+**77. What was true of specimens removed with TEM compared with TAE?**
+
+- They were more likely to be fragmented
+- **They were more likely to be intact and unfragmented**
+- They could not be oriented for pathology
+- They always had higher complication rates
+
+*Explanation: "The chapter states that TEM specimens were more likely to be intact and unfragmented, with complication rates no higher than TAE."*
+
+
+**78. What is the name of the similar sealed operating transanal platform created by Karl Storz Endoscopy?**
+
+- TAMIS
+- **TEO**
+- NOTES
+- LARS
+
+*Explanation: "Karl Storz Endoscopy created a similar sealed operating transanal platform called transanal endoscopic operations (TEO)."*
+
+
+**79. Which factors contributed to poor adoption of TEM and TEO?**
+
+- Too little magnification and no lighting
+- **Added instrument expense, cumbersome maintenance of pneumorectum, and a steep learning curve**
+- Lack of any oncologic benefit over no treatment
+- Mandatory laparotomy in all cases
+
+*Explanation: "The chapter attributes poor adoption of TEM and TEO to added instrumentation expense, cumbersome pneumorectum maintenance, and a steep learning curve."*
+
+
+**80. What name was given to the technique that used single-port laparoscopic devices as a transanal operating platform?**
+
+- TEM
+- TEO
+- **TAMIS**
+- TNT
+
+*Explanation: "The chapter states that this approach came to be known as transanal minimally invasive surgery (TAMIS)."*
+
+
+**81. Collectively, TEM, TEO, and TAMIS are generically referred to as what?**
+
+- TME
+- **TES**
+- EUS
+- MDT
+
+*Explanation: "The chapter states that TEM, TEO, and TAMIS are collectively referred to as transanal endoscopic surgery (TES)."*
+
+
+**82. How has robotic TAMIS been characterized in the chapter?**
+
+- It is impossible to perform
+- **Several case studies have proven its feasibility**
+- It is the only acceptable method
+- It has superior long-term data to all other techniques
+
+*Explanation: "The text states that TAMIS has been performed robotically and several case studies have proven its feasibility."*
+
+
+**83. What position do most authors advocate for robotic TAMIS to avoid collision of the robotic arms with the patient’s legs?**
+
+- Supine
+- **Prone jackknife**
+- Left lateral decubitus
+- Reverse Trendelenburg
+
+*Explanation: "The chapter states that most would advocate placing the patient in the prone jackknife position to prevent robotic arm collision with the legs."*
+
+
+**84. Standard TAE is generally considered acceptable for lesions with which characteristics?**
+
+- **Within 8 cm of the anal verge, less than 3 cm in size, and occupying less than 40% of the circumference**
+- Only lesions beyond 10 cm from the anal verge
+- Any lesion occupying 100% of the lumen
+- Only tumors larger than 5 cm
+
+*Explanation: "The chapter states that standard TAE is considered acceptable for lesions within 8 cm of the anal verge, less than 3 cm, and occupying less than 40% of the circumference."*
+
+
+**85. Compared with conventional TAE, advanced platforms such as TEM and TAMIS have been shown to do what?**
+
+- Increase fragmentation and margin positivity
+- **Reduce fragmentation, decrease margin positivity rates, and improve en bloc excision**
+- Eliminate the need for pathology review
+- Make completion TME impossible
+
+*Explanation: "The chapter states that TEM and TAMIS are technically superior in reducing specimen fragmentation, decreasing margin positivity, and improving en bloc excision."*
+
+
+**86. For TES in experienced hands, caution should still be employed for which lesions?**
+
+- Lesions smaller than 1 cm only
+- **Very large lesions greater than 5 cm, involving at least 50% of the lumen, or at least 10 cm from the anal verge**
+- Only pedunculated lesions
+- Only lesions in the distal 2 cm
+
+*Explanation: "The chapter advises caution for very large lesions greater than 5 cm, lesions involving at least 50% of the lumen, or lesions at least 10 cm from the anal verge."*
+
+
+**87. What is recommended as part of the preoperative checklist regarding bowel preparation?**
+
+- No bowel preparation is necessary
+- **The bowel must be cleansed, usually with a full mechanical prep or at minimum an enema prep**
+- Only clear liquids for 24 hours are needed
+- Upper endoscopy bowel prep is preferred
+
+*Explanation: "The preoperative checklist states that the bowel must be cleansed, most commonly with a full mechanical bowel prep or at least an enema prep."*
+
+
+**88. What additional preoperative measures are recommended besides bowel cleansing?**
+
+- Routine dialysis and central line placement
+- **Intravenous antibiotics covering bowel flora and venous thromboembolism prophylaxis**
+- Mandatory blood transfusion
+- No prophylactic measures are advised
+
+*Explanation: "The chapter recommends preoperative intravenous antibiotics covering bowel flora and venous thromboembolism prophylaxis."*
+
+
+**89. What type of anesthesia is recommended during intraoperative setup?**
+
+- Local anesthesia only
+- **General endotracheal anesthesia with the option of paralysis**
+- No anesthesia is necessary for TES
+- Spinal anesthesia exclusively
+
+*Explanation: "The intraoperative setup section recommends general endotracheal anesthesia with the option of paralysis to provide a fully relaxed patient."*
+
+
+**90. What is the usual patient position for TAMIS regardless of lesion orientation within the rectum?**
+
+- Prone jackknife
+- **Lithotomy**
+- Right lateral decubitus
+- Seated
+
+*Explanation: "The chapter states that positioning for TAMIS is lithotomy regardless of lesion orientation within the rectum."*
+
+
+**91. Where should the main operative monitor be placed during intraoperative setup?**
+
+- At the foot of the bed
+- At the patient’s left side only
+- **At the head of the bed**
+- Outside the operating room
+
+*Explanation: "The intraoperative setup section specifies that the main operative monitor is placed at the head of the bed."*
+
+
+**92. How large a mucosal margin should be marked around the tumor during dissection?**
+
+- 1 mm
+- 5 mm
+- **1 cm**
+- 2 cm
+
+*Explanation: "The procedural steps state that a 1-cm mucosal margin is marked around the tumor using cautery."*
+
+
+**93. Where should dissection begin during local excision?**
+
+- Proximally with a superficial incision
+- **Distally with a full-thickness perpendicular incision of the rectal wall**
+- At the mesorectal fascia only
+- In the anal canal with piecemeal biopsy
+
+*Explanation: "The procedural steps state that dissection should begin distally with a full-thickness perpendicular incision of the rectal wall."*
+
+
+**94. What intraoperative finding ensures a full-thickness specimen and serves as the deep margin?**
+
+- Exposure of the external sphincter
+- **Visualization of mesorectal fat**
+- Visualization of the serosa only
+- Absence of bleeding
+
+*Explanation: "The chapter states that visualization of mesorectal fat ensures a full-thickness specimen and serves as the deep margin."*
+
+
+**95. How should full-thickness defects ideally be closed to avoid stenosis?**
+
+- Longitudinally
+- **Transversely**
+- They should never be closed
+- With clips only in all cases
+
+*Explanation: "The closure section states that defects should be closed transversely to avoid stenosis."*
+
+
+**96. What is the most common postoperative complication after transanal surgery?**
+
+- Pelvic sepsis
+- Rectovaginal fistula
+- **Urinary retention**
+- Massive pulmonary embolism
+
+*Explanation: "The complications section identifies urinary retention as the most common postoperative complication."*
+
+
+**97. What percentage of cases is urinary retention reported to occur in after transanal surgery?**
+
+- 1% to 2%
+- **5% to 10%**
+- 15% to 20%
+- 25% to 30%
+
+*Explanation: "The chapter states that urinary retention occurs in 5% to 10% of cases."*
+
+
+**98. What was the 6-year local failure-free survival rate for T1 cancers with negative margins monitored without additional treatment in CALGB 8984?**
+
+- 73%
+- **83%**
+- 93%
+- 100%
+
+*Explanation: "The oncologic outcomes section reports that the 6-year local failure-free survival rate was 83% for T1 cancers with negative margins in CALGB 8984."*
+
+
+**99. What is the oncologically preferred approach for T2 rectal cancers according to the chapter?**
+
+- Observation only
+- **TME**
+- Local excision alone in all cases
+- Endoscopic tattooing and surveillance
+
+*Explanation: "The chapter states that because T2 cancers have greater access to the lymphatic system and higher recurrence risk, the oncologically preferred approach is TME."*
+
+
+**100. What is the chapter’s conclusion regarding the preferred local excision procedure for early rectal cancers?**
+
+- Standard TAE is always preferred
+- **TES is the procedure of choice because morbidity rates are significantly lower than after rectal resection while long-term survival is similar**
+- Open abdominoperineal resection is preferred for all ERCs
+- No surgical approach is recommended
+
+*Explanation: "The conclusion states that TES is the procedure of choice for local excision of ERCs because morbidity is significantly lower than after rectal resection while long-term survival is similar."*

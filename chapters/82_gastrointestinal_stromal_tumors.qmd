@@ -1,0 +1,1351 @@
+# 82-Gastrointestinal Stromal Tumors
+
+**1. What is the most common mesenchymal neoplasm of the gastrointestinal tract?**
+
+- Leiomyoma
+- **Gastrointestinal stromal tumor (GIST)**
+- Schwannoma
+- Desmoid fibromatosis
+
+*Explanation: GISTs are the most common mesenchymal neoplasms of the GI tract, although they only comprise up to 1% of all GI tract tumors.*
+
+**2. What percentage of all gastrointestinal tract tumors are GISTs?**
+
+- 5-10%
+- **Up to 1%**
+- 15-20%
+- 25-30%
+
+*Explanation: GISTs comprise up to 1% of all GI tract tumors despite being the most common mesenchymal neoplasms.*
+
+**3. What is the most common primary site for GISTs?**
+
+- Small bowel
+- Colon
+- **Stomach (55%)**
+- Esophagus
+
+*Explanation: The majority of GISTs are located in the stomach (55%), followed by the small bowel (30%).*
+
+**4. What percentage of GISTs are found in the small bowel?**
+
+- 55%
+- **30%**
+- 15%
+- 6%
+
+*Explanation: Approximately 30% of GISTs are found in the small bowel, making it the second most common location.*
+
+**5. What percentage of GISTs are found in the rectum and colon combined?**
+
+- <1%
+- 2%
+- **Approximately 6%**
+- 15%
+
+*Explanation: Approximately 6% of GISTs are found in the rectum and colon.*
+
+**6. What percentage of GISTs are found within the esophagus?**
+
+- 2%
+- **Less than 1%**
+- 5%
+- 10%
+
+*Explanation: Less than 1% of GISTs are found within the esophagus.*
+
+**7. What is the approximate incidence of GIST in the United States?**
+
+- 1.5 new cases per million people
+- **6.8 new cases per million people**
+- 15 new cases per million people
+- 25 new cases per million people
+
+*Explanation: Within the United States, the incidence is about 6.8 new cases per million people.*
+
+**8. Approximately how many new cases of GIST are reported annually in the United States?**
+
+- 1,500
+- 3,000
+- **6,000**
+- 10,000
+
+*Explanation: There are approximately 6,000 new cases of GIST reported annually in the United States.*
+
+**9. What is the estimated worldwide incidence of GIST?**
+
+- 0.5 to 2.1 million cases
+- **2.1 to 19.7 million cases**
+- 20 to 30 million cases
+- 50 to 75 million cases
+
+*Explanation: Worldwide, the incidence is estimated to be 2.1 to 19.7 million cases.*
+
+**10. In which decade was the term "stromal tumor" first used to describe gastric tumors resembling nerve sheath cells?**
+
+- 1973
+- **1983**
+- 1993
+- 2003
+
+*Explanation: In 1983 the term "stromal tumor" was first used by Mazur and Clark to describe gastric tumors arising from nerve sheath cells.*
+
+**11. What percentage of GISTs have spindle cell morphology?**
+
+- 30%
+- 50%
+- **Approximately 70%**
+- 90%
+
+*Explanation: Approximately 70% of GISTs are found to have spindle cell morphology.*
+
+**12. Which of the following is NOT one of the three histologic subtypes of GIST?**
+
+- Spindeloid
+- Epithelioid
+- Mixed
+- **Neuroendocrine**
+
+*Explanation: GISTs have three histologic subtypes: spindeloid, epithelioid, and mixed. Neuroendocrine features may rarely be present but are not a primary subtype.*
+
+**13. From which cells are GISTs thought to arise?**
+
+- Smooth muscle cells
+- Schwann cells
+- **Interstitial cells of Cajal (ICCs)**
+- Fibroblasts
+
+*Explanation: GISTs arise from interstitial cells of Cajal (ICCs), which express both CD34 and CD117 (KIT).*
+
+**14. Who first identified interstitial cells of Cajal in 1893?**
+
+- Ramon y Cajal alone
+- **Santiago Ramon y Cajal**
+- Dr. Mazur
+- Dr. Miettinen
+
+*Explanation: ICCs were first identified in 1893 by Santiago Ramon y Cajal, who named them "interstitial" cells given their interposition between nerve endings and smooth muscle cells.*
+
+**15. What is the primary role of interstitial cells of Cajal in the gut?**
+
+- Absorption of nutrients
+- Secretion of digestive enzymes
+- **Propagation of intrinsic slow-wave gut peristalsis**
+- Mucus production
+
+*Explanation: ICCs are thought to play an integral role in the propagation of intrinsic slow-wave gut peristalsis.*
+
+**16. Which of the following locations outside the GI tract may contain ICCs and therefore potentially give rise to extraintestinal GISTs?**
+
+- Brain and spinal cord
+- **Genitourinary system, portal vein, and pancreas**
+- Thyroid and parathyroid
+- Lungs and pleura
+
+*Explanation: ICCs are found outside the GI tract, including the genitourinary system, portal vein, and pancreas, which explains rare extraintestinal GIST locations.*
+
+**17. What is the sensitivity of CD117 (KIT) immunostaining for the diagnosis of GIST?**
+
+- 75-80%
+- 85-90%
+- **Greater than 95%**
+- 100%
+
+*Explanation: Immunostaining for CD117 has a reported sensitivity greater than 95% for the diagnosis of GIST.*
+
+**18. What is another name for "discovered on GIST-1" (DOG-1)?**
+
+- CD34
+- **ANO1 or TMEM16A**
+- SDHB
+- PDGFRA
+
+*Explanation: DOG-1 is also known as ANO1 or TMEM16A and has an overall sensitivity of 95% for GIST diagnosis.*
+
+**19. Which immunohistochemical marker is important for assessing potential hereditary forms of GIST?**
+
+- CD34
+- DOG-1
+- **Succinate dehydrogenase B (SDHB)**
+- BRAF
+
+*Explanation: SDHB immunostaining is important for assessing potential hereditary forms of GIST, as SDH-deficient GISTs demonstrate loss of functional SDH.*
+
+**20. What is the most common underlying pathophysiologic mechanism in GIST tumorigenesis?**
+
+- Loss of tumor suppressor genes
+- Viral infection
+- **Gain-of-function oncogenic mutations leading to increased KIT activity**
+- Chromosomal translocation only
+
+*Explanation: The most common underlying pathophysiology involves gain-of-function oncogenic mutations leading to increased activity of KIT, a receptor tyrosine kinase.*
+
+**21. What percentage of patients with GIST harbor somatic tumor mutations in KIT?**
+
+- 30-40%
+- **60-70%**
+- 80-90%
+- 95-100%
+
+*Explanation: It is now believed that approximately 60% to 70% of patients with GIST harbor somatic tumor mutations in KIT.*
+
+**22. Which KIT exon is most commonly mutated in GISTs?**
+
+- Exon 9
+- **Exon 11**
+- Exon 13
+- Exon 17
+
+*Explanation: Most KIT mutant GISTs harbor mutations in KIT exon 11.*
+
+**23. What percentage of GISTs have mutations in PDGFRA?**
+
+- 1-2%
+- 5%
+- **Approximately 10%**
+- 35%
+
+*Explanation: Approximately 10% of GISTs have PDGFRA mutations, and 35% of non-KIT mutant GISTs have PDGFRA mutations.*
+
+**24. Which KIT exon mutation is associated with resistance to standard-dose imatinib and requires higher dosing?**
+
+- Exon 11
+- **Exon 9**
+- Exon 13
+- Exon 17
+
+*Explanation: KIT exon 9 mutations are treated with 800mg of imatinib rather than the standard 400mg.*
+
+**25. What percentage of GISTs have germline mutations in SDH genes?**
+
+- 1%
+- **7%**
+- 15%
+- 25%
+
+*Explanation: Approximately 7% of GISTs have germline mutations in one of four SDH genes (A, B, C, D).*
+
+**26. Which of the following gene mutations is associated with Carney-Stratakis syndrome?**
+
+- KIT
+- PDGFRA
+- **SDH subunit mutations**
+- BRAF
+
+*Explanation: Carney-Stratakis syndrome (familial paraganglioma and GIST syndrome) is caused by germline mutations in SDH subunit genes.*
+
+**27. What is the mechanism of Carney triad GISTs?**
+
+- Germline KIT mutation
+- **DNA hypermethylation and epigenetic silencing of the SDHC promoter (epimutation)**
+- PDGFRA mutation
+- NF1 mutation
+
+*Explanation: Carney triad is sporadic and caused by SDHC promoter hypermethylation (epimutations) leading to gene silencing.*
+
+**28. Which mutation is found in patients with neurofibromatosis type 1 who develop GIST?**
+
+- KIT mutation
+- **NF1 germline mutation**
+- BRAF mutation
+- ETV6-NTRK3 fusion
+
+*Explanation: Patients with germline mutations in NF1 causing neurofibromatosis type 1 have an increased risk for developing GIST.*
+
+**29. What percentage of GISTs are considered familial (hereditary) rather than sporadic?**
+
+- **5-10%**
+- 15-20%
+- 25-30%
+- 40-50%
+
+*Explanation: Only approximately 5% to 10% of GISTs are considered to be familial in origin.*
+
+**30. Which of the following mutations confers primary resistance to imatinib?**
+
+- KIT exon 11
+- **PDGFRA D842V**
+- KIT exon 9
+- SDH-deficient
+
+*Explanation: PDGFRA exon 18 D842V mutation is uniquely known for its primary resistance to imatinib and sunitinib.*
+
+**31. What is the recommended test for tailoring therapies in GIST due to increasing genomic diversity?**
+
+- PCR only
+- FISH
+- **Next-generation sequencing (NGS)**
+- Western blot
+
+*Explanation: Next-generation sequencing (NGS) is becoming increasingly adopted for clinical purposes to determine both somatic and germline mutations.*
+
+**32. Which organization has deemed mutational analyses standard practice for GIST?**
+
+- FDA only
+- **National Comprehensive Cancer Network (NCCN) and European Society for Medical Oncology (ESMO)**
+- American Cancer Society only
+- World Health Organization
+
+*Explanation: Both NCCN and ESMO have deemed mutational analyses and genetic testing standard practice for GIST.*
+
+**33. What is the most common clinical presentation of GISTs?**
+
+- Acute perforation
+- **Asymptomatic/incidental finding**
+- Severe bleeding
+- Obstruction
+
+*Explanation: GISTs are often asymptomatic and discovered only as incidental findings on imaging or endoscopy.*
+
+**34. Which symptom is most likely to occur early in GIST disease progression?**
+
+- Severe abdominal pain
+- Palpable mass
+- **Mild abdominal pain, bloating, or dyspepsia**
+- Tumor perforation
+
+*Explanation: Early symptoms may be very nonspecific, such as mild abdominal pain, bloating, or dyspepsia.*
+
+**35. Which presentation is associated with large GISTs?**
+
+- Asymptomatic only
+- **Palpable tumors with pressure, pain, or compression symptoms**
+- Only microscopic bleeding
+- No symptoms
+
+*Explanation: Patients presenting with large GIST may have palpable tumors and present with pressure, pain, or symptoms related to compression of adjacent organs.*
+
+**36. What type of bleeding may occur due to overlying mucosal ulceration in GISTs?**
+
+- Only chronic venous oozing
+- **Acute GI blood loss (hematemesis or melena) or chronic anemia**
+- Only arterial hemorrhage
+- No bleeding
+
+*Explanation: Patients may present with acute GI blood loss (hematemesis or melena) or symptoms of chronic anemia from mucosal ulceration.*
+
+**37. Which imaging modality is recommended for suspected GISTs?**
+
+- X-ray only
+- Ultrasound only
+- **Contrast-enhanced CT and/or MRI**
+- PET scan only
+
+*Explanation: Suspected GISTs should be evaluated with cross-sectional imaging such as contrast-enhanced CT and/or MRI.*
+
+**38. How do small GISTs typically appear on imaging?**
+
+- Hypervascular and heterogeneous
+- **Homogeneous and polypoid**
+- Cystic with calcifications
+- Invasive with irregular borders
+
+*Explanation: Smaller GISTs are usually more homogeneous and polypoid in appearance.*
+
+**39. Why do large GISTs appear heterogeneous on imaging?**
+
+- Due to uniform cellularity
+- **Due to necrosis, hemorrhage, or cystic degeneration**
+- Due to calcification only
+- They do not appear heterogeneous
+
+*Explanation: Large GISTs appear heterogeneous because of necrosis, hemorrhage, or cystic degeneration.*
+
+**40. What is the appearance of GISTs during endoscopy?**
+
+- Ulcerated mucosal lesion with irregular borders
+- **Smooth appearing submucosal mass**
+- Polypoid exophytic growth with central depression
+- Diffuse mucosal thickening
+
+*Explanation: Endoscopically, GISTs often appear as smooth submucosal masses forming a bulge into the lumen.*
+
+**41. Why should cross-sectional imaging be performed on all patients with suspected GIST identified endoscopically?**
+
+- To confirm the benign nature
+- **Because endoscopic findings may underestimate the full extent of disease**
+- To avoid biopsy
+- To reduce costs
+
+*Explanation: Cross-sectional imaging should be performed because endoscopic findings may underestimate the full extent of disease.*
+
+**42. Which of the following is NOT in the differential diagnosis for GIST?**
+
+- Leiomyoma
+- Schwannoma
+- Lipoma
+- **Adenocarcinoma**
+
+*Explanation: The differential includes benign and malignant submucosal tumors like leiomyoma, schwannoma, and lipoma, but adenocarcinoma is a mucosal lesion, not submucosal.*
+
+**43. What is the preferred biopsy approach for suspected GISTs?**
+
+- Percutaneous biopsy only
+- Incisional biopsy
+- **Endoscopic ultrasound (EUS)-guided core needle biopsy**
+- Excisional biopsy without imaging
+
+*Explanation: EUS-guided core needle biopsy is preferable due to the submucosal location of these tumors.*
+
+**44. For small (<2cm) gastric GISTs, what is the role of EUS?**
+
+- To confirm surgical resectability only
+- To replace CT imaging
+- **To evaluate for high-risk features (irregular borders, cystic spaces, ulceration, echogenic foci)**
+- To provide definitive staging
+
+*Explanation: EUS is indicated to evaluate for high-risk features in small gastric GISTs, including irregular borders, cystic spaces, ulceration, echogenic foci, and internal heterogeneity.*
+
+**45. Which of the following is a high-risk feature on EUS for small GISTs?**
+
+- Homogeneous appearance
+- Regular borders
+- **Echogenic foci**
+- Uniform hypoechogenicity
+
+*Explanation: High-risk features on EUS include irregular borders, cystic spaces, ulceration, echogenic foci, and internal heterogeneity.*
+
+**46. According to AJCC staging, what mitotic count defines high-grade GIST?**
+
+- >1 per 5mm²
+- >3 per 5mm²
+- **>5 per 5mm²**
+- >10 per 5mm²
+
+*Explanation: High grade is defined as >5 mitoses per 5mm² in AJCC staging.*
+
+**47. What is the most common site of distant metastasis from GIST?**
+
+- Lung
+- Bone
+- **Liver and peritoneum**
+- Brain
+
+*Explanation: GIST may develop distant metastases, particularly to the liver and peritoneum.*
+
+**48. Which GIST subtype is associated with lymph node metastasis?**
+
+- KIT-mutant gastric GIST
+- **SDH-deficient GIST and gene fusion GIST**
+- PDGFRA-mutant GIST only
+- All GISTs equally
+
+*Explanation: GIST rarely metastasizes to lymph nodes, except in patients with SDH-deficient GIST or gene fusion GIST (ETV6-NTRK3 or FGFR1).*
+
+**49. What is the name of the risk stratification system that uses tumor size, mitotic rate, tumor location, and tumor rupture?**
+
+- AJCC staging only
+- Fletcher classification
+- **Modified National Institutes of Health (NIH) criteria**
+- Gold nomogram
+
+*Explanation: The modified NIH criteria proposed by Joensuu uses four variables: tumor size, mitotic rate (per 5mm²), tumor location, and tumor rupture.*
+
+**50. What defines "high risk" according to the modified NIH criteria?**
+
+- Tumor size >2cm only
+- **Tumor rupture, size >10cm, mitotic index >10 per 5mm², or size >5cm with mitotic index >5 per 5mm²**
+- Any gastric location
+- Presence of spindle cell morphology
+
+*Explanation: High risk includes tumor rupture, tumor size >10cm, mitotic index >10 per 5mm², or tumor size >5cm with mitotic index >5 per 5mm².*
+
+**51. Do gastric or non-gastric GISTs generally behave less aggressively?**
+
+- They behave identically
+- **Gastric GISTs**
+- Non-gastric GISTs
+- Location does not affect behavior
+
+*Explanation: Gastric GISTs generally seem to behave less aggressively than tumors that arise in other locations.*
+
+**52. What size defines a "micro-GIST"?**
+
+- <0.5cm
+- **<1cm**
+- 1-2cm
+- 2-3cm
+
+*Explanation: GISTs that are <1cm in size are termed micro-GISTs, while those between 1-2cm are mini-GISTs.*
+
+**53. What percentage of older adults may have a micro-GIST?**
+
+- 5%
+- **Up to 23%**
+- 50%
+- 75%
+
+*Explanation: Up to 23% of older adults will have a micro-GIST.*
+
+**54. What is the management approach for small GISTs (<2cm) in the small intestine?**
+
+- Observation only
+- Annual endoscopic surveillance
+- **Resection in good surgical candidates**
+- Medical therapy only
+
+*Explanation: Any small GIST within the small intestine, colon, or rectum must be resected in good surgical candidates as they have higher mitotic rates than gastric GISTs.*
+
+**55. How should asymptomatic small gastric GISTs without high-risk features be managed?**
+
+- Immediate surgical resection
+- **Annual monitoring endoscopically or radiographically**
+- Neoadjuvant imatinib
+- Radiation therapy
+
+*Explanation: Small gastric GISTs without high-risk features can be monitored annually either endoscopically or radiographically.*
+
+**56. What is the primary treatment for localized GIST?**
+
+- Chemotherapy
+- Radiation therapy
+- **Surgical resection**
+- Targeted therapy alone
+
+*Explanation: Surgical resection is the primary treatment for localized GIST and offers the best chance for curative treatment.*
+
+**57. What is the goal of surgical resection for GIST?**
+
+- R2 resection with debulking only
+- **Complete histologic resection (R0) with maximal organ preservation**
+- Total gastrectomy for all gastric lesions
+- Lymphadenectomy with wide margins
+
+*Explanation: Surgical planning should aim for complete histologic resection (R0) with maximal organ preservation.*
+
+**58. What anatomical feature of GISTs allows for limited resection rather than extensive surgery?**
+
+- Submucosal spread pattern
+- **Exophytic growth without submucosal spread**
+- Infiltrative growth pattern
+- Lymphatic spread requiring node dissection
+
+*Explanation: GISTs grow exophytically without submucosal spread, allowing for wedge resections rather than extensive multiorgan resections.*
+
+**59. Is lymphadenectomy generally indicated in GIST surgery?**
+
+- Yes, always
+- **No, with few exceptions (SDH-deficient and fusion GISTs)**
+- Only for tumors >5cm
+- Only for gastric GISTs
+
+*Explanation: Lymphadenectomy is generally not indicated as GISTs spread hematogenously and do not typically metastasize to lymph nodes, except in SDH-deficient or fusion GISTs.*
+
+**60. What is the significance of microscopically positive margins (R1) after macroscopic total resection of GIST?**
+
+- Always requires re-resection
+- Worsens prognosis significantly
+- **May not confer a worse prognosis compared to R0**
+- Requires immediate chemotherapy
+
+*Explanation: In a review of over 800 patients, there was no difference in recurrence-free survival in those who had R1 versus R0 resections.*
+
+**61. What is the recommended surgical approach for GISTs located at the gastroesophageal junction that are small and endophytic?**
+
+- Total gastrectomy
+- Esophagectomy
+- **Laparo-endoscopic resection**
+- Proximal gastrectomy with esophagectomy
+
+*Explanation: Small endophytic GISTs at the gastroesophageal junction are amenable to laparo-endoscopic resection.*
+
+**62. What is the recommended approach for large GISTs at the gastroesophageal junction?**
+
+- Observation
+- **Total gastrectomy**
+- Wedge resection only
+- Chemotherapy alone
+
+*Explanation: Large GISTs at the gastroesophageal junction typically require total gastrectomy.*
+
+**63. For small GISTs on the lesser curvature of the stomach, what is the appropriate surgery?**
+
+- Total gastrectomy
+- **Wedge or sleeve resection**
+- Distal gastrectomy with Billroth I
+- Esophagogastrectomy
+
+*Explanation: Small GISTs on the lesser curvature can be treated with wedge or sleeve resection.*
+
+**64. What is the treatment for small bowel GISTs?**
+
+- Total colectomy
+- **Segmental resection**
+- Whipple procedure
+- Observation only
+
+*Explanation: Small bowel GISTs are treated with segmental resection.*
+
+**65. For rectal GISTs, what surgical options are available depending on location and size?**
+
+- Only abdominoperineal resection
+- Only transanal excision
+- **Range from radical resection (LAR/APR) to transanal excision**
+- Only local excision
+
+*Explanation: Surgical therapy of rectal GISTs depends on location and size, ranging from radical resection to transanal approaches.*
+
+**66. What is the upper size limit generally recommended for laparoscopic resection of GIST?**
+
+- 2cm
+- 5cm
+- **7-8cm**
+- 15cm
+
+*Explanation: Current guidelines do not generally recommend laparoscopic resection for tumors greater than 7 to 8cm in diameter.*
+
+**67. What is a critical feature of successful laparoscopic resection of GIST?**
+
+- Open conversion if needed
+- **Removal of specimen within a closed system (retrieval bag)**
+- Routine lymphadenectomy
+- Tumor fragmentation for removal
+
+*Explanation: A key feature is removal of the specimen within a closed system, such as a retrieval bag, to avoid tumor spillage or seeding.*
+
+**68. What is the role of neoadjuvant therapy in GIST?**
+
+- To replace surgery completely
+- **To shrink tumors to improve surgical outcomes or allow complete resection**
+- Only for metastatic disease
+- To reduce risk of lymph node metastasis
+
+*Explanation: Neoadjuvant therapy is indicated when shrinkage is necessary to improve surgical outcomes or allow complete resection of difficult tumors.*
+
+**69. What is the typical duration of neoadjuvant imatinib therapy before surgery?**
+
+- 2-4 weeks
+- **6-9 months**
+- 12-18 months
+- Indefinite until progression
+
+*Explanation: Treatment durations of 6 to 9 months tend to be effective, allowing for R0 resection in up to 80% of patients.*
+
+**70. When should neoadjuvant therapy be stopped?**
+
+- After 1 month
+- When tumor disappears completely
+- **When maximal response is achieved or when additional shrinkage will no longer impact operative approach**
+- Only after 2 years
+
+*Explanation: Therapy should be stopped when maximal response is achieved or when additional tumor shrinkage will no longer impact the operative approach or morbidity.*
+
+**71. What was the response rate to imatinib in the landmark 2002 trial for advanced GIST?**
+
+- 10%
+- **53.7% partial response**
+- 90%
+- 100%
+
+*Explanation: In the 2002 trial, 53.7% of patients were found to have a partial response to imatinib with an overall clinical benefit rate of 81%.*
+
+**72. What is the standard dose of imatinib for KIT exon 11 mutant GIST?**
+
+- 200mg
+- **400mg**
+- 600mg
+- 800mg
+
+*Explanation: The standard dose is 400mg for KIT exon 11 mutant GIST.*
+
+**73. What is the recommended dose of imatinib for KIT exon 9 mutant GIST?**
+
+- 400mg
+- **800mg**
+- 200mg
+- 1000mg
+
+*Explanation: KIT exon 9 mutants should receive 800mg of imatinib due to lower sensitivity.*
+
+**74. Which drug is FDA approved as first-line therapy for PDGFRA exon 18 mutant GIST?**
+
+- Imatinib
+- Sunitinib
+- **Avapritinib (Ayvakit)**
+- Regorafenib
+
+*Explanation: Avapritinib is FDA approved as first-line therapy for patients with advanced PDGFRA exon 18 mutant GIST, including D842V.*
+
+**75. What was the objective response rate (ORR) of avapritinib in PDGFRA D842V mutant tumors in the NAVIGATOR trial?**
+
+- 20%
+- 50%
+- **89%**
+- 100%
+
+*Explanation: In patients with PDGFRA D842V mutant tumors, avapritinib demonstrated an ORR of 89%, including an 8% complete response rate.*
+
+**76. What is the established second-line therapy for GIST after imatinib failure?**
+
+- Regorafenib
+- Ripretinib
+- **Sunitinib (Sutent)**
+- Chemotherapy
+
+*Explanation: Sunitinib is the established second-line therapy for GIST after failure of imatinib.*
+
+**77. What is the median progression-free survival with sunitinib versus placebo in imatinib-resistant GIST?**
+
+- 10 weeks vs. 5 weeks
+- **27.3 weeks vs. 6.4 weeks**
+- 52 weeks vs. 26 weeks
+- No difference
+
+*Explanation: Sunitinib provides longer PFS than placebo (median 27.3 vs. 6.4 weeks) in imatinib-resistant GIST.*
+
+**78. What is the third-line TKI of choice for GIST?**
+
+- Imatinib
+- Sunitinib
+- **Regorafenib (Stivarga)**
+- Avapritinib
+
+*Explanation: Regorafenib is the third-line TKI of choice for use in patients with advanced GIST refractory to imatinib and sunitinib.*
+
+**79. What was the median PFS with regorafenib in the GRID trial?**
+
+- 0.9 months
+- **4.8 months**
+- 12 months
+- 24 months
+
+*Explanation: Patients receiving regorafenib had improved median PFS (4.8 vs. 0.9 months) compared to placebo.*
+
+**80. Which TKI is FDA approved for fourth-line treatment of GIST with a dual switch pocket inhibitory mechanism?**
+
+- Imatinib
+- Sunitinib
+- Regorafenib
+- **Ripretinib (Qinlock)**
+
+*Explanation: Ripretinib is FDA approved for treatment of adult patients with advanced GIST who previously received three or more TKIs.*
+
+**81. What is the mechanism of action of ripretinib?**
+
+- Monoclonal antibody
+- **Dual switch pocket inhibitor that blocks kinase activation**
+- Traditional chemotherapy
+- Radiofrequency ablation
+
+*Explanation: Ripretinib has a dual switch pocket inhibitory mechanism of action that blocks the kinase from achieving an active state.*
+
+**82. What was the median PFS with ripretinib in the INVICTUS trial?**
+
+- 1.0 month
+- **6.3 months**
+- 15.1 months
+- 24 months
+
+*Explanation: Ripretinib demonstrated increased median PFS (6.3 vs. 1.0 months) compared with placebo in the INVICTUS trial.*
+
+**83. What is the gold standard duration of adjuvant imatinib for high-risk GIST?**
+
+- 1 year
+- **3 years**
+- 5 years
+- Lifelong for all patients
+
+*Explanation: Currently, the gold standard for adjuvant therapy with imatinib is 3 years for patients deemed at high risk of recurrence.*
+
+**84. Which trial established 3 years as the standard duration for adjuvant imatinib?**
+
+- ACOSOG Z9001
+- **SSGXVIII/AIO trial**
+- PERSIST-5
+- GRID trial
+
+*Explanation: The SSGXVIII/AIO trial demonstrated that 3 years of adjuvant imatinib prolongs recurrence-free survival and overall survival in high-risk patients.*
+
+**85. What was the 10-year survival benefit with 3 years versus 1 year of adjuvant imatinib?**
+
+- 5%
+- **13%**
+- 25%
+- No difference
+
+*Explanation: Long-term follow-up data showed that patients receiving 3 years of adjuvant treatment enjoy a 13% survival benefit after 10 years versus those who received 1 year.*
+
+**86. Which trial evaluated 5 years of adjuvant imatinib therapy?**
+
+- SSGXVIII
+- **PERSIST-5**
+- ACOSOG Z9001
+- INVICTUS
+
+*Explanation: The PERSIST-5 trial followed patients who underwent 5 years of adjuvant imatinib therapy, showing 5-year RFS of 90%.*
+
+**87. What is the current recommendation regarding discontinuation of adjuvant imatinib after 3 years in high-risk patients?**
+
+- Always discontinue after 3 years
+- **Many experts advocate for lifelong therapy unless resistance or intolerance develops**
+- Discontinue immediately
+- Switch to sunitinib
+
+*Explanation: Discontinuation of adjuvant imatinib after 3 years is often associated with high risk of recurrence, so many experts advocate for lifelong therapy in high-risk patients.*
+
+**88. For metastatic GIST, when is debulking surgery most effective?**
+
+- In all patients regardless of disease status
+- Only in patients with progressive disease
+- **In patients who have demonstrated response to TKI therapy**
+- Never indicated
+
+*Explanation: Debulking surgery seems to be most effective for patients who have demonstrated response to TKI therapy over patients with stable or progressive disease.*
+
+**89. What is the rationale for debulking surgery in metastatic GIST?**
+
+- To cure the disease completely
+- **To reduce tumor volume and the probability of developing secondary resistance mutations**
+- To obtain tissue for diagnosis only
+- To remove primary tumor only
+
+*Explanation: The rationale is that reducing total tumor volume may reduce the risk of a single tumor cell developing secondary mutations.*
+
+**90. Which syndrome is characterized by GIST, pulmonary chondroma, and paraganglioma (PGL)?**
+
+- Carney-Stratakis syndrome
+- **Carney triad**
+- NF1 syndrome
+- Familial GIST syndrome
+
+*Explanation: Carney triad consists of GIST, pulmonary chondroma, and PGL and is sporadic, caused by SDHC epimutation.*
+
+**91. What is the inheritance pattern of Carney triad?**
+
+- Autosomal dominant
+- Autosomal recessive
+- **Sporadic (non-hereditary)**
+- X-linked
+
+*Explanation: In contrast to Carney-Stratakis syndrome, Carney triad is sporadic and caused by SDHC promoter hypermethylation.*
+
+**92. What is the median age of diagnosis for GIST patients?**
+
+- 45 years
+- **64 years**
+- 75 years
+- 35 years
+
+*Explanation: The median age of diagnosis for patients with GIST is 64 years of age.*
+
+**93. What percentage of GISTs occur in adolescents and young adults (AYA, ages 13-40)?**
+
+- 1-2%
+- **5-7%**
+- 15-20%
+- 30%
+
+*Explanation: Studies have demonstrated that approximately 5% to 7% of GISTs are in AYA (13- to 40-year-old) patients.*
+
+**94. What is the most common presenting symptom for pediatric and AYA patients with GIST?**
+
+- Abdominal mass
+- **GI bleeding**
+- Obstruction
+- Incidental finding
+
+*Explanation: The most common presenting symptom for pediatric and AYA patients with GIST is GI bleeding.*
+
+**95. Which gene mutation is most common in AYA patients with small bowel GIST?**
+
+- KIT
+- PDGFRA
+- **NF1**
+- BRAF
+
+*Explanation: For small bowel tumors in AYA patients, most will have NF1 mutations.*
+
+**96. Which morphology is more common in SDH-deficient GISTs in AYA patients?**
+
+- Spindeloid only
+- **Epithelioid or mixed morphology**
+- Signet ring
+- Myxoid
+
+*Explanation: SDH-deficient tumors are more often epithelioid or mixed morphology, whereas NF1 mutant GISTs are spindeloid.*
+
+**97. What is the association between surgical management and outcomes in AYA patients with GIST?**
+
+- Nonoperative management is superior
+- **Nonoperative management is associated with twofold increased risk of death**
+- No difference between surgical and nonoperative management
+- Surgery is contraindicated
+
+*Explanation: Nonoperative management in AYA patients is associated with a twofold increased risk of death from GIST.*
+
+**98. For SDH-deficient GISTs in AYA patients, what is the preferred medical treatment?**
+
+- Imatinib
+- **Sunitinib for unresectable or progressive lesions**
+- Regorafenib only
+- Observation never indicated
+
+*Explanation: For SDH-deficient GISTs, treatment with sunitinib is generally reserved for unresectable lesions that are symptomatic or progress during observation.*
+
+**99. What is the significance of tumor rupture in GIST prognosis?**
+
+- No prognostic significance
+- Equivalent to R1 resection
+- **Confers significant risk and is considered high risk regardless of other factors**
+- Only significant if >10cm
+
+*Explanation: Tumor rupture confers significant risk and places the patient in the high-risk category regardless of size or mitotic count.*
+
+**100. According to the modified NIH criteria, what mitotic index cutoff is considered high risk?**
+
+- >1 per 5mm²
+- >3 per 5mm²
+- >5 per 5mm²
+- **>10 per 5mm²**
+
+*Explanation: A mitotic index >10 per 5mm² is considered high risk. Additionally, tumors >5cm with >5 mitoses per 5mm² are also high risk.*
+
+**101. What is the primary cell surface receptor targeted by imatinib in GIST?**
+
+- EGFR
+- HER2
+- **KIT (CD117) and PDGFRA**
+- VEGFR
+
+*Explanation: Imatinib is a selective tyrosine kinase inhibitor targeting KIT and PDGFRA receptor tyrosine kinases.*
+
+**102. What is the mechanism of resistance to imatinib in most patients who progress?**
+
+- Loss of PDGFRA expression
+- **Secondary KIT mutations in exons 13, 14, 17, and 18**
+- Mutation in EGFR
+- Complete loss of KIT protein
+
+*Explanation: Most patients eventually develop resistance due to secondary KIT mutations in exons 13, 14, 17, and 18.*
+
+**103. What is the risk of progression if imatinib is discontinued in patients with metastatic disease who previously responded?**
+
+- Low risk
+- Moderate risk (25%)
+- **High risk regardless of previous response**
+- No risk if disease was stable for 1 year
+
+*Explanation: Discontinuing imatinib in patients with metastatic disease imparts a high risk of progression regardless of the previous response achieved.*
+
+**104. What is the most common side effect of imatinib?**
+
+- Severe myelosuppression
+- Cardiotoxicity
+- **Periorbital edema, ankle edema, nausea, diarrhea, and fatigue**
+- Pulmonary fibrosis
+
+*Explanation: Imatinib is generally well tolerated, with the most common side effects being periorbital edema, ankle edema, nausea, diarrhea, and fatigue.*
+
+**105. What is the objective response rate (ORR) of ripretinib as fourth-line treatment or greater?**
+
+- 0%
+- 4.5%
+- **11.3%**
+- 50%
+
+*Explanation: Ripretinib has an ORR of 11.3%, with median PFS ranging from 5.5 months (fourth-line or greater) to 10.7 months (second-line).*
+
+**106. Which feature on histology might suggest a need for resection in a small gastric GIST?**
+
+- Uniform spindle cells only
+- **High mitotic rate**
+- CD117 negativity
+- Size <1cm alone
+
+*Explanation: High mitotic rate on histopathology may portend more aggressive biology and need for resection in small GISTs.*
+
+**107. What is the appropriate management for a pathologic specimen with microscopically positive margins (R1) after macroscopic total resection?**
+
+- Immediate re-resection always
+- **Watchful waiting and/or systemic therapy over re-resection**
+- Radiation therapy
+- No further treatment needed
+
+*Explanation: Optimal management for R1 margins would favor watchful waiting and/or systemic therapy over re-resection, individualized per patient.*
+
+**108. What is the primary reason NGS is recommended prior to initiating neoadjuvant therapy?**
+
+- To confirm CD117 positivity
+- **To ensure the tumor does not possess a resistant mutation (e.g., PDGFRA D842V)**
+- To determine tumor size accurately
+- To identify patients for chemotherapy
+
+*Explanation: Mutational profiling ensures the tumor is responsive to medical therapy and does not possess a resistant mutation requiring different therapy (e.g., avapritinib for D842V).*
+
+**109. In the differential diagnosis of GIST, which benign tumor arises from fat cells?**
+
+- Leiomyoma
+- Schwannoma
+- **Lipoma**
+- Hemangioma
+
+*Explanation: Lipomas are benign fat cell tumors that may present as submucosal lesions similar to GIST.*
+
+**110. What is the name of the myeloid progenitor cell antigen positive in many GISTs but not in schwannomas or leiomyomas?**
+
+- CD117
+- **CD34**
+- DOG-1
+- S100
+
+*Explanation: In the early 1990s it was found that the majority of GISTs were positive for CD34, which is not typically seen in schwannomas or leiomyomas.*
+
+**111. What is the term for GISTs found outside the GI tract (mesentery, pelvis, pancreas, liver, omentum)?**
+
+- Metastatic GIST
+- **Extraintestinal GIST**
+- Primary extragastrointestinal sarcoma
+- Wild-type GIST
+
+*Explanation: Rarely, GISTs are found outside of the GI tract and are described as extraintestinal GIST.*
+
+**112. Which of the following is a malignant tumor in the differential diagnosis of GIST?**
+
+- Lipoma
+- Leiomyoma
+- **Leiomyosarcoma**
+- Hemangioma
+
+*Explanation: Malignant tumors in the differential include leiomyosarcoma, malignant peripheral nerve sheath tumor (MPNST), and other sarcomas.*
+
+**113. What is the typical progression-free survival (PFS) comparison between partial and total gastrectomy for gastric GIST?**
+
+- Total gastrectomy is superior
+- **Partial gastrectomy confers the same PFS as total gastrectomy**
+- Partial gastrectomy is inferior
+- No data available
+
+*Explanation: Partial gastrectomy confers the same progression-free survival as total gastrectomy but spares perioperative and postoperative morbidity.*
+
+**114. What is the role of PET scans in GIST management?**
+
+- Required for all staging
+- **Useful in early determination of response to systemic therapy**
+- Replacement for biopsy
+- Screening tool for general population
+
+*Explanation: PET/CT scans were shown to be useful in the early determination of the response of GISTs to systemic therapy.*
+
+**115. What is the significance of "epimutation" in SDHC-related GIST?**
+
+- Point mutation in coding sequence
+- Deletion of the gene
+- **DNA hypermethylation and epigenetic silencing of the SDHC promoter**
+- Gene amplification
+
+*Explanation: Carney triad involves DNA hypermethylation and subsequent epigenetic silencing of the SDHC promoter (epimutation), not a DNA sequence mutation.*
+
+**116. Which fusion gene has been identified in some "wild-type" GISTs?**
+
+- BCR-ABL
+- **ETV6-NTRK3**
+- ALK-EML4
+- TMPRSS2-ERG
+
+*Explanation: GISTs have been found to be caused by gene fusions in ETV6-NTRK3 and FGFR1 in some cases.*
+
+**117. What is the primary treatment for metastatic GIST with imatinib-sensitive mutations?**
+
+- Surgery alone
+- Chemotherapy
+- **Imatinib continued until progression**
+- Interferon therapy
+
+*Explanation: In patients with metastatic disease with an imatinib-sensitive driver mutation, imatinib should be continued until progression is documented.*
+
+**118. What is the name of the nomogram that predicts recurrence-free survival using tumor size, location, and mitotic index?**
+
+- Fletcher nomogram
+- Joensuu calculator
+- **Gold nomogram**
+- AFIP score
+
+*Explanation: The Gold nomogram was proposed in 2009 using tumor size, primary tumor location, and mitotic index for prediction of recurrence-free survival.*
+
+**119. What is the AJCC staging criterion for "high grade" in GIST?**
+
+- Poor differentiation
+- >5 mitoses per 5mm²
+- Presence of necrosis
+- **>5 mitoses per 5mm²**
+
+*Explanation: Current AJCC staging includes grade where high grade is >5 mitoses per 5mm².*
+
+**120. Why are separate stage groupings used for gastric versus nongastric GISTs in AJCC staging?**
+
+- Gastric GISTs are always benign
+- **Reflecting the less aggressive behavior of gastric GISTs**
+- Nongastric GISTs are always metastatic
+- Gastric location indicates chemotherapy resistance
+
+*Explanation: Separate stage groupings are used for gastric and nongastric lesions, reflecting the less aggressive behavior of gastric GISTs.*
+
+**121. What is the significance of the INVICTUS trial?**
+
+- Established imatinib as first-line therapy
+- Compared 1 vs 3 years of adjuvant therapy
+- **Demonstrated efficacy of ripretinib in advanced GIST after multiple TKIs**
+- Proved benefit of neoadjuvant radiation
+
+*Explanation: The INVICTUS trial evaluated ripretinib in patients with GIST who had progressed on prior therapies of imatinib, sunitinib, or regorafenib.*
+
+**122. What is the concern with percutaneous biopsy of GIST?**
+
+- High mortality
+- **Risk of needle tract seeding (though shown to be low)**
+- Always contraindicated
+- No diagnostic yield
+
+*Explanation: Percutaneous biopsies have been shown to have a safe approach with a low local risk of needle tract seeding, contrary to previous concerns.*
+
+**123. What is the primary reason small GISTs (<2cm) in the rectum require resection?**
+
+- They are always malignant
+- Higher risk of bleeding only
+- **Higher mitotic rates and worse prognoses than small gastric GISTs**
+- Easier surgical access
+
+*Explanation: Small rectal GISTs must be resected as they tend to have higher mitotic rates and worse prognoses than small gastric GISTs.*
+
+**124. What is the benefit of laparoscopic resection for GIST compared to open surgery?**
+
+- Improved oncologic margins
+- **Decreased blood loss and shorter hospital stays**
+- Lower recurrence rates
+- No difference in outcomes
+
+*Explanation: Studies have shown that laparoscopic resection of GIST is associated with decreased blood loss and shorter hospital stays when compared with open surgery.*
+
+**125. Which risk category in the modified NIH criteria includes tumors 5.1-10.0cm with ≤5 mitoses per 50 HPFs in gastric location?**
+
+- Very low risk
+- Low risk
+- **Intermediate risk**
+- High risk
+
+*Explanation: According to the table, gastric GISTs 5.1-10.0cm with ≤5 mitoses per 50 HPFs are classified as intermediate risk.*
+
+**126. What defines a "mini-GIST"?**
+
+- <0.5cm
+- <1cm
+- **Between 1 and 2cm in size**
+- Between 2 and 3cm
+
+*Explanation: GISTs between 1 and 2cm in size are termed mini-GISTs, while those <1cm are micro-GISTs.*
+
+**127. Which trial showed that adjuvant imatinib for >3cm resected GIST increased recurrence-free survival but not overall survival?**
+
+- SSGXVIII/AIO
+- **ACOSOG Z9001**
+- PERSIST-5
+- GRID
+
+*Explanation: The ACOSOG Z9001 trial showed that adjuvant imatinib for patients with resected GIST >3cm could lead to increases in RFS but no improvement in OS.*
+
+**128. What is the current status of the SSG XII trial?**
+
+- Completed showing 5-year superiority
+- **Currently underway to compare 3 vs 5 years of adjuvant therapy**
+- Stopped early due to toxicity
+- Not yet recruiting
+
+*Explanation: The SSG XII trial (NCT02413736) is currently underway to hopefully answer if 5 years of adjuvant therapy is superior to 3 years.*
+
+**129. Which TKI targets VEGFR1, VEGFR2, PDGFRA, PDGFRB, and KIT as its mechanism of action?**
+
+- Imatinib
+- **Sunitinib**
+- Avapritinib
+- Ripretinib
+
+*Explanation: Sunitinib has both antitumor and antiangiogenic activity by targeting multiple receptors including VEGFR1, VEGFR2, PDGFRA, PDGFRB, and KIT.*
+
+**130. What is the primary target of regorafenib?**
+
+- KIT only
+- **Multiple targets including angiogenic (VEGFR1-3), stromal (PDGFRB, FGFR), and oncogenic (KIT, RET, RAF) RTKs**
+- PDGFRA only
+- BRAF only
+
+*Explanation: Regorafenib has activity against multiple targets, including angiogenic, stromal, and oncogenic receptor tyrosine kinases.*
+
+**131. What percentage of patients with PDGFRA D842V mutant tumors had a complete response to avapritinib in the NAVIGATOR trial?**
+
+- 0%
+- **8%**
+- 50%
+- 100%
+
+*Explanation: In patients with PDGFRA D842V mutant tumors, avapritinib demonstrated an 8% complete response rate and an 82% partial response rate.*
+
+**132. What is the typical management approach for metastatic GIST with progressive disease on TKI therapy regarding debulking surgery?**
+
+- Always perform surgery
+- **Not associated with improved disease control**
+- Surgery is curative
+- Immediate re-resection of primary
+
+*Explanation: Debulking surgery is not associated with improved disease control when performed in patients who have progressive disease.*
+
+**133. Which syndrome involves germline mutations in KIT or PDGFRA?**
+
+- NF1
+- Carney triad
+- **Familial GIST syndrome**
+- Carney-Stratakis syndrome
+
+*Explanation: Familial GIST syndrome involves germline KIT or PDGFRA mutations.*
+
+**134. What is the relationship between tumor size and malignant potential in GIST?**
+
+- Only tumors >10cm can metastasize
+- **Even small GISTs (<2cm) have some potential to metastasize**
+- Size is not a prognostic factor
+- Only gastric GISTs can metastasize
+
+*Explanation: All GISTs, even small ones (<2cm), have some potential to metastasize and therefore should not be considered benign entities.*
+
+**135. What is the significance of the AFIP classification system proposed in 2006?**
+
+- First to describe GIST
+- **Noted that anatomic location is important for prognostication and standardized mitotic counting**
+- Established imatinib as treatment
+- Discovered KIT mutations
+
+*Explanation: The AFIP classification system proposed by Miettinen et al. noted that anatomic location is important for prognostication and standardized the total area for counting mitotic rate.*
+
+**136. What is the treatment approach for SDH-deficient GISTs that are symptomatic or progressive?**
+
+- Imatinib first-line
+- Observation only never treating
+- **Sunitinib generally reserved for unresectable symptomatic or progressive lesions**
+- Immediate total gastrectomy
+
+*Explanation: For SDH-deficient GISTs, treatment with sunitinib is generally reserved for unresectable lesions that are symptomatic or progress during observation.*
+
+**137. Which of the following is TRUE regarding the genomic landscape of GIST?**
+
+- All GISTs have KIT mutations
+- **GIST is genetically diverse with mutations in KIT, PDGFRA, SDH, NF1, BRAF, and fusions**
+- Only one mutation type exists
+- Molecular profiling is not necessary
+
+*Explanation: The current genomic landscape of GIST is complex, with mutations in KIT, PDGFRA, SDH, NF1, BRAF, ETV6-NTRK3, FGFR1, and others.*
+
+**138. What is the role of EUS with fine-needle aspiration versus core needle biopsy for small GISTs?**
+
+- FNA is preferred over core needle
+- **Core needle biopsy is preferable to fine-needle aspirate**
+- Neither is effective
+- Only FNA should be used
+
+*Explanation: EUS with core needle biopsy is preferable to fine-needle aspirate for diagnosing small GISTs.*
+
+**139. What is the typical duration of adjuvant therapy studied in the PERSIST-5 trial?**
+
+- 1 year
+- 3 years
+- **5 years**
+- 10 years
+
+*Explanation: The PERSIST-5 trial followed patients who underwent 5 years of adjuvant imatinib therapy.*
+
+**140. What is the 5-year recurrence-free survival reported in the PERSIST-5 trial?**
+
+- 50%
+- 70%
+- **90%**
+- 100%
+
+*Explanation: The PERSIST-5 trial boasted a 5-year recurrence-free survival of 90% and overall survival of 95%.*
+
+**141. Which factor was added to the modified NIH criteria in 2008 that was not in the original 2002 Fletcher criteria?**
+
+- Mitotic count
+- Tumor size
+- **Tumor rupture**
+- Primary tumor site
+
+*Explanation: In 2008, Joensuu noted that tumor rupture conferred significant risk and added it to create the modified NIH criteria.*
+
+**142. What is the recommended approach for patients with R1 resection margins after GIST surgery?**
+
+- Immediate re-resection in all cases
+- Radiation therapy
+- **Watchful waiting and/or systemic therapy individualized to the patient**
+- Discontinue all treatment
+
+*Explanation: If a pathologic specimen is found to have microscopically positive margins, optimal management would favor watchful waiting and/or systemic therapy over re-resection, individualized per patient.*
+
+**143. Which of the following describes the correct mitotic index threshold for intermediate risk gastric GISTs measuring 2.1-5.0cm?**
+
+- ≤5 per 50 HPFs
+- **>5 per 50 HPFs**
+- >10 per 50 HPFs
+- Any mitotic rate
+
+*Explanation: According to the modified NIH criteria, gastric GISTs 2.1-5.0cm with >5 mitoses per 50 HPFs are classified as intermediate risk.*
+
+**144. What is the significance of chest imaging in GIST staging?**
+
+- Required for all patients
+- **Should be considered for staging patients diagnosed with GIST**
+- Only for pediatric patients
+- Never indicated
+
+*Explanation: Chest imaging should be considered for staging patients diagnosed with GIST, though most metastases occur in the liver and peritoneum.*
+
+**145. What is the specific mechanism by which imatinib resistance develops in exon 9 KIT mutations compared to exon 11?**
+
+- Exon 9 mutations have primary resistance
+- **Exon 9 mutations require higher doses (800mg) due to lower sensitivity**
+- Exon 9 mutations cannot be treated with TKIs
+- No difference in dosing required
+
+*Explanation: KIT exon 9 mutations have lower sensitivity to imatinib and require 800mg dosing rather than the standard 400mg used for exon 11 mutations.*
+
+**146. Which of the following best describes the histologic appearance of GISTs under electron microscopy that distinguishes them from true smooth muscle tumors?**
+
+- Presence of desmin
+- **Lack of desmin and ultrastructural features typical of smooth muscle or Schwann cells**
+- Abundant collagen fibers
+- Nuclear pleomorphism only
+
+*Explanation: Initial distinction of GIST was based on lack of desmin and lack of ultrastructural features typical of Schwann cells or smooth muscle.*
+
+**147. What is the significance of the S100 protein in early GIST classification?**
+
+- GISTs are negative
+- **Initial studies showed positivity for S100 protein distinguishing them from smooth muscle**
+- It is the primary diagnostic marker
+- Indicates poor prognosis
+
+*Explanation: Initial distinction was based on positivity for the S100 protein and lack of desmin, suggesting nerve sheath origin rather than smooth muscle.*
+
+**148. Which of the following statements regarding BRAF mutations in GIST is correct?**
+
+- Found in 50% of GISTs
+- **Activating mutations in BRAF V600E have been found since 2008 in a subset of GISTs**
+- Always coexist with KIT mutations
+- Indicate sensitivity to imatinib
+
+*Explanation: Since 2008, GISTs have been found to be caused by activating mutations in BRAF V600E, representing a distinct molecular subset.*
+
+**149. What is the proper sequencing strategy for patients with GIST in whom systemic therapy is being considered?**
+
+- Single gene testing for KIT only
+- **Next-generation sequencing panels to assess somatic and germline mutations**
+- No testing needed
+- PDGFRA testing only
+
+*Explanation: Next-generation sequencing panels allow for determination of both somatic and germline mutations and are recommended whenever systemic therapy is considered.*
+
+**150. Which of the following represents the best summary of current GIST management philosophy?**
+
+- Surgery only for all patients
+- Medical therapy only for advanced disease
+- **Multidisciplinary approach with surgery as mainstay, genetic testing for tailoring therapy, and targeted agents for advanced disease**
+- Observation for all tumors regardless of size
+
+*Explanation: GIST requires multimodal management with surgical resection as the mainstay, genetic testing to tailor therapies, and targeted agents for advanced tumors.*

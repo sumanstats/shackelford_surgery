@@ -1,0 +1,1469 @@
+# 183-Principles of Management of Recurrent and Metastatic Colorectal Cancer
+
+Generated with Claude. 
+
+## Surveillance Strategy After Resection
+
+1. Colorectal cancer (CRC) tends to metastasize most commonly to which organ?
+
+* Lung
+* **Liver**
+* Brain
+* Bone
+
+*Explanation: CRC tends to metastasize most commonly to the liver. Recurrent disease from colon cancer predominantly appears early in the liver, whereas recurrences from rectal cancer manifest later in the lungs.*
+
+---
+
+2. What percentage of recurrent CRC disease occurs within the first 2 years after curative resection?
+
+* 10%–20%
+* 20%–30%
+* **30%–50%**
+* 60%–70%
+
+*Explanation: Approximately 30% to 50% of recurrent disease occurs within the first 2 years and 80% within the first 3 years after curative resection.*
+
+---
+
+3. What percentage of recurrent CRC disease occurs within the first 3 years after curative resection?
+
+* 50%
+* 60%
+* 70%
+* **80%**
+
+*Explanation: Approximately 30% to 50% of recurrent CRC occurs within the first 2 years and 80% within the first 3 years after curative resection.*
+
+---
+
+4. According to NCCN surveillance guidelines, when should a colonoscopy first be performed for patients with stage I CRC after surgery?
+
+* 6 months after surgery
+* **1 year after surgery**
+* 2 years after surgery
+* 3 years after surgery
+
+*Explanation: The NCCN surveillance guidelines for patients with stage I CRC recommend a colonoscopy 1 year after surgery, then a repeat colonoscopy at 3 years, with subsequent follow-up determined by endoscopic findings.*
+
+---
+
+5. Which of the following is NOT listed as a high-risk feature warranting more intensive surveillance after CRC resection?
+
+* T4 stage
+* N2 stage
+* Perineural invasion
+* **Well-differentiated histology**
+
+*Explanation: More intensive surveillance is advised for patients considered to be at high risk of recurrence, such as T4 and/or N2 stage, perineural or lymphovascular invasion, or poorly differentiated histology. Well-differentiated histology is not a high-risk feature.*
+
+---
+
+6. According to a meta-analysis, circulating tumor DNA (ctDNA) detected CRC recurrence on average how much earlier than conventional methods?
+
+* 3.0 months earlier
+* 4.5 months earlier
+* 5.6 months earlier
+* **7.1 months earlier**
+
+*Explanation: A systematic review and meta-analysis found that the mean lead time of detection of recurrence by ctDNA was 7.1 months earlier than by conventional methods.*
+
+---
+
+7. What was the pooled hazard ratio (HR) for recurrence-free survival (RFS) identified by postoperative ctDNA surveillance in CRC patients?
+
+* 3.14
+* 5.22
+* **7.27**
+* 9.45
+
+*Explanation: Postoperative ctDNA surveillance results were found to be a significant predictor of recurrence-free survival (RFS) in CRC patients, with a pooled hazard ratio (HR) of 7.27.*
+
+---
+
+8. A serial ctDNA study in postoperative surveillance of nonmetastatic CRC after radical resection found that ctDNA detected disease recurrence by a median of how many months earlier than conventional surveillance?
+
+* 1 month
+* 2 months
+* **3 months**
+* 6 months
+
+*Explanation: ctDNA levels were found to detect disease recurrence by a median of 3 months earlier than conventional radiological or clinical surveillance methods.*
+
+---
+
+9. According to NCCN guidelines, for Stage II–IV CRC, how frequently should CT scans of the chest, abdomen, and pelvis be performed during the first 5 years for Stage II and III patients?
+
+* Every 3–6 months
+* **Every 6–12 months**
+* Every 12–18 months
+* Annually only
+
+*Explanation: According to NCCN surveillance guidelines (Table 183.1), CT scans of the chest, abdomen, and pelvis should be performed every 6–12 months for the first 5 years for Stage II and III colorectal cancer.*
+
+---
+
+10. For resected Stage IV colorectal cancer, how frequently should CT scans be performed in the first 2 years according to NCCN guidelines?
+
+* Every 6–12 months
+* Every 6 months
+* **Every 3–6 months**
+* Every 3 months
+
+*Explanation: According to NCCN surveillance guidelines (Table 183.1), for resected stage IV colorectal cancer, CT scans should be performed every 3–6 months for the first 2 years.*
+
+---
+
+11. How frequently should CEA testing be performed in the first 2 years of surveillance after CRC resection per NCCN guidelines?
+
+* Every month
+* Every 2–3 months
+* **Every 3–6 months**
+* Every 6–12 months
+
+*Explanation: Per NCCN guidelines (Table 183.1), carcinoembryonic antigen (CEA) testing should be performed every 3–6 months for the first 2 years, then every 6 months for a total of 5 years.*
+
+---
+
+## Diagnosis and Staging
+
+12. Which imaging modality serves as the initial imaging modality for most patients suspected to have recurrent CRC?
+
+* MRI
+* PET scan
+* **CT scan**
+* Ultrasound
+
+*Explanation: A CT scan serves as the initial imaging modality for most patients suspected to have a recurrent CRC to determine the location of the tumor and the relation of the tumor with surrounding structures, and in the detection of metastases.*
+
+---
+
+13. Which imaging modality is particularly effective in differentiating between benign liver lesions and metastases and is preferred for rectal cancer assessment?
+
+* CT scan
+* PET-CT
+* Ultrasound
+* **MRI**
+
+*Explanation: MRI offers superior soft tissue contrast compared to CT, enabling better characterization of liver lesions. It is particularly effective in differentiating between benign liver lesions and metastases, and is the preferred modality for rectal cancer to assess the relationship of the tumor to the mesorectal fascia.*
+
+---
+
+14. When is MRI primarily used for liver metastasis staging?
+
+* As the first-line imaging modality for all patients
+* Only after biopsy confirmation
+* **When lesions identified on CT are equivocal or before planned liver-directed therapies**
+* When PET-CT is unavailable
+
+*Explanation: MRI is primarily used for liver metastasis staging when lesions identified on CT are equivocal or before planned liver-directed therapies, as it offers superior soft tissue contrast.*
+
+---
+
+15. Which imaging modality is particularly useful when conventional imaging fails to elucidate the nature of suspicious lesions in recurrent CRC?
+
+* CT alone
+* MRI alone
+* Ultrasound
+* **PET scan (often combined with CT)**
+
+*Explanation: PET scan, often combined with CT (PET-CT), is particularly useful in cases where conventional imaging fails to elucidate the nature of suspicious lesions. It measures metabolic activity and can detect metastases in locations that might be missed by CT or MRI.*
+
+---
+
+16. A significant limitation of PET scans in CRC surveillance is:
+
+* Poor sensitivity for liver metastases
+* **False positives, especially when inflammatory conditions are present**
+* Inability to detect lung metastases
+* High radiation exposure compared to MRI
+
+*Explanation: PET scans can sometimes yield false positives, especially when inflammatory conditions are present. PET is also less available and more costly than CT or MRI.*
+
+---
+
+17. What is the primary goal of colonoscopic surveillance following CRC resection?
+
+* To detect local anastomotic recurrence
+* To monitor CEA levels
+* **To detect and excise metachronous polyps**
+* To assess chemotherapy response
+
+*Explanation: The main goal of surveillance through colonoscopies is to detect and excise metachronous polyps, given that individuals with a history of CRC are more susceptible to developing subsequent cancers, especially within the initial 2 years following surgery.*
+
+---
+
+## Risk Factors for Recurrence
+
+18. Which histologic subtype of CRC may behave differently from the more common adenocarcinomas?
+
+* Tubular adenocarcinoma
+* **Mucinous and signet-ring cell adenocarcinoma**
+* Tubulovillous adenocarcinoma
+* Sessile serrated adenocarcinoma
+
+*Explanation: Mucinous and signet-ring cell adenocarcinoma are subtypes of CRC that may behave differently from the more common adenocarcinomas and may have distinct patterns of spread or responsiveness to treatments.*
+
+---
+
+19. Which of the following is an unfavorable histologic feature portending higher risk of recurrence in CRC?
+
+* Low tumor budding
+* More than 12 lymph nodes examined
+* **Perineural invasion**
+* Well-differentiated (grade 1) histology
+
+*Explanation: Unfavorable histologic features with higher risk of recurrence include grade 3 or 4 histology, angiolymphatic invasion, perineural invasion, perforated tumor, positive margin, high tumor budding, fewer than 12 lymph nodes examined, and higher T and N stage.*
+
+---
+
+20. What minimum number of lymph nodes examined is considered a high-risk feature when not met in CRC resection?
+
+* 6 lymph nodes
+* 8 lymph nodes
+* 10 lymph nodes
+* **12 lymph nodes**
+
+*Explanation: Fewer than 12 lymph nodes examined is among the unfavorable histologic features found to portend a higher risk of recurrence in colorectal cancer.*
+
+---
+
+21. Which genetic mutation in CRC may predict lack of benefit from anti-EGFR therapies?
+
+* BRAF mutation
+* MSI-H
+* **KRAS mutation**
+* NRAS wild-type
+
+*Explanation: Patients with a KRAS mutation might not benefit from certain anti–epidermal growth factor receptor (EGFR) therapies. Identifying KRAS mutations can guide targeted therapy choices.*
+
+---
+
+22. In what proportion of sporadic CRC cases does deficient mismatch repair (dMMR)/MSI-H occur?
+
+* Around 5%
+* **Around 15%**
+* Around 25%
+* Around 35%
+
+*Explanation: In cases where there is a deficiency in DNA mismatch repair (dMMR/MSI-H) proteins, which happens in around 15% of sporadic cases, it is possible to predict that chemotherapy based on fluoropyrimidine may not be as effective.*
+
+---
+
+23. The presence of MSI-H (microsatellite instability-high) in CRC is particularly important because it:
+
+* Predicts benefit from anti-EGFR therapy
+* **Influences both prognosis and responsiveness to immunotherapy**
+* Indicates resistance to all systemic therapies
+* Is found in the majority of sporadic CRC cases
+
+*Explanation: The presence of microsatellite instability (MSI-H) can influence both prognosis and responsiveness to immunotherapy. In dMMR/MSI-H cases, fluoropyrimidine-based chemotherapy may also be less effective.*
+
+---
+
+24. How many genes does the Oncotype DX assay measure for recurrence risk assessment in stage II/III colon cancer?
+
+* 5 genes
+* **7 genes**
+* 12 genes
+* 18 genes
+
+*Explanation: Oncotype DX measures the expression of seven genes associated with recurrence risk in patients with stage II or III colon cancer.*
+
+---
+
+25. How many genes does the ColoPrint assay use to assess recurrence risk in colon cancer?
+
+* 7 genes
+* 12 genes
+* **18 genes**
+* 634 genes
+
+*Explanation: While Oncotype DX measures 7 genes, ColoPrint uses 18 genes to help determine the risk of recurrence for patients with stage II or III colon cancer.*
+
+---
+
+26. The ColDx assay for colon cancer recurrence risk uses which approach?
+
+* 7-gene expression panel
+* 18-gene expression panel
+* **Microarray-based approach with 634 probes**
+* Whole-genome sequencing
+
+*Explanation: ColDx utilizes a microarray-based approach with 634 probes to help determine the risk of recurrence for patients with stage II or III colon cancer.*
+
+---
+
+27. Which statement best describes genetic assays like Oncotype DX, ColoPrint, and ColDx?
+
+* They are predictive of benefit from adjuvant therapy
+* They replace traditional TNM staging
+* **They are prognostic for recurrence and OS but not predictive of adjuvant therapy benefit**
+* They guide EGFR therapy selection
+
+*Explanation: These assays are prognostic for recurrence and overall survival (OS) but are generally not predictive of the benefit of adjuvant therapy. They offer additional value in risk assessment independently of traditional risk factors.*
+
+---
+
+## Multidisciplinary Team Approach
+
+28. Which of the following specialists is listed as OBLIGATORILY included in an ideal MDT for CRC?
+
+* Palliative care physician
+* **Pathologist**
+* Nutritionist
+* Psychiatrist
+
+*Explanation: An ideal MDT for CRC should include colorectal surgeons, hepatobiliary surgeons, a thoracic surgeon as necessary, with the obligatory inclusion of a pathologist, a diagnostic radiologist, an interventional radiologist, as well as radiation and medical oncologists.*
+
+---
+
+29. In one study, repeated MDT assessment of metastatic CRC patients generated what resection rate?
+
+* 15%
+* 25%
+* **37%**
+* 50%
+
+*Explanation: In one study, repeated MDT assessment patients generated high resectability (41%) and resection rates (37%) with improved survival.*
+
+---
+
+30. Which performance status scale can be used to gauge a patient's overall health and ability to tolerate treatments for recurrent CRC?
+
+* WHO performance scale
+* Barthel Index
+* **Eastern Cooperative Oncology Group (ECOG) performance status**
+* Functional Assessment of Cancer Therapy (FACT)
+
+*Explanation: The Eastern Cooperative Oncology Group (ECOG) performance status or the Karnofsky Performance Status scale can be used to gauge a patient's overall health and ability to tolerate treatments.*
+
+---
+
+## Local Recurrence of Colon Cancer
+
+31. Local recurrences of colon cancer can be broadly categorized into how many types?
+
+* Two types
+* Three types
+* **Four types**
+* Five types
+
+*Explanation: Local recurrences of colon cancer can be broadly categorized into four types: anastomotic, mesenteric/nodal, retroperitoneal, and abdominal wall.*
+
+---
+
+32. For operations involving pelvic recurrence of colon cancer, what may be used to facilitate identification and preservation of the ureters?
+
+* CT-guided marking
+* Fluorescence guidance
+* **Ureteral stents**
+* Intraoperative ultrasound
+
+*Explanation: For operations involving pelvic recurrence, ureteral stents may be used to facilitate the identification and preservation of the ureters during surgical dissection.*
+
+---
+
+33. What is the primary purpose of diagnostic laparoscopy before resection for recurrent colon cancer?
+
+* To perform the definitive resection
+* To deliver intraoperative radiation
+* **To evaluate for occult metastasis prior to resection**
+* To stage regional lymph nodes
+
+*Explanation: Diagnostic laparoscopy is very useful for evaluating occult metastasis prior to resection. Any lesions suspicious for metastasis are biopsied and analyzed by frozen section.*
+
+---
+
+34. Why is separating adhesions between a tumor mass and adjacent organs NOT recommended during surgery for recurrent colon cancer?
+
+* It is technically too difficult
+* It increases operative time
+* It causes excessive bleeding
+* **Disrupting adhesions could worsen prognosis as 34%–84% of adhesions are malignant**
+
+*Explanation: Separating the adherent organs and tissues is not recommended as disrupting the adhesions could worsen prognosis, given that 34% to 84% of these adhesions are malignant.*
+
+---
+
+35. What is the ultimate surgical goal in any intervention for recurrent colon cancer?
+
+* R1 resection with minimal morbidity
+* Palliative debulking
+* **R0 resection (complete resection with negative margins)**
+* Laparoscopic resection regardless of margin status
+
+*Explanation: Achieving an R0 resection remains the ultimate goal of any surgical intervention for recurrent colon cancer. A study has shown that an R0 resection can result in a 5-year survival rate of up to 58%.*
+
+---
+
+36. What 5-year survival rate can be achieved with R0 resection for locally recurrent colon cancer according to the cited study?
+
+* 30%
+* 40%
+* 50%
+* **Up to 58%**
+
+*Explanation: A study has shown that an R0 resection can result in a 5-year survival rate of up to 58%, whereas the survival rates dramatically decrease for R1 and R2 resections.*
+
+---
+
+37. For recurrences involving abdominal wall in colon cancer, what complex surgical technique may be required?
+
+* Omental flap only
+* Simple primary closure
+* **Flap reconstruction or mesh grafting**
+* Laparoscopic patch repair
+
+*Explanation: When recurrent cancer involves the abdominal wall, resection of the involved area with en bloc resection of any adherent viscera is done. In cases involving a significant amount of loss of the abdominal wall, a complex surgical repair may be required, using techniques like flap reconstruction or mesh grafting to close the defect.*
+
+---
+
+38. For retroperitoneal and intraperitoneal recurrences of colon cancer, what is the most crucial prognostic factor for long-term survival?
+
+* Number of metastatic deposits
+* Primary tumor location
+* Preoperative CEA level
+* **R0 resection (complete resection)**
+
+*Explanation: Retroperitoneal and intraperitoneal recurrences may require multivisceral resection to achieve R0 resection, which is the most crucial prognostic factor for long-term survival.*
+
+---
+
+## Local Recurrence of Rectal Cancer
+
+39. What has been the improvement in the incidence of local recurrence of rectal cancer from historical rates to more recent rates?
+
+* From 50% to 20%
+* From 40% to 15%
+* **From exceeding 30% to less than 10%**
+* From 20% to 5%
+
+*Explanation: The incidence of local recurrence of rectal cancer has improved from historical rates exceeding 30% to more recent less than 10%, achieved with improved surgical techniques, specifically the wide adoption of total mesorectal excision (TME) and the judicious use of preoperative radiation therapy.*
+
+---
+
+40. Approximately what percentage of rectal cancer recurrences manifest within the first 5 years?
+
+* 70%
+* 80%
+* **90%**
+* 95%
+
+*Explanation: Approximately 90% of recurrences manifest within the first 5 years; however, after neoadjuvant chemoradiation treatment, around 30% of local recurrences can be observed more than 5 years later.*
+
+---
+
+41. After neoadjuvant chemoradiation treatment for rectal cancer, what percentage of local recurrences can occur more than 5 years later?
+
+* 10%
+* 20%
+* **30%**
+* 40%
+
+*Explanation: After neoadjuvant chemoradiation treatment, around 30% of local recurrences of rectal cancer can be observed more than 5 years later, which is an important consideration for long-term surveillance.*
+
+---
+
+42. Which MRI sequence is particularly useful in distinguishing recurrent rectal tumors from posttreatment fibrosis or scar tissue?
+
+* T1-weighted imaging
+* T2-weighted imaging
+* Contrast-enhanced sequences
+* **Diffusion-weighted imaging (DWI)**
+
+*Explanation: MRI's diffusion-weighted imaging (DWI) sequences can help distinguish recurrent tumors from posttreatment fibrosis or scar tissue in rectal cancer surveillance.*
+
+---
+
+43. Which radiation therapy modality is the preferred method for re-irradiating patients who have experienced recurrence after initial treatment?
+
+* Conventional external beam radiotherapy
+* Brachytherapy
+* Proton beam therapy
+* **Intensity-modulated radiation therapy (IMRT)**
+
+*Explanation: IMRT is the preferred method for re-irradiating patients who have experienced a recurrence after initial treatment, as well as for those undergoing postoperative treatment due to increased acute or delayed toxicity.*
+
+---
+
+44. Which radiation modality is particularly relevant in recurrent rectal cancer due to its ability to deliver high radiation doses directly to the tumor while minimizing exposure to adjacent healthy tissues?
+
+* IMRT
+* SBRT
+* **Brachytherapy**
+* IORT
+
+*Explanation: Brachytherapy stands out for its ability to deliver high radiation doses directly to the tumor, thereby minimizing exposure to adjacent healthy tissues. It becomes especially relevant in recurrent rectal cancer given the intricate anatomy of the pelvis.*
+
+---
+
+45. What unique advantage does intraoperative radiation therapy (IORT) offer in recurrent rectal cancer management?
+
+* It avoids the need for surgery
+* It replaces chemotherapy
+* **Critical structures can be physically moved or shielded, allowing high-dose radiation directly to the tumor bed**
+* It can be delivered on an outpatient basis
+
+*Explanation: During IORT, critical structures can be physically moved or shielded, allowing for a high dose of radiation to be administered directly to the tumor bed or high-risk areas. IORT has been associated with improved local control rates, especially combined with surgical resection for very closed or positive margins.*
+
+---
+
+46. For surgical management of locally recurrent rectal cancer, patients are placed in which position for transanal or transperineal access?
+
+* Supine position
+* Prone position
+* **Low lithotomy position**
+* Lateral decubitus position
+
+*Explanation: Patients are placed in a low lithotomy for transanal or transperineal access in the surgical management of locally recurrent rectal cancer.*
+
+---
+
+47. Central recurrences in rectal cancer generally manifest in which location?
+
+* Retroperitoneal space
+* Abdominal wall
+* **Mesentery or along the length of the neorectum**
+* Presacral space
+
+*Explanation: Central recurrences in rectal cancer generally manifest in the mesentery or along the length of the neorectum. This type of recurrence often involves the structures anterior to the rectum and may necessitate a complex surgical approach.*
+
+---
+
+48. What is the preferred choice for vessel reconstruction when tumor infiltrates common or external iliac vessels in recurrent rectal cancer?
+
+* Synthetic PTFE grafts
+* Dacron grafts
+* **Autologous venous grafts**
+* Bovine pericardium
+
+*Explanation: Autologous venous grafts are the preferred choice for vessel reconstruction, given concerns about graft infection with synthetic materials. Bovine pericardium is another alternative for interposition grafting.*
+
+---
+
+49. In preparation for sacrectomy in locally recurrent rectal cancer, how is the level of sacral amputation determined?
+
+* Intraoperative palpation
+* CT scan alone
+* Intraoperative frozen section
+* **Preoperative MRI**
+
+*Explanation: The level of sacral amputation is determined through preoperative MRI and is marked using high-powered diathermy or a metallic sacral pin for easy identification during the surgery.*
+
+---
+
+50. What type of flap is specifically mentioned for perineal wound closure after extensive recurrent colon cancer surgery?
+
+* Gracilis muscle flap
+* Gluteal flap
+* **Vertical rectus abdominis myocutaneous (VRAM) flap**
+* Pedicled omental flap only
+
+*Explanation: Flaps are often needed to partition the pelvis and bring vascularized tissue into the area to promote healing. This could involve the use of omental flaps or even more complex procedures like the vertical rectus abdominis myocutaneous (VRAM) flap.*
+
+---
+
+51. In the VRAM flap procedure, the blood supply comes from which artery?
+
+* Superior epigastric artery
+* **Inferior epigastric artery**
+* Femoral artery
+* Deep circumflex iliac artery
+
+*Explanation: According to the VRAM flap description in Figure 183.1, the myocutaneous flap including the associated skin pedicle, muscle, and the anterior rectus sheath fascia is elevated, with the blood supply coming from the inferior epigastric artery.*
+
+---
+
+52. During central pelvic exenteration for recurrent rectal cancer in females, which structure is preserved if not involved by the tumor?
+
+* Uterus
+* Ovaries
+* **Anterior vaginal wall**
+* Round ligament
+
+*Explanation: In females undergoing central pelvic exenteration, the uterus and ovaries are removed en bloc with the neorectum, and the anterior vaginal wall is preserved if not involved by the tumor.*
+
+---
+
+53. In males undergoing complete pelvic exenteration for recurrent rectal cancer, the anterior part of the dissection begins by:
+
+* High ligation of the inferior mesenteric artery
+* Dividing the ureteral stents
+* **Mobilizing the bladder in the prepubic plane and ligating and dividing the dorsal venous complex**
+* Transecting the sacrospinous ligament
+
+*Explanation: In a complete exenteration in males, the anterior part of the dissection begins by mobilizing the bladder in the prepubic plane and ligating and dividing the dorsal venous complex.*
+
+---
+
+54. Which ligament must be transected to liberate the sacrum prior to its transection in sacrectomy?
+
+* Sacrotuberous ligament
+* Anterior longitudinal ligament
+* Iliolumbar ligament
+* **Sacrospinous ligament**
+
+*Explanation: Lateral dissection extends to the ischial spine by following the sacrospinous ligament. This ligament is then transected from the spine to liberate the sacrum prior to its transection.*
+
+---
+
+## Colorectal Cancer Metastasis Management
+
+55. At diagnosis, what percentage of CRC patients already present with synchronous metastases?
+
+* 10%
+* 15%
+* 20%
+* **25%**
+
+*Explanation: At diagnosis, 25% of patients already present with synchronous metastases. Despite curative-intent treatments, around 35% of patients still experience recurrence.*
+
+---
+
+56. Despite curative-intent treatments, approximately what percentage of CRC patients still experience recurrence?
+
+* 15%
+* 25%
+* **35%**
+* 45%
+
+*Explanation: Despite curative-intent treatments, around 35% of patients still experience recurrence. Of these recurrences, 78% are distant, 18% are locoregional, and 4% encompass both.*
+
+---
+
+57. Of CRC recurrences, what percentage are classified as distant metastases?
+
+* 50%
+* 65%
+* **78%**
+* 90%
+
+*Explanation: Of CRC recurrences, 78% are distant, 18% are locoregional, and 4% encompass both. The lungs and liver are the most common sites for metastases.*
+
+---
+
+58. What is the approximate 5-year survival rate for patients with metastatic CRC?
+
+* Less than one in three patients survive beyond 5 years
+* Less than one in four patients survive beyond 5 years
+* **Fewer than one in five patients survive beyond 5 years**
+* Less than one in ten patients survive beyond 5 years
+
+*Explanation: The lungs and liver are the most common sites for metastases, which unfortunately signify a poor prognosis—fewer than one in five patients survive beyond 5 years.*
+
+---
+
+59. For staging of metastatic CRC, Stage IVa indicates:
+
+* Metastases involving both lungs and liver
+* **Metastases to one organ**
+* Metastases to multiple organs
+* Peritoneal metastases only
+
+*Explanation: mCRC is classified as stage IV, with further subclassifications based on the extent of metastatic disease. Stage IVa indicates metastases to one organ, whereas stage IVb means metastases to multiple organs.*
+
+---
+
+60. For liver metastasis staging, which is typically the first choice for detection?
+
+* MRI
+* PET-CT
+* **Contrast-enhanced CT**
+* Ultrasound
+
+*Explanation: For liver metastases, contrast-enhanced CT and MRI are the principal imaging modalities for detection and characterization of lesions. Contrast-enhanced CT is usually the first choice for detecting liver metastases.*
+
+---
+
+61. For peritoneal metastases, which imaging technique provides additional soft tissue detail particularly useful in differentiating benign from malignant peritoneal lesions?
+
+* PET-CT
+* Contrast-enhanced CT
+* Nuclear medicine bone scan
+* **MRI with DWI**
+
+*Explanation: For peritoneal metastases, MRI provides additional soft tissue detail, particularly with DWI, which can provide additional information and help differentiate between benign and malignant peritoneal lesions.*
+
+---
+
+62. When imaging is equivocal for peritoneal metastases, what procedure may be used to directly visualize and biopsy peritoneal lesions?
+
+* CT-guided biopsy
+* Ultrasound-guided biopsy
+* **Diagnostic laparoscopy**
+* PET-guided biopsy
+
+*Explanation: Diagnostic laparoscopy may be used to directly visualize and biopsy peritoneal lesions when imaging is equivocal for peritoneal metastases.*
+
+---
+
+## Systemic Therapy
+
+63. What are the three main categories of systemic therapy for metastatic CRC?
+
+* Surgery, radiation, and chemotherapy
+* Ablation, embolization, and chemotherapy
+* **Chemotherapy, immunotherapy, and targeted therapies**
+* Immunotherapy, hormonal therapy, and chemotherapy
+
+*Explanation: Systemic therapy encompasses a wide range of drugs that fall into three main categories: chemotherapy, immunotherapy, and targeted therapies.*
+
+---
+
+64. Which chemotherapy regimens are listed as first-line treatments for metastatic CRC?
+
+* CAPOX and FOLFOXIRI
+* FOLFIRI and FOLFOXIRI
+* **FOLFOX and FOLFIRI**
+* CAPOX and FOLFOX only
+
+*Explanation: FOLFOX and FOLFIRI have been shown to be effective in treating liver and lung metastases and are first line in mCRC.*
+
+---
+
+65. What is the mechanism of action of 5-fluorouracil (5-FU) in CRC treatment?
+
+* Topoisomerase I inhibition
+* Platinum-based DNA alkylation
+* **Inhibiting thymidylate synthase and blocking synthesis of thymidine required for DNA replication**
+* EGFR receptor blockade
+
+*Explanation: 5-FU is a pyrimidine analog inhibiting thymidylate synthase and blocking synthesis of thymidine required for DNA replication.*
+
+---
+
+66. Capecitabine is best described as:
+
+* An EGFR inhibitor
+* A monoclonal antibody targeting VEGF
+* A topoisomerase inhibitor
+* **An oral prodrug converted to 5-FU**
+
+*Explanation: Capecitabine is an oral prodrug converted to 5-FU.*
+
+---
+
+67. What is the mechanism of action of oxaliplatin?
+
+* Topoisomerase I inhibition
+* Thymidylate synthase inhibition
+* **Platinum-based alkylating agent inducing DNA damage**
+* VEGF pathway blockade
+
+*Explanation: Oxaliplatin is a platinum-based alkylating agent inducing DNA damage.*
+
+---
+
+68. What is the mechanism of action of irinotecan?
+
+* DNA alkylation
+* EGFR inhibition
+* Thymidylate synthase inhibition
+* **Topoisomerase I inhibitor preventing DNA replication and transcription**
+
+*Explanation: Irinotecan is a topoisomerase I inhibitor preventing DNA replication and transcription.*
+
+---
+
+69. The FOLFOX regimen consists of which combination of drugs?
+
+* 5-FU, leucovorin, irinotecan
+* Capecitabine, oxaliplatin, irinotecan
+* **5-FU, leucovorin, oxaliplatin**
+* 5-FU, leucovorin, oxaliplatin, irinotecan
+
+*Explanation: Common regimens include FOLFOX (5-FU, leucovorin, oxaliplatin), CAPOX (capecitabine, oxaliplatin), FOLFIRI (5-FU, leucovorin, irinotecan), and FOLFOXIRI (5-FU, leucovorin, oxaliplatin, irinotecan).*
+
+---
+
+70. What median overall survival (OS) did FOLFOX and FOLFIRI demonstrate as initial therapy for mCRC in key trials?
+
+* 10 months
+* 12 months
+* **Around 15 months**
+* Around 22 months
+
+*Explanation: In key trials, FOLFOX and FOLFIRI showed median OS around 15 months as initial therapy for mCRC.*
+
+---
+
+71. What improved median OS did FOLFOXIRI demonstrate for mCRC treatment?
+
+* 15 months
+* 18 months
+* 20 months
+* **22.6 months**
+
+*Explanation: FOLFOXIRI demonstrated an improved median OS of 22.6 months, superior to FOLFOX and FOLFIRI alone.*
+
+---
+
+72. Which toxicity is particularly associated with oxaliplatin in CRC treatment?
+
+* Diarrhea
+* Alopecia
+* **Neuropathy**
+* Cardiotoxicity
+
+*Explanation: Toxicities of chemotherapy regimens include neuropathy (oxaliplatin), diarrhea (irinotecan), and myelosuppression.*
+
+---
+
+73. What is the typical chemotherapy duration to convert unresectable tumors to resectability in mCRC?
+
+* 1 month
+* **2–3 months**
+* 4–6 months
+* 6–12 months
+
+*Explanation: Chemotherapy duration is 2 to 3 months to convert unresectable tumors to resectability, and then continued for 4 to 6 months or until progression/unacceptable toxicity occurs.*
+
+---
+
+74. What is the typical timeframe for disease progression after completion of initial systemic therapy for mCRC?
+
+* 3–5 months
+* 6–7 months
+* **Around 8–10 months**
+* 12–15 months
+
+*Explanation: The typical timeframe for disease progression after completion of initial systemic therapy for mCRC is around 8 to 10 months, although there is considerable variability among patients.*
+
+---
+
+75. Patients with mCRC are considered to have failed a chemotherapy regimen if disease recurrence occurs within:
+
+* 3 months of completing initial therapy
+* **6 months of completing initial therapy**
+* 9 months of completing initial therapy
+* 12 months of completing initial therapy
+
+*Explanation: Those with disease recurrence within 6 months of completing initial therapy are considered to have failed that regimen.*
+
+---
+
+76. Which study showed that patients with good ECOG performance status (0-1) had longer OS compared to those with poor performance status (ECOG 2) in mCRC?
+
+* Hurwitz et al.
+* Seymour et al.
+* **Tournigand et al.**
+* Peeters et al.
+
+*Explanation: For instance, Tournigand et al. showed that patients with a good performance status (ECOG 0-1) had a longer OS compared to those with a poor performance status (ECOG 2).*
+
+---
+
+77. Which study demonstrated that the benefit of adding bevacizumab to FOLFIRI was more pronounced in those with ECOG 0–1 versus ECOG 2?
+
+* Tournigand et al.
+* Seymour et al.
+* Peeters et al.
+* **Hurwitz et al.**
+
+*Explanation: Hurwitz et al. showed that the benefit of adding bevacizumab to FOLFIRI was more pronounced in those with ECOG 0-1 versus those with ECOG 2.*
+
+---
+
+## Targeted Therapies
+
+78. Bevacizumab is a targeted therapy that works by:
+
+* Blocking EGFR signaling
+* **Limiting formation of new blood vessels (anti-angiogenic)**
+* Inhibiting BRAF V600E mutation
+* Blocking PD-1 checkpoint
+
+*Explanation: Bevacizumab is an antiangiogenic drug that focuses on limiting the formation of new blood vessels—a key process facilitating tumor growth and metastasis. It targets vascular endothelial growth factor (VEGF).*
+
+---
+
+79. In the AVF2107g trial, bevacizumab plus irinotecan/5-FU/leucovorin (IFL) compared to IFL alone showed what OS benefit?
+
+* 15.6 vs. 12.0 months
+* 18.2 vs. 15.0 months
+* **20.3 vs. 15.6 months**
+* 22.1 vs. 18.3 months
+
+*Explanation: The AVF2107g trial found greater OS with bevacizumab plus irinotecan/5-FU/leucovorin (IFL) compared to IFL alone (20.3 vs. 15.6 months).*
+
+---
+
+80. Anti-EGFR agents cetuximab and panitumumab have received approval for treating mCRC in patients with which tumor status?
+
+* BRAF-mutant tumors
+* MSI-H tumors
+* **Wild-type KRAS tumors**
+* HER2-amplified tumors
+
+*Explanation: Cetuximab and panitumumab have received approval for treating mCRC in patients with wild-type KRAS tumors, extending OS compared to chemotherapy alone.*
+
+---
+
+81. The CRYSTAL trial showed improved progression-free survival (PFS) with FOLFIRI and cetuximab versus FOLFIRI alone in RAS wild-type tumors. What was the PFS difference?
+
+* 11.2 vs. 9.5 months
+* 10.5 vs. 8.0 months
+* **9.9 vs. 8.7 months**
+* 12.3 vs. 10.1 months
+
+*Explanation: The CRYSTAL trial showed improved progression-free survival (PFS) with FOLFIRI and cetuximab versus FOLFIRI alone in patients with RAS wild-type tumors (9.9 vs. 8.7 months).*
+
+---
+
+82. The PRIME trial demonstrated greater OS with FOLFOX and panitumumab compared to FOLFOX alone for RAS wild-type disease. What were the OS values?
+
+* 20.5 vs. 17.2 months
+* 21.3 vs. 18.0 months
+* 22.1 vs. 18.5 months
+* **23.9 vs. 19.7 months**
+
+*Explanation: The PRIME trial demonstrated greater OS with FOLFOX and panitumumab compared to FOLFOX alone for RAS wild-type disease (23.9 vs. 19.7 months).*
+
+---
+
+83. Which BRAF mutation is linked to a poorer prognosis in mCRC patients?
+
+* BRAF V600K
+* BRAF G469A
+* BRAF D594G
+* **BRAF V600E**
+
+*Explanation: A subset of mCRC patients carries BRAF V600E mutations, which are linked to a poorer prognosis. Encorafenib, a BRAF inhibitor, has received approval for treating mCRC carrying a BRAF V600E mutation.*
+
+---
+
+84. The BEACON trial combined which three drugs for BRAF V600E-mutant mCRC?
+
+* Encorafenib, bevacizumab, and cetuximab
+* Binimetinib, pembrolizumab, and cetuximab
+* **Encorafenib, binimetinib, and cetuximab**
+* Encorafenib, irinotecan, and cetuximab
+
+*Explanation: In the BEACON trial, the combined application of encorafenib (BRAF inhibitor), binimetinib (an MEK inhibitor), and cetuximab (an EGFR inhibitor) yielded improved clinical outcomes compared to previous standard-of-care treatments, now standing as a new standard of care for previously treated BRAF V600E-mutant mCRC patients.*
+
+---
+
+85. What is binimetinib's mechanism of action in the BEACON trial combination?
+
+* BRAF inhibitor
+* EGFR inhibitor
+* **MEK inhibitor**
+* PD-1 checkpoint inhibitor
+
+*Explanation: In the BEACON trial combination, encorafenib is the BRAF inhibitor, binimetinib is an MEK inhibitor, and cetuximab is an EGFR inhibitor.*
+
+---
+
+## Immunotherapy
+
+86. What response rate range has immunotherapy (immune checkpoint inhibitors) demonstrated in the treatment of dMMR/MSI mCRC?
+
+* 10%–20%
+* 15%–30%
+* **28%–52%**
+* 55%–70%
+
+*Explanation: Clinical investigations have demonstrated that immune checkpoint inhibitors can yield a response rate ranging from 28% to 52% in the treatment of dMMR/MSI mCRC.*
+
+---
+
+87. What is the predominant molecular characteristic that makes most mCRC patients inherently resistant to immunotherapy?
+
+* KRAS mutation
+* BRAF V600E mutation
+* **Microsatellite stability (MSS)**
+* HER2 amplification
+
+*Explanation: A substantial proportion of mCRC patients are microsatellite stable (MSS) and inherently exhibit resistance to immunotherapy.*
+
+---
+
+88. According to NCCN guidelines, which immunotherapy is endorsed as a monotherapy for dMMR/MSI-H mCRC?
+
+* Nivolumab
+* Ipilimumab
+* Atezolizumab
+* **Pembrolizumab**
+
+*Explanation: The NCCN endorses the use of pembrolizumab as a monotherapy, or the combination of nivolumab with ipilimumab for treating dMMR/MSI-H mCRC.*
+
+---
+
+89. According to NCCN guidelines, which combination of immunotherapy agents is endorsed for dMMR/MSI-H mCRC?
+
+* Pembrolizumab plus ipilimumab
+* Atezolizumab plus bevacizumab
+* **Nivolumab plus ipilimumab**
+* Durvalumab plus tremelimumab
+
+*Explanation: The NCCN endorses the use of pembrolizumab as a monotherapy, or the combination of nivolumab with ipilimumab for treating dMMR/MSI-H mCRC.*
+
+---
+
+## Surgical Therapy for CRC Metastases
+
+90. What is the primary goal of surgical resection in curative-intent therapy for mCRC?
+
+* Palliation of symptoms
+* Reduction of tumor bulk
+* **Complete excision of all detectable tumor deposits (R0 resection)**
+* Improving quality of life only
+
+*Explanation: Surgical resection is an integral component of curative-intent therapy for mCRC. The goal is to completely excise all detectable tumor deposits (R0 resection) to improve outcomes and survival.*
+
+---
+
+91. When did hepatic resection for CRC metastases become standard practice?
+
+* 1970s
+* 1980s
+* **1990s**
+* 2000s
+
+*Explanation: Hepatic resection for CRC metastases became standard practice in the 1990s, despite the lack of randomized control support, largely due to significant improvements in OS documented in seminal observational studies.*
+
+---
+
+92. Prior to the adoption of colorectal liver metastasectomy, what was the median OS with systemic therapy alone?
+
+* 6 months
+* 8 months
+* 10 months
+* **12 months**
+
+*Explanation: Prior to the adoption of colorectal liver metastasectomy, median OS was poor—reported to be 8 months without treatment and 12 months with systemic therapy.*
+
+---
+
+93. The Stangl et al. study showed that metastasectomy improved median survival to how many months in resected patients?
+
+* 15 months
+* 20 months
+* 25 months
+* **30 months**
+
+*Explanation: Stangl et al. demonstrated that the adoption of metastasectomy led to vast improvements in OS, with median survival reaching 30 months in resected patients and up to 41 months in the subset who achieved complete tumor clearance.*
+
+---
+
+94. Only what percentage of patients presenting with colorectal liver metastases (CRLM) are initially deemed resectable?
+
+* 10%
+* 15%
+* 20%
+* **25%**
+
+*Explanation: Surgical therapy for colorectal liver metastases (CRLM) is a proven and evolving area in the treatment of mCRC. However, only 25% of patients presenting with CRLM are initially deemed resectable.*
+
+---
+
+95. Complete resection of CRLM requires preservation of at least how many contiguous liver segments with sufficient inflow and outflow?
+
+* One segment
+* **Two contiguous segments**
+* Three segments
+* Four segments
+
+*Explanation: Resectable CRLM must be removable with negative margins and allow for the preservation of at least two contiguous liver segments with sufficient inflow and outflow.*
+
+---
+
+96. What is the typically defined minimum future liver remnant (FLR) required for complete hepatic resection of CRLM?
+
+* 10%–15% of functional liver tissue
+* **20%–30% of functional liver tissue**
+* 30%–40% of functional liver tissue
+* 40%–50% of functional liver tissue
+
+*Explanation: Complete resection is feasible with an adequate future liver remnant (FLR), which is typically defined as at least 20% to 30% of functional liver tissue.*
+
+---
+
+97. In cases of chemotherapy-associated hepatotoxicity with liver fibrosis, what FLR is required before hepatic resection?
+
+* 20%–25%
+* 25%–30%
+* **30%–40%**
+* 40%–50%
+
+*Explanation: FLR should be 30% to 40% in cases of chemotherapy-associated hepatotoxicity with liver fibrosis, higher than the standard 20%–30% threshold.*
+
+---
+
+98. What percentage of initially unresectable CRLM is converted to resectable after conversion therapy, with the likely true conversion rate in general?
+
+* 30%–50% converted, true rate ~25%
+* 20%–40% converted, true rate ~15%
+* **12.5%–48% converted, true rate ~12.5%**
+* 5%–20% converted, true rate ~10%
+
+*Explanation: Only 12.5% to 48% of initially unresectable CRLM is converted to resectable after conversion therapy, with 12.5% likely closer to the true conversion rate in general.*
+
+---
+
+99. An inadequate FLR of less than what percentage is a contraindication to hepatic resection, even despite portal vein embolization?
+
+* 10%
+* 15%
+* **20%**
+* 25%
+
+*Explanation: Inadequate FLR (<20%), despite portal vein embolization, is a contraindication to hepatic resection for CRLM.*
+
+---
+
+100. When enabling resection in borderline resectable CRLM, which procedure is described alongside chemotherapy downsizing, portal vein embolization, combining ablation with resection?
+
+* TIPS procedure
+* TACE
+* **ALPPS (Associating Liver Partition and Portal vein ligation for Staged hepatectomy)**
+* SIRT
+
+*Explanation: When FLR is inadequate, options to enable resection include chemotherapy downsizing, combining ablation with resection, portal vein embolization, ALPPS, and radiation lobectomy.*
+
+---
+
+101. For right-sided CRC liver metastases, which anatomical hepatectomy is described?
+
+* Left hepatectomy removing segments 2–4
+* Left trisectionectomy removing segments 2–4, 8
+* **Right hepatectomy removing segments 5–8, or right trisectionectomy removing segments 4–8**
+* Segmentectomy of segment 6 only
+
+*Explanation: Right hepatectomy removes hepatic segments 5 to 8, or right trisectionectomy removes segments 4 to 8 for right-sided CRC liver metastases. Left hepatectomy or left trisectionectomy are options for left-sided metastases.*
+
+---
+
+102. Several studies have shown improved outcomes with anatomical liver resection in CRLM, possibly related to:
+
+* Shorter operative time
+* Less blood loss
+* **More extensive lymphadenectomy and removal of occult micrometastases**
+* Lower recurrence at the resection margin
+
+*Explanation: Several studies have shown improved outcomes with anatomical liver resection. This may be related to more extensive lymphadenectomy and removal of occult micrometastases with anatomical resection.*
+
+---
+
+103. For lung metastasectomy, what surgical approach is commonly used for peripheral metastases?
+
+* Lobectomy
+* Pneumonectomy
+* Segmentectomy
+* **Wedge resection**
+
+*Explanation: In the lung, wedge resection is commonly utilized for peripheral metastases; however, for larger or deeper metastases to achieve negative margins, lobectomy should be considered.*
+
+---
+
+## Liver-Directed Therapies
+
+104. What is the primary purpose of liver-directed therapies in mCRC?
+
+* Achieving surgical cure
+* **Improving local control and prolonging survival in patients with unresectable liver-dominant disease**
+* Replacing systemic chemotherapy
+* Treating extrahepatic metastases
+
+*Explanation: Various liver-directed therapies have emerged as options to improve local control and prolong survival for patients with liver-only or liver-dominant metastatic disease not amenable to surgery.*
+
+---
+
+105. For which size of liver metastases are RFA and MWA typically indicated?
+
+* Metastases >5 cm
+* Metastases 3–5 cm
+* **Metastases often <3 cm**
+* Any size metastasis
+
+*Explanation: Both modalities (RFA and MWA) are typically indicated for patients with a limited number of small liver metastases (often <3 cm) who are not candidates for resection but have disease amenable to complete ablation with clear margins.*
+
+---
+
+106. What is the mechanism of microwave ablation (MWA) in treating liver metastases?
+
+* Freezing tumor tissue causing cell death
+* Delivering radiation directly to the tumor
+* **Using electromagnetic energy to excite water molecules in tissue, producing friction and thermal ablation**
+* Injecting chemotherapy into the tumor blood supply
+
+*Explanation: MWA similarly uses electromagnetic energy to excite water molecules in tissue, producing friction and thermal ablation of the cancerous lesions.*
+
+---
+
+107. What 5-year survival rates have been reported in carefully selected patients treated with RFA or MWA for CRLM?
+
+* 10%–20%
+* 20%–30%
+* 30%–35%
+* **40%–50%**
+
+*Explanation: Retrospective analyses and small randomized control trials have reported 5-year survival rates up to 40% to 50% in carefully selected patients treated with RFA or MWA in addition to or instead of resection for CRLM.*
+
+---
+
+108. Hepatic arterial infusion (HAI) chemotherapy is generally offered for patients with up to what percentage of liver involvement?
+
+* 30%
+* 40%
+* 50%
+* **60%**
+
+*Explanation: HAI is generally offered for patients with up to 60% liver involvement. HAI is often combined with systemic 5-FU/LV chemotherapy.*
+
+---
+
+109. What is the mechanism of TACE (transarterial chemoembolization) in treating CRLM?
+
+* Delivering radiation via microspheres into hepatic arterial circulation
+* Ablating tumor using thermal energy
+* **Delivering chemotherapy followed by embolic agents to occlude the blood supply, prolonging drug contact time with the tumor**
+* Administering heated chemotherapy into the peritoneal cavity
+
+*Explanation: TACE involves delivery of chemotherapy followed by embolic agents to occlude the blood supply to unresectable CRLM. This occlusion after chemotherapy infusion prolongs drug contact time with the tumor, enhancing cytotoxic effects.*
+
+---
+
+110. For TACE in CRLM, lesions larger than what size and those close to major bile ducts are considered relative contraindications?
+
+* 3 cm
+* 4 cm
+* **5 cm**
+* 8 cm
+
+*Explanation: Lesions larger than 5 cm and lesions close to major bile ducts are relative contraindications for TACE in CRLM.*
+
+---
+
+## Radiotherapy for Metastases
+
+111. What does SBRT stand for in the context of CRC metastasis treatment?
+
+* Systemic Biological Response Therapy
+* **Stereotactic Body Radiation Therapy**
+* Sequential Beam Radiation Technique
+* Selective Brachytherapy Radiation Treatment
+
+*Explanation: SBRT (Stereotactic Body Radiation Therapy) involves delivery of high-dose conformal radiation over few fractions, and is used for treating both pulmonary and hepatic metastases from CRC.*
+
+---
+
+112. SBRT for lung metastases achieves what 1-year local control rate?
+
+* 50%–60%
+* 65%–75%
+* 75%–85%
+* **85%–95%**
+
+*Explanation: SBRT for lung metastases achieves 1-year local control rates of approximately 85% to 95%.*
+
+---
+
+113. External Beam Radiation Therapy (EBRT) for lung metastases achieves what 1-year local control rate?
+
+* 40%–50%
+* 50%–60%
+* **60%–80%**
+* 80%–90%
+
+*Explanation: EBRT achieves 1-year local control rates of approximately 60% to 80% for lung metastases.*
+
+---
+
+114. SBRT is typically reserved for patients with how many liver metastases?
+
+* Up to 5 metastases
+* Up to 4 metastases
+* Up to 2 metastases
+* **One to three metastases**
+
+*Explanation: SBRT is typically reserved for patients with one to three metastases who are ineligible for resection or ablation. Reported local control rates exceed 80% at 2 years.*
+
+---
+
+115. What does SIRT stand for in the management of hepatic CRC metastases?
+
+* Systemic Infusion of Radioactive Treatment
+* Stereotactic Internal Radiation Technique
+* **Selective Internal Radiation Therapy**
+* Segmental Infusion Radiation Therapy
+
+*Explanation: SIRT (Selective Internal Radiation Therapy) involves catheter-based delivery of radioactive microspheres into the hepatic arterial circulation to selectively irradiate liver tumors.*
+
+---
+
+116. What radioisotopes are used in SIRT microspheres for hepatic metastases?
+
+* Iodine-131 or Technetium-99m
+* Radium-226 or Iridium-192
+* **90Yttrium or 166Rhenium**
+* Cesium-137 or Cobalt-60
+
+*Explanation: In SIRT, 90Yttrium or 166Rhenium spheres lodge preferentially in the tumor-feeding capillary beds.*
+
+---
+
+117. Reported median survival with SIRT for chemotherapy-refractory patients is:
+
+* 5–8 months
+* 8–10 months
+* **10–15 months**
+* 15–20 months
+
+*Explanation: Reported median survivals are 10 to 15 months for chemotherapy-refractory patients treated with SIRT for hepatic metastases.*
+
+---
+
+## CRS-HIPEC
+
+118. What does HIPEC stand for in the management of peritoneal metastases from CRC?
+
+* Hepatic Infusion of Perioperative Experimental Chemotherapy
+* High-Intensity Peritoneal Embolization Chemotherapy
+* **Hyperthermic Intraperitoneal Chemotherapy**
+* Hepatic Intra-arterial Peritoneal Embolization Chemotherapy
+
+*Explanation: HIPEC (Hyperthermic Intraperitoneal Chemotherapy) is characterized by the administration of heated chemotherapy agents directly into the peritoneal cavity during surgery, allowing for elevated drug concentrations at the tumor site and minimizing systemic side effects.*
+
+---
+
+119. The PRODIGE trial showed median OS of how many months for patients who underwent CRS with HIPEC compared to CRS alone?
+
+* 36.1 months vs. 30.5 months
+* 38.2 months vs. 35.0 months
+* **41.7 months vs. 41.2 months**
+* 45.0 months vs. 38.1 months
+
+*Explanation: The PRODIGE trial showed a median OS of 41.7 months for patients who underwent CRS with HIPEC, compared to 41.2 months for those who underwent CRS alone. RFS was improved in the HIPEC-CRS group.*
+
+---
+
+120. What does the Peritoneal Carcinomatosis Index (PCI) score assess?
+
+* The number of cycles of chemotherapy received
+* The performance status of the patient
+* **The size and dissemination of tumor deposits within the peritoneal cavity**
+* The genetic mutation profile of the tumor
+
+*Explanation: The PCI score assesses the size and dissemination of tumor deposits within the peritoneal cavity, with elevated scores indicating more pervasive disease. Higher PCI scores correlate with poorer survival outcomes in patients with PM-CRC.*
+
+---
+
+121. In the PRODIGE trial, patients who underwent HIPEC and CRS with an intermediate PCI score of 11–15 had an improved OS of how many months, compared to those with intermediate PCI undergoing CRS only?
+
+* 35.2 months vs. 28.0 months
+* 38.1 months vs. 30.5 months
+* **41.6 months vs. 32.7 months**
+* 45.3 months vs. 36.1 months
+
+*Explanation: Patients who underwent HIPEC and CRS with a peritoneal carcinomatosis index (PCI) score of 11 to 15 (intermediate) were found to have an improved OS of 41.6 months with respect to patients with intermediate PCI who underwent CRS only (OS: 32.7 months).*
+
+---
+
+## Recurrence Patterns
+
+122. In rectal cancer patients, the median time to liver-only recurrence was found to be how many months in one study?
+
+* 8.5 months
+* **11.2 months**
+* 15.6 months
+* 18.2 months
+
+*Explanation: In one study, the median time to recurrence in rectal cancer patients was found to be shorter in liver-only recurrence (11.2 months) compared to lung-only recurrence (18.2 months) or locoregional-only recurrence (24.7 months, P = .001).*
+
+---
+
+123. In rectal cancer patients, the median time to locoregional-only recurrence was found to be how many months in one study?
+
+* 11.2 months
+* 14.5 months
+* 18.2 months
+* **24.7 months**
+
+*Explanation: In one study, the median time to recurrence in rectal cancer was: liver-only (11.2 months), lung-only (18.2 months), or locoregional-only recurrence (24.7 months, P = .001).*
+
+---
+
+124. Detection of recurrence may be delayed after which treatment for rectal cancer?
+
+* Adjuvant FOLFOX
+* Bevacizumab therapy
+* **Neoadjuvant chemoradiation**
+* Anti-EGFR therapy
+
+*Explanation: Detection of recurrence may be delayed after neoadjuvant treatment, as seen after neoadjuvant chemoradiation for patients with rectal cancer.*
+
+---
+
+## Postoperative Surveillance for mCRC
+
+125. After treatment of recurrent CRC or mCRC, how frequently should contrasted CT imaging be performed in the first 2 years?
+
+* Every month
+* Every 2–3 months
+* **Every 3–6 months**
+* Every 6–12 months
+
+*Explanation: In the first 2 years after treatment of recurrent CRC or mCRC, patients should undergo contrasted CT imaging of the chest, abdomen, and pelvis every 3 to 6 months for the first 2 years, and then every 6 to 12 months for up to a total of 5 years.*
+
+---
+
+## Antibody-Drug Conjugates and Emerging Therapies
+
+126. Patritumab deruxtecan (HER3-DXd) belongs to which emerging class of therapy being investigated for CRC metastasis?
+
+* Immune checkpoint inhibitor
+* CAR-T cell therapy
+* **Antibody-drug conjugate**
+* Bispecific antibody
+
+*Explanation: The evolution of novel delivery systems, such as antibody-drug conjugates, is underway to augment the efficacy and safety of targeted therapies. Patritumab deruxtecan (HER3-DXd), a HER3-directed antibody-drug conjugate, has evidenced clinically impactful antitumor activity and acceptable safety profiles.*
+
+---
+
+127. What is the primary target of precision medicine in mCRC?
+
+* Tumor size reduction only
+* Symptom palliation
+* Improving surgical outcomes
+* **Targeting specific molecular profiles of a patient's tumor for a bespoke approach to treatment**
+
+*Explanation: Precision medicine deploys therapies that target specific molecular profiles of a patient's tumor, facilitating a more bespoke approach to treatment. Genomics serves an integral role in the identification of actionable mutations.*
+
+---
+
+## Palliative Care
+
+128. Palliative care in mCRC should ideally be integrated:
+
+* Only when all curative treatments have been exhausted
+* At the terminal stage only
+* **Early into the treatment paradigm**
+* After the first recurrence only
+
+*Explanation: Palliative care should not be viewed as the last resort for patients deemed untreatable. Instead, it should be integrated early into the treatment paradigm, ensuring that patients receive comprehensive care that addresses all facets of their well-being.*
+
+---
+
+129. Which of the following is NOT listed as a component of palliative care in mCRC management?
+
+* Symptom management
+* Psychosocial support
+* Bereavement support
+* **Surgical curative resection**
+
+*Explanation: Palliative care components include symptom management, psychosocial support, end-of-life care planning, integrative therapies, communication and decision making, and bereavement support. Surgical curative resection is a disease-directed treatment, not a component of palliative care.*
+
+---
+
+130. The Seymour et al. study demonstrated that patients with mCRC who previously received oxaliplatin-based chemotherapy and experienced disease progression could benefit from switching to which regimen?
+
+* FOLFOX
+* CAPOX
+* FOLFOXIRI
+* **Irinotecan-based regimen such as FOLFIRI**
+
+*Explanation: A study by Seymour et al. demonstrated that patients with mCRC who had previously received oxaliplatin-based chemotherapy and had experienced disease progression or unacceptable toxicity could benefit from a switch to an irinotecan-based regimen, such as FOLFIRI.*
+
+

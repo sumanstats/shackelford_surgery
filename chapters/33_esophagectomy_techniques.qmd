@@ -1,0 +1,1881 @@
+# 33-Esophagectomy techniques
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```
+
+
+
+Generated with Claude.
+
+**1. What is the cornerstone of therapy for patients with early or locally advanced esophageal cancer in the absence of systemic metastases?**
+
+- Definitive chemoradiotherapy
+- Endoscopic resection
+- **Surgical resection**
+- Palliative chemotherapy
+
+*Explanation: Surgical resection is described as the cornerstone of therapy for patients with early or locally advanced cancer of the esophagus in the absence of systemic metastases.*
+
+---
+
+**2. Which setting offers the highest likelihood of cure for patients with locoregional esophageal cancer?**
+
+- Surgery alone
+- Chemotherapy alone
+- Radiotherapy alone
+- **Surgery in the setting of multimodality therapy**
+
+*Explanation: Surgery, typically in the setting of multimodality therapy, offers the highest likelihood of cure for patients with locoregional disease.*
+
+---
+
+**3. Which of the following is NOT one of the factors that determines operative technique selection in esophagectomy?**
+
+- Number of fields explored
+- Location of anastomosis
+- Operative approach (open, MIS, robotic)
+- **Patient's marital status**
+
+*Explanation: Operative techniques for esophagectomy vary based on number of fields explored, location of anastomosis, and operative approach. Patient marital status is not a relevant factor.*
+
+---
+
+**4. Which of the following is associated with adenocarcinoma of the esophagus?**
+
+- Alcohol use
+- Cirrhosis
+- **Obesity and reflux disease**
+- Squamous cell histology
+
+*Explanation: Adenocarcinoma is associated with increased age, obesity, tobacco use, and reflux disease, whereas squamous cell carcinoma is associated with alcohol use, tobacco use, and cirrhosis.*
+
+---
+
+**5. Which FEV1 value places patients at increased risk of respiratory complications following esophagectomy?**
+
+- FEV1 < 2.5 L
+- FEV1 < 2.0 L
+- FEV1 < 1.5 L
+- **FEV1 < 1 L**
+
+*Explanation: Patients with significant impairment in the forced expiratory volume at 1 second (FEV1 < 1 L) and those with COPD are at increased risk of respiratory complications following surgery.*
+
+---
+
+**6. What has been shown to decrease postoperative morbidity and mortality before esophagectomy?**
+
+- Extended fasting
+- **A supervised prehabilitation program**
+- Preoperative steroid use
+- Prolonged nasogastric decompression
+
+*Explanation: There is evidence that a supervised prehabilitation program with optimization of nutrition, psychosocial wellbeing, and functional status decreases postoperative morbidity and mortality.*
+
+---
+
+**7. Which stage of esophageal cancer is best treated with esophageal-sparing endoscopic resection techniques?**
+
+- T2N1 disease
+- T3N0 disease
+- **Intramucosal cancers**
+- T4a disease
+
+*Explanation: Intramucosal cancers should be considered for esophageal-sparing techniques with endoscopic resection.*
+
+---
+
+**8. What is the limited utility of EUS in esophageal cancer staging attributed to?**
+
+- High cost
+- **Poor discrimination of earliest stage tumors and infrequent management change for bulky tumors**
+- Radiation exposure
+- Inability to visualize lymph nodes
+
+*Explanation: EUS is of limited utility due to its poor discrimination of the earliest stage tumors and for bulky tumors that are obviously locally advanced, EUS rarely changes management.*
+
+---
+
+**9. What does the presence of dysphagia suggest in esophageal cancer?**
+
+- Mucosal-only involvement
+- **Full-thickness invasion into the adventitia**
+- Distant metastatic disease
+- Benign stricture
+
+*Explanation: The presence of dysphagia is highly suspicious for full-thickness invasion into the adventitia and should prompt consideration of induction therapy regardless of ultrasonographic T stage.*
+
+---
+
+**10. Why is the combination of CT and PET scan particularly useful in esophageal cancer staging?**
+
+- PET detects all tumor types equally
+- CT alone is insufficient for lymph node staging
+- **Some tumors such as those with signet cell histology are frequently silent on PET**
+- CT provides metabolic information
+
+*Explanation: The combination is particularly useful given that some tumors, such as those with signet cell histology, are frequently silent on PET.*
+
+---
+
+**11. When is bronchoscopy indicated in the workup of esophageal cancer?**
+
+- For all patients before surgery
+- For distal esophageal tumors only
+- **For esophageal cancer of the proximal or middle esophagus to rule out airway invasion**
+- For patients with hoarseness
+
+*Explanation: Bronchoscopy is done if the patient has an esophageal cancer of the proximal or middle esophagus to rule out airway invasion.*
+
+---
+
+**12. When should staging laparoscopy be considered in esophageal cancer?**
+
+- For all T3 tumors
+- For adenocarcinoma only
+- **For signet cell cancers and those extending more than 3 cm into the stomach**
+- For squamous cell carcinoma of the upper esophagus
+
+*Explanation: Staging laparoscopy should be considered for signet cell cancers and those extending more than 3 cm into the stomach.*
+
+---
+
+**13. What is the most common neoadjuvant chemoradiotherapy regimen for esophageal cancer?**
+
+- FLOT protocol
+- FOLFOX regimen
+- **CROSS protocol**
+- MAGIC protocol
+
+*Explanation: The most common treatment regimens are neoadjuvant chemoradiotherapy (CROSS protocol) or perioperative chemotherapy.*
+
+---
+
+**14. Which immunotherapy agent has been recently approved in the adjuvant setting for esophageal cancer?**
+
+- Pembrolizumab
+- Ipilimumab
+- Atezolizumab
+- **Nivolumab**
+
+*Explanation: Nivolumab has been recently approved in the adjuvant setting for patients with residual pathologic disease after neoadjuvant chemoradiation and surgery.*
+
+---
+
+**15. How long after the conclusion of chemoradiation is esophagectomy typically scheduled?**
+
+- 1–2 weeks
+- 2–4 weeks
+- **5–8 weeks**
+- 10–12 weeks
+
+*Explanation: Patients who have persistent disease or show a response are scheduled for esophagectomy 5 to 8 weeks after the conclusion of chemoradiation to allow recovery of functional status.*
+
+---
+
+**16. What are the three main techniques for esophageal resection?**
+
+- Ivor Lewis, Whipple, and transhiatal
+- McKeown, Heller, and transhiatal
+- **Ivor Lewis, McKeown, and transhiatal esophagectomy**
+- Ivor Lewis, McKeown, and esophagogastrectomy
+
+*Explanation: The main techniques for resection are Ivor Lewis (two-field with intrathoracic anastomosis), McKeown (three-field with cervical anastomosis), and transhiatal esophagectomy.*
+
+---
+
+**17. What is the optimal proximal resection margin in esophageal cancer surgery?**
+
+- 5 cm
+- 8 cm
+- **12 cm**
+- 15 cm
+
+*Explanation: When possible, a proximal resection margin of 12 cm and a distal margin of 5 cm are optimal.*
+
+---
+
+**18. What is the optimal distal resection margin in esophageal cancer surgery?**
+
+- 2 cm
+- 3 cm
+- **5 cm**
+- 8 cm
+
+*Explanation: When possible, a proximal resection margin of 12 cm and a distal margin of 5 cm are optimal.*
+
+---
+
+**19. What circumferential margin is considered to have a favorable impact on survival?**
+
+- At least 3 mm
+- At least 5 mm
+- **At least 1 mm**
+- At least 2 mm
+
+*Explanation: A negative margin of at least 1 mm seems to have a favorable impact on survival.*
+
+---
+
+**20. What proportion of patients will have nodal metastases once the tumor has penetrated the submucosal layer?**
+
+- One-quarter
+- One-third
+- **One-half**
+- Two-thirds
+
+*Explanation: Once the tumor has penetrated the submucosal layer, up to one-half of patients will have nodal metastases.*
+
+---
+
+**21. What is the minimum number of lymph nodes that should be resected for an independent survival benefit?**
+
+- 10 lymph nodes
+- 15 lymph nodes
+- **18 lymph nodes**
+- 25 lymph nodes
+
+*Explanation: There is an independent survival benefit to a lymphadenectomy of at least 18 lymph nodes.*
+
+---
+
+**22. In en bloc esophagectomy, which structure is NOT routinely included in the resection?**
+
+- Both pleural surfaces laterally
+- Pericardium anteriorly
+- Azygos arch
+- **Spleen**
+
+*Explanation: En bloc esophagectomy includes both pleural surfaces laterally, the pericardium anteriorly, posterior lymphatic tissue, and resection of the azygos arch and thoracic duct. The spleen is not included.*
+
+---
+
+**23. For which clinical scenario is transhiatal esophagectomy best reserved?**
+
+- Locally advanced T3 tumors
+- Squamous cell carcinoma of the mid-esophagus
+- **Intramucosal dysplasia or carcinoma, or benign disease**
+- GEJ adenocarcinoma with nodal involvement
+
+*Explanation: The transhiatal esophagectomy is best reserved for intramucosal dysplasia or carcinoma, or benign disease.*
+
+---
+
+**24. Who first described a thoracoscopic esophageal mobilization in 1992?**
+
+- James Luketich
+- DePaula et al.
+- **Cuschieri et al.**
+- Melvin et al.
+
+*Explanation: The first reports of MIE were published in the early 1990s by Cuschieri et al., who described a thoracoscopic esophageal mobilization in 1992.*
+
+---
+
+**25. Who reported the first MIE with a laparoscopic transhiatal approach in 1995?**
+
+- Cuschieri et al.
+- James Luketich
+- **DePaula et al.**
+- Melvin et al.
+
+*Explanation: DePaula et al. reported an MIE with a laparoscopic transhiatal approach in 1995.*
+
+---
+
+**26. At which institution did James Luketich popularize minimally invasive esophagectomy?**
+
+- Johns Hopkins Medical Center
+- Mayo Clinic
+- **University of Pittsburgh Medical Center**
+- Memorial Sloan Kettering
+
+*Explanation: The technique was popularized almost 10 years later at the University of Pittsburgh Medical Center by James Luketich.*
+
+---
+
+**27. Approximately what proportion of esophagectomies are currently performed in a minimally invasive fashion?**
+
+- 20%
+- 35%
+- **Just over 50%**
+- 75%
+
+*Explanation: At the time of publication, just over 50% of esophagectomies are performed in a minimally invasive fashion at institutions that report to standardized databases.*
+
+---
+
+**28. What is the most common cause of morbidity after esophagectomy?**
+
+- Anastomotic leak
+- Cardiac arrhythmia
+- **Respiratory complications**
+- Chylothorax
+
+*Explanation: Respiratory complications after esophagectomy are the most common cause of morbidity.*
+
+---
+
+**29. What reduction in pulmonary complications was demonstrated by the Dutch TIME study with MIE?**
+
+- From 50% to 25%
+- From 28% to 15%
+- **From 34% to 12%**
+- From 20% to 8%
+
+*Explanation: The small but randomized Dutch TIME study showed a reduction from 34% to 12% in pulmonary complications with MIE.*
+
+---
+
+**30. What built-in imaging capability of the robotic platform is useful for conduit perfusion assessment?**
+
+- Ultrasound guidance
+- CT fluoroscopy
+- **Near-infrared fluorescence imaging with ICG**
+- Doppler flow assessment
+
+*Explanation: Near-infrared fluorescence imaging is built in to the robotic platform, which can be used for conduit perfusion assessment with indocyanine green (ICG).*
+
+---
+
+**31. After how many minimally invasive esophagectomy cases are improved surgical and oncologic outcomes typically achieved?**
+
+- 10–15 cases
+- 20–25 cases
+- **35–40 cases**
+- 50–60 cases
+
+*Explanation: Improved surgical and oncologic outcomes are usually achieved after 35 to 40 cases.*
+
+---
+
+**32. In the open Ivor Lewis abdominal phase, which segments of the liver are mobilized by incising the left triangular ligament?**
+
+- Segments 4 and 5
+- Segments 6 and 7
+- **Segments 2 and 3**
+- Segments 1 and 4
+
+*Explanation: Segments two and three of the liver are mobilized by incising the left triangular ligament with electrocautery.*
+
+---
+
+**33. Where should the gastrocolic omentum division begin in the open Ivor Lewis abdominal phase?**
+
+- At the splenic flexure
+- At the midpoint of the greater curvature
+- **Distally at the level of the pylorus**
+- At the level of the cardia
+
+*Explanation: This dissection should begin distally at the level of the pylorus, continuing proximally to include division of the short gastric vessels.*
+
+---
+
+**34. Why should the short gastric vessels be divided as close as possible to the spleen?**
+
+- To reduce operative time
+- To avoid injury to the pancreas
+- **To preserve as many collateral vessels to the fundus as possible**
+- To facilitate omental harvest
+
+*Explanation: The short gastric vessels should be divided as close as possible to the spleen to preserve as many collateral vessels to the fundus as possible.*
+
+---
+
+**35. What vein must be ligated to allow completion of upper abdominal lymphadenectomy around the celiac trunk?**
+
+- Portal vein
+- Splenic vein
+- **Coronary vein (left gastric vein)**
+- Short gastric vein
+
+*Explanation: Retracting the stomach anteriorly allows ligation of the coronary vein (= left gastric vein), after which the upper abdominal lymphadenectomy around the celiac trunk can be completed.*
+
+---
+
+**36. When is the staple line for the gastric conduit begun in the context of a cervical anastomosis?**
+
+- Midway along the lesser curvature
+- At the incisura angularis
+- **On the upper fundus at least 5 cm from the distal limit of the tumor**
+- Just below the cardia
+
+*Explanation: The staple line should begin on the upper fundus at least 5 cm from the distal limit of the tumor.*
+
+---
+
+**37. How does the gastric tube width differ between a cervical and an intrathoracic anastomosis?**
+
+- Cervical anastomosis allows a wider tube
+- Width is the same in both cases
+- **Cervical anastomosis requires a narrower tube; intrathoracic anastomosis allows a wider tube**
+- Intrathoracic anastomosis requires a narrower tube
+
+*Explanation: For a cervical anastomosis more length can be achieved by staying closer to the greater curve, resulting in a narrower tube. When an intrathoracic anastomosis is performed, more right gastric vessels can be preserved and a wider tube can be created.*
+
+---
+
+**38. In the thoracic phase of open Ivor Lewis, through which intercostal space is the right posterolateral thoracotomy performed?**
+
+- Third or fourth
+- Fourth or fifth
+- **Fifth or sixth**
+- Seventh or eighth
+
+*Explanation: A right posterolateral thoracotomy is performed entering the chest through the fifth or sixth intercostal space.*
+
+---
+
+**39. What is the purpose of incising and saving the pleura cranial to the azygos arch during the Ivor Lewis thoracic phase?**
+
+- To facilitate lung retraction
+- To expose the thoracic duct
+- **To create a pedicled flap to cover the subsequent intrathoracic anastomosis**
+- To identify the right recurrent laryngeal nerve
+
+*Explanation: The pleura cranial to the azygos arch is incised and saved to create a pedicled "flap" to cover the subsequent intrathoracic anastomosis.*
+
+---
+
+**40. Why should the right vagal nerve NOT be divided with electrocautery?**
+
+- To preserve gastric motility
+- To preserve esophageal peristalsis
+- **To prevent injury to the right recurrent nerve**
+- To prevent pyloric dysfunction
+
+*Explanation: The vagal nerve should not be divided with use of electrocautery to prevent injury to the right recurrent nerve.*
+
+---
+
+**41. Where is the thoracic duct identified and transected to prevent chylothorax in the Ivor Lewis procedure?**
+
+- At the level of the eighth vertebral body
+- At the level of the sixth vertebral body
+- **At the level of the fourth vertebral body where it crosses from right to left**
+- At the diaphragmatic hiatus
+
+*Explanation: The proximal thoracic duct is also ligated and cut at the level of the fourth vertebral body where it crosses from right to left.*
+
+---
+
+**42. What size circular stapling device is used for the intrathoracic anastomosis in open Ivor Lewis esophagectomy?**
+
+- 21 mm or 23 mm
+- 23 mm or 25 mm
+- **25 mm or 29 mm**
+- 29 mm or 31 mm
+
+*Explanation: An end-to-side anastomosis is created using a 25-mm or 29-mm circular stapling device.*
+
+---
+
+**43. What is placed around the anastomosis at the completion of open Ivor Lewis esophagectomy?**
+
+- A pledget of Dacron mesh
+- A fibrin sealant
+- **Omental tissue (omentoplasty)**
+- A pedicled pleural flap only
+
+*Explanation: After completion of the anastomosis, omental tissue is wrapped around the anastomosis (omentoplasty).*
+
+---
+
+**44. What is the first step in a McKeown esophagectomy, in contrast to an Ivor Lewis?**
+
+- Abdominal lymphadenectomy
+- Cervical esophageal division
+- **Transthoracic esophageal mobilization**
+- Gastric conduit creation
+
+*Explanation: In contrast to an Ivor Lewis esophagectomy, the thoracic esophageal mobilization is performed as the first step in a McKeown esophagectomy.*
+
+---
+
+**45. Through which incision is the cervical esophagus exposed in a McKeown esophagectomy?**
+
+- Right transverse cervical incision
+- Midline cervical incision
+- **Oblique left neck incision along the anterior border of the sternocleidomastoid muscle**
+- Collar (bilateral) incision
+
+*Explanation: Exposure of the cervical esophagus is accomplished through an oblique left neck incision placed along the anterior border of the sternocleidomastoid muscle.*
+
+---
+
+**46. From the sternal notch, where should the cervical incision extend in a McKeown esophagectomy?**
+
+- To the mastoid process
+- To the angle of the mandible
+- **To a point halfway to the ear lobe**
+- To the level of the thyroid cartilage only
+
+*Explanation: This incision should extend from the sternal notch to a point halfway to the ear lobe.*
+
+---
+
+**47. Why should the cervical esophageal remnant not be too long in a McKeown esophagectomy?**
+
+- To avoid anastomotic tension
+- To facilitate passage of the conduit
+- **To prevent the anastomosis from retracting into the upper chest with increased risk of intrathoracic soilage**
+- To reduce risk of recurrent laryngeal nerve injury
+
+*Explanation: The cervical esophageal remnant should not be too long, or the anastomosis will retract into the upper chest with an increased risk of intrathoracic soilage in case of leakage.*
+
+---
+
+**48. What type of anastomosis do the authors prefer for the McKeown cervical anastomosis?**
+
+- Circular stapled end-to-end
+- Side-to-side linear stapled
+- **End-to-end anastomosis (EEA) with single-layer running suture**
+- Two-layer handsewn technique
+
+*Explanation: The authors prefer to perform an end-to-end anastomosis (EEA) with single-layer running suture for the cervical McKeown anastomosis.*
+
+---
+
+**49. What sutures are placed to normalize the size of the hiatus in McKeown esophagectomy?**
+
+- Polypropylene running suture
+- Absorbable interrupted sutures
+- **Several nonabsorbable sutures**
+- Metal staples
+
+*Explanation: Several nonabsorbable sutures should be placed to normalize the size of the hiatus to prevent visceral herniation into the thorax.*
+
+---
+
+**50. Why is transhiatal esophagectomy losing popularity?**
+
+- High operative mortality
+- Limited availability of surgical expertise
+- **Only abdominal and limited periesophageal lymphadenectomy are possible, limiting its utility to intramucosal tumors or benign disease**
+- High anastomotic leak rate
+
+*Explanation: This technique is losing popularity because only an abdominal and limited periesophageal lymphadenectomy are possible with this approach, and its utility is limited to intramucosal tumors or dysplasia or benign disease.*
+
+---
+
+**51. In what patient group is open transhiatal esophagectomy contraindicated?**
+
+- Elderly patients
+- Patients with prior abdominal surgery
+- **Patients with suspected mediastinal fibrosis**
+- Patients receiving neoadjuvant therapy
+
+*Explanation: Open transhiatal esophagectomy is also contraindicated in patients with suspected mediastinal fibrosis.*
+
+---
+
+**52. In transhiatal esophagectomy, how far can lower esophageal dissection be carried under visual control using retractors?**
+
+- To the aortic arch
+- To the carina
+- **To the level of the inferior pulmonary veins**
+- To the thoracic inlet
+
+*Explanation: Under normal circumstances, transhiatal visual dissection can be done up to the level of the inferior pulmonary veins.*
+
+---
+
+**53. What is the primary goal of vagal-sparing esophagectomy (VSE)?**
+
+- Maximizing lymph node yield
+- Achieving negative oncologic margins
+- **Maximizing postoperative functional outcomes**
+- Reducing operative time
+
+*Explanation: The goal of VSE is to maximize postoperative functional outcomes at the expense of lymphadenectomy.*
+
+---
+
+**54. Which layer of tumor invasion is a contraindication for a vagal-sparing approach?**
+
+- Intramucosal involvement
+- Lamina propria involvement
+- **Submucosal tumor invasion**
+- Adventitial involvement
+
+*Explanation: Submucosal tumors have a significant risk for lymph node metastases, and tumor invasion into this layer is a contraindication for a vagal-sparing approach.*
+
+---
+
+**55. Which gastrointestinal alterations does vagal preservation minimize after esophagectomy?**
+
+- Reflux only
+- Constipation and bloating
+- **Dumping, diarrhea, early satiety, and reflux symptoms**
+- Delayed gastric emptying only
+
+*Explanation: Vagal preservation minimizes dumping, diarrhea, and, depending on the type of reconstruction, early satiety and reflux symptoms compared with other types of esophagectomy.*
+
+---
+
+**56. What vascular benefit does the VSE with gastric pull-up provide?**
+
+- Preservation of the right gastroepiploic artery
+- Preservation of the short gastric arteries
+- **Preservation of the left gastric arterial trunk and branches to the pylorus**
+- Preservation of the splenic artery
+
+*Explanation: The technique for a VSE with gastric pull-up allows preservation of the left gastric arterial trunk and branches to the pylorus, improving perfusion of the proximal portion of the graft.*
+
+---
+
+**57. In VSE, what is the first critical step when exposing the hiatus?**
+
+- Creating a gastric conduit
+- Performing a Kocher maneuver
+- **Encircling the anterior and posterior vagal trunks with a vessel loop**
+- Dividing the short gastric vessels
+
+*Explanation: With minimal dissection, the hiatus is opened and the anterior and posterior vagal trunks are encircled with a vessel loop.*
+
+---
+
+**58. What is the purpose of the highly selective vagotomy in VSE?**
+
+- To prevent postoperative diarrhea
+- To improve gastric conduit length
+- **To allow use of the stomach as esophageal replacement and reduce gastric acidity**
+- To prevent chylothorax
+
+*Explanation: The highly selective vagotomy is performed starting just above the crow's foot. This is necessary if the stomach is to be used as the esophageal replacement and is beneficial with a colon interposition to reduce gastric acidity.*
+
+---
+
+**59. What is used to dilute contamination during the esophageal stripping procedure in VSE?**
+
+- Chlorhexidine
+- Normal saline
+- **Dilute povidone-iodine (Betadine) solution**
+- Hydrogen peroxide
+
+*Explanation: A nasogastric tube is inserted, and the esophagus may be irrigated with a dilute povidone-iodine (Betadine) solution to reduce mediastinal contamination during the subsequent stripping procedure.*
+
+---
+
+**60. What happens if the ligatures slip during the stripping procedure in VSE?**
+
+- The esophagus will perforate
+- A chylothorax will develop
+- **The vein stripper will merely pull out, leaving the partially stripped esophagus in the mediastinum**
+- The vagus nerve will be injured
+
+*Explanation: This is a critical step since, if the ligatures slip, the vein stripper will merely pull out, leaving the partially stripped esophagus somewhere in the mediastinum.*
+
+---
+
+**61. How does the stripped esophagus emerge during the VSE stripping maneuver?**
+
+- Pulled out in a straight fashion with mucosa intact
+- Fragmented in multiple pieces
+- **Inverted on itself with mucosa external to the muscular wall, similar to taking off a sock inside-out**
+- Divided at multiple points before removal
+
+*Explanation: The esophagus comes out inverted with the mucosa external to the muscular wall similar to taking off a sock inside-out.*
+
+---
+
+**62. In a VSE for achalasia, what is stripped out as opposed to high-grade dysplasia?**
+
+- The full esophagus with adventitia
+- The full esophagus wall
+- **The mucosa alone**
+- The muscularis only
+
+*Explanation: However, in patients with achalasia, only the mucosa need to be stripped out, leaving the remaining muscular wall of the esophagus intact.*
+
+---
+
+**63. What is used to dilate the posterior mediastinum after stripping in VSE?**
+
+- A Hegar dilator set
+- A rigid bronchoscope
+- **A 90 cc balloon Foley catheter progressively filled with saline**
+- A rigid esophageal bougie
+
+*Explanation: A 90 cc balloon Foley catheter progressively filled with saline is pulled up through the mediastinum to dilate the posterior mediastinum. Typically, two to three passes are made.*
+
+---
+
+**64. Why should no pyloroplasty be performed at the completion of a VSE with gastric pull-up?**
+
+- It increases the risk of anastomotic leak
+- It lengthens the conduit excessively
+- **Because antral innervation has been preserved**
+- Because the pylorus is routinely resected
+
+*Explanation: Since the antral innervation has been preserved, no pyloroplasty should be performed.*
+
+---
+
+**65. In minimally invasive Ivor Lewis, how many abdominal ports are typically used?**
+
+- Three ports
+- Four ports
+- **Five ports**
+- Six ports
+
+*Explanation: As previously described, five abdominal ports and the Nathanson liver retractor are used to expose the hiatus.*
+
+---
+
+**66. What endoscopic procedure is performed at the start of the MIE abdominal phase?**
+
+- Colonoscopy
+- Gastric pH testing
+- **Esophagogastroduodenoscopy**
+- Capsule endoscopy
+
+*Explanation: An esophagogastroduodenoscopy is performed to evaluate the proximal and distal extension of the tumor and the presence of Barrett's esophagus and to evaluate the stomach, which will be used for reconstruction.*
+
+---
+
+**67. In MIE, why is a Kocher maneuver NOT routinely performed?**
+
+- It increases operative time unduly
+- It risks duodenal injury
+- **To avoid conduit redundancy, which may cause herniation of the gastric antrum and duodenum in the mediastinum**
+- It is associated with increased leak rate
+
+*Explanation: A Kocher maneuver is not routinely performed to avoid conduit redundancy, which may cause herniation of the gastric antrum and duodenum in the mediastinum.*
+
+---
+
+**68. What width gastric tube is created in the MIE abdominal phase?**
+
+- 3 cm wide
+- 4 cm wide
+- **5 cm wide**
+- 6 cm wide
+
+*Explanation: A 5-cm-wide gastric tube is created by dividing the stomach with multiple firings of a linear stapler, starting below the incisura to allow complete unfurling of the stomach.*
+
+---
+
+**69. Why is the gastric conduit left undivided at the fundus in MIE?**
+
+- To preserve vascular supply
+- To allow pyloric drainage
+- **To facilitate retrieval from the chest and avoid torsion**
+- To allow creation of a wider anastomosis
+
+*Explanation: To facilitate retrieval from the chest and avoid torsion, the gastric conduit is left undivided at the fundus.*
+
+---
+
+**70. What size feeding jejunostomy is inserted percutaneously in the MIE abdominal phase?**
+
+- 10 French
+- 12 French
+- **14 French**
+- 18 French
+
+*Explanation: A 14 French feeding jejunostomy is inserted percutaneously with a Seldinger technique and is affixed to the abdominal wall with five transfascial sutures.*
+
+---
+
+**71. What patient position is used during the thoracic phase of minimally invasive Ivor Lewis esophagectomy?**
+
+- Supine with right lateral tilt
+- Semi-prone position
+- **Left lateral decubitus**
+- Right lateral decubitus
+
+*Explanation: The patient is positioned in left lateral decubitus, and the right lung is collapsed for the thoracic phase.*
+
+---
+
+**72. What CO2 insufflation pressure is used during the thoracoscopic phase and what does it achieve?**
+
+- 4 mmHg – maximizes lung expansion
+- 6 mmHg – minimizes cardiac compression
+- **8 mmHg – flattening of the diaphragm with easier exposure of the hiatus and stabilization of the mediastinum**
+- 12 mmHg – optimal retraction
+
+*Explanation: Insufflation at 8 mmHg is well tolerated and allows flattening of the diaphragm with easier exposure of the hiatus and stabilization of the mediastinum during dissection.*
+
+---
+
+**73. What is a potential advantage of the prone position for the thoracoscopic phase?**
+
+- Easier circular stapled anastomosis
+- Better access to the thoracic inlet
+- **Good view of the operating field without collapse of the right lung and shorter anesthesia time**
+- Reduced risk of chylothorax
+
+*Explanation: Several authors favor the prone approach, which offers a good view of the operating field without collapse of the right lung and report shorter anesthesia time and better postoperative respiratory function.*
+
+---
+
+**74. Why is the prone approach considered more challenging by some surgeons?**
+
+- Higher blood loss
+- Increased anastomotic leak rate
+- **Requires training to identify anatomic structures from an unusual perspective and makes it harder to perform a stapled anastomosis**
+- Increased risk of nerve injury
+
+*Explanation: This prone approach requires training to identify anatomic structures and their relationship from an unusual perspective and also makes it harder to perform a stapled anastomosis because the space between the ribs gets tighter closer to the spine.*
+
+---
+
+**75. What is the preferred intrathoracic anastomotic technique in the authors' MIE practice?**
+
+- Handsewn anastomosis
+- Transthoracic circular stapler
+- Side-to-side linear stapled
+- **Transoral circular stapler**
+
+*Explanation: "Transoral circular stapler: This is our preferred approach." An orogastric tube connected with the circular stapler anvil is inserted through the patient's mouth.*
+
+---
+
+**76. What is the purpose of using ICG fluorescence imaging after transposing the conduit into the posterior mediastinum?**
+
+- To check staple line integrity
+- To measure conduit length
+- **To evaluate microvascular perfusion and target the anastomosis site**
+- To rule out thoracic duct injury
+
+*Explanation: After transposing the conduit into the posterior mediastinum, fluorescence imaging and ICG are used to evaluate the microvascular perfusion to target the anastomosis.*
+
+---
+
+**77. What staple cartridge is preferred for the circular anastomosis due to esophageal thickness in the authors' MIE technique?**
+
+- Blue (3.5 mm)
+- Purple (4.1 mm)
+- **Green (4.8 mm)**
+- Gold (3.8 mm)
+
+*Explanation: Due to the esophageal thickness, the green stapler (4.8-mm staples) is preferred when using the largest circular stapler anvil (25 mm).*
+
+---
+
+**78. How much tissue is left between the excess gastric tip staple line and the anastomosis in MIE Ivor Lewis?**
+
+- At least 0.5 cm
+- **At least 1 cm**
+- At least 2 cm
+- At least 3 cm
+
+*Explanation: Using a linear stapler, the excess gastric tip is resected, leaving at least 1 cm of tissue between this staple line and the anastomosis.*
+
+---
+
+**79. What is placed between the conduit and the airways to protect the anastomosis in MIE Ivor Lewis?**
+
+- A pledget of omentum
+- **The greater fat pad**
+- A pleural flap
+- A pericardial patch
+
+*Explanation: To protect the anastomosis posteriorly and avoid fistulization into the airways in case of leakage, the greater fat pad is positioned between the conduit and the airways.*
+
+---
+
+**80. How is the gastric conduit secured to prevent abdominal organ herniation into the chest in MIE Ivor Lewis?**
+
+- Sutured to the left diaphragm
+- Clipped to the mediastinal pleura
+- **Bound to the right diaphragm by an interrupted suture**
+- Attached to the thoracic duct remnant
+
+*Explanation: To avoid abdominal organ herniation into the chest, the gastric conduit is bound to the right diaphragm by an interrupted suture.*
+
+---
+
+**81. In an intrathoracic side-to-side linear stapled anastomosis, where is the stapler introduced?**
+
+- Through the esophageal stump
+- Through the anastomotic site
+- **Through a small gastrostomy placed next to the greater curve, approximately 5 or 6 cm from the top of the gastric conduit**
+- Through a separate port site
+
+*Explanation: The stapler is introduced through a small gastrostomy placed next to the greater curve, approximately 5 or 6 cm from the top of the gastric conduit.*
+
+---
+
+**82. What anastomotic technique is associated with lower incidence of anastomotic stricture with the Ivor Lewis approach?**
+
+- Circular stapled anastomosis
+- Handsewn anastomosis
+- **Stapled anastomosis, especially linear stapling**
+- Combined technique
+
+*Explanation: A stapled anastomosis is often preferred with the Ivor Lewis approach and has been shown to be associated with lower incidence of stricture, especially with linear stapling.*
+
+---
+
+**83. Above which vascular structure is the anastomosis preferably placed in the Ivor Lewis approach to reduce reflux?**
+
+- Above the diaphragm
+- Above the inferior pulmonary vein
+- **Above the azygos vein**
+- Above the carina
+
+*Explanation: The authors prefer to place the anastomosis above the azygos vein so that there is not much redundant stomach within the abdomen, which can predispose to severe gastroesophageal reflux.*
+
+---
+
+**84. For which clinical scenario is the minimally invasive McKeown esophagectomy preferred over MIE Ivor Lewis?**
+
+- Distal esophageal adenocarcinoma
+- GEJ tumors with gastric extension
+- **Cervical and upper thoracic esophageal cancers, long-segment Barrett's, or multifocal disease**
+- T1b intramucosal tumors
+
+*Explanation: The McKeown approach is a better choice for cervical and upper thoracic esophageal cancers, patients with a long-segment Barrett's esophagus, and patients with multifocal disease in which a total thoracic esophagectomy with a high anastomosis is required.*
+
+---
+
+**85. What catheter is used to deliver the gastric conduit to the neck in the minimally invasive McKeown procedure?**
+
+- A red rubber catheter
+- A Penrose drain
+- **A 22 French Foley catheter**
+- An umbilical tape
+
+*Explanation: A 22 French Foley catheter is then passed through the neck into the abdomen via the posterior mediastinum. The gastric conduit is secured to the Foley catheter, which is then withdrawn cervically to deliver the conduit to the neck.*
+
+---
+
+**86. What type of anastomosis is created in the minimally invasive McKeown procedure?**
+
+- Side-to-side linear stapled
+- Circular stapled end-to-side
+- **Two-layer, handsewn EEA**
+- Single-layer circular stapled
+
+*Explanation: A two-layer, handsewn EEA is then created in the minimally invasive McKeown procedure.*
+
+---
+
+**87. In minimally invasive transhiatal esophagectomy, to what level is transhiatal dissection carried?**
+
+- To the thoracic inlet
+- To the thoracic duct bifurcation
+- **To the level of the carina**
+- To the level of the azygos vein
+
+*Explanation: Transhiatal dissection is performed under direct visualization by enlarging the hiatus at the right crus and continuing esophageal mobilization to the level of the carina.*
+
+---
+
+**88. Who first reported robotic esophagectomy?**
+
+- James Luketich
+- Cuschieri et al.
+- **Melvin et al. in 2002**
+- DePaula et al.
+
+*Explanation: Melvin et al. were the first to report robotic esophagectomy in 2002.*
+
+---
+
+**89. In the robotic abdominal phase, where is the camera port placed relative to the xiphoid process?**
+
+- 8 cm inferior
+- 12 cm inferior
+- **18 cm inferior**
+- 24 cm inferior
+
+*Explanation: The camera port is located 18 cm inferior from the xiphoid process and is generally placed first.*
+
+---
+
+**90. How many robotic arms are used in the abdominal phase of robotic Ivor Lewis esophagectomy?**
+
+- One left and one right arm
+- **One left and two right arms**
+- Two left and two right arms
+- Two left and one right arm
+
+*Explanation: A single left robotic arm and two right robotic arms are used.*
+
+---
+
+**91. How far apart should the robotic arms be in a Da Vinci Si system during the abdominal phase?**
+
+- 5 cm
+- 7 cm
+- **Around 9 cm**
+- 12 cm
+
+*Explanation: The robotic arms should be around 9 cm apart from each other if an Si Da Vinci system is used (8 cm if an Xi Da Vinci system is used).*
+
+---
+
+**92. What percentage of patients may have an accessory or replaced left hepatic artery from the left gastric artery?**
+
+- 3%
+- 5%
+- 8%
+- **Up to 12%**
+
+*Explanation: An accessory or replaced left hepatic artery originating from the left gastric artery can be located in this area, as up to 12% of patients may have this variation.*
+
+---
+
+**93. What is the staple height used for creating the gastric conduit in robotic esophagectomy?**
+
+- 2.5 mm
+- 3 mm
+- 3.5 mm
+- **4 mm**
+
+*Explanation: The gastric conduit is created with a stapler (4-mm staple height, 45–60 mm length).*
+
+---
+
+**94. What position is the patient placed in for the thoracic phase of robotic Ivor Lewis esophagectomy?**
+
+- Left lateral decubitus
+- Supine with right thoracotomy
+- **Nearly prone position**
+- Right lateral decubitus
+
+*Explanation: The patient is positioned in a nearly prone position for the thoracic phase of robotic Ivor Lewis esophagectomy.*
+
+---
+
+**95. Which lymph node stations are resected after dividing the inferior pulmonary ligament in the robotic thoracic phase?**
+
+- Stations 4 and 5
+- Stations 6 and 7
+- **Stations 8 and 9**
+- Stations 10 and 11
+
+*Explanation: The lung is retracted anteriorly with the second left robotic arm, and the inferior pulmonary ligament is divided. Lymph nodes from stations 8 and 9 are resected.*
+
+---
+
+**96. Which lymph node station requires subcarinal dissection until the right mainstem bronchus, carina, and left mainstem are clearly visible?**
+
+- Station 4R
+- Station 8
+- **Station 7**
+- Station 9
+
+*Explanation: Lymph nodes from station 7 are resected so that the right mainstem bronchus, carina, and left mainstem are clearly visible.*
+
+---
+
+**97. What specific advantage does robotic dissection of the distal neck esophagus via the chest provide?**
+
+- Reduced blood loss
+- Faster operative time
+- **May significantly decrease the incidence of recurrent laryngeal nerve injury**
+- Better oncologic margins
+
+*Explanation: Much of the esophagus in the distal neck can be dissected via the chest with a right robotic approach; this is believed to be an added advantage of a robotic approach and may significantly decrease the incidence of recurrent laryngeal nerve injury.*
+
+---
+
+**98. What stapler height is used to divide the specimen from the gastric conduit in the thoracic phase of robotic esophagectomy?**
+
+- 2.5 mm
+- 3 mm
+- 3.5 mm
+- **4 mm**
+
+*Explanation: The specimen is divided from the gastric conduit with the stapler (4-mm staple height).*
+
+---
+
+**99. In the robotic handsewn anastomosis, what suture material is used for the outer layer?**
+
+- 2-0 Vicryl
+- 3-0 PDS
+- **3-0 silk sutures**
+- 4-0 Prolene
+
+*Explanation: A row of 3-0 silk sutures is placed for the outer layer and an inner layer of 3-0 absorbable sutures is placed for the inner layer.*
+
+---
+
+**100. In the robotic McKeown, what is placed around the esophagus in the chest to facilitate neck dissection?**
+
+- A vessel loop
+- An umbilical tape
+- **A Penrose drain**
+- A red rubber catheter
+
+*Explanation: It is helpful to place a Penrose drain around the esophagus in the chest and either staple or tie the ends together and push the drain into the superior mediastinum so that the esophagus can be more easily encircled during the neck dissection.*
+
+---
+
+**101. What functional impairments are relatively common after esophagectomy with gastric conduit reconstruction?**
+
+- Only reflux and regurgitation
+- Only dysphagia and weight loss
+- **Reflux (~40%), delayed gastric emptying (~40%), and dumping syndrome (~20%)**
+- Dumping and diarrhea only
+
+*Explanation: After esophagectomy with gastric conduit reconstruction, functional impairments are relatively common including reflux (~40%), delayed gastric emptying (~40%), and dumping syndrome (~20%).*
+
+---
+
+**102. What is the preferred gastric conduit width as recommended by the authors?**
+
+- Less than 4 cm
+- 4 cm
+- **Approximately 5 cm**
+- Greater than 6 cm
+
+*Explanation: Several studies reported an increased risk of ischemia and leak with a too-narrow diameter (<4 cm) of the gastric tube, which is why the authors favor a gastric conduit of approximately 5 cm width.*
+
+---
+
+**103. What tubularization of the stomach has been shown to reduce?**
+
+- Anastomotic stricture rate
+- Chylothorax rate
+- **Incidence of delayed gastric emptying and reflux esophagitis**
+- Pulmonary complication rate
+
+*Explanation: Tubularization of the stomach rather than the use of the entire stomach has been shown to reduce the incidence of delayed gastric emptying and reflux esophagitis.*
+
+---
+
+**104. What does meta-analysis show about the effect of pyloric drainage procedures on delayed gastric emptying?**
+
+- They significantly reduce delayed gastric emptying
+- They eliminate dumping syndrome
+- **They do not reduce the impact of delayed gastric emptying**
+- They are beneficial only in open esophagectomy
+
+*Explanation: Meta-analysis of multiple randomized controlled trials and cohort studies shows that pyloric drainage does not reduce the impact of delayed gastric emptying.*
+
+---
+
+**105. What is a potential disadvantage of pyloric emptying procedures?**
+
+- They increase anastomotic leak rate
+- They prolong conduit ischemia
+- **They can predispose patients to dumping syndrome and potentially unnecessary complications**
+- They increase the rate of chylothorax
+
+*Explanation: The use of these procedures can predispose patients to dumping syndrome and potentially unnecessary complications.*
+
+---
+
+**106. What intraoperative imaging technique has been shown on meta-analysis to reduce anastomotic leak and graft necrosis?**
+
+- Standard white-light laparoscopy
+- CT perfusion scan
+- **ICG fluorescence angiography**
+- Doppler ultrasound
+
+*Explanation: On meta-analysis, the use of ICG for conduit perfusion has been shown to reduce anastomotic leak and graft necrosis.*
+
+---
+
+**107. What is the proposed quantitative cutoff for adequate perfusion using ICG angiography?**
+
+- Perfusion within 30 seconds
+- Perfusion within 60 seconds
+- **Perfusion within 90 seconds**
+- Perfusion within 120 seconds
+
+*Explanation: Perfusion within 90 seconds is proposed as a quantitative cutoff for adequate perfusion.*
+
+---
+
+**108. What is the purpose of gastric conduit preconditioning?**
+
+- To increase conduit length
+- To reduce anastomotic tension
+- **To promote neovascularization of the conduit dependent on the right gastroepiploic pedicle**
+- To facilitate passage through the mediastinum
+
+*Explanation: The technique is performed by dividing the short gastric arteries and clipping or stapling the left gastric pedicle at an interval prior to esophagectomy to promote neovascularization of the conduit that is dependent on the right gastroepiploic pedicle.*
+
+---
+
+**109. What has gastric conduit preconditioning been associated with?**
+
+- Increased anastomotic leak rate
+- Reduced conduit perfusion
+- **Decreased stricture and overall anastomotic complication rate**
+- Increased conduit necrosis
+
+*Explanation: Conduit preconditioning has been associated with decreased stricture and overall anastomotic complication rate.*
+
+---
+
+**110. What has routine placement of a feeding jejunostomy been shown to decrease?**
+
+- Anastomotic leak rate
+- Pulmonary complication rate
+- **30-day all-cause mortality**
+- Length of intensive care unit stay
+
+*Explanation: Placement of a feeding tube has been shown to decrease 30-day all-cause mortality.*
+
+---
+
+**111. What is the overall incidence of paraconduit hernia after esophagectomy?**
+
+- Approximately 2%
+- Approximately 5%
+- **Approximately 10%**
+- Approximately 20%
+
+*Explanation: Paraconduit hernia is the herniation of abdominal contents through the hiatus after esophagectomy with an overall incidence of approximately 10%.*
+
+---
+
+**112. After which technique is paraconduit herniation more common?**
+
+- Open esophagectomy
+- Robotic esophagectomy alone
+- **MIE compared to open esophagectomy**
+- Transhiatal approach
+
+*Explanation: Paraconduit herniation is more common after MIE than open esophagectomy and is more common in young patients and those that have not received neoadjuvant therapy.*
+
+---
+
+**113. What is the theorized reason paraconduit hernia is more common after MIE?**
+
+- Greater dissection of the hiatus
+- Higher rates of pyloric dysfunction
+- **Minimal adhesion formation after minimally invasive techniques and potentially greater retraction and attenuation of the hiatus**
+- Earlier postoperative ambulation
+
+*Explanation: It is theorized that this is due to minimal adhesion formation after minimally invasive techniques as well as potentially greater retraction and attenuation of the hiatus.*
+
+---
+
+**114. How is paraconduit hernia repair typically best approached?**
+
+- Open laparotomy
+- Thoracotomy
+- **Laparoscopically**
+- Percutaneously
+
+*Explanation: If repair of paraconduit hernia is necessary, it is typically best approached laparoscopically.*
+
+---
+
+**115. What is the overall complication rate reported by large database studies inclusive of all esophagectomy techniques?**
+
+- 30%
+- 45%
+- **59%**
+- 72%
+
+*Explanation: Large database reports inclusive of all surgical techniques show an overall complication rate of 59%.*
+
+---
+
+**116. What is the most common complication following esophagectomy according to large database reports?**
+
+- Anastomotic leak
+- Atrial fibrillation
+- **Pneumonia (14.6%) and atrial dysrhythmias (14.5%)**
+- Wound infection
+
+*Explanation: The most common complications are pneumonia (14.6%) and atrial dysthymias (14.5%).*
+
+---
+
+**117. What is the overall anastomotic leak rate reported in large database studies of esophagectomy?**
+
+- 5.2%
+- 8.1%
+- **11.4%**
+- 15.6%
+
+*Explanation: Overall anastomotic leak rate was 11.4%, and mortality was 2.4% at 30 days and 4.5% at 90 days.*
+
+---
+
+**118. What is the 30-day mortality rate for esophagectomy in large database reports?**
+
+- 0.8%
+- 1.5%
+- **2.4%**
+- 5.0%
+
+*Explanation: Mortality was 2.4% at 30 days and 4.5% at 90 days.*
+
+---
+
+**119. What is the 90-day mortality rate for esophagectomy in large database reports?**
+
+- 2.4%
+- 3.5%
+- **4.5%**
+- 6.2%
+
+*Explanation: Mortality was 2.4% at 30 days and 4.5% at 90 days.*
+
+---
+
+**120. What approximate proportion of patients undergoing open esophagectomy develop cardiac complications?**
+
+- 5%
+- 10%
+- **Approximately 17%**
+- 25%
+
+*Explanation: Cardiac complications occur in approximately 17% of patients undergoing open esophagectomy, with the development of atrial fibrillation accounting for the majority of these complications.*
+
+---
+
+**121. Why is cervical anastomotic leak often associated with minimal morbidity?**
+
+- Because cervical leaks are small
+- Because cervical conduits have better perfusion
+- **Because spillage can be controlled by opening the wound or closed suction drainage and antibiotics**
+- Because cervical anastomoses heal faster
+
+*Explanation: Cervical anastomotic leak is often associated with minimal morbidity given the ability to control spillage by opening the wound or closed suction drainage and antibiotics.*
+
+---
+
+**122. Which of the following can allow successful healing of intrathoracic anastomotic leaks with conduit preservation?**
+
+- Open surgical re-anastomosis
+- Percutaneous drainage alone
+- **Intraluminal covered stents or endoluminal negative pressure devices**
+- Systemic corticosteroids
+
+*Explanation: Intraluminal covered stents or endoluminal negative pressure devices can allow for successful healing of anastomotic leaks with conduit preservation.*
+
+---
+
+**123. Which other surgical complication is specifically associated with a cervical anastomosis?**
+
+- Chylothorax
+- **Recurrent laryngeal nerve injury**
+- Bronchopleural fistula
+- Conduit necrosis
+
+*Explanation: Other surgical complications of note include recurrent laryngeal nerve injury, particularly with a cervical anastomosis, and chylothorax from damage to the thoracic duct.*
+
+---
+
+**124. What is a key advantage of MIE over open esophagectomy regarding pulmonary complications?**
+
+- Avoidance of general anesthesia
+- Use of epidural anesthesia
+- **Smaller incisions, avoiding rib spreading reduces pain; lung contusion minimized as retraction of the right lung is no longer necessary**
+- Routine bronchoscopy at end of procedure
+
+*Explanation: Smaller incisions and avoiding rib spreading significantly reduce postoperative pain, lung contusion is minimized as retraction of the right lung is no longer necessary, and occasionally single lung ventilation can be avoided by using a prone position.*
+
+---
+
+**125. In a recent meta-analysis of 15,790 esophagectomies, what was primarily responsible for the morbidity advantage with MIE?**
+
+- Reduced gastrointestinal complications
+- Lower anastomotic leak rates
+- **Pulmonary and cardiovascular complications, which were significantly lower for MIE**
+- Reduced recurrent laryngeal nerve injury
+
+*Explanation: Most of the morbidity advantage with MIE was attributable to pulmonary and cardiovascular complications, which were significantly lower for MIE.*
+
+---
+
+**126. What did the one-year follow-up of the TIME trial show regarding MIE compared to open esophagectomy?**
+
+- Higher late complication rate with MIE
+- Lower quality of life with MIE
+- **Similar rate of late complications and improved 1-year quality of life for MIE patients**
+- MIE associated with more anastomotic strictures
+
+*Explanation: One-year follow-up of this trial showed a similar rate of late complications among the groups and improved 1-year quality of life for MIE patients.*
+
+---
+
+**127. What did the ROBOT trial demonstrate when comparing robotic MIE to open esophagectomy?**
+
+- Equivalent complication rates
+- Higher quality of life with open surgery
+- **Fewer overall and pulmonary complications, lower postoperative pain scores, and improved quality of life with robotic MIE**
+- Longer operative time with robotic MIE
+
+*Explanation: The randomized ROBOT trial compared robotic MIE to open esophagectomy and showed fewer overall and pulmonary complications with robotic MIE, lower postoperative pain scores, and improved quality of life compared to open esophagectomy.*
+
+---
+
+**128. In modern series of multimodality therapy, what is the median survival after chemoradiotherapy and surgery for squamous cell carcinoma?**
+
+- 36 months
+- 48 months
+- **84 months**
+- 120 months
+
+*Explanation: In modern series of multimodality therapy, median survival after chemoradiotherapy and surgery is 84 months for squamous cell carcinoma and 43 months for esophageal adenocarcinoma.*
+
+---
+
+**129. In modern series of multimodality therapy, what is the median survival after chemoradiotherapy and surgery for esophageal adenocarcinoma?**
+
+- 24 months
+- 36 months
+- **43 months**
+- 60 months
+
+*Explanation: Median survival after chemoradiotherapy and surgery is 84 months for squamous cell carcinoma and 43 months for esophageal adenocarcinoma.*
+
+---
+
+**130. What did the 3-year follow-up of the TIME trial show regarding survival between MIE and open esophagectomy?**
+
+- Significantly better survival with open esophagectomy
+- Significantly better survival with MIE
+- **Similar survival outcomes: 36% disease-free 3-year survival in the open group versus 40% in the MIE group**
+- No difference in 5-year overall survival
+
+*Explanation: A recent 3-year follow-up of the TIME trial showed similar survival outcomes with a 36% disease-free 3-year survival in the open group versus 40% in the MIE group.*
+
+---
+
+**131. Definitive chemoradiotherapy for squamous cell carcinoma is associated with what rate of locoregional recurrence or persistence?**
+
+- Up to 20%
+- Up to 30%
+- **Up to 51%**
+- Up to 70%
+
+*Explanation: Although organ preservation is a considerable advantage in the nonoperative strategy, this approach is associated with high rates (up to 51%) of recurrence or persistence of locoregional disease.*
+
+---
+
+**132. Compared with curative intent esophagectomy after induction chemoradiation, what does propensity-matched analysis show about in-hospital mortality for salvage esophagectomy?**
+
+- Salvage esophagectomy has significantly higher mortality
+- Salvage esophagectomy has lower mortality
+- **In-hospital mortality is not different between the two**
+- Salvage esophagectomy has twice the mortality
+
+*Explanation: Propensity-matched analysis showed that in hospital mortality is not different between salvage esophagectomy and curative intent esophagectomy after induction chemoradiation.*
+
+---
+
+**133. What complications are higher in patients undergoing salvage esophagectomy compared to planned resection?**
+
+- Higher pulmonary and cardiac complications
+- Higher intraoperative blood loss only
+- **Higher rates of anastomotic leak and wound complications**
+- Higher rates of chylothorax
+
+*Explanation: However, patients undergoing salvage may have higher rates of anastomotic leak and wound complications with comparable 3-year overall and disease-free survival.*
+
+---
+
+**134. What are the most common indications for esophagectomy in benign disease?**
+
+- Achalasia and diverticula
+- Barrett's esophagus and stricture
+- **Obstruction (from caustic ingestion or reflux), unsalvageable perforation, or dysmotility (end-stage achalasia or scleroderma)**
+- Esophageal varices and perforation
+
+*Explanation: The most common indications for resection in benign disease are obstruction (from caustic ingestion or reflux disease), unsalvageable perforation, or dysmotility (due to end-stage achalasia or scleroderma).*
+
+---
+
+**135. In the setting of benign disease with significant posterior mediastinal contamination or fibrosis, what reconstruction route may be appropriate?**
+
+- Posterior mediastinal route
+- Subcutaneous route
+- **Retrosternal conduit**
+- Transpleural route
+
+*Explanation: In the setting of significant posterior mediastinal contamination or fibrosis, reconstruction with a retrosternal conduit may be appropriate and the use of nongastric conduits may be required.*
+
+---
+
+**136. What overall 5-year survival can a tailored approach to esophageal cancer management achieve in modern series?**
+
+- 20%
+- 30%
+- 40%
+- **50%**
+
+*Explanation: A tailored approach to the management of these patients can now result in an overall 5-year survival of 50%, which is a dramatic improvement compared with the dismal results reported in the (recent) past.*
+
+---
+
+**137. Advanced age alone should NOT be considered a contraindication to esophagectomy because:**
+
+- Elderly patients require shorter operations
+- Elderly patients have better cardiopulmonary reserve
+- **With the use of minimally invasive techniques, elderly patients have similar short- and long-term outcomes after esophagectomy**
+- Elderly patients tolerate blood loss better
+
+*Explanation: Advanced age alone should not be considered a contraindication for esophageal resection; with the use of minimally invasive techniques, elderly patients have similar short- and long-term outcomes after esophagectomy.*
+
+---
+
+**138. What preoperative workup should be included when evaluating benign esophageal disease before esophagectomy?**
+
+- Cardiac catheterization and PET scan
+- Colonoscopy and PET scan
+- **Records of prior operations, cross-sectional imaging, endoscopy, and barium swallow**
+- EUS and staging laparoscopy only
+
+*Explanation: Meticulous preoperative workup should include records of prior operations, cross-sectional imaging, endoscopy, and barium swallow as the operation must be individualized to the specific patient scenario.*
+
+---
+
+**139. What does the FRENCH MIRO trial demonstrate about hybrid transthoracic esophagectomy?**
+
+- No benefit over open technique
+- Increased complications versus open
+- **A similar reduction in postoperative complications even with laparoscopic abdominal mobilization and thoracotomy**
+- Significant mortality reduction
+
+*Explanation: The French MIRO trial showed a similar reduction in postoperative complications even with hybrid transthoracic esophagectomy with laparoscopic abdominal mobilization and thoracotomy.*
+
+---
+
+**140. What is the role of single-lung ventilation in MIE?**
+
+- It is absolutely required for all MIE cases
+- It is contraindicated in MIE
+- **It is preferred but not always necessary to maximize exposure**
+- It is only used in robotic cases
+
+*Explanation: Single lung ventilation is preferred—although not always necessary—to maximize exposure in MIE.*
+
+---
+
+**141. Why might improved leukocyte counts and IL-8 levels be observed in MIE patients?**
+
+- Due to more extensive lymphadenectomy
+- Due to longer operative time
+- **The immune system plays a role: improved immunological responses were observed in patients who underwent MIE**
+- Due to use of ICG in MIE
+
+*Explanation: The immune system seems to play an important role: improved leukocyte counts, interleukin (IL)-8 levels, and stress response were in fact observed in patients who underwent MIE.*
+
+---
+
+**142. What is the significance of tumor location for the selection between Ivor Lewis and McKeown esophagectomy?**
+
+- It determines the need for lymphadenectomy
+- **Middle-distal esophageal tumors often use Ivor Lewis; high/high-middle esophageal tumors may require McKeown with cervical anastomosis**
+- It determines whether robotic technique is used
+- It determines whether neoadjuvant therapy is needed
+
+*Explanation: For middle-distal esophageal and gastroesophageal tumors, Ivor Lewis esophagectomy is often sufficient, whereas for high and high-middle esophageal tumors, a complete esophagectomy with a cervical anastomosis may be required.*
+
+---
+
+**143. How are true cervical esophageal cancers (typically squamous cell carcinoma) primarily treated?**
+
+- Primary surgical resection
+- Endoscopic mucosal resection
+- **Definitive chemoradiation with laryngopharyngectomy reserved for salvage cases**
+- Photodynamic therapy
+
+*Explanation: True cervical esophageal cancers (typically squamous cell carcinoma) are treated with definitive chemoradiation with laryngopharyngectomy reserved for salvage cases.*
+
+---
+
+**144. What is the most important prerequisite to perform minimally invasive esophagectomy?**
+
+- Availability of a robotic platform
+- Hospital volume of >50 cases per year
+- **Institutional availability of advanced minimally invasive equipment and the surgeon's skill with minimally invasive procedures**
+- Dedicated thoracic ICU
+
+*Explanation: The most important prerequisites to perform an MIE are the institutional availability of advanced minimally invasive equipment and the surgeon's skill with minimally invasive procedures.*
+
+---
+
+**145. In the Ivor Lewis abdominal phase, what is the importance of dissecting retroperitoneal tissue above the pancreas overlying the right crus?**
+
+- To access the splenic artery
+- To prevent pancreatic injury
+- **To dissect it medially and superiorly to remain attached to the esophagectomy specimen**
+- To identify the celiac axis
+
+*Explanation: The retroperitoneal tissue above the pancreas overlying the right crus of the diaphragm is dissected medially and superiorly to remain attached to the esophagectomy specimen.*
+
+---
+
+**146. What procedure may be performed at the end of the abdominal phase of open Ivor Lewis esophagectomy if desired?**
+
+- Cholecystectomy
+- Colostomy
+- **A pyloric emptying procedure**
+- Splenectomy
+
+*Explanation: A pyloric emptying procedure may be performed if desired, and a feeding jejunostomy is placed at the end of the abdominal phase.*
+
+---
+
+**147. In the open Ivor Lewis thoracic phase, what is the purpose of incising the inferior pulmonary ligament?**
+
+- To access the pericardium
+- **To divide it to the level of the inferior pulmonary vein**
+- To access the thoracic duct
+- To expose the azygos vein
+
+*Explanation: The inferior pulmonary ligament is divided to the level of the inferior pulmonary vein.*
+
+---
+
+**148. What structure is used to encircle the thoracic esophagus for traction in the open Ivor Lewis thoracic phase?**
+
+- An umbilical tape
+- A vessel loop
+- **A Penrose drain**
+- A ribbon retractor
+
+*Explanation: The thoracic esophagus is then encircled with a Penrose drain for traction.*
+
+---
+
+**149. What is the rationale for extensive lymphadenectomy beyond staging purposes in esophageal cancer?**
+
+- To allow safe reconstruction
+- To facilitate conduit passage
+- **There is an independent survival benefit to lymphadenectomy of at least 18 lymph nodes**
+- To reduce anastomotic tension
+
+*Explanation: In addition to the importance of extensive lymphadenectomy for accurate staging, there is an independent survival benefit to a lymphadenectomy of at least 18 lymph nodes.*
+
+---
+
+**150. Which patients with esophageal cancer are candidates for surgical resection according to stage?**
+
+- T4b disease only
+- All patients regardless of stage
+- **Patients with early (T1b-2N0) or locoregional disease (T2-4aN0-3)**
+- Only T1 intramucosal disease
+
+*Explanation: Patients with early (T1b-2N0) or locoregional disease (T2-4aN0-3) are considered candidates for esophageal resection.*
+
+---
+
+**151. What defines an absolute contraindication to a minimally invasive approach in esophagectomy?**
+
+- Prior abdominal surgery
+- Obesity (BMI >35)
+- Locally advanced T4a disease
+- **There are no absolute contraindications to a minimally invasive approach**
+
+*Explanation: There are no absolute contraindications to a minimally invasive approach (either thoracoscopic/laparoscopic or robotic).*
+
+---
+
+**152. Which trial provided the only randomized controlled study comparing MIE versus open esophagectomy, showing decreased respiratory complications?**
+
+- MIRO trial
+- ROBOT trial
+- CROSS trial
+- **TIME trial**
+
+*Explanation: Only one randomized controlled study of MIE versus open esophagectomy has published its results so far (the TIME trial) and showed significantly decreased respiratory complications, shorter length of hospital stay, and improved short-term quality of life with MIE.*
+
+---
+
+**153. Why does the need for extensive resection margins exist in esophageal cancer?**
+
+- Due to risk of intraoperative tumor rupture
+- Due to risk of serosal involvement
+- **Due to frequent submucosal and lymphatic spread of tumor well beyond the visible macroscopic tumor**
+- Due to risk of anastomotic seeding
+
+*Explanation: The need for extensive margins is due to frequent submucosal and lymphatic spread of tumor well beyond the visible macroscopic tumor.*
+
+---
+
+**154. In MIE, what is the purpose of the transhiatal dissection of the esophagus performed during the abdominal phase?**
+
+- To create the gastric conduit
+- To complete the lymphadenectomy of the celiac axis
+- **To expose and remove the paracardial and lower paraesophageal nodes, which are harder to expose from the chest**
+- To mobilize the left lobe of the liver
+
+*Explanation: After the stomach is completely mobilized, a transhiatal dissection of the esophagus is performed, exposing and carefully removing the paracardial and lower paraesophageal nodes, which are harder to expose from the chest.*
+
+---
+
+**155. What does retrospective data show when comparing robotic esophagectomy with nonrobotic MIE?**
+
+- Robotic esophagectomy has longer operative times
+- Robotic esophagectomy harvests fewer lymph nodes
+- **Similar operative times, estimated blood loss, resected lymph nodes, postoperative length of stay, and complications**
+- Robotic esophagectomy has significantly higher costs with worse outcomes
+
+*Explanation: Retrospective data comparing robotic esophagectomy with nonrobotic MIE showed similar operative times, estimated blood loss, resected lymph nodes, postoperative length of stay, and complications.*
+
+---
+
+**156. After how many robotic esophagectomy cases has a significant improvement in speed been described?**
+
+- After 5 cases
+- After 10 cases
+- **After the first 20 cases**
+- After 35 cases
+
+*Explanation: Overall operative times of robotic esophagectomy have been comparable to nonrobotic MIE; a significant improvement in speed after the first 20 cases has been described.*
+
+---
+
+**157. What approach is preferred for the minimally invasive Ivor Lewis esophagectomy in the Western world and why?**
+
+- McKeown approach, due to easier anastomosis
+- Transhiatal approach, due to less morbidity
+- **MIE Ivor Lewis, because adenocarcinoma of the lower esophagus is the most prevalent subtype in the United States and Europe**
+- Robotic Ivor Lewis, due to better visualization
+
+*Explanation: In the Western world, the minimally invasive Ivor Lewis approach is most commonly used because adenocarcinoma of the lower esophagus is the most prevalent subtype in the United States and Europe.*
+
+---
+
+**158. In the MIE abdominal phase, which lymph nodes are specifically mentioned as being dissected separately and sent to pathology?**
+
+- Paracardial and inferior mesenteric nodes
+- Paraaortic and pericaval nodes
+- **Nodes of the hepatic, left gastric, and splenic arteries**
+- Perigastric and omental nodes
+
+*Explanation: A complete lymph node dissection of the hepatic, the left gastric, and the splenic arteries is performed, and the nodes are sent separately to pathology for evaluation.*
+
+---
+
+**159. What is the most important reason the gastric tube orientation must be correct when pulled into the thorax?**
+
+- To allow correct anastomotic configuration
+- To prevent conduit ischemia
+- **To avoid spiraling or twisting of the conduit**
+- To allow adequate conduit length
+
+*Explanation: It is extremely important that the gastric tube has a proper orientation to avoid spiraling or twisting of the conduit.*
+
+---
+
+**160. In the MIE thoracic phase, what is done with the proximal esophageal margin after division?**
+
+- It is discarded immediately
+- It is sent for permanent section only
+- **It is sent for frozen-section pathologic evaluation to rule out cancer or Barrett's mucosa**
+- It is used to create the posterior wall of the anastomosis
+
+*Explanation: The proximal margin is sent for frozen-section pathologic evaluation to rule out cancer or Barrett's mucosa.*
+
+---
+
+**161. What is the treatment approach for patients with nonregional or bulky lymph node disease without distant metastases?**
+
+- Immediate surgery
+- Palliative chemotherapy alone
+- Definitive radiotherapy alone
+- **Optimal treatment should be determined by a multidisciplinary tumor board**
+
+*Explanation: Those patients with nonregional or bulky lymph node disease in the absence of distant metastases represent a challenging and heterogeneous group whose optimal treatment should be determined by a multidisciplinary tumor board.*
+
+---
+
+**162. Which of the following is a known advantage of laparoscopic hand-assisted esophagectomy (HALS)?**
+
+- Avoids the need for laparoscopic instruments
+- Allows thorough thoracic lymphadenectomy
+- **Tactile sensation facilitates gentle manipulation and blunt dissection, leading to a quicker operation**
+- Eliminates the need for a skilled assistant
+
+*Explanation: The advantage of the tactile sensation with the surgeon's hand facilitates gentle manipulation, blunt dissection, leading to a quicker operation.*
+
+---
+
+**163. What is the primary limitation of all currently available risk stratification tools for esophagectomy?**
+
+- They overestimate operative risk
+- They underestimate anastomotic leak rate
+- **They are limited for esophagectomy**
+- They cannot predict respiratory complications
+
+*Explanation: Current risk stratification tools are limited for esophagectomy, and a careful clinical assessment and shared decision making is indispensable.*
+
+---
+
+**164. Which dietary and behavioral modifications are recommended postoperatively after esophagectomy to minimize functional complications?**
+
+- Large meals twice daily and lying flat after eating
+- High-fat diet and prokinetic agents
+- **Frequent small meals, elevated head of bed, and proton pump inhibitors**
+- Liquid-only diet and erect positioning during meals only
+
+*Explanation: Postoperative counseling focuses on dietary and behavioral modifications to prevent these complications, such as frequent small meals, elevated head of bed, and prescription of proton pump inhibitors.*
+
+---
+
+**165. What is the significance of the diaphragmatic vein in esophageal hiatal surgery?**
+
+- It provides the dominant blood supply to the conduit
+- It marks the border of the mediastinal pleura
+- **It often needs to be ligated when incising the diaphragmatic hiatus**
+- It should be preserved to prevent lymphatic leak
+
+*Explanation: Often the diaphragmatic vein needs to be ligated when incising the diaphragmatic hiatus.*
+
+---
+
+**166. Why is the gastroepiploic arcade carefully preserved during gastrocolic omentum division?**
+
+- To allow creation of an omental wrap
+- To maintain pyloric function
+- **Because it provides the primary blood supply to the gastric conduit**
+- To prevent pancreatic ischemia
+
+*Explanation: The gastrocolic omentum is divided, carefully preserving the gastroepiploic arcade, as this arcade provides the primary vascular supply to the gastric conduit.*
+
+---
+
+**167. Which additional imaging is performed if the patient has neurologic symptoms or headaches before esophagectomy?**
+
+- Spinal MRI
+- PET scan of the head
+- **Brain imaging**
+- Carotid Doppler ultrasound
+
+*Explanation: Brain imaging is performed if the patient has neurologic symptoms or headaches that are concerning for intracranial metastases.*
+
+---
+
+**168. What is the role of the Penrose drain left in the mediastinum during the MIE abdominal phase?**
+
+- To drain the mediastinum postoperatively
+- To mark the extent of dissection
+- **To help the esophageal dissection during the thoracic phase by encircling the distal esophagus for retraction**
+- To guide conduit passage
+
+*Explanation: A Penrose drain is used to encircle the distal esophagus for retraction, and it is left in the mediastinum to help the esophageal dissection during the thoracic phase.*
+
+---
+
+**169. Which study on esophageal cancer describes the CROSS protocol regimen?**
+
+- Al-Batran et al. (FLOT4)
+- Cunningham et al. (MAGIC)
+- **van Hagen et al. – preoperative chemoradiotherapy for esophageal or junctional cancer**
+- Kelly et al. – adjuvant nivolumab
+
+*Explanation: The CROSS protocol is described in: van Hagen P, Hulshof MC, van Lanschot JJ, et al. Preoperative chemoradiotherapy for esophageal or junctional cancer. N Engl J Med. 2012.*
+
+---
+
+**170. What is the significance of the right gastroepiploic pedicle mobilization to its base during the MIE abdominal phase?**
+
+- It allows a Kocher maneuver to be avoided
+- It facilitates creation of a wider gastric tube
+- **It is very important to obtain transposition of the conduit within the chest without tension on the anastomosis**
+- It prevents postoperative dumping syndrome
+
+*Explanation: When the greater curvature is completely mobilized, the stomach is lifted to dissect the retroperitoneal attachments and mobilize the right gastroepiploic pedicle to its base. This maneuver is very important to obtain transposition of the conduit within the chest without tension on the anastomosis.*
