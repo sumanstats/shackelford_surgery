@@ -9,7 +9,7 @@ format:
     slide-number: true
     chalkboard: false
     preview-links: auto
-    css: css/mystyle.css
+    css: [css/mystyle.css, css/boxstyle.css]
 
 execute:
   freeze: auto

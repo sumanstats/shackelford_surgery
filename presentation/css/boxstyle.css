@@ -1,0 +1,26 @@
+.my_custom_box {
+  display: block;             /* Forces block layout even if parsed as a span */
+  box-sizing: border-box;     /* Prevents borders from blowing out column widths */
+  padding: 0.3em;
+  border: 3px solid #2780e3;
+  border-radius: 10px;
+  background-color: #f8f9fa;
+  color: inherit;           
+}
+
+/* 1. System-level dark mode (OS/browser preference) */
+@media (prefers-color-scheme: dark) {
+  .my_custom_box {
+    background-color: #1a1d21;  
+    border-color: #4dabf7;      
+  }
+}
+
+/* 2. Explicit Quarto/Revealjs dark-theme overrides */
+/* Fixed missing spaces and corrected HTML target for Quarto dark mode */
+.reveal .has-dark-background .my_custom_box,
+html[data-theme="dark"] .my_custom_box,
+body.quarto-dark .my_custom_box {
+  background-color: #1a1d21 !important; /* !important ensures it beats the light mode default */
+  border-color: #4dabf7 !important;
+}

@@ -14,6 +14,7 @@ files <- list.files(
   "presentation/_presentation",
   full.names = TRUE,
   all.files = TRUE,
+  recursive = TRUE,
   no.. = TRUE
 )
 
