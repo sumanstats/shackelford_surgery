@@ -1,0 +1,211 @@
+---
+title: "NCCN Guidelines for Gastric Cancer"
+subtitle: "Version 2.2026 | January 21, 2026"
+format: 
+  revealjs:
+    theme: dark
+    smaller: true
+    scrollable: true
+---
+
+## Overview & Epidemiology
+
+- **Global Burden**: 5th most frequently diagnosed cancer & 5th leading cause of cancer-related death worldwide
+- **Histology**: >95% adenocarcinomas
+  - *Anatomic*: Cardia/proximal vs. non-cardia/distal
+  - *Lauren Classification*: Intestinal (mass-forming, environmental/dietary) vs. Diffuse (discohesive, heritable)
+- **Risk Factors**: *H. pylori* infection, smoking, high salt intake, obesity, hereditary syndromes (CDH1, Lynch, FAP, Juvenile Polyposis)
+- **Prognosis**: Often diagnosed at advanced stage; early detection (screening programs) significantly improves survival
+
+## AJCC TNM Staging (8th Edition)
+
+- **Clinical (cTNM)**, **Pathologic (pTNM)**, **Post-neoadjuvant (ypTNM)**
+- **Primary Tumor (T)**:
+  - Tis/T1a: Mucosa | T1b: Submucosa | T2: Muscularis propria
+  - T3: Subserosa | T4a: Serosa | T4b: Adjacent structures
+- **Regional Nodes (N)**:
+  - N0 | N1 (1–2) | N2 (3–6) | N3a (7–15) | N3b (≥16)
+- **Distant Metastasis (M)**: M0 | M1
+- **EGJ Tumors**: Epicenter >2 cm into proximal stomach → staged as gastric carcinoma
+
+## Initial Workup & Evaluation (GAST-1)
+
+- **Imaging & Endoscopy**:
+  - H&P, CBC, comprehensive chemistry profile
+  - EGD + multiple biopsies (6–8)
+  - CT chest/abdomen/pelvis with oral & IV contrast
+  - FDG-PET/CT (locally advanced/metastatic)
+  - EUS (preferred for early vs. locally advanced staging)
+- **Biomarker Testing (Universal/Newly Diagnosed)**:
+  - MSI (PCR/NGS) or MMR (IHC)
+  - PD-L1 (IHC, CPS)
+  - HER2 & CLDN18.2 (if advanced/metastatic suspected)
+  - Consider NGS
+- **Additional**: Nutritional assessment, smoking cessation, family history screening, *H. pylori* testing/eradication, distress screening, Siewert classification
+
+## Multidisciplinary Review & Primary Pathways (GAST-2)
+
+- **Localized (cTis/cT1a)**: Endoscopic resection (ER) or surgery
+- **Locoregional (cT1b–cT4a, cM0)**:
+  - *Medically fit, resectable*: Surgery ± perioperative systemic therapy
+  - *Medically fit, unresectable*: Chemoradiation or systemic therapy
+  - *Nonsurgical candidate*: ER (early) or palliative management
+- **Metastatic (cM1)**: Palliative management/best supportive care
+- **Staging Laparoscopy**: Recommended for cT1b+ to evaluate peritoneal spread; cytology+ = pM1
+
+## Response Assessment & Additional Management (GAST-3)
+
+- **Post-Perioperative Therapy Restaging**:
+  - CT chest/abdomen/pelvis ± FDG-PET/CT
+  - EGD + biopsy (if neoadjuvant ICI used for MSI-H/dMMR)
+- **Management Based on Response**:
+  - *Resectable*: Proceed to surgery (preferred)
+  - *Persistent local disease*: Surgery or palliative management
+  - *New metastatic/unresectable*: Palliative management
+- **MSI-H/dMMR with Complete Clinical Response**: Multidisciplinary decision for observation vs. surgery
+
+## Postoperative Management: No Prior Systemic Therapy (GAST-4)
+
+- **R0 Resection**:
+  - `pTis / pT1a / superficial pT1b (≤500 μm), N0` → Observation
+  - `Deep pT1b (>500 μm) or pT2, N0` → Observation or fluoropyrimidine-based chemoradiation (if high-risk features)
+  - `pT3–pT4 or Any N+` → 
+    - `< D2 dissection`: Fluoropyrimidine → chemoradiation → fluoropyrimidine **(Category 1)**
+    - `D2 dissection`: Postoperative chemotherapy **(Category 1)**
+- **R1/R2 Resection**: Fluoropyrimidine-based chemoradiation or palliative management
+
+## Postoperative Management: Prior Systemic Therapy (GAST-5)
+
+- **R0 Resection**: Continue systemic therapy **(Category 1)**
+- **R1 Resection**: Chemoradiation (fluoropyrimidine-based) or consider re-resection
+- **R2 Resection**: Chemoradiation or palliative management
+- **ypM1 Disease**: Palliative management
+- Follow all patients per surveillance guidelines (GAST-7)
+
+## Principles of Endoscopic Staging & Therapy (GAST-A)
+
+- **Diagnosis**: Map tumor location; take 6–8 biopsies; larger forceps improve yield
+- **Staging**: EUS assesses T/N depth; FNA for suspicious nodes/ascites
+- **Early-Stage Therapy (EMR/ESD)**:
+  - Curative features: ≤2 cm, well/moderately differentiated, ≤500 μm invasion, no LVI, clear margins
+  - Expanded criteria per Japanese/US guidelines
+  - Unfavorable histology/deep invasion/LVI → Gastrectomy + lymphadenectomy
+- **Palliative Endoscopy**: SEMS for obstruction, ablation for bleeding, feeding tubes for nutrition
+
+## Principles of Pathologic Review & Biomarker Testing (GAST-B)
+
+- **Pathology Report**: Invasion depth, histologic type, grade, margins, LVI, lymph nodes recovered (goal ≥16)
+- **Treatment Response Scoring**: 0 (Complete) → 3 (Poor/No response)
+- **HER2**: IHC 3+ or 2+/ISH+ → Trastuzumab eligible
+- **CLDN18.2**: ≥75% viable cells with moderate/strong membrane staining → Zolbetuximab eligible
+- **MSI/MMR**: Universal testing; refer positive cases to genetics
+- **PD-L1**: Universal testing; CPS ≥1 positive; TAP score highly concordant & interchangeable
+- **ctDNA/Liquid Biopsy**: Consider when tissue limited or biopsy unsafe
+
+## Principles of Surgery (GAST-C)
+
+- **Goal**: R0 resection with negative margins
+- **Resection Types**: Distal, subtotal, or total gastrectomy based on location
+- **Lymphadenectomy**:
+  - D1: Perigastric nodes
+  - D2: D1 + celiac axis nodes (left gastric, common hepatic, splenic arteries)
+  - Goal: Examine ≥16 nodes
+- **Minimally Invasive**: Considered in experienced centers; not recommended for T4b or bulky N2
+- **Palliative**: Gastrojejunostomy, SEMS, venting/feeding tubes; lymph node dissection not required
+
+## Principles of Radiation Therapy (GAST-G)
+
+- **Planning**: Multidisciplinary review, CT simulation, IMRT/3D-CRT preferred
+- **Target Volumes**: Tumor bed, anastomosis, location-specific nodal basins
+- **Dose**: 45–50.4 Gy in 1.8 Gy daily fractions; boost possible for positive margins
+- **Organ Constraints**: Strict limits for lungs, heart, liver, kidneys, bowel, spinal cord
+- **Supportive Care**: Weekly monitoring, prophylactic antiemetics, nutrition support (<1500 kcal/day → enteral/IV)
+- **Preoperative RT**: Not routinely recommended for resectable gastric cancer
+
+## Combined Modality & Perioperative Therapy (GAST-F)
+
+- **Perioperative Systemic Therapy**: Category 1 for resectable ≥cT2
+- **Preferred Regimens**:
+  - FLOT **(Category 1)**
+  - FLOT + durvalumab: 
+    - PD-L1 CPS≥1 or TAP≥1% **(Cat 1)**
+    - cN0, PD-L1<1, or diffuse type **(Cat 2B)**
+- **Postoperative Therapy**:
+  - `< D2 dissection`: Chemoradiation (fluoropyrimidine-based)
+  - `D2 dissection`: Chemotherapy (capecitabine/oxaliplatin or FOLFOX) **(Cat 1)**
+- **Neoadjuvant ICI (MSI-H/dMMR)**: Nivo+ipi→nivo, pembrolizumab, dostarlimab, tremelimumab+durvalumab **(Cat 2A)**
+
+## First-Line Systemic Therapy: Advanced/Metastatic
+
+- **HER2-Positive**:
+  - Fluoropyrimidine + oxaliplatin/cisplatin + trastuzumab ± pembrolizumab (if PD-L1 CPS≥1)
+- **HER2-Negative**:
+  - PD-L1 CPS≥1: Add ICI (nivolumab, pembrolizumab, tislelizumab) to fluoropyrimidine/platinum
+  - CLDN18.2-Positive: Add zolbetuximab to fluoropyrimidine + oxaliplatin
+- **MSI-H/dMMR (Any PD-L1)**: Pembrolizumab, dostarlimab, nivo+ipi, or chemo+ICI
+- **General**: Oxaliplatin preferred over cisplatin; 2-drug regimens preferred for lower toxicity
+
+## Second-Line & Subsequent Therapy
+
+- **Preferred (Category 1)**:
+  - Ramucirumab + paclitaxel
+  - Docetaxel, paclitaxel, irinotecan, FOLFIRI
+  - Trifluridine/tipiracil (3rd line+)
+- **HER2-Positive**: Fam-trastuzumab deruxtecan-nxki **(Category 1)**
+- **Other Recommended**: Ramucirumab monotherapy, ramucirumab + FOLFIRI/irinotecan
+- **Targeted/Useful in Certain Circumstances**:
+  - NTRK fusion: Entrectinib, larotrectinib, repotrectinib
+  - MSI-H/dMMR: Pembrolizumab, nivo+ipi, dostarlimab
+  - TMB-H: Pembrolizumab
+  - BRAF V600E: Dabrafenib + trametinib
+  - RET fusion: Selpercatinib
+
+## Peritoneal Carcinoma as Only Disease (GAST-10)
+
+- **Initial Workup**: CT, diagnostic laparoscopy with PCI staging, consider PET/EGD
+- **Systemic Therapy**: Minimum 3 months → Restage
+- **Low PCI (≤10), Stable/Improved, No Extraperitoneal Disease**:
+  - *Complete cytoreduction predicted*: Gastrectomy + cytoreduction + IC/HIPEC or continue systemic therapy
+  - *Incomplete predicted*: Clinical trial or continue systemic therapy
+- **High PCI (>10), Progression, or Extraperitoneal Disease**: Systemic therapy, trial, or best supportive care
+- **IC/HIPEC**: Multidisciplinary decision; PIPAC investigational only
+
+## Follow-up & Surveillance (GAST-7)
+
+- **H&P**: Every 3–6 mo (yrs 1–2), then 6–12 mo (yrs 3–5)
+- **Early Stage (Tis/T1a post-ER)**: EGD q6mo ×1 yr, then annually ×3–5 yrs
+- **Stage I (post-surgery) / Partial Gastrectomy**: EGD as clinically indicated
+- **Stage II/III**: CT chest/abdomen/pelvis q6mo ×2 yrs, then annually ×5 yrs
+- **Nutritional Monitoring**: Lifelong management of B12, iron, Ca, Vit D, zinc deficiencies post-gastrectomy
+- **Beyond 5 Years**: Consider based on risk factors/comorbidities; routine cancer-specific surveillance not mandated
+
+## Survivorship & Long-Term Care (GAST-I)
+
+- **General Issues**: Weight management, diarrhea, chemotherapy-induced neuropathy (duloxetine), fatigue, bone health screening
+- **Gastrectomy-Specific**:
+  - Dumping syndrome (early/late), postprandial fullness, SIBO
+  - Dietary modifications: Small frequent meals, avoid fluids with meals, high protein/fiber, low simple carbs
+- **Supplementation**: Daily multivitamin, B12, Ca, Vit D; monitor levels regularly
+- **SIBO Management**: Rifaximin + low-carb/high-protein diet
+- **Care Coordination**: Clear roles between oncology & PCP, survivorship care plan, health behavior counseling
+
+## Palliative & Best Supportive Care (GAST-J)
+
+- **Performance Status Drives Therapy**:
+  - KPS ≥60% or ECOG ≤2 → Systemic therapy/chemoradiation + BSC
+  - KPS <60% or ECOG ≥3 → Best supportive care only
+- **Bleeding**: Endoscopy, IR embolization, EBRT, palliative gastrectomy
+- **Obstruction**: SEMS stenting, gastrojejunostomy, venting/feeding tubes, EBRT/chemotherapy
+- **Pain**: EBRT, systemic therapy, NCCN pain guidelines; remove stent if severe uncontrolled pain
+- **Nausea/Vomiting**: NCCN antiemesis guidelines; rule out luminal obstruction
+
+## Summary & Key Takeaways
+
+- Multidisciplinary management is foundational to optimal care
+- Universal biomarker testing (MSI/MMR, PD-L1, HER2, CLDN18.2, NGS) standardizes treatment selection
+- Early stage → Endoscopic resection or surgery; ≥T2 → Perioperative chemo ± ICI (MSI-H/dMMR)
+- Postoperative therapy dictated by margin status, nodal burden, and D1/D2 dissection extent
+- Advanced disease → Biomarker-driven first-line therapy; ICI + chemo standard for PD-L1+/MSI-H
+- Survivorship requires proactive nutritional, metabolic, and bone health monitoring
+- Early integration of palliative care improves quality of life and may extend survival
+

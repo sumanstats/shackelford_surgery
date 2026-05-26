@@ -4,17 +4,9 @@ format:
   revealjs:
     theme: dark
     smaller: true
-    scrollable: true
 ---
 
-
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
+# Introduction
 
 ## Overview
 
@@ -81,8 +73,9 @@ Four layers (inner to outer):
 
 ---
 
+# Cervical Esophagus
 
-## Cervical Esophagus Anatomy & Approach
+## Anatomy & Approach
 
 - Length: **5 cm** (C6 to suprasternal notch)  
 - Shifts to **left** at base of neck → best approach via **left neck incision**  
@@ -117,21 +110,21 @@ Four layers (inner to outer):
 
 ---
 
-## Upper Esophageal Sphincter (UES)
+# Upper Esophageal Sphincter (UES)
 
-#### Muscular Components
+## Muscular Components
 
 - Three bilateral constrictor muscles (inferior, middle, superior)  
 - **Cricopharyngeal muscle** – continuous band from cricoid cartilage  
 - Blends with inferior pharyngeal constrictor & circular esophageal muscle
 
-#### Killian’s Triangle
+## Killian’s Triangle
 
 - Weak area **between** inferior constrictor and cricopharyngeal muscle  
 - **Zenker’s (pulsion) diverticulum** can form here  
 - Associated with cricopharyngeal hypertrophy or dysmotility
 
-#### UES Function
+## UES Function
 
 - High‑pressure zone: **2–4 cm**  
 - Mixture of fast‑ & slow‑twitch **striated** fibers → basal tone + rapid changes for swallowing  
@@ -139,16 +132,16 @@ Four layers (inner to outer):
 
 ---
 
-## Recurrent Laryngeal Nerves (RLN)
+# Recurrent Laryngeal Nerves (RLN)
 
-#### Origin & Course
+## Origin & Course
 
 - Originate from **vagus nerves**  
 - **Right RLN**: recurs around **right subclavian artery**  
 - **Left RLN**: recurs around **aortic arch**  
 - Both ascend in **tracheoesophageal groove** (left nerve closer to esophagus)
 
-#### Non‑recurrent Nerve
+## Non‑recurrent Nerve
 
 - Rare on right side: incidence **0.1%** (Toniato et al.)  
 - Never on left
