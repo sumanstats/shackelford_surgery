@@ -1,428 +1,1609 @@
 ---
-title: "Anatomy of the Esophagus and the Gastroesophageal Reflux Barrier"
-format: 
+title: "NCCN Guidelines for Gastric Cancer"
+subtitle: "Version 2.2026 — January 21, 2026"
+format:
   revealjs:
     theme: dark
+    slide-number: true
+    scrollable: true
     smaller: true
 ---
 
-# Introduction
 
-## Overview
 
-- The **primary purpose** of the esophagus is **transport** of food from mouth to stomach  
-- No digestive or absorptive function  
-- Muscular tube from **cricoid cartilage** (C6) → traverses chest → ends in upper abdomen  
+## Table of Contents {.smaller}
 
-## Length & Segments
+:::: {.columns}
+::: {.column width="50%"}
+**Clinical Algorithms**
 
-- Total length: **22–28 cm** (C6 to T11, gastroesophageal junction)  
-- Varies with patient height  
-- Esophageal bed lies in **posterior mediastinum** (shortest reconstruction route: ~30 cm)  
-
-:::{.callout-note}
-If orthotopic route unavailable:  
-- Retrosternal: 32 cm  
-- Subcutaneous: 34 cm  
+- Workup & Initial Evaluation (GAST-1)
+- Multidisciplinary Review & Primary Treatment (GAST-2)
+- Response Assessment (GAST-3)
+- Surgical Outcomes — No Prior Systemic Therapy (GAST-4)
+- Surgical Outcomes — Prior Systemic Therapy (GAST-5)
+- Post-Treatment Assessment (GAST-6)
+- Follow-up/Surveillance (GAST-7)
+- Recurrence (GAST-8)
+- Palliative Management (GAST-9)
+- Peritoneal Carcinoma (GAST-10)
 :::
+::: {.column width="50%"}
+**Principles (Appendices)**
 
-## Endoscopic Landmarks
-
-| Landmark | Distance from incisors |
-|----------|------------------------|
-| Upper esophageal sphincter (UES) | ~15 cm |
-| Carina | ~25 cm |
-| LES (men) | 38–40 cm |
-| LES (women) | 36–38 cm |
-
-## Surgical Planning
-
-- Tumor location relative to **carina** (25 cm) helps decide **left vs. right thoracotomy**  
-- Avoid aortic arch (blocks left upper thoracic esophagus access)
-
-## Anatomic Narrowings (3 areas)
-
-1. **Cricopharyngeal** (UES) – narrowest part of GI tract (**1.5 cm** diameter)  
-2. **Aortic arch / left mainstem bronchus / left atrium** – at ~22 cm from incisors  
-3. **Lower esophageal sphincter**  
-
-:::{.callout-warning}
-Foreign bodies often lodge at these narrowings  
+- Endoscopic Staging & Therapy (GAST-A)
+- Pathologic Review & Biomarker Testing (GAST-B)
+- Surgery (GAST-C)
+- Genetic Risk Assessment (GAST-D)
+- Multidisciplinary Team Approach (GAST-E)
+- Systemic Therapy (GAST-F)
+- Radiation Therapy (GAST-G)
+- Surveillance (GAST-H)
+- Survivorship (GAST-I)
+- Palliative Care / Best Supportive Care (GAST-J)
 :::
-
-## Esophageal Wall Layers
-
-Four layers (inner to outer):
-
-- **Mucosa** (squamous epithelium, lamina propria, muscularis mucosa)  
-- **Submucosa**  
-- **Muscularis propria** (inner circular + outer longitudinal)  
-- **Adventitia** (no serosa)
-
-## Laimer's Triangle
-
-- Longitudinal muscle originates from cricoid as **two bundles**  
-- Converge 3 cm distal to cricopharyngeus → leaves a **V‑shaped weak area** posteriorly  
-- Covered only by circular fibers → **Laimer’s triangle**
-
-## Muscle Type Transition
-
-- **Upper 40%** of esophagus: striated muscle  
-- Gradual transition → **smooth muscle** in distal two‑thirds  
-- Motility disorders (e.g., achalasia) mainly affect **distal smooth muscle**  
+::::
 
 ---
 
-# Cervical Esophagus
+## Key Updates: Version 2.2026 {.smaller}
 
-## Anatomy & Approach
+**GAST-F (Perioperative Therapy)** — FLOT + Durvalumab changes:
 
-- Length: **5 cm** (C6 to suprasternal notch)  
-- Shifts to **left** at base of neck → best approach via **left neck incision**  
-- Surrounded by loose fibroareolar tissue → no serosa, no mesentery
+- Sub-bullets added: For **clinical node negative** tumor
+- Sub-bullet added: For **PD-L1 CPS <1 or TAP <1%** (category 2B)
+- Sub-bullet added: For **diffuse type** (category 2B)
+- Footnote revised: In the **MATTERHORN trial**, diffuse type gastric/EGJ adenocarcinoma showed **no event-free overall survival advantage** when durvalumab was added to FLOT
 
-## Cervical Compartments
-
-| Structure | Location |
-|-----------|----------|
-| Pretracheal fascia | Anterior (extends to pericardium) |
-| Prevertebral fascia | Posterior (extends to diaphragm) |
-| Carotid sheaths | Lateral |
-
-- Paraesophageal space (anterior) & retroesophageal space (posterior)
-
-## Clinical Danger: Descending Infections
-
-- Tonsillar/dental abscesses → spread via these compartments into mediastinum  
-- **Necrotizing mediastinitis** – requires early surgical drainage  
-- Iatrogenic perforation most common **above cricopharyngeal narrowing** → posterior pharyngeal perforation
-
-## Blood Supply – Cervical Esophagus
-
-- Right & left **superior** and **inferior** thyroid arteries  
-- Small branches from common carotid & subclavian arteries  
-- Venous drainage: **inferior thyroid vein**
-
-## Innervation
-
-- **Recurrent laryngeal nerves**  
-- **Sympathetic chains**
+**Reference Added:** Tabernero J, et al. *Annals of Oncology* 2025;36:S1623-S1624
 
 ---
 
-# Upper Esophageal Sphincter (UES)
+## Key Updates: Version 1.2026 (Selected) {.smaller}
 
-## Muscular Components
+:::: {.columns}
+::: {.column width="50%"}
+**GAST-1 / GAST-2**
 
-- Three bilateral constrictor muscles (inferior, middle, superior)  
-- **Cricopharyngeal muscle** – continuous band from cricoid cartilage  
-- Blends with inferior pharyngeal constrictor & circular esophageal muscle
+- HER2 (ERBB2) testing revised: for **advanced/metastatic** disease documented or suspected
+- Added bullet: **Assess for distress**
+- Superficial vs. deep pT1b defined: ≤500 μm = superficial; >500 μm = deep
 
-## Killian’s Triangle
+**GAST-B (Biomarkers)**
 
-- Weak area **between** inferior constrictor and cricopharyngeal muscle  
-- **Zenker’s (pulsion) diverticulum** can form here  
-- Associated with cricopharyngeal hypertrophy or dysmotility
-
-## UES Function
-
-- High‑pressure zone: **2–4 cm**  
-- Mixture of fast‑ & slow‑twitch **striated** fibers → basal tone + rapid changes for swallowing  
-- Relaxes as intrapharyngeal pressure increases → food bolus enters cervical esophagus
-
----
-
-# Recurrent Laryngeal Nerves (RLN)
-
-## Origin & Course
-
-- Originate from **vagus nerves**  
-- **Right RLN**: recurs around **right subclavian artery**  
-- **Left RLN**: recurs around **aortic arch**  
-- Both ascend in **tracheoesophageal groove** (left nerve closer to esophagus)
-
-## Non‑recurrent Nerve
-
-- Rare on right side: incidence **0.1%** (Toniato et al.)  
-- Never on left
-
-## Injury Prevention & Consequences
-
-- During transhiatal esophagectomy or Zenker’s diverticulectomy:  
-  - Sharply dissect fat off esophagus  
-  - Retract trachea **gently with finger** (no metal retractors)  
-- Injury → **hoarseness**, impaired swallowing, aspiration risk  
-- Bilateral injury → **airway obstruction**,可能需要 tracheostomy  
-- Experienced surgeon incidence: ~1%
-
----
-
-# Thoracic Esophagus
-
-## Length & Course
-
-- Length: **20 cm** (thoracic inlet → diaphragmatic hiatus)  
-- Shifts to **right** at T7 → best approach: **right thoracotomy** (e.g., Ivor Lewis)  
-- Distal thoracic esophagus angulates left after hiatus → best approach for hiatal hernia/epiphrenic diverticulum: **left**
-
-## Arterial Blood Supply
-
-- **Bronchial arteries** (1 right‑sided, 1–2 left‑sided)  
-- Usually **2 esophageal branches** from descending aorta (T6–T9)  
-- Rich intramural collateral network → esophagus can be mobilized extensively yet remain perfused
-
-## Venous Drainage
-
-- Primarily **azygos vein**  
-- Also hemiazygos & bronchial veins
-
-## Relations – Upper Thorax
-
-| Structure | Position |
-|-----------|----------|
-| Trachea | Anterior |
-| Azygos vein | Right side |
-| Left subclavian artery & aortic arch | Left side |
-
-- Descending aorta posterior to left of esophagus until T8, then esophagus moves anterior to aorta
-
-## Lower Thorax Relations
-
-- **Pericardium & left atrium** lie anterior to esophagus  
-- Locally advanced cancer invading heart/aorta = unresectable  
-- Aortoesophageal fistula → **sentinel hematemesis** (fatal exsanguination if missed)  
-- Posterior: spine (T8 → esophagus moves anteriorly)
-
-## Boerhaave’s Perforation
-
-- Left lateral distal esophagus covered only by mediastinal pleura → weakest area  
-- **Spontaneous perforation** most common along left lateral aspect
-
----
-
-# Vagus Nerves (Thoracic)
-
-## Course & Branches
-
-- RLN branches given off (already covered)  
-- Vagal & sympathetic fibers form **myenteric (Auerbach’s) plexus** → controls peristalsis  
-- **Submucosal (Meissner’s) plexus** → muscularis mucosae & secretions  
-
-## Achalasia
-
-- Degeneration of Auerbach’s plexus ganglion → aperistalsis + impaired LES relaxation
-
-## Distal Esophagus
-
-- At tracheal bifurcation → pulmonary & esophageal plexuses  
-- Anterior vagus (from left vagus) and **posterior vagal trunk** (from right vagus)  
-- Both trunks pass through hiatus with esophagus
-
----
-
-# Azygos Vein & Esophageal Exposure
-
-- Adjacent and to the **right** of upper thoracic esophagus  
-- Can be involved by mid‑esophageal tumors  
-- During transhiatal esophagectomy: avoid avulsion  
-- Often **divided** during Ivor Lewis esophagectomy to improve exposure
-
----
-
-# Lymphatic Drainage & Thoracic Duct
-
-## Submucosal Lymphatic Network
-
-- Rich network → allows **longitudinal spread** of tumor cells  
-- **T1a** (mucosa only): nodal spread **2.6%**  
-- **T1b** (invades submucosa): **22.2%**  
-- **T2**: 43.2%  |  **T3**: 77.2%  |  **T4**: 66.7%
-
-## Direction of Flow
-
-- Above tracheal bifurcation → drains **superiorly** (paratracheal, subcarinal, paraesophageal)  
-- Below carina → drains **inferiorly** (lower mediastinal, celiac, left gastric)  
-- Blocked lymphatics can reverse flow (e.g., distal tumor found in proximal esophagus)
-
-## Thoracic Duct
-
-- Begins as **cisterna chyli** (T12)  
-- Lies on vertebral bodies, posterior to esophagus, between azygos (right) and aorta (left)  
-- Turns behind left mainstem bronchus (T5–T6) → empties into left subclavian/jugular junction  
-
-## Chylothorax
-
-- Damage in 1–2% of esophagectomies  
-- High pink/clear chest output → becomes **milky** after dietary fat  
-- Treatment: surgical ligation or interventional radiology embolization
-
----
-
-# Abdominal Esophagus
-
-## Length & Relations
-
-- Normal length: **3–6 cm**  
-- Angulates to **left** after passing diaphragmatic hiatus  
-- Ends at **cardia** along lesser curvature  
-
-## Blood Supply
-
-- Small arteries from **left gastric artery** & **inferior phrenic artery**  
-- Venous drainage: **left gastric vein**  
-- Subepithelial venous plexus in lamina propria → connects to portal system → **esophageal varices**
-
-## Regional Lymph Nodes (Abdomen)
-
-- Stations: 15 (diaphragmatic), 16 (paracardial), 17 (left gastric), 18 (common hepatic), 19 (splenic), 20 (celiac)
-
-## Esophageal Hiatus
-
-- At T10 level  
-- Crura originate from L1–L4 vertebrae  
-- Left lobe of liver anteriorly (divide triangular ligament for exposure)  
-- Aorta passes through its own hiatus (bordered by **median arcuate ligament** – used in Hill repair)
-
----
-
-# Vagus Nerves at Hiatus
-
-- **Anterior vagus** – usually adjacent to esophageal wall  
-- **Posterior vagus** – may be further away  
-- Identify both during Nissen fundoplication / hiatal hernia repair  
-- Injury → delayed gastric emptying in ~15% of patients
-
----
-
-# Diaphragm & Phrenoesophageal Membrane (PEM)
-
-## PEM Structure
-
-- Also called Laimer’s or Allison’s membrane  
-- Two sheaths:  
-  1. Superior sheath (2–4 cm along distal esophagus → inserts into submucosa)  
-  2. Inferior sheath (across cardia → gastric serosa, dorsal mesentery, gastrohepatic ligament)  
-- Allows dynamic movement of esophagus relative to diaphragm
-
-## Crura & Anti‑reflux
-
-- **Right crus** (deep & superficial layers) forms most of esophageal hiatus  
-- Left crus forms one edge of aortic hiatus  
-- Crura contribute to extrinsic sphincter function
-
----
-
-# Gastroesophageal Reflux Barrier
-
-## Components
-
-1. **Intrinsic LES** (smooth muscle clasp & sling fibers)  
-2. **Extrinsic** – diaphragmatic crura + PEM attachments  
-3. Intra‑abdominal pressure gradient  
-
-- Obesity, pregnancy, gastroparesis → higher intragastric pressure → more reflux  
-- Weight loss reduces reflux
-
-## Definition of GEJ (controversial)
-
-| Criterion | Definition |
-|-----------|------------|
-| Histologic | End of submucosal esophageal glands / start of oxyntic glands |
-| Endoscopic | Squamocolumnar junction (Z‑line) / proximal gastric folds |
-| Surgical | Peritoneal reflection / junction of tubular esophagus & stomach |
-
-:::{.callout-tip}
-Remove gastric fat pad during Nissen or Heller to accurately identify GEJ  
+- MSI testing: now by **PCR or NGS**; MMR by IHC
+- PD-L1: companion diagnostic required; CLIA-approved labs only
+- TAP score and CPS: high concordance — **interchangeable** for tislelizumab and durvalumab
 :::
+::: {.column width="50%"}
+**GAST-F (Systemic Therapy)**
+
+- **Dostarlimab-gxly** added for MSI-H/dMMR neoadjuvant therapy
+- **Fam-trastuzumab deruxtecan-nxki** upgraded to **category 1** (2nd-line HER2+)
+- Subcutaneous pembrolizumab (with berahyaluronidase alfa-pmph) may substitute IV pembrolizumab
+- Subcutaneous nivolumab (with hyaluronidase-nvhy) may substitute IV nivolumab for monotherapy
+
+**GAST-G** — Heading revised: "Supportive Care"
+:::
+::::
+
+# Overview & Epidemiology {background-color="#1a5276"}
 
 ---
 
-# Lower Esophageal Sphincter (LES)
+## Global Epidemiology of Gastric Cancer {.smaller}
 
-## Muscular Architecture
+:::: {.columns}
+::: {.column width="60%"}
+**Global Burden (2022)**
 
-- Circular muscle thickens ~3 cm proximal to GEJ  
-- Along **lesser curvature**: short **clasp fibers**  
-- Along greater curvature & angle of His: **oblique gastric sling fibers**  
-- High‑pressure zone extends 3–4 cm above GEJ + 1–2 cm onto stomach  
+- **>968,000 new cases** worldwide
+- **~660,000 deaths** annually
+- **5th most frequent** cancer globally
+- **5th leading cause** of cancer-related death globally
+- 15–20 fold difference between high and low-incidence regions
 
-## LES Pressure
+**Geographic Hotspots**
 
-- Resting pressure: **10–30 mmHg**  
-- Relaxes ~3 seconds after swallowing  
-- Hypotensive LES → nocturnal/postprandial reflux
+- Northeast Asia (Japan, Korea, China)
+- South and Central America
+- Eastern Europe
 
-## Asymmetry
+**United States (2025 Estimates)**
 
-- Manometry shows **radial & axial asymmetry**  
-- Highest pressure & shortest length toward **greater curvature** (Mittal et al., 2017)
+- 30,300 new diagnoses expected
+- 10,780 projected deaths
+- 15th most common cancer; 15th leading cancer death cause
+:::
+::: {.column width="40%"}
+**Incidence Trends**
 
-## Reflux Mechanisms
+- Declining in Western countries and North America — driven by:
+  - Improved food preservation
+  - Clean water access
+  - H. pylori eradication
+  - Dietary changes
 
-- Transient LES relaxation (most common)  
-- Low basal LES pressure  
-- Swallow‑associated relaxation  
-- Straining (e.g., increased abdominal pressure)
+- **Rising**: Early-onset gastric cancer in the U.S. and Western countries
 
----
+- **Persistently high**: Distal stomach tumors in low/middle-income countries
 
-# Diaphragmatic Crura & Reflux
-
-- Crura act as **external sphincter**  
-- Pressure varies with respiration  
-- During increased intra‑abdominal pressure (coughing, straining) → crura compress esophagus → prevent reflux
-
----
-
-# Hiatal Hernia
-
-## Pathogenesis
-
-- Aging → elastic fibers of PEM replaced by inelastic tissue  
-- Abnormal anchorage + adipose tissue between PEM and cardia  
-
-## Classification (4 types)
-
-| Type | Name | Features |
-|------|------|----------|
-| I | Sliding | GEJ above diaphragm, stomach partially herniated |
-| II | Pure paraesophageal | GEJ fixed at hiatus, fundus herniated |
-| III | Combined | Cardia above diaphragm + fundus herniated along esophagus |
-| IV | Complex | Stomach + colon, small bowel, or spleen herniated |
-
-## Clinical Consequences
-
-- Disrupts crural sphincter function  
-- Displaces LES away from crura  
-- Gastric fluid trapped above hiatus → re‑reflux (impaired clearance)  
-- Larger hernias → more acid reflux, lower LES pressure, weaker peristalsis, severe esophagitis
+> In Japan and South Korea, widespread population screening leads to **early detection** and improved outcomes
+:::
+::::
 
 ---
 
-# Summary of Surgical Approaches
+## Histology & Pathogenesis {.smaller}
 
-| Esophageal segment | Preferred approach |
-|--------------------|-------------------|
-| Cervical | Left neck incision |
-| Mid‑thoracic | Right thoracotomy (e.g., Ivor Lewis) |
-| Distal thoracic / hiatus | Left thoracotomy (hiatal hernia, epiphrenic diverticulum) |
-| Abdominal | Laparotomy / laparoscopy |
+**>95% of gastric cancers are adenocarcinomas**
+
+:::: {.columns}
+::: {.column width="50%"}
+**Diffuse Type (Lauren Classification)**
+
+- Poorly differentiated, discohesive tumor cells
+- Signet-ring or non-signet-ring morphology
+- Desmoplastic stroma
+- More prevalent in **low-risk areas**
+- Associated with heritable (CDH1) mutations
+- **Increasing incidence** in proximal stomach
+:::
+::: {.column width="50%"}
+**Intestinal Type**
+
+- Tubular/glandular pattern
+- Scattered goblet cells
+- More common in **high-risk areas**
+- Related to environmental factors:
+  - H. pylori infection
+  - Tobacco smoking
+  - High salt diet
+  - Other dietary factors
+- **Declining incidence** in developed countries
+:::
+::::
+
+> **Note:** Role of alcohol is debated; heavy use associated with non-cardia gastric cancer
 
 ---
 
-# Key Clinical Correlations
+## Hereditary Cancer Predisposition Syndromes {.smaller}
 
-- **Aortoesophageal fistula** – sentinel hematemesis, fatal if not recognized  
-- **Tracheoesophageal fistula** – avoid dissection injury to membranous trachea  
-- **Spinal abscess** – from cervical perforation/anastomotic leak  
-- **Chylothorax** – milky chest tube output after feeding  
-- **Recurrent laryngeal nerve injury** – hoarseness, aspiration  
+**1–3% of gastric cancers** are associated with inherited syndromes
+
+| Syndrome | Gene | Notes |
+|---|---|---|
+| **Hereditary Diffuse Gastric Cancer (HDGC)** | CDH1 | Most well-characterized; prophylactic total gastrectomy may be indicated |
+| **Lynch Syndrome** | MLH1, MSH2, MSH6, PMS2 | Associated with MSI-H/dMMR tumors |
+| **Juvenile Polyposis Syndrome** | SMAD4, BMPR1A | GI polyps; elevated gastric cancer risk |
+| **Familial Adenomatous Polyposis (FAP)** | APC | Gastric fundic gland polyps; increased risk |
+
+> See NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric for full assessment criteria
+
+# Staging {background-color="#1a5276"}
 
 ---
 
-# Conclusion
+## AJCC TNM Staging — T Classification (8th Ed., 2017) {.smaller}
 
-- The esophagus is a **muscular tube** (transport, no digestion)  
-- **UES** and **LES** + **diaphragmatic crura** provide anti‑reflux barrier  
-- Extensive **submucosal lymphatic & vascular networks** allow tumor spread and collateral perfusion  
-- Detailed knowledge of **surrounding structures** (trachea, aorta, pleura, recurrent nerves, thoracic duct) is essential for safe surgery and prevention of complications  
+| Category | Definition |
+|---|---|
+| **TX** | Primary tumor cannot be assessed |
+| **T0** | No evidence of primary tumor |
+| **Tis** | Carcinoma in situ: intraepithelial tumor, high-grade dysplasia |
+| **T1** | Tumor invades lamina propria, muscularis mucosae, or submucosa |
+| **T1a** | Tumor invades lamina propria or muscularis mucosae |
+| **T1b** | Tumor invades submucosa |
+| **T2** | Tumor invades muscularis propria |
+| **T3** | Tumor penetrates subserosal connective tissue, no visceral peritoneum invasion |
+| **T4a** | Tumor invades serosa (visceral peritoneum) |
+| **T4b** | Tumor invades adjacent structures/organs |
+
+> T4b adjacent structures: spleen, transverse colon, liver, diaphragm, pancreas, abdominal wall, adrenal gland, kidney, small intestine, retroperitoneum
+
+---
+
+## AJCC TNM Staging — N, M, G Classification {.smaller}
+
+:::: {.columns}
+::: {.column width="40%"}
+**N — Regional Lymph Nodes**
+
+| Category | Definition |
+|---|---|
+| NX | Cannot be assessed |
+| N0 | No regional LN metastasis |
+| N1 | Metastasis in 1–2 LNs |
+| N2 | Metastasis in 3–6 LNs |
+| N3a | Metastasis in 7–15 LNs |
+| N3b | Metastasis in ≥16 LNs |
+
+**M — Distant Metastasis**
+
+| Category | Definition |
+|---|---|
+| M0 | No distant metastasis |
+| M1 | Distant metastasis |
+:::
+::: {.column width="60%"}
+**G — Histologic Grade**
+
+| Grade | Description |
+|---|---|
+| GX | Cannot be assessed |
+| G1 | Well differentiated |
+| G2 | Moderately differentiated |
+| G3 | Poorly differentiated / undifferentiated |
+
+**Submucosal Invasion (pT1b)**
+
+| Type | Definition |
+|---|---|
+| **Superficial** pT1b | ≤500 μm invasion of submucosa |
+| **Deep** pT1b | >500 μm invasion of submucosa |
+
+> This distinction is crucial for staging accuracy and management decisions (EUS is **not reliable** for predicting superficial vs. deep submucosal invasion — ER recommended for accurate staging)
+:::
+::::
+
+---
+
+## AJCC Stage Groupings — Clinical (cTNM) {.smaller}
+
+| Stage | cT | cN | M |
+|---|---|---|---|
+| **Stage 0** | Tis | N0 | M0 |
+| **Stage I** | T1 | N0 | M0 |
+| **Stage I** | T2 | N0 | M0 |
+| **Stage IIA** | T1–T2 | N1, N2, N3 | M0 |
+| **Stage IIB** | T3 | N0 | M0 |
+| **Stage IIB** | T4a | N0 | M0 |
+| **Stage III** | T3–T4a | N1, N2, N3 | M0 |
+| **Stage IVA** | T4b | Any N | M0 |
+| **Stage IVB** | Any T | Any N | M1 |
+
+---
+
+## AJCC Stage Groupings — Pathologic (pTNM) {.smaller}
+
+| Stage | pT | pN | M |
+|---|---|---|---|
+| **Stage 0** | Tis | N0 | M0 |
+| **Stage IA** | T1 | N0 | M0 |
+| **Stage IB** | T1/T2 | N1/N0 | M0 |
+| **Stage IIA** | T1–T3 | N0–N2 | M0 |
+| **Stage IIB** | T1–T4a | N0–N3a | M0 |
+| **Stage IIIA** | T2–T4b | N0–N3a | M0 |
+| **Stage IIIB** | T1–T4b | N0–N2 | M0 |
+| **Stage IIIC** | T3–T4b | N3a–N3b | M0 |
+| **Stage IV** | Any T | Any N | M1 |
+
+**Post-Neoadjuvant (ypTNM) — 4 broad stages: I, II, III, IV**
+
+# Initial Workup {background-color="#1a5276"}
+
+---
+
+## GAST-1: Workup at Presentation {.smaller}
+
+:::: {.columns}
+::: {.column width="55%"}
+**Required Workup**
+
+- History & Physical (H&P)
+- Esophagogastroduodenoscopy (**EGD**) with biopsy
+- CT chest/abdomen/pelvis with oral and IV contrast
+- **FDG-PET/CT** (skull base to mid-thigh) for locally advanced or metastatic disease (may not be appropriate for T1)
+- CBC and comprehensive chemistry profile
+- **EUS** — recommended if early-stage disease suspected or early vs. locally advanced needs determination
+- **Endoscopic resection (ER)** — essential for accurate staging of T1a or T1b
+
+**Biomarker Testing (All Patients)**
+
+- Universal MSI testing (PCR/NGS) or MMR by IHC
+- Universal PD-L1 testing (IHC)
+- HER2 (ERBB2) testing if advanced/metastatic disease documented or suspected
+- CLDN18.2 testing if advanced/metastatic suspected
+- NGS should be considered
+:::
+::: {.column width="45%"}
+**Additional Workup**
+
+- Biopsy of metastatic disease (as indicated)
+- Siewert category assessment
+- Nutritional assessment and counseling
+- Smoking cessation advice and pharmacotherapy
+- Screen for family history of gastric cancer
+- Test for H. pylori — eradicate if positive in early gastric cancer; recommend testing of close family members
+- **Assess for distress** (NCCN Distress Thermometer)
+
+**Clinical Stage Groups**
+
+| Stage | Description |
+|---|---|
+| cTis / cT1a | Localized |
+| cT1b–cT4a, cM0 | Locoregional |
+| Stage IV, cM1 | Metastatic |
+:::
+::::
+
+---
+
+## GAST-1: Footnotes & Key Principles {.smaller}
+
+**Siewert Classification (EGJ Tumors)**
+
+| Type | Definition |
+|---|---|
+| **Type I** | Adenocarcinoma of distal esophagus; epicenter 1–5 cm above EGJ |
+| **Type II** | True carcinoma of cardia; epicenter within 1 cm above and 2 cm below EGJ |
+| **Type III** | Subcardial carcinoma; epicenter 2–5 cm below EGJ |
+
+- **Siewert I & II** → Manage per NCCN Guidelines for Esophageal and EGJ Cancers
+- **Siewert III** → Manage per NCCN Guidelines for Gastric Cancer (may need additional esophageal resection for margins)
+
+**EUS Note:**
+- EUS is **not reliable** for predicting superficial or deep submucosal invasion
+- Endoscopic resection recommended for accurate staging
+- Superficial pT1b defined as ≤500 μm; deep pT1b as >500 μm
+
+# Multidisciplinary Review & Primary Treatment {background-color="#1a5276"}
+
+---
+
+## GAST-2: Primary Treatment Pathways {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+**cTis / cT1a or Superficial cT1b**
+
+- *Nonsurgical candidate* → **Endoscopic Resection (ER)** → Endoscopic surveillance
+- *Medically fit* → **ER or Surgery** → Surgical outcomes (GAST-4)
+
+**Deep cT1b**
+
+- *Medically fit, potentially resectable* → **Surgery** → GAST-4
+
+**cT2 or higher, Any N (potentially resectable)**
+
+- Surgery alone
+- **Perioperative systemic therapy** (category 1)
+- Consider neoadjuvant/perioperative ICI if MSI-H/dMMR
+:::
+::: {.column width="50%"}
+**Surgically Unresectable Locoregional (cM0)**
+
+- *Medically fit* → **Chemoradiation or Systemic therapy** → GAST-6 Post-Treatment Assessment
+
+**Nonsurgical Candidate (Locoregional)**
+
+- **Palliative Management (GAST-9)**
+
+**Metastatic Disease (cM1)**
+
+- **Palliative Management (GAST-9)**
+
+> Surgery as primary therapy appropriate for ≥T1b cancer, actively bleeding cancer, or when postoperative therapy preferred (footnote q)
+:::
+::::
+
+---
+
+## GAST-3: Response Assessment {.smaller}
+
+**For Patients Who Are Medically Fit**
+
+:::: {.columns}
+::: {.column width="50%"}
+**After Perioperative Systemic Therapy (Category 1)**
+
+Imaging assessment:
+- Chest/abdomen/pelvis CT with oral and IV contrast
+- FDG-PET/CT as clinically indicated
+
+**Outcomes:**
+
+| Finding | Management |
+|---|---|
+| Resectable disease | Surgery (preferred) or Palliative (GAST-9) → GAST-5 |
+| Unresectable / Metastatic | Palliative Management (GAST-9) |
+:::
+::: {.column width="50%"}
+**After Neoadjuvant/Perioperative ICI (MSI-H/dMMR)**
+
+Assessment:
+- Chest/abdomen CT with oral/IV contrast (not required if FDG-PET/CT done)
+- FDG-PET/CT as clinically indicated (≥5–8 weeks after therapy)
+- EGD and biopsy
+
+**Outcomes:**
+
+| Finding | Management |
+|---|---|
+| No evidence of disease | Observation or Surgery → GAST-5 |
+| Persistent local disease | Surgery (preferred) or Palliative |
+| New metastatic disease | Palliative (GAST-9) |
+:::
+::::
+
+# Surgical Outcomes & Postoperative Management {background-color="#1a5276"}
+
+---
+
+## GAST-4: Surgical Outcomes (No Prior Systemic Therapy) {.smaller}
+
+**R0 Resection — Postoperative Management by Tumor Classification**
+
+| Tumor Stage | Management |
+|---|---|
+| pTis / pT1a N0 / Superficial pT1b | **Observation** → Follow-up (GAST-7) |
+| Deep pT1b or pT2, N0 | Observation **OR** Fluoropyrimidine → Fluoropyrimidine-based CRT → Fluoropyrimidine *(selected patients with high-risk features)* |
+| pT3, pT4, Any N **OR** Any pT, N+ | **Fluoropyrimidine → CRT → Fluoropyrimidine** if <D2 dissection (category 1) **OR** Chemotherapy if primary D2 dissection (category 1) |
+
+**High-risk features** for pT2, N0 postoperative CRT consideration:
+- Poorly differentiated / higher grade cancer
+- Lymphovascular invasion (LVI)
+- Neural invasion
+- Age <50 years
+- Did not undergo D2 lymph node dissection
+
+**Other Resection Statuses:**
+
+| Status | Management |
+|---|---|
+| **R1** | Chemoradiation (fluoropyrimidine-based) |
+| **R2** | Chemoradiation OR Palliative Management |
+| **pM1** | Palliative Management (GAST-9) |
+
+---
+
+## GAST-5: Surgical Outcomes (Prior Systemic Therapy) {.smaller}
+
+**Patients Who Have Received Systemic Therapy (Perioperative)**
+
+| Resection Status | Postoperative Management |
+|---|---|
+| **R0** | **Systemic therapy** (category 1) → Follow-up (GAST-7) |
+| **R1** | Chemoradiation (fluoropyrimidine-based) **OR** Consider re-resection → Follow-up |
+| **R2** | Chemoradiation **OR** Palliative Management |
+| **ypM1** | Palliative Management (GAST-9) |
+
+> **ypM1**: The "yp" prefix indicates staging is performed **following** preoperative therapy
+
+---
+
+## GAST-6: Post-Treatment Assessment {.smaller}
+
+**For Unresectable Disease or Nonsurgical Candidates Following Primary Treatment**
+
+**Restaging Modalities:**
+- Chest/abdomen/pelvis CT with oral and IV contrast
+- CBC and comprehensive chemistry profile
+- FDG-PET/CT as clinically indicated (for renal insufficiency or CT contrast allergy)
+
+**Outcomes:**
+
+| Finding | Management |
+|---|---|
+| **Resectable and medically operable** | Surgery (preferred), if appropriate **OR** Follow-up (GAST-7) |
+| **Unresectable or medically inoperable or metastatic** | Palliative Management (GAST-9) |
+
+# Follow-up, Surveillance & Recurrence {background-color="#1a5276"}
+
+---
+
+## GAST-7: Follow-up / Surveillance — Early Disease {.smaller}
+
+**Tis (Successfully Treated by ER)**
+
+- H&P every 3–6 months for 1–2 years, then every 6–12 months for 3–5 years
+- CBC and chemistry profile as clinically indicated
+- **EGD every 6 months** for 1 year, then **annually for 3 years**
+- Routine CT (chest/abdomen/pelvis with contrast) as clinically indicated
+
+**p Stage I — T1a or T1b, N0 (treated by surgical resection or ER)**
+
+- H&P every 3–6 months × 1–2 years; every 6–12 months × 3–5 years
+- CBC and chemistry as clinically indicated
+- *For patients treated by ER:* EGD every 6 months × 1 year → annually up to 5 years; thereafter as needed
+- *For patients treated by surgical resection:* EGD as clinically indicated
+- CT chest/abdomen/pelvis with contrast as clinically indicated
+- **Monitor for nutritional deficiency** (especially after total gastrectomy); treat as indicated
+
+> After 5 years, additional follow-up may be considered based on risk factors and comorbidities
+
+---
+
+## GAST-7: Follow-up / Surveillance — Advanced Disease {.smaller}
+
+**p Stage II/III or yp Stage I–III (treated with neoadjuvant ± adjuvant therapy)**
+
+- H&P every 3–6 months × 1–2 years; every 6–12 months × 3–5 years
+- CBC and chemistry as clinically indicated
+- For partial or subtotal gastrectomy patients: **EGD as clinically indicated**
+- **CT chest/abdomen/pelvis** with oral and IV contrast every **6 months for first 2 years**, then **annually for up to 5 years**
+- Monitor for nutritional deficiency (especially after total gastrectomy)
+
+**Key Nutritional Considerations Post-Gastrectomy:**
+Supplement monitoring: Vitamin B12, iron, zinc, calcium, Vitamin D
+
+Consider routine supplementation:
+- Daily multivitamin/mineral complex
+- Vitamin B12
+- Calcium
+- Vitamin D
+
+> For **total gastrectomy** patients: surveillance follows above except endoscopy (EGD only if symptomatic)
+
+---
+
+## GAST-8: Recurrence Management {.smaller}
+
+**Locoregional Recurrence**
+
+| Resectability | Management |
+|---|---|
+| Resectable and medically operable | **Consider surgery** OR Palliative Management (GAST-9) |
+| Unresectable or medically inoperable | **Palliative Management (GAST-9)** |
+
+> Surgery should be considered as an option for locoregional recurrence in medically fit patients — review individual cases
+
+**Metastatic Disease**
+
+→ **Palliative Management (GAST-9)**
+
+---
+
+## GAST-9: Palliative Management — Performance Status Pathway {.smaller}
+
+**Unresectable Locally Advanced or Metastatic Disease**
+
+:::: {.columns}
+::: {.column width="50%"}
+**Good Performance Status**
+*(Karnofsky ≥60% or ECOG ≤2)*
+
+1. Perform HER2, CLDN18.2, PD-L1, and MSI testing if not done previously
+2. NGS via validated assay
+3. Options:
+   - **Chemoradiation** (only if locally unresectable and not previously received)
+   - **Systemic therapy**
+   - Peritoneal carcinoma as only disease → GAST-10
+   - **Best supportive care**
+:::
+::: {.column width="50%"}
+**Poor Performance Status**
+*(Karnofsky <60% or ECOG ≥3)*
+
+→ **Best supportive care**
+
+---
+
+**When to Re-Test:**
+- HER2 testing
+- CLDN18.2 testing
+- PD-L1 testing
+- MSI testing
+
+*(All if not done previously)*
+
+:::
+::::
+
+---
+
+## GAST-10: Peritoneal Carcinoma as Only Disease {.smaller}
+
+**Workup (if not done previously):**
+H&P, CT chest/abdomen/pelvis, diagnostic laparoscopy, FDG-PET/CT, pathology review
+
+**Treatment Pathway:**
+
+1. **Systemic therapy (GAST-F 4 of 9) for minimum 3 months**
+
+2. **Restaging:** CT scan + diagnostic laparoscopy with washings (PCI ± biopsy) ± FDG-PET/CT ± EGD
+
+3. **Multidisciplinary consultation**
+
+| Finding | Treatment |
+|---|---|
+| **Low PCI (≤10)**, stable/improved, no metastatic progression, no extraperitoneal disease | If **complete cytoreduction predicted**: Clinical trial or Gastrectomy + cytoreductive surgery + IC/HIPEC or continue systemic therapy |
+| **Low PCI (≤10)**, incomplete cytoreduction predicted | Clinical trial or Continue systemic therapy |
+| **High PCI (>10)**, progression, or extraperitoneal disease | Systemic therapy, clinical trial, or Best supportive care |
+
+# Principles of Endoscopic Staging and Therapy {background-color="#1a5276"}
+
+---
+
+## Endoscopic Diagnosis (GAST-A) {.smaller}
+
+**Goals of Diagnostic Endoscopy:**
+- Determine presence, location, and characteristics of neoplastic disease
+- Biopsy all suspicious lesions
+
+**Key Principles:**
+
+- Record tumor location (cardia, fundus, body, antrum, pylorus) and relationship to EGJ (for proximal tumors)
+- **6–8 biopsies** using standard-size forceps for adequate material for histologic and molecular interpretation
+- Larger forceps may improve diagnostic yield
+- EMR or ESD of focal nodules **≤2 cm** can provide better specimens for pathologic assessment (depth, LVI, differentiation)
+
+**EUS for Staging:**
+- Provides T-category (depth of invasion), N-assessment, and occasionally M-category
+- Hypoechoic (dark) expansion of gastric wall layers identifies tumor location:
+  - Layers 1–3 expansion → T1
+  - Layers 1–4 expansion → T2
+  - Irregular outer border → T3
+  - Loss of bright serosal line → T4a
+  - Extension to adjacent organs → T4b
+
+---
+
+## EUS Assessment of Lymph Nodes {.smaller}
+
+**Malignant LN Features by EUS:**
+- Enlarged
+- Hypoechoic (dark)
+- Homogeneous
+- Well-circumscribed
+- Rounded shape
+
+**FNA Indications:**
+- Perform if it can be achieved **without traversing** primary tumor or major blood vessels
+- Perform if it **impacts treatment decisions**
+- Consider FNA to **rule out peritoneal spread** if ascites present
+
+---
+
+## Endoscopic Therapy for Early Gastric Cancer (GAST-A) {.smaller}
+
+**Decision Based on Histology:**
+
+```
+Endoscopic Evaluation → Favorable Histology → ER (ESD preferred)
+                     → Unfavorable Histology → Gastrectomy (if medically fit)
+```
+
+**Favorable Histology:** Well or moderately differentiated
+
+**Unfavorable Histology:** Poorly differentiated or diffuse type
+
+**Curative ER Features:**
+- Lesion ≤2 cm
+- Superficially invasive: T1a or T1b ≤500 μm
+- Well or moderately differentiated
+- Complete excision with negative lateral and deep margins
+- No LVI
+
+---
+
+## Expanded ESD Indications {.smaller}
+
+**Japanese Gastric Cancer Guidelines and NCCN recognize expanded ESD indications:**
+
+| Criterion | Indication |
+|---|---|
+| Well/moderately differentiated, **any size**, without ulceration | ESD appropriate |
+| Well/moderately differentiated, **sm invasion <500 μm** | ESD appropriate |
+| Well/moderately differentiated, **<3 cm with ulceration** | ESD appropriate |
+| Poorly differentiated, **<2 cm**, without ulceration | ESD appropriate |
+
+**May be considered curative if:**
+- Margins negative
+- No LVI
+- Curative resection limited to sm1
+
+> Still very small risk of LN involvement → multidisciplinary discussion and patient counseling required
+
+**Incomplete ER Criteria (indicates additional surgery):**
+- Poorly differentiated histology
+- Evidence of LVI
+- Deep submucosal invasion
+- Positive lateral or deep margins
+- LN metastases
+
+---
+
+## Post-Treatment Endoscopic Surveillance {.smaller}
+
+**Requirements:**
+- Careful attention to mucosal surface changes
+- **4–6 biopsies** of any visualized abnormalities
+- Biopsies of strictures to rule out neoplastic cause
+
+**EUS in Surveillance:**
+- High sensitivity for detecting recurrent disease when combined with endoscopy
+- **EUS-guided FNA** should be performed if suspicious LNs or wall thickening seen
+
+# Principles of Pathologic Review & Biomarker Testing {background-color="#1a5276"}
+
+---
+
+## Pathologic Review — Specimen Requirements {.smaller}
+
+| Specimen Type | Required Elements in Pathology Report |
+|---|---|
+| **Biopsy** | Invasion, histologic type, grade; universal MSI/MMR and PD-L1 testing |
+| **EMR** | Above + depth of submucosal invasion (μm), vascular/lymphatic invasion, lateral and deep margin status |
+| **Gastrectomy** | All EMR elements + EGJ relationship, whether tumor crosses EGJ, LN status, number of LNs recovered (≥16 required) |
+| **Gastrectomy after CRT** | All above + assessment of treatment effect; thorough sampling of tumor site if no grossly obvious residual |
+
+> **Minimum 16 regional LNs** should be removed and assessed; **>30 desirable**
+
+---
+
+## Tumor Regression Scoring (Ryan Modified System) {.smaller}
+
+**Post-Chemoradiation Regression Assessment:**
+
+| Score | Description |
+|---|---|
+| **0 — Complete Response** | No viable cancer cells, including lymph nodes |
+| **1 — Near Complete Response** | Single cells or rare small groups of cancer cells |
+| **2 — Partial Response** | Residual cancer cells with evident tumor regression, more than single cells or rare small groups |
+| **3 — Poor or No Response** | Extensive residual cancer with no evident tumor regression |
+
+**Important Notes:**
+- Include lymph nodes in regression score (residual nodal metastases impact survival)
+- Acellular mucin pools after CRT should **NOT** be interpreted as residual tumor
+- 3-category systems provide good reproducibility among pathologists
+
+---
+
+## HER2 (ERBB2) Assessment {.smaller}
+
+**IHC Scoring Criteria:**
+
+| Score | Surgical Specimen | Biopsy Specimen | Interpretation |
+|---|---|---|---|
+| **0** | No/membranous reactivity <10% cells | No/no membranous reactivity in any cell | **Negative** |
+| **1+** | Faint reactivity ≥10% cells (partial membrane) | ≥5 cancer cells with faint reactivity | **Negative** |
+| **2+** | Weak-moderate complete/basolateral/lateral ≥10% | ≥5 cancer cells with weak-moderate reactivity | **Equivocal** → ISH |
+| **3+** | Strong complete/basolateral/lateral ≥10% | ≥5 cancer cells with strong reactivity | **Positive** |
+
+**ISH Criteria for Positivity:**
+- ERBB2:CEP17 ratio **≥2**, or
+- Average ERBB2 copy number **≥6.0 signals/cell**
+
+> Perform IHC first; ISH only for 2+ (equivocal) results. Positive 3+ or negative 0/1+ results do **not** require ISH.
+
+**HER2 Positivity Rates:**
+- EGJ adenocarcinoma: ~32%
+- Gastric adenocarcinoma: ~21%
+- Intestinal subtype: ~32%
+- Diffuse subtype: ~6%
+
+---
+
+## CLDN18.2 Assessment {.smaller}
+
+**Claudin 18 Isoform 2 — IHC Criteria**
+
+| Assessment | Criteria |
+|---|---|
+| **Positive** | ≥75% viable tumor cells demonstrating moderate to strong membrane CLDN18.2 staining (2+ or 3+ intensity) |
+| **Negative** | <75% viable tumor cells demonstrating moderate to strong membrane staining |
+
+**Clinical Relevance:**
+- CLDN18.2 is a tight junction protein normally expressed in gastric epithelium; retained during malignant transformation
+- CLDN18.2-positive tumors represent **24–38%** of advanced gastric/EGJ adenocarcinomas
+- More common in **diffuse subtype**
+- Expression is **independent** of dMMR status, HER2 status, and PD-L1
+
+**Testing Indication:** For untreated patients with unresectable locally advanced, recurrent, or metastatic adenocarcinoma when **zolbetuximab** is being considered
+
+---
+
+## MSI/MMR Testing {.smaller}
+
+**Universal Testing Recommended — All Newly Diagnosed Patients**
+
+**Methods:**
+- MSI by PCR or NGS (on FFPE tissue)
+- MMR by IHC (nuclear expression of MLH1, MSH2, MSH6, PMS2)
+- Testing should be performed in **CLIA-approved** laboratories
+- Patients with MSI-H/dMMR → refer to **genetics counselor**
+
+**MSI Interpretation:**
+| Category | PCR Criteria |
+|---|---|
+| MSS | No instability |
+| MSI-Low (MSI-L) | 1%–29% of markers exhibit instability OR 1 of 5 NCI markers |
+| **MSI-High (MSI-H)** | ≥30% of markers OR ≥2 of 5 NCI/mononucleotide markers |
+
+**MMR Interpretation:**
+| Finding | Interpretation |
+|---|---|
+| No loss of nuclear expression | No evidence of dMMR (low probability of MSI-H) |
+| Loss of nuclear expression ≥1 MMR proteins | **dMMR** |
+
+> MSI-H prevalence in gastric cancer: 19–22%; associated with earlier stage, intestinal subtype, distal stomach, age ≥68
+
+---
+
+## PD-L1 Testing {.smaller}
+
+**Universal Testing — All Newly Diagnosed Patients (candidates for PD-1/PD-L1 inhibitors)**
+
+**Key Requirements:**
+- Companion diagnostic test on **FFPE** tumor tissue
+- **CLIA-approved** laboratory only
+- Minimum **100 viable tumor cells** required for adequate evaluation
+
+**Combined Positive Score (CPS):**
+$$CPS = \frac{\text{PD-L1 staining cells (tumor + lymphocytes + macrophages)}}{\text{Total viable tumor cells}} \times 100$$
+
+- CPS **≥1** = PD-L1 expression positive
+
+**Tumor Area Positivity (TAP) Score:**
+$$TAP = \frac{\text{Area occupied by PD-L1 positive tumor and immune cells}}{\text{Tumor area}} \times 100\%$$
+
+> CPS and TAP score have **high concordance and are interchangeable** for tislelizumab-jsgr and durvalumab
+
+---
+
+## Biomarker Testing Summary {.smaller}
+
+**IHC Testing:**
+- HER2 (ERBB2) overexpression
+- PD-L1 expression (CPS or TAP)
+- MMR protein expression (MLH1, MSH2, MSH6, PMS2)
+- CLDN18.2 expression
+- BRAF V600E mutation (VE1)
+- TRK A/B/C (NTRK 1/2/3)
+
+**Cytogenetics (ISH):**
+- HER2 (ERBB2) amplification (if IHC equivocal)
+- NTRK 1/2/3 gene fusions
+- RET gene fusion
+
+**Molecular Testing (PCR, NGS):**
+- HER2 (ERBB2) amplification
+- BRAF codon 600
+- MSI testing
+- NTRK 1/2/3 gene fusions
+- RET gene fusion
+- TMB via NGS (CLIA-approved lab)
+
+**Liquid Biopsy (ctDNA):**
+- When limited tissue available
+- For metastatic/advanced patients unable to undergo traditional biopsy
+- Validated NGS-based MGPT in CLIA-approved lab
+- Negative result should be interpreted with **caution** (does not exclude tumor)
+
+# Principles of Surgery {background-color="#1a5276"}
+
+---
+
+## Criteria of Unresectability & Siewert Classification {.smaller}
+
+**Criteria of Unresectability for Cure:**
+
+*Locoregionally Advanced:*
+- Disease infiltration of root of mesentery or para-aortic LN (highly suspicious or biopsy confirmed)
+- Invasion or encasement of major vascular structures *(excluding splenic vessels)*
+
+*Distant:*
+- Distant metastasis or peritoneal seeding *(including positive peritoneal cytology)*
+
+> Positive peritoneal cytology in absence of visible peritoneal implants = **pM1 disease**
+
+**Siewert Classification:**
+
+| Type | Definition | Management |
+|---|---|---|
+| **I** | Epicenter 1–5 cm above EGJ | Esophageal/EGJ guidelines |
+| **II** | Epicenter 1 cm above to 2 cm below EGJ | Esophageal/EGJ guidelines |
+| **III** | Epicenter 2–5 cm below EGJ, infiltrates EGJ from below | **Gastric cancer guidelines** |
+
+---
+
+## Resectable Tumor Surgery (GAST-C) {.smaller}
+
+:::: {.columns}
+::: {.column width="55%"}
+**Resection Types by Stage:**
+
+- **Tis or T1a** limited to mucosa → candidates for EMR/ESD *(in experienced centers)*
+- **T1b–T3** → Adequate resection to achieve negative margins + lymphadenectomy:
+  - Distal gastrectomy
+  - Subtotal gastrectomy
+  - Total gastrectomy
+- **T4b** → En bloc resection of involved structures
+
+**Lymphadenectomy:**
+- Goal: examine **≥16 regional LNs**
+- **D1**: Greater/lesser omenta, perigastric LNs (right/left cardiac, lesser/greater curvature, suprapyloric, infrapyloric)
+- **D2**: D1 + LNs along left gastric, common hepatic, celiac, and splenic arteries
+- D2 should be performed in **experienced, high-volume centers**
+:::
+::: {.column width="45%"}
+**Routine Splenectomy: NOT indicated** unless:
+- Spleen involved, or
+- Extensive hilar adenopathy
+
+**Minimally Invasive Surgery:**
+
+Criteria for consideration:
+- Surgeon experienced in laparoscopic/robotic foregut procedures and lymphadenectomy
+- Both early and locally advanced cancers may be considered
+- **NOT generally recommended** for T4b or N2 bulky disease
+
+Supported by CLASS-01, CLASS-02, KLASS-01, KLASS-02 trials showing equivalent oncologic outcomes
+
+**Feeding Tube Placement:**
+- Consider for select patients undergoing total gastrectomy (especially if postoperative CRT planned)
+:::
+::::
+
+---
+
+## IC/HIPEC for Peritoneal Disease {.smaller}
+
+**Intraperitoneal Chemotherapy (IC) / Hyperthermic Intraperitoneal Chemotherapy (HIPEC)**
+
+**Evidence Base:**
+- Evidence is limited — no definitive randomized trials showing efficacy
+- Limited to case reports and small series
+- May be effective in **selected patients with low tumor burden**
+- Decision requires **multidisciplinary discussion**
+
+**PIPAC:** Pressurized Intraperitoneal Aerosolized Chemotherapy — **investigational only; clinical trial setting**
+
+**Patient Selection for IC/HIPEC:**
+1. Pre-treatment: CT chest/abdomen/pelvis + diagnostic laparoscopy (PCI assessment) ± PET
+2. Systemic therapy for **minimum 3 months**
+3. Restaging: must show stable or improving disease
+
+**IC/HIPEC Criteria:**
+- **Low PCI (≤10)**: IC/HIPEC in conjunction with cytoreductive surgery *(complete cytoreduction candidate)*
+- **Higher PCI (>10)**: IC/HIPEC only in clinical trial setting
+- **Prophylactic IC/HIPEC/PIPAC**: Investigational — clinical trial only
+
+---
+
+## Palliative Surgical Procedures {.smaller}
+
+**Indications:**
+- Palliation of symptoms (obstruction or uncontrollable bleeding) when **nonsurgical options are not feasible**
+- Does NOT require lymph node dissection
+
+**Options:**
+
+| Situation | Procedure |
+|---|---|
+| Gastric outlet obstruction (minimal metastatic disease) | **Endoluminal stenting** (preferred) |
+| Need for longer-term palliation | **Gastrojejunostomy** (open or laparoscopic) |
+| Unresectable disease | Venting gastrostomy and/or feeding tube |
+
+> In incurable disease: surgical resection reserved for symptomatic palliation only when endoscopic/interventional radiology not feasible
+
+# Principles of Multidisciplinary Team Approach {background-color="#1a5276"}
+
+---
+
+## MDT Approach for Esophagogastric Cancers (GAST-E) {.smaller}
+
+**Category 1 evidence supports combined modality therapy** for localized esophagogastric cancer
+
+**Infrastructure Requirements:**
+
+- Joint review of **detailed patient data** on a regular basis (weekly or biweekly meetings)
+- All relevant disciplines represented:
+  - Surgical oncology, medical oncology, gastroenterology
+  - Radiation oncology, radiology, pathology
+  - Nutritional services, social workers, nursing
+  - Palliative care specialists
+
+**Operational Principles:**
+
+- All long-term strategies best developed **after adequate staging and prior to any therapy**
+- Joint review of **actual medical data** more effective than reading reports
+- Brief documentation of consensus recommendation for each patient
+- MDT recommendations are **advisory** to primary treating physicians
+- Re-presentation of outcomes after therapy serves as an educational tool
+- Periodic formal review of relevant literature encouraged
+
+# Principles of Systemic Therapy {background-color="#1a5276"}
+
+---
+
+## General Principles of Systemic Therapy (GAST-F) {.smaller}
+
+:::: {.columns}
+::: {.column width="55%"}
+**Regimen Selection Principles:**
+
+- Regimens for esophageal, EGJ, and gastric adenocarcinoma may be **used interchangeably** (except as noted)
+- Selection based on: Performance status, comorbidities, toxicity profile
+- **Two-drug cytotoxic regimens preferred** for advanced disease (lower toxicity)
+- Three cytotoxic drugs: reserved for **medically fit patients with excellent PS** and access to frequent toxicity evaluations
+
+**Key Rules:**
+
+- Trastuzumab: add to first-line chemo for **advanced HER2+ (IHC 3+ or IHC 2+ with ISH/FISH+)** adenocarcinoma
+- Checkpoint inhibitor: add to **first-line chemotherapy** for patients with advanced disease **PD-L1 CPS ≥1**
+- An FDA-approved **biosimilar** is an appropriate substitute for any biologic
+
+**DPYD Testing:** See NCCN Guidelines for Colon Cancer
+:::
+::: {.column width="45%"}
+**Perioperative Systemic Therapy (Category 1):**
+- Recommended for localized gastric cancer
+
+**Postoperative Options by Dissection Type:**
+
+| Dissection | Postoperative Therapy |
+|---|---|
+| **Less than D2** | Chemoradiation |
+| **Primary D2** | Chemotherapy (category 1) |
+
+**Subcutaneous Administration:**
+- Pembrolizumab + berahyaluronidase alfa-pmph = may substitute IV pembrolizumab *(different dosing)*
+- Nivolumab + hyaluronidase-nvhy = may substitute IV nivolumab for monotherapy *(NOT for concurrent IV ipilimumab)*
+:::
+::::
+
+---
+
+## Perioperative Systemic Therapy Regimens {.smaller}
+
+**Preferred:**
+- **FLOT** (Fluorouracil, Leucovorin, Oxaliplatin, Docetaxel) *(category 1)*
+- **FLOT + Durvalumab** — *For PD-L1 CPS ≥1 or TAP ≥1%* (category 1); for CPS/TAP <1% (category 2B); for diffuse type (category 2B); for clinical node-negative tumor
+- Fluoropyrimidine and oxaliplatin
+
+**Other Recommended:**
+- Fluorouracil and cisplatin *(category 1)*
+
+**Neoadjuvant/Perioperative Immunotherapy — Useful in Certain Circumstances (MSI-H/dMMR):**
+- Dostarlimab-gxly *(neoadjuvant only)*
+- Nivolumab + ipilimumab → nivolumab
+- Pembrolizumab
+- Tremelimumab + durvalumab *(neoadjuvant only)*
+
+> In MATTERHORN trial: diffuse-type gastric/EGJ adenocarcinoma showed **no EFS advantage** with durvalumab added to FLOT
+
+---
+
+## Postoperative Therapy Regimens {.smaller}
+
+**Postoperative Chemoradiation** *(For patients with <D2 dissection)*
+
+- Fluoropyrimidine (infusional fluorouracil or capecitabine) before and after fluoropyrimidine-based chemoradiation
+
+**Postoperative Chemotherapy** *(For patients with primary D2 dissection)*
+
+Preferred:
+- **Capecitabine + oxaliplatin** *(category 1)* — based on CLASSIC trial
+- Fluorouracil + oxaliplatin
+
+**Chemoradiation for Unresectable Disease:**
+
+Preferred:
+- Fluoropyrimidine alone
+- Fluorouracil + oxaliplatin
+- Fluorouracil + cisplatin
+
+Other Recommended:
+- Fluoropyrimidine + paclitaxel *(category 2B)*
+
+---
+
+## First-Line Therapy — Advanced/Metastatic Disease {.smaller}
+
+**HER2-Positive:**
+- Fluoropyrimidine + oxaliplatin + **trastuzumab**
+- Fluoropyrimidine + oxaliplatin + trastuzumab + **pembrolizumab** *(CPS ≥1, category 1)*
+- Fluoropyrimidine + cisplatin + trastuzumab *(category 1)*
+- Fluoropyrimidine + cisplatin + trastuzumab + **pembrolizumab** *(CPS ≥1, category 1)*
+
+**HER2-Negative:**
+- + **nivolumab** *(CPS ≥1; category 1 for CPS ≥5)*
+- + **pembrolizumab** *(CPS ≥1; category 1 for CPS ≥5)*
+- + **tislelizumab-jsgr** *(CPS ≥1; category 1 for CPS ≥5)*
+- + **zolbetuximab-clzb** *(CLDN18.2 positive, category 1)*
+- Fluoropyrimidine + oxaliplatin *(or cisplatin)*
+
+**MSI-H/dMMR (regardless of PD-L1):**
+- Pembrolizumab
+- Dostarlimab-gxly
+- Nivolumab + ipilimumab
+- Fluoropyrimidine + oxaliplatin + nivolumab/pembrolizumab
+
+---
+
+## Second-Line & Subsequent Therapy {.smaller}
+
+**Preferred Regimens:**
+
+| Regimen | Evidence Level |
+|---|---|
+| **Ramucirumab + paclitaxel** | Category 1 (RAINBOW trial) |
+| **Fam-trastuzumab deruxtecan-nxki** (HER2+ adenocarcinoma) | **Category 1** (upgraded from 2A) |
+| Docetaxel | Category 1 |
+| Paclitaxel | Category 1 |
+| Irinotecan | Category 1 |
+| Fluorouracil + irinotecan | — |
+| Trifluridine + tipiracil *(3rd-line or subsequent)* | Category 1 (TAGS trial) |
+
+**Other Recommended:**
+- Ramucirumab (monotherapy, category 1)
+- Irinotecan ± cisplatin or ramucirumab
+- Fluorouracil + irinotecan ± ramucirumab
+
+**Useful in Certain Circumstances:**
+- Entrectinib/Larotrectinib/Repotrectinib *(NTRK 1/2/3 gene fusion+)*
+- Pembrolizumab or Nivolumab + ipilimumab *(MSI-H/dMMR)*
+- Pembrolizumab *(TMB-H ≥10 mut/Mb)*
+- Dostarlimab-gxly *(MSI-H/dMMR, no prior ICI)*
+- Dabrafenib + trametinib *(BRAF V600E)*
+- Selpercatinib *(RET gene fusion+)*
+
+# Principles of Radiation Therapy {background-color="#1a5276"}
+
+---
+
+## Radiation Therapy — General Principles (GAST-G) {.smaller}
+
+**Treatment Recommendations:**
+- Must be made after **joint MDT consultation** including: surgical oncologists, radiation oncologists, medical oncologists, radiologists, gastroenterologists, and pathologists
+- All available imaging (CT, EUS, FDG-PET, endoscopy reports) should be reviewed prior to simulation
+
+**Simulation and Treatment Planning:**
+- **CT simulation** with conformal planning required
+- Use **3D-CRT or IMRT**
+- Patient instructions: No heavy meal 3 hours before simulation or treatment
+- IV and/or oral contrast for CT simulation as appropriate
+- **Immobilization device strongly recommended** for reproducibility
+- Optimal treatment position: **supine**
+- **4D-CT planning** may be used where respiratory motion is significant
+- IMRT: carefully define target volumes; account for stomach filling variations and respiratory motion
+
+**Siewert Classification and RT:**
+- **Type I & II** → RT guidelines for esophageal/EGJ cancers
+- **Type III** → RT guidelines for esophageal/EGJ or gastric cancers depending on tumor bulk location
+
+---
+
+## RT Dose and Target Volume {.smaller}
+
+**RT Dosing:**
+- **45–50.4 Gy** (1.8 Gy/day; total 25–28 fractions)
+- Higher doses for **positive surgical margins** (boost to that area)
+
+**Target Volume — Postoperative Setting:**
+- Use clip placement + pretreatment diagnostic studies to identify tumor bed, anastomosis/stumps, and nodal groups
+- Remaining stomach: balance normal tissue morbidity vs. risk of local recurrence
+- Coverage of nodal areas modified based on clinical circumstances
+
+**Nodal Areas at Risk by Primary Location:**
+
+| Location | Nodal Areas |
+|---|---|
+| **Proximal/Cardia/EGJ** | Perigastric, celiac, left gastric, splenic artery/hilar, hepatic artery, porta hepatic; 3–5 cm distal esophagus margin |
+| **Middle/Body** | Perigastric, celiac, left gastric, splenic artery/hilar, hepatic, porta hepatic, suprapyloric, subpyloric, pancreaticoduodenal |
+| **Distal/Antrum/Pylorus** | Perigastric, left gastric, celiac, hepatic, porta hepatic, suprapyloric, subpyloric, pancreaticoduodenal; 3–5 cm duodenal margin |
+
+---
+
+## Normal Tissue Tolerance Dose Limits {.smaller}
+
+| Organ | Dose Limit |
+|---|---|
+| **Lungs** | V40Gy ≤10%; V30Gy ≤15%; V20Gy ≤20%; V10Gy ≤40%; V5Gy ≤50%; Mean <20 Gy |
+| **Heart** | V30Gy ≤30% (closer to 20% preferred); Mean <30 Gy (closer to 26 Gy preferred) |
+| **Spinal Cord** | Max ≤45 Gy |
+| **Left / Right Kidney** *(each separately)* | V20Gy ≤33%; Mean <18 Gy |
+| **Bowel** | Max dose <54 Gy; V45Gy <195 cc |
+| **Liver** | V30Gy ≤33%; Mean <25 Gy |
+
+**Supportive Care During RT:**
+- Avoid treatment interruptions; use aggressive supportive care
+- Weekly check: vital signs, weight, blood counts
+- Prophylactic antiemetics; antacids and antidiarrheals as needed
+- If caloric intake <1500 kcal/day → **oral and/or enteral nutrition**
+- Feeding J-tube or NG tube may be placed
+- Adequate enteral and/or IV hydration throughout CRT and recovery
+
+# Targeted Therapies {background-color="#1a5276"}
+
+---
+
+## Trastuzumab in HER2+ Gastric Cancer {.smaller}
+
+**ToGA Trial (Bang YJ, et al. Lancet 2010):**
+- First landmark trial demonstrating benefit of trastuzumab
+- Combination with chemotherapy vs. chemotherapy alone in HER2+ advanced gastric/EGJ cancer
+- Established HER2 testing as standard
+
+**Key Principles:**
+- Add trastuzumab to first-line chemotherapy for advanced HER2+ (IHC 3+ or IHC 2+ with ISH+)
+- FDA-approved biosimilar = appropriate substitute
+- For advanced/metastatic disease: HER2 testing strongly recommended
+
+---
+
+## Pembrolizumab in Gastric Cancer {.smaller}
+
+**Key Trials:**
+- **KEYNOTE-811:** PD-L1 CPS ≥1 HER2+ gastric/EGJ; trastuzumab + chemotherapy ± pembrolizumab → improved OS
+- **KEYNOTE-859:** HER2-negative advanced; fluoropyrimidine + oxaliplatin/cisplatin ± pembrolizumab
+- **KEYNOTE-062:** Pembrolizumab vs. chemotherapy in first-line advanced/metastatic
+- **KEYNOTE-059:** Pembrolizumab monotherapy in previously treated advanced gastric/EGJ cancer
+
+**Indications:**
+- First-line: PD-L1 CPS ≥1 (category 1 for CPS ≥5)
+- MSI-H/dMMR: pembrolizumab in any line (neoadjuvant, first-line, subsequent)
+- TMB-H (≥10 mut/Mb): second-line or subsequent
+
+---
+
+## Nivolumab in Gastric Cancer {.smaller}
+
+**CheckMate 649 (Janjigian YY, et al. Lancet 2021):**
+- First-line nivolumab + chemotherapy vs. chemotherapy alone in advanced gastric/GEJ/esophageal adenocarcinoma
+- Significant OS improvement, especially in PD-L1 CPS ≥5
+
+**NEONIPIGA Phase II Trial:**
+- Neoadjuvant nivolumab + ipilimumab → adjuvant nivolumab in locally advanced MSI-H/dMMR gastric/EGJ cancer
+- ~59% pathologic CR rate in 32 patients
+- 97% with survival benefit
+
+**Current Indications:**
+- First-line: HER2-negative, PD-L1 CPS ≥1 (category 1 for CPS ≥5)
+- Neoadjuvant/perioperative MSI-H/dMMR: nivolumab + ipilimumab → nivolumab
+
+---
+
+## Zolbetuximab-clzb (CLDN18.2 Inhibitor) {.smaller}
+
+**Mechanism:** Targets CLDN18.2 tight junction protein exposed during malignant transformation
+
+**SPOTLIGHT Trial (Shitara K, et al. Lancet 2023):**
+- Zolbetuximab + mFOLFOX6 vs. placebo in CLDN18.2+, HER2-negative gastric/EGJ adenocarcinoma
+- Statistically significant improvement in PFS and OS
+
+**GLOW Trial (Shah MA, et al. Nat Med 2023):**
+- Zolbetuximab + CAPOX vs. placebo in CLDN18.2+, HER2-negative gastric/EGJ adenocarcinoma
+- Significant improvement in PFS and OS
+
+**Current Recommendation:** Category 1, preferred in first-line for CLDN18.2-positive, HER2-negative disease
+
+---
+
+## Ramucirumab (VEGFR-2 Antibody) {.smaller}
+
+**RAINBOW Trial (Wilke H, et al. Lancet Oncol 2014):**
+- Ramucirumab + paclitaxel vs. placebo + paclitaxel in second-line advanced gastric/EGJ adenocarcinoma
+- **Category 1, preferred** second-line option
+
+**REGARD Trial (Fuchs CS, et al. Lancet 2014):**
+- Ramucirumab monotherapy vs. placebo in second-line setting
+- Category 1; "Other Recommended"
+
+---
+
+## Fam-Trastuzumab Deruxtecan-nxki (T-DXd) {.smaller}
+
+**DESTINY-Gastric01 (Shitara K, et al. NEJM 2020):**
+- T-DXd vs. physician's choice chemotherapy in previously treated HER2+ gastric/EGJ adenocarcinoma
+- Significantly higher ORR and improved OS
+
+**DESTINY-Gastric04 (Shitara K, et al. NEJM 2025):**
+- Confirmatory results in second-line HER2+ gastric cancer
+
+**Current Status:** Upgraded to **Category 1** (from 2A) for second-line or subsequent therapy in HER2+ adenocarcinoma
+
+---
+
+## Other Targeted Therapies {.smaller}
+
+| Drug | Target | Indication |
+|---|---|---|
+| **Tislelizumab-jsgr** | PD-L1 | First-line, CPS ≥1 (category 1 for CPS ≥5); RATIONALE-305 trial |
+| **Dostarlimab-gxly** | PD-1 | MSI-H/dMMR neoadjuvant; MSI-H/dMMR subsequent therapy (no prior ICI) |
+| **Entrectinib** | NTRK / ROS1 | NTRK 1/2/3 gene fusion+ tumors |
+| **Larotrectinib** | NTRK | NTRK 1/2/3 gene fusion+ tumors |
+| **Repotrectinib** | NTRK (including after prior NTRK therapy) | NTRK 1/2/3 gene fusion+ tumors |
+| **Dabrafenib + Trametinib** | BRAF V600E / MEK | BRAF V600E-mutated tumors (NCI-MATCH trial) |
+| **Selpercatinib** | RET | RET gene fusion+ solid tumors (LIBRETTO-001 trial) |
+| **Trifluridine/Tipiracil** | DNA polymerase | 3rd-line or subsequent; TAGS trial (category 1) |
+
+# Principles of Surveillance {background-color="#1a5276"}
+
+---
+
+## Principles of Surveillance (GAST-H) {.smaller}
+
+**H. pylori Eradication:**
+- All H. pylori-positive patients who underwent curative ER or subtotal resection **must receive eradication regimen**
+- Follow latest American College of Gastroenterology or Maastricht consensus guidelines
+
+**Surveillance Evidence Base:**
+- Recommendations based on retrospectively analyzed literature and expert consensus
+- Sparse prospective data for evidence-based algorithms
+
+**Recurrence Timing:**
+- 70–80% of recurrences occur within **first 2 years**
+- ~90% of recurrences occur by **5 years**
+- ~7.6% of recurrences documented **>5 years** after treatment
+
+> After 5 years, additional follow-up may be considered based on **risk factors and comorbidities**
+
+**Important Prognosis Factors:**
+- Stage, depth of invasion, LN status (≥80% of patients have regional LN involvement)
+- Positive peritoneal cytology = independent predictor of recurrence
+- Alkaline phosphatase ≥100 U/L = marker of poor outcome
+
+# Principles of Survivorship {background-color="#1a5276"}
+
+---
+
+## Survivorship: Long-Term Sequelae Management (GAST-I) {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+**General Sequelae:**
+- **Weight loss:** Monitor regularly; encourage frequent small meals; dietician referral
+- **Diarrhea:** Antidiarrheal agents, bulk-forming agents, dietary manipulation
+- **Chemotherapy-induced neuropathy:**
+  - Duloxetine for painful neuropathy only (not for numbness/tingling)
+  - Referral to OT/PT if fall risk
+- **Fatigue:** Physical activity; energy conservation; evaluate psychosocial factors
+- **Bone health:** Regular screening; Vitamin D testing and replacement
+:::
+::: {.column width="50%"}
+**Post-Gastrectomy Specific Issues:**
+- **Postprandial fullness:** Small, frequent portions; avoid fluid with meals
+- **Dumping syndrome:**
+  - *Early* (within 30 min): palpitations, diarrhea, nausea, cramps
+  - *Late* (2–3 hours): dizziness, hunger, cold sweats, faintness
+  - High protein/fiber, low simple carbohydrate diet
+- **Vitamin B12 deficiency:** Supplement; monitor ≥every 6 months if not on parenteral B12
+- **Iron deficiency:** Monitor CBC and iron annually; supplement orally or IV
+- **Small intestinal bacterial overgrowth:** Rifaximin 550 mg TID × 7–10 days
+:::
+::::
+
+---
+
+## Survivorship: Nutritional Supplementation {.smaller}
+
+**Micronutrient Deficiency Management:**
+
+Supplement with **daily multivitamin/mineral complex** including:
+Vitamins A, C, E, D, folate, thiamine, magnesium, zinc, selenium, copper, and iron
+
+**Vitamin D and Calcium:**
+- Supplement Vitamin D (follow local practice for dose and monitoring)
+- Ensure adequate calcium intake
+
+**Osteopenia/Osteoporosis:**
+- Consider bone density testing at **3 years post-gastrectomy**
+- Screen for post-menopausal patients or those >50 years of age
+
+> **Subtotal gastrectomy patients**: at decreased risk of nutritional deficiencies — individualize monitoring protocol
+
+---
+
+## Survivorship: Health Behavior Counseling {.smaller}
+
+**Lifestyle Recommendations:**
+
+- Maintain **healthy body weight** throughout life
+- **Physically active lifestyle**: minimum 30 minutes moderate-intensity activity most days
+  *(Modify for neuropathy or other treatment sequelae)*
+- **Healthy diet**: emphasis on plant sources; modify for dumping syndrome or bowel dysfunction
+- **Limit alcohol** consumption
+- **Smoking cessation** (see NCCN Guidelines for Smoking Cessation)
+
+**Cancer Screening (Average-Risk Survivors):**
+- Breast Cancer: NCCN Guidelines for Breast Cancer Screening
+- Colorectal Cancer: NCCN Guidelines for Colorectal Cancer Screening
+- Prostate Cancer: NCCN Guidelines for Prostate Cancer Early Detection
+- Lung Cancer: NCCN Guidelines for Lung Cancer Screening
+
+**Survivorship Care Planning:**
+- Maintain therapeutic relationship with **primary care physician (PCP)** throughout life
+- Define roles between oncologists and PCP in survivorship care
+- Include: treatment history, follow-up surveillance, late effects information, healthy behavior recommendations
+
+# Principles of Palliative Care {background-color="#1a5276"}
+
+---
+
+## Goals of Palliative Care (GAST-J) {.smaller}
+
+> The goal of best supportive care is to **prevent and relieve suffering** and support the best possible quality of life for patients and families, regardless of stage or need for other therapies.
+
+**For gastric cancer, interventions to relieve major symptoms may prolong life** — particularly with multimodality interdisciplinary approach.
+
+---
+
+## Palliative Management: Bleeding {.smaller}
+
+**Acute Bleeding (Hematemesis or Melena):**
+→ Prompt **endoscopic assessment**
+
+**Endoscopic Treatment Options:**
+- Injection therapy
+- Mechanical therapy (endoscopic clips)
+- Ablative therapy (argon plasma coagulation)
+- Combination methods
+
+*Note: Endoscopic therapies may initially be effective but rate of recurrent bleeding is very high*
+
+**Interventional Radiology:**
+- Angiographic embolization when endoscopy is not helpful or bleeding recurs
+
+**Other Options:**
+- Palliative gastrectomy in select patients
+
+**Chronic Blood Loss:**
+- Proton pump inhibitors (limited data)
+- **External beam radiation therapy (EBRT)** — effective for acute and chronic GI bleeding
+
+---
+
+## Palliative Management: Obstruction & Pain {.smaller}
+
+**Malignant Gastric Obstruction:**
+
+*Goals:* Reduce nausea/vomiting; allow resumption of oral diet when possible
+
+| Approach | Options |
+|---|---|
+| **Endoscopic** | Enteral stent (outlet obstruction); esophageal stent (EGJ/cardia obstruction) |
+| **Surgical** | Gastrojejunostomy; gastrectomy in select patients |
+| **Radiation** | EBRT |
+| **Chemotherapy** | Systemic therapy |
+
+*If obstruction cannot be alleviated:* Venting gastrostomy (percutaneous, endoscopic, surgical, or IR placement)
+
+*For nutritional support:*
+- EGJ/gastric cardia obstruction → feeding **gastrostomy**
+- Mid and distal gastric obstruction → feeding **jejunal tube**
+
+*Drain ascites before gastrostomy tube placement to reduce infectious complications*
+
+**Pain:**
+- EBRT
+- Chemotherapy
+- NCCN Guidelines for Adult Cancer Pain
+- Stent-related severe pain → endoscopic stent removal
+
+**Nausea/Vomiting:**
+- NCCN Guidelines for Antiemesis
+- Evaluate for luminal obstruction
+
+# NCCN Categories of Evidence & Preference {background-color="#1a5276"}
+
+---
+
+## Categories of Evidence and Consensus {.smaller}
+
+| Category | Definition |
+|---|---|
+| **Category 1** | High-level evidence (≥1 randomized phase 3 trial or high-quality meta-analysis); **uniform NCCN consensus (≥85% support)** that intervention is appropriate |
+| **Category 2A** | Lower-level evidence; **uniform NCCN consensus (≥85% support)** that intervention is appropriate |
+| **Category 2B** | Lower-level evidence; **NCCN consensus (≥50% but <85% support)** that intervention is appropriate |
+| **Category 3** | Any level of evidence; **major NCCN disagreement** that intervention is appropriate |
+
+> **All recommendations are category 2A unless otherwise indicated**
+
+---
+
+## Categories of Preference {.smaller}
+
+| Category | Definition |
+|---|---|
+| **Preferred** | Based on superior efficacy, safety, and evidence; and when appropriate, affordability |
+| **Other Recommended** | Interventions that may be somewhat less efficacious, more toxic, or based on less mature data; or significantly less affordable for similar outcomes |
+| **Useful in Certain Circumstances** | Other interventions that may be used for selected patient populations (defined with recommendation) |
+
+> **All recommendations are considered appropriate**
+
+# Summary {background-color="#003366"}
+
+---
+
+## Key Clinical Decision Points {.smaller}
+
+:::: {.columns}
+::: {.column width="50%"}
+**At Diagnosis — Universal Testing:**
+1. MSI/MMR status (PCR/NGS or IHC)
+2. PD-L1 (CPS, TAP)
+3. HER2 if advanced/metastatic
+4. CLDN18.2 if advanced/metastatic
+5. Consider NGS
+
+**Early Gastric Cancer:**
+- EMR/ESD for Tis, T1a, and carefully selected T1b
+- Curative criteria: ≤2 cm, ≤500 μm submucosal invasion, no LVI, negative margins
+- Surgery if unfavorable histology or incomplete ER
+
+**Resectable Locoregional:**
+- Perioperative systemic therapy (FLOT, category 1)
+- Consider durvalumab addition if CPS/TAP ≥1%
+- MSI-H/dMMR: consider neoadjuvant ICI
+- D2 dissection at high-volume centers
+- Post-op therapy based on dissection type and residual disease
+:::
+::: {.column width="50%"}
+**Advanced/Metastatic:**
+- HER2+ → add trastuzumab (± pembrolizumab)
+- HER2-negative, CPS ≥1 → add checkpoint inhibitor
+- CLDN18.2+ → add zolbetuximab-clzb
+- MSI-H/dMMR → pembrolizumab/dostarlimab/dual ICI
+
+**Second-Line:**
+- Ramucirumab + paclitaxel (preferred)
+- T-DXd for HER2+ (category 1, upgraded)
+- Targeted therapy based on molecular profile
+
+**Surveillance:**
+- Stage-based, up to 5 years
+- Nutritional monitoring lifelong after gastrectomy
+- H. pylori eradication after ER or partial gastrectomy
+:::
+::::
+
+---
+
+## NCCN Gastric Cancer v2.2026 — Quick Reference {.smaller}
+
+:::: {.columns}
+::: {.column width="60%"}
+**Algorithm Sections:**
+
+| Section | Topic |
+|---|---|
+| GAST-1 | Workup |
+| GAST-2 | Primary Treatment |
+| GAST-3 | Response Assessment |
+| GAST-4 | Post-op (No prior systemic) |
+| GAST-5 | Post-op (Prior systemic) |
+| GAST-6 | Post-treatment Assessment |
+| GAST-7 | Follow-up/Surveillance |
+| GAST-8 | Recurrence |
+| GAST-9 | Palliative Management |
+| GAST-10 | Peritoneal Carcinoma Only |
+| GAST-A | Endoscopy |
+| GAST-B | Pathology/Biomarkers |
+| GAST-C | Surgery |
+| GAST-D | Genetic Assessment |
+| GAST-E | MDT Approach |
+| GAST-F | Systemic Therapy |
+| GAST-G | Radiation Therapy |
+| GAST-H | Surveillance |
+| GAST-I | Survivorship |
+| GAST-J | Palliative/Best Supportive Care |
+:::
+::: {.column width="40%"}
+**Important Abbreviations:**
+
+| Abbr | Meaning |
+|---|---|
+| CPS | Combined Positive Score |
+| CRT | Chemoradiation therapy |
+| ctDNA | Circulating tumor DNA |
+| dMMR | Mismatch repair deficient |
+| EGD | Esophagogastroduodenoscopy |
+| EGJ | Esophagogastric junction |
+| EMR | Endoscopic mucosal resection |
+| ER | Endoscopic resection |
+| ESD | Endoscopic submucosal dissection |
+| EUS | Endoscopic ultrasound |
+| HIPEC | Hyperthermic intraperitoneal chemotherapy |
+| ICI | Immune checkpoint inhibitor |
+| LVI | Lymphovascular invasion |
+| MSI-H | Microsatellite instability-high |
+| PCI | Peritoneal Cancer Index |
+| TAP | Tumor area positivity |
+| TMB | Tumor mutational burden |
+:::
+::::
+

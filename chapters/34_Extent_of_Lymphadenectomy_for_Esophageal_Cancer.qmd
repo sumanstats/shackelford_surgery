@@ -7,6 +7,13 @@
 slides_iframe(600)
 ```
 
+<iframe
+src="../presentation/34_Extent_of_Lymphadenectomy_for_Esophageal_Cancer_kimi.html"
+  width="100%"
+  height="600"
+  style="border:none;">
+</iframe>
+
 
 
 Generated with Claude.

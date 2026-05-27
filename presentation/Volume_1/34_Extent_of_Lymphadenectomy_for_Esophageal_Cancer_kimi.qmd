@@ -1,0 +1,565 @@
+---
+title: "Extent of Lymphadenectomy for Esophageal Cancer"
+format:
+  revealjs:
+    theme: white
+    smaller: true
+    scrollable: true
+---
+
+## Introduction
+
+- Lymphadenectomy extent during esophagectomy remains **controversial**
+- Esophageal cancer often presents with **local nodal and distant metastases**
+- Locally advanced disease typically treated with **neoadjuvant modalities**
+- Central debate:
+  - Radical dissection improves **locoregional control** and survival
+  - Extended dissection improves **staging accuracy**, counseling, and adjuvant therapy decisions
+
+---
+
+## Lymphatic Drainage of the Esophagus {.smaller}
+
+- Esophagus traverses **three body compartments**
+- Lymph flow occurs in a **wide pattern of spread**
+- Embryological origins:
+  - **Above**: branchial arches and pharyngeal pouches
+  - **Below**: splanchnic mesoderm
+- Join during development but remain demarcated at the **tracheal bifurcation**
+  - Leads to **bilateral lymphatic drainage** (Fig. 34.1)
+
+---
+
+## Patterns of Lymphatic Spread {.smaller}
+
+**Early esophageal cancer:**
+
+- Nodal spread follows **anatomical pathways**
+- **Tumor location determines** likely node involvement
+  - **Above tracheal bifurcation** → upper mediastinum and neck
+  - **Below bifurcation** → celiac axis
+  - **At bifurcation** → either direction
+- **Skipping of stations is rare** in early tumors
+
+**Histology differences (T1a-M3):**
+
+- **SCC**: up to **12%** lymph node involvement
+- **Adenocarcinoma**: only **1.3%**
+
+---
+
+## Submucosal Spread and Advanced Disease
+
+- **Extensive submucosal lymphatic network** allows longitudinal communication between proximal and distal drainage systems
+- In advanced tumors blocking primary pathways:
+  - Submucosal system allows **eccentric lymph node involvement**
+- Most patients diagnosed at **advanced stage**
+- **T3 disease**: up to **85%** chance of lymph node metastasis
+
+---
+
+## Lymph Node Tiers and Fields
+
+- Extent of dissection divided into **three fields**:
+  1. **Upper abdomen**
+  2. **Mediastinum**
+  3. **Neck** (Fig. 34.2)
+
+- **Three-field dissection**: nodal tissue from all three areas
+- **Two-field dissection**: definition varies by geography and histology prevalence
+
+---
+
+## Two-Field Dissection: East vs West {.smaller}
+
+| Region | Common Histology | Two-Field Definition |
+|--------|------------------|----------------------|
+| **Japan/East** | Squamous Cell Carcinoma | Upper abdomen + inferior and superior mediastinum + both recurrent laryngeal nerves |
+| **Western countries** | Adenocarcinoma | Upper abdomen + inferior mediastinum only (to level of carina) |
+
+- Western definition reflects tumors located in **lower esophagus or EGJ**
+
+---
+
+## Abdominal Lymph Node Dissection (Field 1) {.smaller}
+
+**Node stations included:**
+
+- **Superior gastric group**
+  - Paracardial nodes (left and right = single group)
+  - Lesser curve nodes
+  - Nodes along left gastric artery
+- **Celiac trunk nodes** (at root of left gastric, common hepatic, splenic arteries)
+- **Common hepatic nodes**
+
+*Remove en bloc with primary lesion. Disease beyond celiac or hepatic nodes = metastatic disease.*
+
+---
+
+## Abdominal Involvement Patterns
+
+- **Paracardial and lesser curve regions** most commonly involved with lower esophageal tumors
+- Left gastric, celiac trunk, and hepatic artery nodes frequently involved
+- **Intramural spread** to abdominal nodes:
+  - **Adenocarcinoma**: **54%**
+  - **SCC**: **10%**
+- Indicates need for **wide resection margin** in adenocarcinoma patients
+
+---
+
+## Thoracic Lymph Node Dissection (Field 2) {.smaller}
+
+**Standard mediastinal dissection includes:**
+
+- Mediastinal nodes
+- Thoracic duct
+- Both pulmonary hilar nodes
+- Paraesophageal nodes
+- Carinal, bronchial, and paratracheal nodes
+
+*Taken as en bloc resection with esophagus*
+
+**Extended dissection:**
+
+- Nodes on **right side of trachea**
+
+**Total mediastinal lymphadenectomy:**
+
+- Additional removal along **left recurrent laryngeal nerve** and **subaortic nodes**
+
+---
+
+## Cervical Node Dissection (Field 3) {.smaller}
+
+**Three-field dissection adds:**
+
+- Brachiocephalic nodes
+- Deep internal cervical nodes
+- Deep external cervical nodes
+- Nodes along **left and right recurrent laryngeal nerves**
+
+**Involvement patterns:**
+
+- Deep external (lateral to IJV) and deep internal (approximate RLN) **more commonly involved**
+- Deep lateral nodes (spinal accessory chain) **less commonly involved**
+
+---
+
+## SCC vs Adenocarcinoma: Overview
+
+- Pattern of spread correlates **somewhat with histology**
+- Extensive lymphatic drainage makes prediction difficult, especially in **advanced cancers**
+- **Figs. 34.3 and 34.4** illustrate different distribution patterns
+
+---
+
+## SCC: Nodal Involvement Rates
+
+- Typically located in **middle and proximal esophagus**
+- **Confined to mucosa**: 0–7% nodal involvement
+- **Submucosal invasion**: up to **50%** nodal involvement
+- **Transmural tumors**: over **73%** nodal involvement
+
+---
+
+## SCC: Recurrence Patterns {.smaller}
+
+**Law et al. (n=108, SCC, two-field):**
+
+- Two-thirds recur in **first year**
+- Majority (**44**) **extrathoracic**
+  - 28 distant organs (hematogenous)
+  - 17 lymph nodes (12 cervical, 5 abdominal)
+- **Local recurrence**: **25%**
+
+---
+
+## Adenocarcinoma: Nodal Involvement
+
+- Typically **lower esophagus and EGJ**
+- **Confined to mucosa**: 0–7% (mirrors SCC)
+- **Submucosal penetration**: 15–50%
+- **Muscularis propria invasion**: up to **80%**
+
+---
+
+## Adenocarcinoma: Recurrence Rates
+
+- Lower esophageal adenocarcinoma: **9%** local recurrence
+- Junctional cancers: **15%** local recurrence
+- Overall local recurrence either subtype: **25–50%**
+- Meticulous lymphadenectomy may have **profound impact** on locoregional control
+
+---
+
+## Figure 34.3: SCC Nodal Distribution
+
+Distribution of lymph node metastases in **100 SCC patients**:
+
+| Region | Involvement |
+|--------|-------------|
+| Cervical/Neck | 11.2% |
+| Upper Mediastinum | 31.9% |
+| Carina/Tracheal bifurcation | 56.6% |
+| Lower Mediastinum | 30.2% |
+| Paraesophageal (mid-lower) | 20.9% |
+| Gastroesophageal/Paracardial | 22.6% |
+| Left Gastric | 12.3% |
+| Celiac Axis | 8.2% |
+
+---
+
+## Figure 34.4: Adenocarcinoma Nodal Distribution
+
+Distribution of lymph node metastases in **100 adenocarcinoma patients**:
+
+| Region | Involvement |
+|--------|-------------|
+| Cervical | 5.4% |
+| Upper Mediastinum | 9.7% |
+| Lower Mediastinum | 31.5% |
+| Paracardial/EGJ | 43.9% |
+| Left Gastric/Celiac area | 50.6% |
+| Additional abdominal stations | 12.8% |
+| Hepatic/Common hepatic | 10.2% |
+
+---
+
+## Figure 34.2: Fields of Dissection
+
+**Three anatomical fields routinely dissected:**
+
+1. **Abdominal field** (one-field)
+   - Celiac axis, paracardial, lesser curve, left gastric artery
+
+2. **Thoracic field** (two-field)
+   - Mediastinal nodes from diaphragm to subaortic region
+   - Paraesophageal, hilar, carinal, paratracheal
+
+3. **Cervical field** (three-field)
+   - Deep internal, external, and lateral cervical nodes
+   - Recurrent laryngeal nerve chains
+
+---
+
+## Box 34.1: Nodes by Anatomic Region {.smaller}
+
+| Region | Node Stations |
+|--------|---------------|
+| **Cervical** | Deep lateral, Deep external, Deep internal |
+| **Superior Mediastinal** | Recurrent nerve chain, Paratracheal, Brachiocephalic artery, Infraaortic-arch |
+| **Middle Mediastinal** | Tracheal bifurcation, Pulmonary hilar, Paraesophageal |
+| **Lower Mediastinal** | Paraesophageal, Diaphragmatic |
+| **Superior Gastric** | Paracardial, Lesser curve, Left gastric artery |
+| **Celiac Trunk** | Celiac axis nodes |
+| **Common Hepatic** | Common hepatic artery nodes |
+
+---
+
+## Kurokawa Nodal Categories (EGJ Tumors) {.smaller}
+
+Mapped lymph node involvement comparing adenocarcinoma vs SCC:
+
+**Category 1: Strongly recommended (>10% involvement)**
+
+- Abdominal stations: **1, 2, 3, 7, 9, 11p**
+- Lower mediastinal **110** if >2 cm esophageal involvement
+
+**Category 2: Weakly recommended (5–10%)**
+
+- Abdominal stations: **8a, 19**
+- Lower mediastinal **110** (if ≤2 cm involvement)
+
+**Category 3: Not recommended (<5%)**
+
+- All other stations
+
+---
+
+## Implications of Lymphadenectomy {.smaller}
+
+**Core arguments for extensive dissection:**
+
+1. Improved **locoregional control** and cure rates
+2. Improved **staging accuracy**
+3. Better **patient counseling**
+4. Informed **adjuvant therapy** decisions
+
+**Key principle:**
+
+- **R0 resection** is critical prognostic indicator
+- **R1/R2 residual disease** → significantly worse prognosis
+- **25–50%** develop locoregional recurrence after two-field dissection
+
+---
+
+## Survival and Nodal Location {.smaller}
+
+**Anderegg et al. (n=479, adenocarcinoma):**
+
+- Nodal involvement location = **independent predictor**
+- Survival by location:
+  - **Locoregional only**: 35 months
+  - **Celiac trunk nodes**: 16 months
+  - **Proximal field nodes**: 15 months
+
+**Hulscher et al.:**
+
+- Trend toward greater **5-year survival** with transthoracic + extended en bloc vs. transhiatal for lower esophageal/junctional adenocarcinoma
+
+---
+
+## Node Yield as Surrogate for Extent {.smaller}
+
+| Study | Design | Findings |
+|-------|--------|----------|
+| **Van der Schaaf** | Swedish nationwide, n=1044 | More extensive clearance **did not** equate to improved survival. Low yields (3rd quartile ≤15 nodes) |
+| **Lagergren** | Single center | Higher yield **did not** equate to better survival. 3rd quartile ≤20 nodes |
+| **Visser et al.** | Meta-analysis | Higher LN yield **associated with improved survival** in both neoadjuvant-naive and modern cohorts |
+
+*Note: Both early studies had generally low lymph node yields*
+
+---
+
+## Lymph Node Ratio (LNR) {.smaller}
+
+- **LNR** = positive nodes / total nodes examined
+- Better predictor than N category alone?
+
+**Chen et al. (n>2000, SCC, China):**
+
+- Proposed **Nr categories**:
+  - **0**: 61% survival
+  - **0–10%**: 41% survival
+  - **10–20%**: 33% survival
+  - **>20%**: 23% survival
+
+**Bhamidipati et al. (n=347, US, predominantly adenocarcinoma):**
+
+- LNR = **independent predictor** of prognosis
+- More useful than N category alone
+
+---
+
+## Micrometastases
+
+- Present in up to **50%** of N0 patients
+- May explain recurrence in node-negative patients
+- Prognostic significance debated:
+  - Some: immunohistochemically detected deposits = poorer prognosis
+  - Others: no prognostic consequence
+
+---
+
+## Tailoring Lymphadenectomy
+
+- Ideal to tailor by stage, but accurate assessment of involved nodes remains **difficult**
+- Sentinel node techniques attempted
+- **Skip metastases** and unpredictability make sentinel approach **currently unreliable**
+- Tailoring so that only metastatic nodes are removed is **fraught with high false-negative rates**
+
+---
+
+## Optimal Node Yield and Systemic Disease {.smaller}
+
+**Phillips et al. (adenocarcinoma, post-neoadjuvant):**
+
+- **23% decrease in survival** had no formal lymphadenectomy been performed
+- Leaving **abdominal nodes behind** = minimal impact in lower esophageal/junctional adenocarcinoma
+
+**Peyre et al. (n=1053, no neoadjuvant):**
+
+- Systemic disease probability:
+  - **>50%** when >3 nodes involved
+  - **Approaches 100%** when >8 nodes involved
+
+**Peyre et al. (n=2303):**
+
+- Optimum threshold: **23 nodes**
+- **Location matters**, not just number
+
+---
+
+## Extended Resection Indications
+
+**Omloo et al.:**
+
+- Extended resection beneficial in patients with **<8 lymph node metastases**
+- Given difficulty identifying these patients preoperatively → **complete two-field lymphadenectomy** in all patients where nodal involvement is a concern
+
+**Rizk et al.:**
+
+- Optimum yield depends on **T category**
+- Recommend **31–42 nodes** in T3 disease or worse
+
+---
+
+## Three-Field Lymphadenectomy: Background
+
+- **Longstanding debate**
+- **Widely employed in Japan** for many years
+- **Relatively infrequent in the West**
+- Concerns:
+  - Increased **morbidity and mortality** with cervical dissection
+  - Argument that nodal involvement = **systemic disease**, no survival advantage
+
+---
+
+## Three-Field: Evidence from Lerut et al. {.smaller}
+
+**Long-term outcomes (unimodality treatment era):**
+
+| Tumor Type | Cervical Nodes+ | 5-Year Survival |
+|------------|-----------------|-----------------|
+| GEJ adenocarcinoma | Yes | **0%** |
+| Distal-third adenocarcinoma | Yes | **12%** |
+| Middle-third SCC | Yes | **28%** |
+
+**Key findings:**
+
+- **25%** of patients had cervical LN involvement
+- **75%** of these **not detected** on initial staging
+- 4-year survival distal adenocarcinoma = **36%** (possible palliative role)
+- RLN damage: only **2.6%**
+- **No significant increase** in overall complications
+
+---
+
+## Three-Field in Squamous Cell Carcinoma {.smaller}
+
+- Japanese studies: almost **1/3 of SCC patients** have cervical node involvement
+- **Chen et al. (n=1715, SCC):**
+  - Cervical node involvement increases with more **proximal** tumors:
+    - Proximal third: **44%**
+    - **Lower third: 23%** (strikingly high)
+- Multiple systematic reviews in predominantly squamous populations:
+  - **Superior survival** with three-field vs. two-field dissection
+
+**Conclusion:** Strong rationale for three-field in SCC
+
+---
+
+## Three-Field in Adenocarcinoma {.smaller}
+
+- **Paucity of data**, especially in neoadjuvant era
+- Lerut data showed **poor overall survival** for adenocarcinoma with cervical involvement
+- **Routine cervical dissection may not be merited** for adenocarcinoma
+
+**When to consider:**
+
+- Adenocarcinoma with **extensive mediastinal nodal disease**
+- Decision based on:
+  - Extent of disease
+  - Likelihood of recurrence
+  - Overall fitness
+
+**Authors' practice:** Multidisciplinary discussion; individualized patient counseling
+
+---
+
+## Morbidity of Lymphadenectomy: Overview
+
+- Extended lymphadenectomy associated by some with **increased morbidity**
+- **Transhiatal** esophagectomy: fewer complications than **transthoracic** with extended en bloc dissection
+- Main problems: **respiratory complications**
+  - Pneumonia
+  - Acute Respiratory Distress Syndrome (ARDS)
+
+---
+
+## Specific Surgical Risks {.smaller}
+
+
+::: {.columns}
+:::{.column width="50%"}
+**Tracheobronchial tree:**
+
+- Risk of **direct injury** during extensive dissection
+- **Delayed injury** from inadvertent cautery use
+
+**Recurrent laryngeal nerve (RLN):**
+
+- Risk increased with more extensive dissection
+
+:::
+
+:::{.column width="50%"}
+**Thoracic duct:**
+
+- Risk of **chyle leak**
+
+**Physiological impact:**
+
+- One-lung ventilation increases capillary permeability → pulmonary edema
+- Mediastinal lymphadenectomy **impairs lymphatic flow** → compounds edema
+
+:::
+:::
+
+
+
+---
+
+## Quality of Life and Volume Outcomes {.smaller}
+
+**Schandl et al. (Swedish nationwide):**
+
+- **No association** between number of lymph nodes removed and quality of life at **6 months or 5 years**
+
+**Henckens et al. (Dutch high-volume unit):**
+
+- High lymph node yields **achievable without increasing complication rates**
+- **>31 nodes removed** associated with improved survival
+- Supports centralization to **high-volume centers**
+
+---
+
+## RAMIE and Modern Considerations {.smaller}
+
+**van der Horst et al. (Robot-Assisted MIE):**
+
+- **50%** major complications (Clavien-Dindo ≥3b)
+- Most common: **RLN palsy** and **pneumonia**
+- Only **5%** unexpected contralateral lymph node metastasis
+
+**Implication:**
+
+- Even with modern technology, **high morbidity** exists
+- Questionable oncological benefit for extensive dissection in some patients
+- Need for careful **patient selection**
+
+---
+
+## Summary: Staging and Adjuvant Therapy {.smaller}
+
+**AJCC 8th Edition (2018):**
+
+- N category grouped by **number of positive nodes**
+- **Does not specify** adequate lymph node yield for accurate staging
+- Inadequate yield risks **understaging and stage migration**
+
+**Adjuvant therapy:**
+
+- Increasing evidence for adjuvant treatment post-esophagectomy
+- Recent meta-analysis: improved survival at **1 year**, sustained to **5 years**
+- Adequate lymphadenectomy identifies patients who benefit from **further treatment**
+
+---
+
+## Summary: Final Recommendations {.smaller}
+
+1. **SCC and adenocarcinoma are distinct entities** — future studies must analyze separately
+2. Leaving positive nodes behind likely **hastens recurrence**
+3. **Neoadjuvant therapy** may sterilize residual disease in some patients, but this is **unpredictable**
+4. Authors advocate **unequivocal en bloc resection** with comprehensive lymphadenectomy
+5. Extent should be tailored to:
+   - **Histology** (three-field for SCC; selective for adenocarcinoma)
+   - **Tumor location**
+   - **Patient fitness**
+   - **Multidisciplinary assessment**
+
+---
+
+**Key Takeaway**
+
+> A meticulous, anatomy-driven lymphadenectomy remains essential for optimal staging, locoregional control, and survival in esophageal cancer surgery.
