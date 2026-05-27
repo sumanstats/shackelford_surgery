@@ -1,7 +1,6 @@
-system2("quarto", c("render", "presentation"))
-
-
 unlink("_book/presentation", recursive = TRUE)
+
+system2("quarto", c("render", "presentation"))
 
 
 dir.create(
@@ -17,6 +16,8 @@ files <- list.files(
   recursive = TRUE,
   no.. = TRUE
 )
+                                        # might be issue with extra html files, but embed-resources is true in quarto yml at root of presentation
+
 
 file.copy(
   from = files,

@@ -8,14 +8,6 @@ format:
 ---
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
-
 ## Overview
 
 - The **primary purpose** of the esophagus is **transport** of food from mouth to stomach  
