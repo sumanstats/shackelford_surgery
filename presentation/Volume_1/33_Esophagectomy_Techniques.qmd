@@ -1,3 +1,5 @@
+# 33 Esophagectomy Techniques
+
 ---
 title: "Esophagectomy Techniques"
 format:

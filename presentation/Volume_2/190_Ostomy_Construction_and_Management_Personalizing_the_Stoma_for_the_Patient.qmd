@@ -1,0 +1,432 @@
+# 190 Ostomy Construction and Management Personalizing the Stoma for the Patient
+
+
+---
+title: "Ostomy Construction and Management"
+format:
+  revealjs:
+    theme: dark
+    scrollable: true
+---
+
+## Indications for Stomas
+- Created as a temporary means of fecal diversion for high-risk anastomoses.
+- Created as permanent orifices for the passage of stool or urine when surgical resection prohibits the body’s normal orifices from accomplishing these tasks.
+
+## Permanent Colostomies
+- Usually created from the sigmoid or descending colon.
+- Typically associated with distal bowel resection.
+- Colostomies proximal to the splenic flexure function poorly, are difficult to manage, and are at high risk for complications.
+- If transverse or ascending colon is contemplated, strongly consider resecting remaining large bowel and creating an end ileostomy.
+
+## Table 190.1: Common Indications for Permanent Colostomy
+
+::: {.columns}
+:::{.column width="50%"}
+- Rectal cancer
+- Radiation proctopathy
+- Incontinence
+- Refractory anorectal infection
+
+:::
+
+:::{.column width="50%"}
+- Ischemia
+- Crohn’s disease
+- Diverticular disease
+- Sacral decubitus
+
+:::
+:::
+
+
+
+## Permanent Ileostomies
+- Less common currently due to the development and acceptance of ileal pouch–anal anastomosis (IPAA).
+- Created for inflammatory bowel disease (IBD), familial adenomatous polyposis, multiple synchronous colorectal cancers, colonic dysmotility, and miscellaneous disorders.
+- Poor anal function, comorbid diseases, or quality of life considerations may make an ileostomy preferable to complex reconstructive options.
+
+## Temporary Diverting Stomas
+- Created in association with distal bowel resections when anastomosis is unsafe.
+- Used to protect a distal anastomosis when operative conditions or comorbidities make proximal diversion prudent.
+- Three predominant types: end sigmoid colostomy, loop colostomy, and loop ileostomy.
+
+## Preoperative Considerations: Patient Preparation
+- Patients undergoing elective or emergency surgery with possible stoma creation require adequate preoperative preparation.
+- Emergent surgery dictates rapid preparation, but stoma considerations must not be neglected.
+- Many patients lack knowledge of intestinal stomas; preoperative education by the surgeon combined with printed material is very helpful.
+
+## Role of Wound Ostomy Care Nurse (WOCN)
+- All patients should meet with a WOCN or enterostomal therapist (ET) if available.
+- Provides specific information regarding stoma appliances, dietary and clothing alterations, and pouch management.
+- Most importantly, helps select the appropriate abdominal wall site for the future stoma.
+- Preoperative counseling and marking by an ET improves postoperative quality of life.
+
+## Peer Support and Stoma Groups
+- Patients scheduled for stomal surgery benefit from meeting or speaking with other ostomates.
+- Patients adjusted to life with a stoma provide an excellent, non-medical source of information.
+- Local chapters of the United Ostomy Association of America and the Crohn’s and Colitis Foundation are valuable resources.
+
+## Preoperative Stoma Site Marking
+- Patients should have their stoma site marked prior to surgery.
+- An abdominal surgeon should be able to locate and mark stoma sites.
+- Marking is simple, straightforward, and requires only a few minutes.
+
+## Figure 190.1: The Ostomy Triangle
+- Defined by three abdominal wall landmarks:
+  - Anterior superior iliac spine
+  - Pubic tubercle
+  - Umbilicus
+- The stoma should lie within this triangle overlying the rectus muscle, generally at the site of an infraumbilical bulge.
+
+## Stoma Siting Principles
+- Site should be located on a flat segment of the abdominal wall.
+- Must be 5 cm away from bony prominences, the umbilicus, prior surgical scars, or skin folds.
+- Patient should sit up after marking to ensure new skin folds do not interfere.
+- Patient’s beltline should be identified and avoided to decrease postoperative clothing restrictions.
+
+## Special Circumstances: Obesity and Wheelchair Patients
+- Obese individuals: A large pannus may preclude stoma placement below the umbilicus. The pannus is thicker here and may hide the stoma, making management difficult.
+- Wheelchair patients: Should be marked while in their chair to avoid unanticipated postoperative difficulties.
+- Despite restrictions, the stoma should pass through the rectus abdominal muscle to decrease complications of parastomal hernia and stomal prolapse.
+
+## Operative Techniques: End Stomas Overview
+- End ileostomies are routinely performed in association with partial or total colorectal resections.
+- Exposure is generally through a midline incision.
+- Stoma is created after performing the indicated bowel resection.
+
+## End Ileostomy: Skin and Fascia Preparation
+- The premarked stoma site (usually right lower quadrant) is excised.
+- A skin disc the size of a quarter is removed, sparing all subcutaneous fat to support the stoma postoperatively.
+- Fat is separated with cautery to expose the anterior rectus sheath.
+
+## Figure 190.2: Skin Disc Excision
+- Visualizes the excision of a disc of skin at the stoma site.
+- Demonstrates preservation of subcutaneous fat for postoperative support.
+
+## Figure 190.3: Anterior Rectus Sheath Opened
+- Shows the anterior rectus sheath opened vertically with cautery for 3 to 4 cm.
+
+## Figure 190.4: Stoma Site Admits Two Fingers
+- Rectus abdominis muscle is split in the direction of its fibers to expose the posterior sheath.
+- Posterior sheath is opened with cautery.
+- The defect is enlarged to admit two fingers.
+
+## End Ileostomy: Bowel Preparation
+- Residual retroperitoneal attachments are divided to facilitate passage of the bowel through the abdominal wall without tension.
+- Mesentery may be cleared from the terminal 5 to 6 cm of the ileum.
+- Care is taken to leave at least a 1-cm strip of mesentery with the ileum to carry a vessel paralleling the ileal wall, preventing stomal ischemia.
+
+## Figure 190.5: Ileum Prepared
+- Illustrates the preparation of the ileum for ileostomy creation.
+- Highlights the preservation of the 1-cm mesenteric strip to prevent ischemia.
+
+## End Ileostomy: Maturation and Eversion
+- Ileum is oriented with the cut mesenteric edge cephalad and passed through the abdominal wall defect.
+- Ileum should protrude 5 to 6 cm beyond skin level and appear pink and well perfused.
+- Lateral ileal gutter may be closed to prevent small bowel obstruction (suturing free edge of mesentery to abdominal wall lateral to midline incision up to falciform ligament).
+- No need to suture ileum to posterior fascia (does not decrease risk of prolapse or hernia).
+
+## Figure 190.6: Tripartite Bites
+- Tripartite sutures contain:
+  1. Dermis
+  2. Sero-muscular layer of the bowel at the fascial level
+  3. Full-thickness bites of the cut edge of the ileum
+- Three or four everting sutures are placed at the ordinals without tying.
+- General traction facilitates eversion; enterocutaneous anastomosis is completed with additional sutures (4-8) approximating bowel mucosa to dermis.
+
+## Left-Sided End Colostomies
+- Usually created in association with distal colorectal resection.
+- Lateral attachments of the colon are transected along the white line of Toldt until sufficient colon is mobilized.
+- Colostomy must protrude from the abdominal wall and be matured without tension.
+- Premarked site is usually in the lower left quadrant; cutaneous and fascial openings may need to be slightly larger.
+
+## End Colostomy Maturation
+- Colon is oriented without twisting and passed through the abdominal wall.
+- Should protrude beyond abdominal skin and appear well perfused.
+- Careful attention to the edge of the mesentery to prevent tearing.
+- No need to close lateral gutter or suture colon to posterior abdominal fascia.
+- Alternatively, a retroperitoneal colostomy can be created (tunneling under posterolateral peritoneum), associated with decreased rates of parastomal herniation and prolapse.
+
+## Modified Technique for Thick Abdominal Wall
+- Meagher et al. devised a technique for end sigmoid colostomy in patients with a thick abdominal wall.
+- A small wound protector is inserted into the stoma trephine and opened maximally.
+- Bowel is passed through the wetted/lubricated wound protector.
+- Inner ring is transected and removed; remaining protector is brought out externally.
+- Decreases spillage and minimizes bowel trauma during exteriorization, particularly in obese patients.
+
+## Loop End Stoma Variation
+- Useful in obese patients or those with shortened or thickened mesentery.
+- Difficult to get stoma or mesentery to reach skin without tension, or blood supply may be questionable.
+- A distal loop of bowel is selected; using umbilical tape or large red rubber for traction, the loop end is brought through the abdominal wall without dividing the mesentery.
+- A stomal rod helps maintain traction; bowel is matured as in a traditional loop stoma.
+
+## Figure 190.7: Creation of a Loop End Stoma
+- Visualizes the creation of a loop end stoma.
+- Shows the use of traction to bring the loop end through the abdominal wall without dividing the mesentery.
+
+## Loop Stomas Overview
+- Created to divert the fecal stream away from the "downstream" intestine.
+- Three types: loop ileostomy, loop colostomy, and end loop stomas.
+- Transverse loop colostomy was historically common but is poorly tolerated with high complication rates; largely replaced by loop ileostomy.
+- Diverting colostomy may be safer if relieving distal obstruction and the ileocecal valve is competent (prevents closed loop obstruction).
+
+## Loop Ileostomy Creation
+- Generally created in association with distal bowel resection.
+- Most distal segment of terminal ileum that reaches abdominal wall without tension is selected (15 to 30 cm proximal to ileocecal valve or ileoanal reservoir).
+- Ileum is encircled with a Penrose drain or umbilical tape after ensuring mobility.
+- Abdominal wall defect created as for end ileostomy (may need to be slightly larger).
+- Proper orientation is ensured; distal end is marked with a suture to prevent maturation of the incorrect segment.
+
+## Loop Ileostomy Maturation
+- Ileal loop passed through abdominal wall without twisting; protrudes 4 to 5 cm beyond skin.
+- Distal aspect of ileum just above abdominal wall is transected along approximately 80% of its circumference (from mesentery to mesentery).
+- Distal end matured with simple sutures between full-thickness terminal bowel and dermis.
+- Proximal end is everted using three tripartite bites, tied with gentle traction applied within the lumen.
+- Maturation completed with two additional sutures between dermis and full thickness of terminal ileum.
+
+## Figure 190.8: Loop Ileostomy with Support Rod
+- A 4- to 5-cm loop of distal ileum is brought through abdominal aperture with no twist.
+- A stoma rod is passed through the mesentery.
+- The ileum is opened toward the nonfunctioning limb and a tripartite suture is placed.
+- The rod is sutured to the skin and the remainder of the ileostomy is matured with sutures.
+
+## Loop Sigmoid Colostomy
+- Created to prevent fecal stream from reaching rectum and anus in cases of incontinence, severe anorectal infection, or for proximal protection after complex anal reconstruction or distal obstruction.
+- Created in identical fashion to loop ileostomy, but commonly placed in the left lower quadrant.
+- Eversion is not strictly necessary due to the noncaustic nature of the effluent from the left colon.
+- End loop or divided loop stoma is often easier to create and functions better.
+
+## End Loop Stomas: Overview and Benefits
+- Three types: end loop ileostomy, end loop colostomy, and end loop ileocolostomy.
+- Three main benefits:
+  1. Make stoma management easier postoperatively (appear similar to end stomas).
+  2. Can be created with remote sections of the intestine (e.g., end loop ileotransverse colostomy).
+  3. Do not require formal laparotomy for stoma takedown.
+
+## End Loop Ileostomy Creation
+- Following intestinal resection and abdominal wall defect creation:
+- Small defect created in mesentery at preselected ileal stomal site.
+- Bowel transected with linear stapling device.
+- Proximal (functional) end brought through abdominal wall as for standard end ileostomy.
+- Nonfunctional segment can be brought through fascia and sutured to functional bowel limb or Scarpa fascia (completely diverts bowel).
+- Alternatively, antimesenteric corner of distal nonfunctional bowel brought through same stoma site, transected, and matured to abdominal wall without eversion.
+- Proximal bowel everted and matured; single suture connects proximal and distal segments.
+
+## Figure 190.9: Creation of an End Loop Ileostomy
+- Abdomen explored through midline incision; ostomy opening created.
+- Segment of ileum selected and divided with linear cutting stapler.
+- Divided ends brought through ostomy aperture (functional end marked with suture).
+- Staples of functional end excised, bowel matured producing a 2-cm spout.
+- Staples at antimesenteric end of nonfunctioning end excised; small end sutured to deep dermis and medial edge of functioning stoma.
+
+## End Loop Colostomy Creation
+- Created with a preselected segment of the sigmoid colon.
+- Mobilized appropriately and passed through previously created abdominal wall defect similar to end loop ileostomy.
+- Abdominal incision closed appropriately.
+- End colostomy matured similarly to end loop ileostomy.
+- Proximal end may be everted, but a flush colostomy may also be created.
+
+## End Loop Ileocolostomy Creation
+- Performed in association with resection of the right colon when anastomosis is unsafe.
+- Terminal ileum prepared as for routine end ileostomy.
+- Stoma site often created in right upper quadrant to facilitate passage of ileostomy and distal transverse colon through the same aperture.
+- Terminal ileum brought through abdominal wall.
+- Stapled-off end of proximal transverse colon brought through the same defect.
+- Antimesenteric corner of transverse colon staple line transected and matured without eversion.
+- Terminal ileum matured as for standard end ileostomy; final suture connects transverse colon and ileum.
+
+## Figure 190.10: Creation of an End Loop Ileocolostomy
+- Abdomen explored via midline incision.
+- Terminal ileum and right colon are resected.
+- Functional end of ileum and end of nonfunctional colon are brought through the ostomy aperture.
+- Ostomy is matured similarly to the end loop ileostomy.
+
+## Laparoscopic Stomas: General Principles
+- Can be created laparoscopically if needed in conjunction with laparoscopic bowel resection or as an isolated procedure.
+- Principles applying to open ileostomy creation also apply laparoscopically.
+- Site selected according to patient’s body habitus and functional needs.
+- If colectomy is essential, ileostomy siting should be considered at trocar placement.
+- Trocar can be placed through future stoma trephine, but sites adjacent to trephine within the footprint of the stoma appliance should be avoided.
+
+## Laparoscopic Ileostomy Technique
+- Terminal ileum located just proximal to ileocecal valve; followed retrograde until a segment easily reaching the abdominal wall is identified.
+- Pneumoperitoneum should be deflated when assessing ileal length.
+- Proper loop of bowel grasped with grasper through stoma trephine; proximal and distal bowels carefully identified.
+- Pneumoperitoneum released; stoma trephine created in standard fashion around the grasper.
+- Loop eviscerated carefully without twisting.
+- Limited pneumoperitoneum reestablished to confirm proper orientation (essential to avoid creating ileostomy from distal limb).
+- Stoma matured in standard fashion.
+
+## Laparoscopic Colostomy Technique
+- Sigmoid colostomy is most common.
+- If trocars placed for rectosigmoid resection, no additional ports needed.
+- If performed without other abdominal surgery, three or four ports may be necessary (camera at umbilicus, two in right mid-abdomen and right lower quadrant, fourth through marked stoma site if mobilization required).
+- Sigmoid and descending colon mobilized if no resection performed.
+- Pneumoperitoneum released to check for length; distal end marked.
+- Pneumoperitoneum decompressed; stoma trephine created; colon brought through without twisting and matured.
+
+## Modified Abdominoplasty (Abdominal Wall Contouring)
+- Beneficial for patients with stomal retraction (e.g., continent ileostomies, dense adhesions, short gut), prolapse, large peristomal hernias, abdominal wall laxity (major weight loss), or peristomal skin problems like pyoderma gangrenosum.
+- Technique similar to plastic surgery: low curvilinear transverse incision at inferior abdominal fold or 2 to 3 cm above pubis and anterior superior iliac spines.
+- Flap of skin and subcutaneous tissue created by electrocautery dissection cranially, just above fascia.
+- Perforating vessels identified and ligated or cauterized.
+
+## Figure 190.11: Modified Abdominoplasty
+- Addresses redundant abdominal wall folds of skin associated with ileostomy retraction.
+- Frontal view and sagittal section demonstrating skin and subcutaneous fat incisions.
+- Excess skin and subcutaneous fat excised.
+- Ileostomy relocated through upper flap and skin incisions closed.
+- Closed-suction drains placed below flaps.
+
+## Medial Approach for Abdominal Wall Modification
+- Incision through midline incision down to fascia.
+- Dissection carried laterally just above fascia until stoma is reached.
+- Ostomy dissected free of skin and subcutaneous tissue.
+- Lateral dissection to flanks provides laxity to advance previous stoma site to midline (advancement flap).
+- New ostomy opening created in fresh skin; excess fat excised; redundant midline skin resected.
+- If skin flap not redundant enough, subcutaneous fat can be excised and stoma returned to original skin opening through thinned flap.
+
+## Figure 190.12: Medial Approach
+- Frontal view with skin incisions marked.
+- Cross section demonstrating midline incision and areas of subcutaneous fat excision.
+- After removal of excess subcutaneous tissue, incision is closed, flaps attached to fascia, and stoma matured with adequate eversion.
+
+## Liposuction for Stomal Retraction
+- Rapid and significant weight gain in ostomy patients may produce stomal retraction.
+- If weight loss attempts fail and stomal revision is not desirable or feasible (e.g., continent ileostomy, short gut), liposuction is an excellent option.
+- Preferred if no associated stomal stenosis or hernia.
+- Experienced plastic surgeons carefully remove subcutaneous fat around the stoma, leaving a flat smooth peristomal skin surface.
+- Removed fatty tissue will not be redeposited despite additional weight gain.
+
+## Antiadhesion Barriers and Stomas
+- Some authors advocate using carboxymethyl cellulose (CMC) and sodium hyaluronate (Seprafilm) when creating temporary loop stomas to facilitate ostomy reversal.
+- Wrapping the ileum at stoma creation minimizes adhesions between stoma and abdominal wall, making takedown easier.
+- Technique: Loop eviscerated, sheet of CMC cut in half. Proximal and distal limbs of bowel and adjacent mesentery wrapped in a "sushi roll" style.
+- Loop brought through abdominal wall and matured in standard fashion.
+
+## Enterostomal Therapy: Role of WOCN/ET
+- Dedicated WOCN or ET’s contribution to long-term quality of life is immeasurable.
+- Provide preoperative counseling, early postoperative education, and act as long-term resource.
+- Supply information on appliance choices, local support groups, dietary/clothing modifications, and aid in managing skin problems, parastomal hernias, prolapse, and other complications.
+- Surgeon must ensure patient is educated in appliance management if ET support is unavailable.
+
+## Appliance Management
+- Appliance must be emptied frequently to avoid overfilling and dislodgement.
+- Ileostomies: usually emptied 4 to 6 times per day.
+- Colostomies: emptied once or twice per day, or once every other day.
+- Entire appliance changed every 4 to 7 days.
+- Pouches should generally be changed when stoma is least active (often after a period of fasting) to avoid controlling fresh output during the procedure.
+
+## Table 190.2: Stoma Care Steps
+1. Gather all supplies.
+2. Clean stoma and peristomal skin with water; pat dry. Shave or clip peristomal hair if indicated.
+3. Gently remove soiled pouch by pushing down on skin while lifting up on pouch. Discard in odor-proof plastic bag.
+4. Use stoma-measuring guide or established pattern to determine size. Cut-to-fit pouch: trace pattern and cut opening to match.
+5. Apply skin barrier paste or skin sealant to skin. Allow to dry.
+6. Remove paper backing from pouch or barrier, center pouch opening over stoma, press into place, and attach closure.
+
+## Managing Gas and Odor
+- Major concerns for most ostomates.
+- Gas sources: swallowed air and bacterial breakdown of ingested foodstuffs (particularly carbohydrates).
+- Minimize swallowed air: avoid straws, excessive talking while eating, chewing gum, and smoking.
+- Common gas-producing foods: beans, broccoli, onions, Brussels sprouts, beer, dairy (in lactose-deficient individuals).
+- Odor reducers: yogurt, parsley, orange juice, odor-proof pouches, charcoal filters, pouch deodorants, orally ingested deodorants (bismuth subgallate, chlorophyllin complex).
+- Most important key: good peristomal hygiene and creating a leak-proof seal.
+
+## Complications: Overview and Incidence
+- Complications after stoma creation remain extremely common (10% to 70% depending on study methodology, follow-up length, and definition).
+- Early complications (within 1 month): peristomal skin irritation, leakage, high output, ischemia.
+- Late complications (more than 1 month): parastomal hernia, prolapse, obstruction, stenosis.
+- Park et al. (20-year review): 34% incidence (28% early, 6% late). Skin irritation most common early (12%) and late (6%).
+- Duchesne et al.: 25% overall complication rate. Ileostomies had higher complication rates than colostomies. Sixfold decrease in complications when ET was involved.
+
+## Skin Irritation and Leakage
+- Most common early local complication.
+- Far more common in ileostomy patients due to liquid, caustic effluent.
+- Preventable with preoperative marking by ET, appropriate location, and careful appliance fitting.
+- Monitor for allergic reactions to appliance components.
+- Older patients with eyesight/dexterity limitations and obese patients are at higher risk.
+- Avoid creams/ointments that interfere with appliance adherence.
+- Downsize appliance at first postoperative visit as stoma becomes less edematous and abdomen less distended.
+
+## Figure 190.13: Skin Irritation
+- Illustrates skin irritation around the stoma site from a poorly fitting appliance.
+- Highlights the importance of proper siting and secure fit to minimize noxious, irritating effects of leakage.
+
+## High-Output Stomas
+- Typically described in association with ileostomy rather than colostomy.
+- Marked diarrhea and dehydration occur in 5% to 20% of ileostomy patients, greatest risk in early postoperative period (3rd to 8th day).
+- Output peaks on 4th postoperative day (up to 3.2 L reported).
+- Effluent is rich in sodium; hyponatremia can be a problem.
+- Managed by oral rehydration (sports drinks). Patients with previous bowel resection or Crohn’s disease may require parenteral hydration and nutrition.
+- Clostridium difficile enteritis is an increasingly reported cause of ileostomy diarrhea, especially after total colectomy for IBD.
+
+## Bowel Obstruction and Food Bolus
+- 23% of patients with an ileostomy ultimately develop bowel obstruction.
+- Adhesions are most common cause; small bowel volvulus or internal hernia may be culprits.
+- Suturing mesentery to lateral abdominal wall has not been shown to prevent volvulus or obstruction.
+- Food bolus obstruction: accumulation of poorly digested foodstuffs (popcorn, peanuts, fresh fruits/vegetables).
+- Treatment: red rubber catheter gently inserted into ostomy with saline irrigation until obstruction is relieved.
+
+## Ischemia
+- Edema and venous congestion are very common after stoma creation due to mechanical trauma and compression of small mesenteric venules.
+- Ischemia may be related to tension on the mesentery or excessive mesenteric division (especially in obese patients or emergency surgery).
+- Common error: dividing sigmoidal vessels to obtain length for colostomy. Instead, divide inferior mesenteric vessels proximally and/or mobilize splenic flexure.
+- If ischemia is apparent, insert glass test tube or flexible endoscope. If viable at fascial level, observe. If questionable, immediate laparotomy and revision required.
+
+## Parastomal Hernia
+- Most common stoma complication requiring operative intervention.
+- Develops in 2% to 28% of end ileostomies and 4% to 48% of end colostomies.
+- Risk factors: obesity, advanced age, chronic obstructive pulmonary disease.
+- Preventive measures: smallest possible opening without causing ischemia. Prophylactic prosthetic mesh (underlay position) may reduce risk.
+- Surgical correction results have historically been poor (high recurrence). Mesh repairs (0%-33% recurrence) are superior to primary repair (46%-100%) or stoma relocation (76%).
+- Intraperitoneal or underlay mesh repair (Sugarbaker technique) has encouraging results.
+
+## Figure 190.14: Large Parastomal Hernia
+- Visual representation of a large parastomal hernia.
+- Demonstrates the significant abdominal wall defect and protrusion associated with this common late complication.
+
+## Stenosis
+- May result from ischemia, excessive tension, retraction, or recurrent IBD.
+- Reported incidence typically less than 10%.
+- Mild asymptomatic stenosis requires no treatment.
+- Skin-level stenosis treated with local procedures (Z- or W-plasty).
+- Crohn’s disease-associated stenosis usually requires formal bowel resection.
+- Timing of surgery is important: allow acute inflammatory response to subside with temporizing measures (convex pouch, gentle digital dilation) to facilitate local revision later.
+
+## Prolapse
+- Risk of stoma prolapse reported to be 11.8% at 13 years.
+- Transverse loop colostomies are especially notorious for prolapse; the efferent limb is virtually always the offending cause.
+- Mesenteric fixation or lateral space closure do not appear to reduce incidence.
+- Asymptomatic prolapse requires no treatment, especially if temporary.
+- Surgical intervention warranted if prolapse causes ischemia, obstruction, or pouching problems.
+- Incarcerated prolapse without advanced ischemia: sugar can be applied as a desiccant to facilitate reduction.
+
+## Figure 190.15: Prolapsed Ileostomy
+- Shows a prolapsed ileostomy.
+- Highlights the elongation and protrusion of the bowel segment through the stoma site.
+
+## Figure 190.16: Large Prolapse of Transverse Loop Colostomy
+- Illustrates a large prolapse of a transverse loop colostomy.
+- Demonstrates why loop ileostomy is commonly preferred over loop colostomy for temporary fecal diversion.
+
+## Peristomal Varices
+- May cause life-threatening hemorrhage.
+- Occur at the mucocutaneous border due to anastomoses between the high-pressure portal venous system and low-pressure subcutaneous veins of the abdominal wall.
+- Suspected in ostomates with serious liver disease (e.g., extensive liver metastases, sclerosing cholangitis).
+- Confirmed by typical purplish hue or "caput medusae" of peristomal skin (visible only after removing stoma wafer).
+- Acute bleed management: local pressure with epinephrine-soaked gauze or suture ligation.
+- Additional therapy: lowering portal pressure (TIPS, percutaneous coil embolization).
+- Long-term success may require liver transplantation or mucocutaneous disconnection/stomal relocation.
+
+## Figure 190.17: Peristomal Varices
+- Shows the characteristic blue hue of peristomal varices.
+- This presentation is visible only after removing the stoma appliance, highlighting the need for careful skin inspection in at-risk patients.
+
+## Summary and Conclusion
+- Successful ostomy construction requires meticulous preoperative planning, including ET involvement and precise stoma siting.
+- A variety of operative techniques (end, loop, end loop, laparoscopic) allow for personalization based on patient anatomy and clinical scenario.
+- Enterostomal therapy is critical for long-term quality of life and complication prevention.
+- Early recognition and appropriate management of complications (skin irritation, high output, obstruction, ischemia, hernia, stenosis, prolapse, varices) are essential for optimal patient outcomes.
+

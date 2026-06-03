@@ -1,3 +1,5 @@
+# 31 Esophageal Cancer Diagnosis and Staging
+
 ---
 title: "Esophageal Cancer Diagnosis and Staging"
 format:

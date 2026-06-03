@@ -1,3 +1,5 @@
+# 32 neoadjuvant locally advanced esophageal cancer kimi
+
 ---
 title: "Neoadjuvant Treatments in Locally Advanced Esophageal Cancer"
 format:

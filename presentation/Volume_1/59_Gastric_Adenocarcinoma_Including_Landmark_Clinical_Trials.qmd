@@ -1,3 +1,5 @@
+# 59 Gastric Adenocarcinoma Including Landmark Clinical Trials
+
 ---
 title: "Japanese Gastric Cancer Treatment Guidelines 2025 (7th Edition)"
 format:

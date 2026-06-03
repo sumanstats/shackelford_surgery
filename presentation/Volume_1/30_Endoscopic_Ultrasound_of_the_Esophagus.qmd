@@ -1,3 +1,5 @@
+# 30 Endoscopic Ultrasound of the Esophagus
+
 ---
 title: "Endoscopic Ultrasound of the Esophagus"
 format:

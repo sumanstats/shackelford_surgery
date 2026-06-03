@@ -1,3 +1,5 @@
+# 32 Neoadjuvant Treatments in Locally Advanced Esophageal Cancer
+
 ---
 title: "Neoadjuvant Treatments in Locally Advanced Esophageal Cancer"
 format:

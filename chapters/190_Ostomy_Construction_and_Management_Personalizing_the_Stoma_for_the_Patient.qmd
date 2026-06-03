@@ -1,0 +1,9 @@
+# 190 Ostomy_Construction_and_Management_Personalizing_the_Stoma_for_the_Patient.qmd
+
+
+```{r}
+#| echo: false
+#| results: asis
+
+slides_iframe(600)
+```

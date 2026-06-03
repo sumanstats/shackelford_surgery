@@ -1,0 +1,78 @@
+# 187_Adjuvant_and_Neoadjuvant_Therapy_for_Colorectal_Cancer_Molecular-Based_Therapy_Including_Landmark_Trials.qmd
+
+
+
+
+
+
+
+
+```{r}
+#| label: evolution of CRC trials
+
+library(ggplot2)
+
+library(dplyr)
+
+trials <- tibble::tribble(
+
+~year, ~trial, ~group,
+
+2019, "CAO/ARO/AIO-12", "LARC",
+
+2019, "Polish II", "LARC",
+
+2021, "PRODIGE 23", "LARC",
+
+2021, "RAPIDO", "LARC",
+
+2022, "DYNAMIC", "Colon",
+
+2022, "STELLAR", "LARC",
+
+2022, "OPRA", "LARC",
+
+2022, "dMMR rectal cancer PD-1", "Immunotherapy",
+
+2023, "FOxTROT", "Colon",
+
+2023, "OPERA", "Early rectal",
+
+2023, "NEO", "Early rectal",
+
+2021, "TREC", "Early rectal"
+
+)
+
+ggplot(trials, aes(x = year, y = reorder(trial, year), color = group)) +
+
+geom_point(size = 3) +
+
+geom_line(aes(group = 1), color = "grey70") +
+
+theme_minimal() +
+
+labs(x = "Year", y = "Trial", title = "Evolution of colorectal cancer trials")
+```
+
+### Rectal cancer neoadjuvant/TNT trials
+
+- Polish II: SCRT + consolidation FOLFOX vs standard LCCRT in fixed cT3/cT4 disease.
+- PRODIGE 23: induction FOLFIRINOX → LCCRT → TME → adjuvant therapy vs standard LCCRT → TME → adjuvant therapy.
+- RAPIDO: SCRT → consolidation CAPOX/FOLFOX → TME vs LCCRT → TME ± adjuvant chemotherapy for high-risk LARC. 
+- STELLAR: SCRT → CAPOX → TME → adjuvant CAPOX vs LCCRT → TME → adjuvant CAPOX.
+- OPRA/CAO-ARO-AIO-12: compare induction chemotherapy before CRT vs CRT before consolidation chemotherapy, relevant to organ preservation.
+
+### Colon cancer neoadjuvant trial
+
+- FOxTROT: neoadjuvant + adjuvant FOLFOX vs adjuvant-only FOLFOX in operable locally advanced colon cancer. [8]
+
+### Key adjuvant trials in colorectal cancer
+
+- Early adjuvant colon cancer trials established that 5-FU–based therapy improved survival in stage III colon cancer. This laid the foundation for postoperative chemotherapy as standard treatment. 
+- The MOSAIC trial showed that adding oxaliplatin to 5-FU/LV improved disease-free survival, establishing 6 months of adjuvant FOLFOX as the standard for stage III colon cancer. 
+- Later trials showed CAPOX and FOLFOX were equivalent as adjuvant options, giving flexibility in regimen choice. 
+- The IDEA collaboration compared 3 vs 6 months of adjuvant therapy in stage III colon cancer. 3 months of CAPOX was noninferior for most patients; 3 months of FOLFOX was reasonable for low-risk patients, but high-risk patients benefited more from 6 months of FOLFOX. Shorter treatment also had better tolerance. 
+- In stage II colon cancer, benefit is smaller, so adjuvant treatment is mainly considered for high-risk features.
+
+
