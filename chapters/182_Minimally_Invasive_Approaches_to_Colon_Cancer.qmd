@@ -16,228 +16,288 @@ Additional topics
 The chapter also discusses ERAS, intracorporeal vs extracorporeal anastomosis, CME, single-incision surgery, and practical operative pearls for right, left, sigmoid, transverse, splenic flexure, and total colectomy.
 
 
+
 Slide 1 – Title
 
 Minimally Invasive Approaches to Colon Cancer
 Scope: laparoscopic, robotic, outcomes, costs, QoL, technical pearls
+
 
 Slide 2 – Learning Objectives
 
 Review evidence for minimally invasive colectomy
 Compare open, laparoscopic, robotic approaches
 Summarize key operative principles 
+
 Slide 3 – Historical Background
 
 First laparoscopic colectomy series reported in 1991
 Early procedures: right hemicolectomy and sigmoid resection 
+
 Slide 4 – Early Concerns
 
 Cost and feasibility concerns
 Trocar injury and oncologic safety concerns
 Reports of port-site recurrence created caution 
+
 Slide 5 – Randomized Trial Era
 
 COST, COLOR, and CLASICC addressed major concerns
 Established oncologic equivalence to open surgery 
+
 Slide 6 – Why Laparoscopy Spread
 
 Reduced length of stay
 Earlier bowel recovery
 Less pain and narcotic use 
+
 Slide 7 – Database Support
 
 National analyses confirmed fewer complications, transfusions, readmissions
 Despite increased operative time and cost 
+
 Slide 8 – Laparoscopic Learning Curve
 
 Approximate proficiency: 55 right-sided and 62 left-sided resections 
+
 Slide 9 – Robotic Surgery Introduction
 
 Robotics as an extension of laparoscopy
 Better optics, magnification, dexterity, ergonomics 
+
 Slide 10 – Potential Robotic Advantages
 
 May help with suturing, obesity, and difficult anatomy such as pelvis 
+
 Slide 11 – Robotic Limitations
 
 High-quality evidence remains limited
 Cost and sustainability concerns
 Some reports of increased iatrogenic complications 
+
 Slide 12 – Robotic Learning Curve
 
 About 75 cases initially
 25–30 once a program is established 
+
 Slide 13 – Core Principle
 
 Minimally invasive surgery should be used only when safety and oncologic adequacy equal open surgery 
+
 Slide 14 – Short-Term Outcomes Overview
 
 Main comparisons: operative time, LOS, complications, conversion, node harvest 
+
 Slide 15 – Operative Time: Lap vs Open
 
 Laparoscopy consistently takes longer
 Difference roughly 30–84 minutes 
+
 Slide 16 – Conversion Rates
 
 Range 3%–25%
 CLASICC had highest rate; likely reflected learning curve 
+
 Slide 17 – Robotic vs Laparoscopic Operative Time
 
 Robotic operations generally even longer
 Increase of 32–127 minutes reported 
+
 Slide 18 – Robotic vs Laparoscopic Conversion
 
 Usually no difference
 Some studies showed lower conversion with robotics 
+
 Slide 19 – Length of Stay: Lap vs Open
 
 One of laparoscopy’s most consistent benefits
 Reduction ranges from 1 to 5 days 
+
 Slide 20 – ERAS and LOS
 
 Fast-track/ERAS may blunt some LOS advantages of laparoscopy 
+
 Slide 21 – LOS: Robotic vs Laparoscopic
 
 Reported as similar or up to 2.25 days shorter with robotics
 One study showed slightly longer LOS with robotics 
+
 Slide 22 – Morbidity and Mortality
 
 Most studies show no significant difference between approaches
 Open generally has higher morbidity in three-way comparisons 
+
 Slide 23 – Wound Infection Signal
 
 Some laparoscopic studies showed fewer complications, largely due to fewer wound infections 
+
 Slide 24 – Lymph Node Harvest
 
 Usually no difference between lap/open or lap/robotic
 Used as a surrogate for oncologic quality 
+
 Slide 25 – Adequate Node Sampling
 
 Minimum recommendation remains 12 lymph nodes
 Laparoscopic and robotic approaches both support adequate harvest 
+
 Slide 26 – Return of Bowel Function
 
 Consistently earlier with laparoscopy than open surgery 
+
 Slide 27 – Why Bowel Recovery Improves
 
 Hypothesized from gentler tissue handling
 May contribute to shorter LOS 
+
 Slide 28 – Robotic Bowel Recovery
 
 Ranges from no difference to 1.5 days better with robotics 
+
 Slide 29 – Role of Intracorporeal Anastomosis
 
 Robotic platform may ease intracorporeal anastomosis, potentially improving bowel recovery 
+
 Slide 30 – Postoperative Pain
 
 Laparoscopy generally reduces narcotic use versus open surgery 
+
 Slide 31 – Clinical Importance of Less Narcotic Use
 
 Especially relevant given pressure to reduce opioid prescribing 
+
 Slide 32 – Robotic vs Laparoscopic Pain
 
 No difference in pain scores in right colectomy trial 
+
 Slide 33 – ERAS Overview
 
 Designed to reduce perioperative complications and LOS 
+
 Slide 34 – Evolution of ERAS
 
 Colorectal-specific guidelines began in 2005
 Updated 2019 recommendations include minimally invasive care 
+
 Slide 35 – Same-Day Discharge
 
 Feasible in selected colectomy patients within ERAS pathways 
+
 Slide 36 – Same-Day Discharge Outcomes
 
 Most patients discharged same day in reviewed pathways
 Low leak and reoperation rates reported 
+
 Slide 37 – Cost: Laparoscopic vs Open
 
 Laparoscopy has higher operative and hospital costs
 Driven by equipment and disposable instruments 
+
 Slide 38 – Societal Cost Perspective
 
 When time off work is included, total cost to society may be similar at 12 months 
+
 Slide 39 – Cost: Robotic vs Laparoscopic
 
 Robotic platform has consistently higher operative costs 
+
 Slide 40 – How Robotic Costs May Be Offset
 
 Lower LOS, fewer conversions, and fewer complications may narrow cost differences 
+
 Slide 41 – Hidden Robotic Costs
 
 Overhead and maintenance are important and often not fully captured 
+
 Slide 42 – Long-Term Oncologic Outcomes
 
 Across trials, laparoscopy is noninferior to open colectomy 
+
 Slide 43 – Survival and Recurrence
 
 No significant difference in overall survival, DFS, wound recurrence, or overall recurrence 
+
 Slide 44 – Robotic Long-Term Outcomes
 
 Limited data
 Available studies show no survival difference among robotic, laparoscopic, and open approaches 
+
 Slide 45 – Long-Term Hernia/SBO
 
 Most studies show no clear difference between lap and open
 LAFA showed lower hernia and adhesive SBO with laparoscopy 
+
 Slide 46 – Extraction Site Matters
 
 Midline extraction after laparoscopic-assisted colectomy linked to high incisional hernia rates
 Off-midline extraction in robotics may help 
+
 Slide 47 – Quality of Life
 
 Most studies show at least some short-term QoL benefit with laparoscopy 
+
 Slide 48 – Duration of QoL Benefit
 
 Benefits are most notable in the first 6–12 months
 Differences often fade over time 
+
 Slide 49 – Robotic Surgery Summary
 
 Compared with laparoscopy: higher cost, longer OR time, shorter LOS
 Similar complications and reoperation rates 
+
 Slide 50 – Sustainability
 
 Robotic surgery generates more solid waste and greenhouse gases than laparoscopy 
+
 Slide 51 – Intracorporeal vs Extracorporeal Anastomosis
 
 ICA may reduce traction, allow suprapubic extraction, and improve bowel recovery 
+
 Slide 52 – ICA Evidence
 
 ICA often improves bowel recovery and may reduce wound issues
 Usually does not shorten LOS 
+
 Slide 53 – Complete Mesocolic Excision (CME)
 
 Embryologic plane dissection with central vascular ligation
 Intended to maximize mesocolic and nodal removal 
+
 Slide 54 – CME Outcomes
 
 Feasible and safe
 Increases node yield
 No clear oncologic benefit yet 
+
 Slide 55 – Single-Incision Laparoscopic Colectomy
 
 Feasible for selected patients
 Similar outcomes to standard laparoscopy, sometimes shorter LOS 
+
 Slide 56 – Technical Philosophy
 
 Surgeons should know multiple dissection approaches
 Anatomy knowledge is essential for safe oncologic surgery 
+
 Slide 57 – Right Colectomy Pearls
 
 Supine positioning
 Medial-to-lateral approach emphasized
 Protect duodenum and ureter
 Off-midline extraction may reduce wound problems 
+
 Slide 58 – Left/Sigmoid Colectomy Pearls
 
 Left colectomy: medial-to-lateral approach
 Sigmoid colectomy: lateral-to-medial approach with splenic flexure mobilization
 Preserve ureter and autonomic nerves 
+
 Slide 59 – Splenic Flexure and Transverse Tumors
 
 Procedure depends on location
 Segmental/left colectomy can be oncologically safe and may allow faster recovery than extended resection 
+
 Slide 60 – Final Take-Home Messages
 
 Minimally invasive colectomy is safe and feasible for colon cancer

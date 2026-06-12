@@ -1,2 +1,408 @@
-# 182 Minimally Invasive Approaches to Colon Cancer
+---
+title: "Minimally Invasive Approaches to Colon Cancer"
+subtitle: "A Comprehensive Review of Laparoscopic and Robotic Techniques"
+format:
+  revealjs:
+    slide-number: true
+    smaller: true
+    scrollable: true
+---
 
+## Introduction
+- First series of laparoscopic colectomies reported in 1991.
+- Included laparoscopic right hemicolectomies and sigmoid resections.
+- Initial studies supported laparoscopy as safe and feasible.
+- Operative times and inpatient length of stay comparable to recent studies.
+
+## Initial Concerns and Adoption
+- Adoption of laparoscopy in colorectal surgery slowly increased.
+- Initially not universally accepted.
+- Concerns centered around cost and feasibility.
+- Lack of high-quality evidence supporting it over open surgery.
+
+## Early Oncologic Concerns
+- Concerns about trocar-related bowel injuries.
+- Oncologic safety questioned due to high rates of trocar site recurrences.
+- Early review reported 35 cases of port site recurrences over 3 years.
+- Led to significant caution in utilizing laparoscopy for cancer.
+
+## Landmark Randomized Trials
+- High-quality RCTs alleviated early concerns:
+  - COST (Clinical Outcomes of Surgical Therapy)
+  - COLOR (Colon Cancer Laparoscopic or Open Resection)
+  - CLASICC (Conventional versus Laparoscopic-Assisted Surgery)
+- Demonstrated no difference in oncologic outcomes between laparoscopic and open procedures.
+
+## Benefits Established by Trials
+- Reduced Length of Stay (LOS).
+- Earlier return of bowel function.
+- Reduced pain and narcotic usage.
+- National database analyses confirmed decreased ICU stay, overall LOS, complications, blood transfusions, and readmission rates.
+
+## The Learning Curve
+- Complex laparoscopy involves a steep learning curve.
+- Tekkis et al. modeled data from over 900 patients.
+- Concluded 55 right-sided and 62 left-sided resections required to overcome the learning curve.
+- Structured colorectal training programs help surgeons overcome this quickly.
+
+## Introduction to Robotic Surgery
+- Robotics advanced minimally invasive colorectal techniques.
+- Generally considered an extension of laparoscopy.
+- Perceived benefits:
+  - Advanced optics (stereoscopic vision, image magnification).
+  - Improved dexterity (ergonomic hand controls).
+  - Tremor reduction.
+
+## Robotic Surgery Advantages
+- Offers potential to overcome conventional laparoscopy difficulties:
+  - Intracorporeal suturing.
+  - Operating in obese patients.
+  - Challenging anatomical sites (e.g., the pelvis).
+- Uptake has been swift in many parts of the world.
+
+## Robotic Surgery Limitations
+- High-quality evidence supporting its use over conventional laparoscopy is still lacking.
+- Issues surrounding cost and sustainability limit utilization.
+- Some studies highlight increased rates of iatrogenic complications compared to conventional laparoscopy.
+
+## Robotic Learning Curve
+- Noted learning curve associated with robotics.
+- Approximately 75 cases required to gain proficiency when establishing a program.
+- Reduces to 25 to 30 cases once an established robotics program is in place.
+
+## Short-Term Outcomes: Operative Time
+- Laparoscopic procedures have longer operative times than open (30 to 84 minutes difference).
+- Robotic operations show an additional increase in operative times compared to laparoscopic (32 to 127 minutes).
+
+## Short-Term Outcomes: Conversion Rates
+- Conversion rates for laparoscopy vary across studies (3 percent to 25 percent).
+- CLASICC study reported highest conversion (25 percent), but it decreased over the study (learning curve effect).
+- Comparison between laparoscopic and robotic mostly showed no difference, except some studies showed significantly lower conversion with robotics.
+
+## Short-Term Outcomes: Length of Stay
+- Universal advantage of laparoscopy is decreased LOS.
+- Difference ranges from 1 day (COST) to 5 days (Liang et al.).
+- Basse et al. showed 2-day LOS in both groups with a universal fast-track protocol.
+- Raises question if laparoscopy advantages are blunted by Enhanced Recovery After Surgery (ERAS) protocols.
+
+## Short-Term Outcomes: Morbidity and Mortality
+- Majority of studies found no significant differences in short-term morbidity and mortality between laparoscopic, robotic, and open groups.
+- Some studies demonstrated lower overall postoperative complications in laparoscopic versus open, driven by lower wound infection rates.
+- Robotic and laparoscopic approaches show significantly lower complication rates compared to open.
+
+## Short-Term Outcomes: Lymph Node Harvest
+- Lymph node harvest is a surrogate marker for oncologic quality.
+- Most studies show no difference in the number of lymph nodes harvested among approaches.
+- Lim et al. showed lower nodes with robotic for low anterior resections, but average still meets AJCC and UICC minimum recommendations.
+- Laparoscopic and robotic approaches afford higher odds of harvesting 12 or more nodes compared to open.
+
+## Return of Bowel Function
+- Consistent earlier return of bowel function in laparoscopic versus open.
+- Hypothesized to result from gentler tissue handling and decreased LOS.
+- Basse et al. found no difference with fast-track protocols, supporting the hypothesis that laparoscopy benefit relates to shortened ileus.
+- Robotic versus laparoscopic: differences range from no difference to 1.5 days in favor of robotics (overcoming ICA challenges).
+
+## Postoperative Pain
+- Measured differently across trials.
+- Most studies used narcotic usage as a surrogate.
+- Found reduced narcotic usage in laparoscopic versus open.
+- Highly beneficial given increasing pressure to decrease opiate prescriptions.
+- Park et al. found no differences in visual analog pain scores between laparoscopic and robotic right colectomies.
+
+## Enhanced Recovery After Surgery (ERAS)
+- ERAS programs established to reduce perioperative complications and LOS.
+- First colorectal-specific ERAS guidelines published in 2005.
+- 2011 Cochrane review showed significant reduction in LOS and overall complications.
+- Updated to 4th edition in 2019, including recommendations for minimally invasive approaches.
+
+## ERAS and Same-Day Discharge
+- ERAS protocols implemented at multiple institutions, reducing LOS.
+- Studies report feasibility of same-day discharge following colectomies in well-selected patients.
+- McLemore et al. review: 62 percent to 93 percent of patients discharged same day.
+- 30-day readmission 0.8 percent to 6 percent; anastomotic leak and reoperation rates remained low.
+
+## Costs: Laparoscopic versus Open
+- Cost of operation is higher for laparoscopic colectomy.
+- Driven by increased equipment and disposable instrument costs.
+- COLOR group reported higher operation, admission, and healthcare system costs.
+- However, total cost to society (including time off work) showed no difference at 12 months.
+
+## Costs: Robotic versus Laparoscopic
+- Robotic approach has consistently higher costs for the operation itself.
+- High cost of da Vinci system (up to 2.5 million dollars) is a driving factor.
+- Often offset by decreased LOS, conversion, and complications, resulting in equivalent overall costs.
+- Conversion to open significantly increases costs, making reduction in conversion rate a driver in lowering overall cost.
+
+## Long-Term Oncologic Outcomes
+- Key motivating factor: demonstrate equivalent oncologic outcomes.
+- Trials published updates out to 10 years.
+- No significant difference in overall survival, disease-free survival, wound recurrence, or overall recurrence between laparoscopic and open.
+- Laparoscopic colectomy is noninferior to open in appropriately selected cancer patients.
+
+## Long-Term Outcomes: Robotic versus Laparoscopic
+- Few studies examine long-term oncologic outcomes for robotics.
+- Lim et al. found no differences in overall or disease-free survival between laparoscopic and robotic for sigmoid resection.
+- Yuval et al. found no difference in survival among laparoscopic, robotic, or open approaches.
+- Minimally invasive approaches associated with fewer complications and shorter LOS.
+
+## Incisional Hernia and Adhesive SBO
+- Hypothesized that smaller incisions in laparoscopy would decrease risk of these complications.
+- Literature is mixed; majority found no difference.
+- LAFA study showed decreases in both outcomes in the laparoscopic group.
+- Robotic surgery: increased rates of intracorporeal anastomosis (ICA) lead to off-midline extraction sites, potentially leading to fewer incisional hernias.
+
+## Quality of Life (QoL)
+- Challenging outcome to compare due to numerous instruments.
+- Most trials found at least some short-term QoL benefit in the laparoscopic group.
+- COST group found slightly better global QoL at 2 weeks and 18 months.
+- Braga et al. found significantly better general health and functioning at 12 months, but difference disappeared at 48 months.
+- Differences most significant in the first 6 to 12 months.
+
+## Robotic Surgery: Environmental Sustainability
+- Sustainability in surgery is a strong focus (reduce emissions and waste).
+- Up to 10 percent of carbon emissions arise from healthcare.
+- Papadopoulou et al. demonstrated robotically assisted surgery is associated with significantly more solid waste and increased greenhouse gases compared to laparoscopy, despite reusable equipment.
+
+## Intracorporeal versus Extracorporeal Anastomosis
+- Extracorporeal anastomosis (ECA) is common for laparoscopic right hemicolectomy.
+- Requires upper midline incision; challenging in obese patients.
+- Intracorporeal anastomosis (ICA) requires less mobilization and traction.
+- Suprapubic extraction site can be utilized with ICA, reducing pain and hernia risk.
+- Robotic platform makes ICA easier due to articulating instruments.
+
+## ICA versus ECA: Clinical Evidence
+- Retrospective studies largely found no significant differences in operative time, complications, or LOS.
+- Prospective series and RCTs found ICA associated with quicker return of bowel function and reduced pain and wound complications.
+- However, this did not consistently translate into a shorter LOS.
+- Either ECA or ICA are acceptable approaches based on surgeon training.
+
+## Complete Mesocolic Excision (CME)
+- Popularized since 2009.
+- Based on sharp dissection along embryological planes.
+- Ensures entire mesocolon and lymph nodes removed as a complete package.
+- Vasculature ligated at its origin (Central Vascular Ligation).
+- Believed to be oncologically superior due to extensive lymphadenectomy.
+
+## CME with CVL: Evidence
+- Retrospective and population-based studies reported decreased recurrence and cancer mortality.
+- Meta-analyses show greater lymph node yield without increased morbidity.
+- RCTs show CME is feasible, increases lymph node yield, but vascular complications may be more common.
+- Currently, no definitive oncologic survival benefit proven in RCTs for right or left colon cancer.
+
+## Single Incision Laparoscopic Colectomy (SILC)
+- Increases complexity, goal is limiting incision to specimen extraction only.
+- Early case reports established feasibility for cancer and IBD.
+- Two RCTs comparing SILC with standard laparoscopy showed similar operating times, complication rates, and lymph node harvests.
+- Decreased LOS by 1 day in one study.
+- Promising technique for appropriately selected patients.
+
+## Techniques: Right Colectomy - Positioning
+- Patient placed in supine position.
+- Laparoscopic: left arm tucked.
+- Robotic: both arms tucked.
+- Placed on nonsliding mat, secured with straps.
+- Modified lithotomy or split-leg if tumor location unclear, to facilitate intraoperative endoscopy.
+- Slight Trendelenburg with table inclined toward the left.
+
+## Techniques: Right Colectomy - Port Placement
+- Abdomen entered midline (Hasson) or LUQ (Veress).
+- Pneumoperitoneum established.
+- Thorough evaluation of abdomen for disseminated disease and R0 feasibility.
+- Reference to Figure 182.1 for 4-port laparoscopic and 4-arm robotic configurations.
+
+## Right Colectomy: Medial-to-Lateral Approach
+- Omentum retracted superiorly; small bowel moved to left side.
+- Grasping cecum or mesentery highlights ileocolic artery branching from SMA.
+- Creates a tenting or bowstringing effect.
+- Opening in peritoneum parallel to ileocolic vessels; encircle superiorly.
+- Careful blunt sweeping to visualize right ureter and duodenum.
+
+## Right Colectomy: Vascular Ligation
+- Once ureter and duodenum are safely visualized and out of the field.
+- High ligation of the ileocolic vessel using hemolock clips, energy device, or vascular stapler.
+- Medial-to-lateral dissection continues, dividing retroperitoneal attachments.
+- Stay in appropriate retroperitoneal plane anterior to duodenum.
+
+## Right Colectomy: Proximal Dissection
+- Distal extent near falciform ligament or middle colic vessels.
+- Hepatic flexure or proximal transverse tumors: further distal dissection to include middle colic vessels.
+- Care in retroperitoneal space to avoid hemorrhage from pancreaticoduodenal and gastroepiploic veins.
+- Right branch of middle colic divided if necessary.
+
+## Right Colectomy: Lateral Attachments
+- Right colon held only by lateral avascular attachments, hepatic flexure, and gastrocolic attachments.
+- Divided using dissecting energy devices.
+- Dissection carried distally to proximally.
+- Gastrocolic attachments to transverse colon divided, often entering lesser sac.
+
+## Right Colectomy: Hepatic Flexure Tumors
+- Challenging due to surrounding anatomy (duodenum, pancreas, gallbladder, kidney).
+- Omentum may be involved; must remain attached for en bloc resection.
+- Entry into lesser sac helpful if retroperitoneal structures potentially involved.
+- Dissect open gastrocolic ligament superior to transverse colon attachments.
+
+## Right Colectomy: Extraction Site
+- Once dissected, right colon mobilized and expressed as midline structure.
+- Division and anastomosis performed intracorporeally or extracorporeally.
+- Extraction site based on surgeon preference.
+- Off-midline (e.g., Pfannenstiel) has lower rates of wound disruption, SSI, and complications compared to midline.
+- Re-laparoscope to confirm hemostasis; perform TAP blocks.
+
+## Notes on CME for Right Colectomy
+- Dissection same as standard, but vessels ligated at origin.
+- Trace ileocolic vessels to SMV, clearing tissue anterior and lateral to SMV.
+- Follow plane to trunk of Henle (confluence of right gastroepiploic and superior right colic veins).
+- Middle colic vessels appreciated; right branch ligated for ascending, hepatic, or proximal transverse cancers.
+- Omentectomy en bloc usually performed.
+
+## Transverse Colectomy and Middle Colic Vessels
+- Transverse colon cancers are uncommon (10 percent).
+- Proximal or mid tumors: extended right colectomy or isolated transverse colectomy.
+- Regardless of operation, middle colic vessel must be ligated at origin.
+- Challenging due to truncated length.
+- Isolated by retracting transverse mesentery superiorly; window created and divided retrograde.
+
+## Approach to Splenic Flexure Cancer
+- Account for 3 to 5 percent of colon cancers; often present late with worse prognosis.
+- Optimal operation debated: extended resection versus left colectomy.
+- Extended resection: higher lymph node yield, but uncertain oncologic advantage and worse bowel function.
+- Left colectomy: registry studies confirm it is oncologically safe, no survival difference, shorter operative time, quicker recovery.
+
+## Left Colectomy: Positioning and Setup
+- Resection of descending and/or splenic flexure.
+- Anastomosis of distal transverse colon to sigmoid colon.
+- Modified lithotomy or split-leg position; both arms tucked.
+- Allows option for intraoperative colonoscopy (useful if tumor not tattooed).
+- Head down, left side raised.
+
+## Left Colectomy: Medial-to-Lateral Steps
+- Identify duodenojejunal flexure to locate inferior mesenteric vein (IMV).
+- Sub-IMV approach: stay posterior to IMV, ligate IMV just below pancreas.
+- Continue plane laterally, freeing left mesocolon from retroperitoneum.
+- Transmesenteric approach into lesser sac anterior to peripancreatic fat.
+
+## Left Colectomy: Vascular Ligation
+- Identify IMA through mesocolic fascia.
+- Open infra-IMA plane to identify IMA at origin.
+- Identify left colic artery and take high at origin, preserving IMA.
+- Patient placed head up; follow transmesenteric window to ligate left branch of middle colic vessels.
+- Open gastrocolic omentum close to stomach; take omentum en bloc.
+
+## Sigmoid Colectomy: Positioning and Setup
+- Modified lithotomy or split-leg position.
+- Right arm tucked (lap), both arms tucked (robotic).
+- Same port placements as left colectomy.
+- Head down, left side raised.
+
+## Sigmoid Colectomy: Lateral-to-Medial Approach
+- Release lateral attachments of sigmoid and left colon from abdominal wall.
+- Dissection plane 1 to 2 mm medial to lateral retroperitoneal attachments.
+- Imperative to identify left ureter (easiest at apex of sigmoid mesocolon).
+- Continue to medialize sigmoid, staying anterior to Gerota fascia.
+
+## Sigmoid Colectomy: Splenic Flexure Mobilization
+- Develop retrorectal plane posterior to upper rectum.
+- Patient placed head up; enter lesser sac above transverse colon.
+- Mobilize splenic flexure by dissecting phrenocolic and splenocolic attachments.
+- Avoid excess traction on spleen.
+- Release transverse mesocolon from inferior border of pancreas to join previous dissection plane.
+
+## Sigmoid Colectomy: Vascular Ligation and Transection
+- Develop plane posterior to IMA, preserving hypogastric autonomic nervous plexus.
+- Ligate IMA near origin (proximal to left colic artery) for nodal harvest.
+- Ligate IMV if needed for conduit length.
+- Mobilize upper rectum circumferentially; divide rectum with endoscopic stapler.
+- Evaluate proximal colon vascularity (Parks test, ICG fluorescence).
+
+## Total Abdominal Colectomy: Positioning and Ports
+- Modified lithotomy; both arms tucked.
+- Requires 6-port technique for laparoscopic or robotic.
+- Extraction site through midline or Pfannenstiel.
+- Reference Figure 182.11 for port configurations.
+
+## Total Abdominal Colectomy: Right and Transverse Dissection
+- Begin at transverse colon; dissect omentum off.
+- Mobilize transverse colon from gastrocolic ligament.
+- Visualize and ligate middle colic pedicle near SMA origin.
+- Carry dissection to hepatic flexure; free from retroperitoneum (protect duodenum and pancreas).
+- Divide lateral attachments; high ligation of ileocolic and right colic vessels.
+
+## Total Abdominal Colectomy: Left Dissection
+- Tilt patient right side down, Trendelenburg.
+- Dissect transverse mesentery from retroperitoneum toward splenic flexure.
+- Separate omentum from transverse colon to enter lesser sac.
+- Pull descending colon medially; sweep pericolonic tissues from retroperitoneum.
+- Mobilize left colon as far superiorly as possible in posterior mesenteric plane.
+
+## Total Abdominal Colectomy: IMA and Extraction
+- Incise peritoneum right of IMA near sacral promontory.
+- Identify and preserve hypogastric nervous plexus.
+- Identify and sweep left ureter and gonadal vessels posteriorly.
+- Ligate IMA with clips and energy device.
+- Transect rectosigmoid junction with stapler.
+- Extract specimen; fashion end ileostomy or perform ileorectal anastomosis.
+
+## Review: Table 182.1 (Short-Term Outcomes)
+- Summarizes operative time, LOS, complications, mortality, conversion, and lymph node harvest.
+- Laparoscopic consistently shows longer operative time but shorter LOS.
+- Conversion rates vary (3 to 25 percent) but decrease with experience.
+- Morbidity and mortality generally equivalent or lower for MIS.
+- Lymph node harvest equivalent or better with MIS.
+
+## Review: Table 182.2 (Return of Bowel Function)
+- Compares time to flatus, bowel movement, PO tolerance, and length of ileus.
+- Laparoscopic consistently shows earlier return of bowel function compared to open.
+- Time to flatus often 1 to 2 days earlier.
+- Robotic approaches show similar or slightly improved times compared to laparoscopic.
+
+## Review: Table 182.3 (Postoperative Pain Control)
+- Measures days of parenteral narcotics, oral analgesics, and visual analog scales.
+- Laparoscopic requires fewer days of parenteral and oral analgesics compared to open.
+- Visual analog scale scores significantly lower for laparoscopic on Postoperative Day 1.
+- Robotic and laparoscopic pain scores are generally comparable.
+
+## Review: Table 182.4 (Long-Term Outcomes)
+- Summarizes overall survival, disease-free survival, wound recurrence, incisional hernia, and SBO.
+- Major trials (COST, CLASICC, COLOR) show NO difference in survival or recurrence between open and lap.
+- LAFA study showed decreased incisional hernia and SBO in laparoscopic group.
+- Long-term oncologic equivalence is firmly established.
+
+## Figure 182.1: Port Placements
+- Illustrates 4-port technique for laparoscopic right colectomy.
+- Illustrates 4-arm technique for robotic right colectomy (da Vinci Xi).
+- Camera and assistant ports strategically placed for optimal triangulation.
+- Extraction site through midline or surgeon preference.
+
+## Figure 182.2: The Bowstring Effect
+- Demonstrates grasping the cecum or mesentery and lifting anterolaterally.
+- Creates a tenting or bowstring effect.
+- Highlights the ileocolic artery branching off the SMA.
+- Distinct crease courses parallel to the vessel, guiding dissection.
+
+## Figure 182.3: Medial-to-Lateral Mobilization
+- Highlights the duodenum and the white line of Toldt.
+- Demonstrates the retroperitoneal plane.
+- Crucial for visualizing and protecting the duodenum during right colectomy.
+
+## Figures 182.4 and 182.5: Hepatic Flexure and Lesser Sac
+- Figure 182.4: Hepatic flexure tumor involving right kidney and duodenum.
+- Figure 182.5: Accessing the lesser sac through the omentum (gastrocolic ligament).
+- Early entry into the lesser sac is key to facilitating mobilization of the transverse colon.
+
+## Figure 182.6: Middle Colic Vessel Anatomy
+- Classic Y pattern is not always straightforward.
+- Often both right and left branches course to the patient's right.
+- Right branch courses off the head of the pancreas and duodenum.
+- Left branch makes a sharp upward turn and veers left.
+
+## Figures 182.7 to 182.10: Left and Sigmoid Anatomy
+- Figure 182.7: Port placements for left and sigmoid colectomy.
+- Figure 182.8: The critical angle between IMA and sacral promontory marks the avascular plane.
+- Figure 182.9: Care taken to identify and avoid left ureter, gonadal vessels, and hypogastric nerves.
+- Figure 182.10: Mobilization between IMA and IMV facilitates splenic flexure mobilization.
+
+## Conclusion
+- Ongoing evidence supports feasibility and safety of MIS for colon cancer.
+- Laparoscopy remains most widely used; robotics gaining momentum.
+- MIS is a tool to successfully remove pathology.
+- Must ensure equivalent operation regarding patient safety and oncologic outcome compared to open approach.

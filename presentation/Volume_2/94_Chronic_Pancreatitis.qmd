@@ -1,2 +1,817 @@
-# 94 Chronic Pancreatitis
+---
+title: "Chronic Pancreatitis"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    scrollable: true
+---
 
+### Generated with Kimi.
+
+
+## Learning Objectives
+
+- Define chronic pancreatitis and distinguish it from acute pancreatitis
+- Identify risk factors using TIGAR-O and M-ANNHEIM classifications
+- Recognize clinical manifestations and complications
+- Understand diagnostic approaches and their limitations
+- Evaluate medical, endoscopic, and surgical treatment options
+
+## What is Chronic Pancreatitis?
+
+- Progressive **fibroinflammatory disorder**
+- Leads to **irreversible destruction** of exocrine and endocrine tissue
+- Fibrotic replacement of normal pancreatic parenchyma
+- Associated with:
+  - Persistent abdominal pain
+  - Exocrine insufficiency
+  - Diabetes mellitus
+
+## Local Complications of Chronic Pancreatitis
+
+Inflammation may lead to:
+
+- Biliary and gastrointestinal obstruction
+- Ascites
+- Mesoportal/splenic thrombosis
+- Pseudocyst formation
+- Hemorrhage
+- Sepsis
+
+## The Challenge of Classification
+
+- No uniformly satisfactory criteria for:
+  - Diagnosis
+  - Classification
+  - Staging
+- Advanced stages are readily apparent clinically
+- **Early or mild disease recognition remains a challenge**
+- Treatment decisions should be based on individual circumstances rather than etiology-based classification
+
+## Definition: Acute vs Chronic Pancreatitis
+
+| Feature | Acute Pancreatitis | Chronic Pancreatitis |
+|---------|-------------------|---------------------|
+| Nature | Single episode of acute inflammation | Ongoing inflammatory and fibrosing disorder |
+| Histopathology | Edema, fat necrosis, hemorrhage | Fibrosis, acinar cell loss, ductal changes |
+| Reversibility | Often fully reversible | Irreversible morphologic changes |
+| Progression | May lead to permanent damage | Progressive loss of exocrine and endocrine function |
+
+## The Spectrum of Pancreatitis
+
+- Acute and chronic pancreatitis represent a **spectrum** rather than dichotomous terms
+- Recurrent acute episodes may lead to chronic changes
+- Some patients with chronic pancreatitis **never** have an acute episode
+- Timing and extent of changes for nomenclature shift is somewhat arbitrary
+
+## Histopathologic Changes
+
+Chronic pancreatitis is characterized by:
+
+- **Fibrosis** of pancreatic tissue
+- Reduced number of acinar cells
+- Reduced islets of Langerhans
+- Strictures and dilation of pancreatic ducts
+- Calcium calculi (pancreatic duct stones)
+
+## Structural Changes Timeline
+
+- Morphologic/structural changes can occur **years before** clinical symptoms
+- Key pathogenetic "switch": activation of pancreatic stellate cells inducing desmoplasia
+- Early recognition is critical but difficult with current tools
+
+## Historical Consensus: Marseille 1963
+
+**First International Conference (Marseille, 1963):**
+
+- **Acute pancreatitis**: acute organ inflammation with interstitial edema, peripancreatic fat necrosis, and hemorrhage
+  - Resolves if primary cause is removed
+- **Chronic pancreatitis**: irreversible focal, segmental, or diffuse destruction of exocrine tissue with ductal dilation or strictures
+
+## Marseille 1984 & Rome 1988
+
+**Second Marseille Meeting (1984):**
+- Modified acute pancreatitis definition to include clinical presentation
+- Subclassified chronic pancreatitis by distribution and stone presence
+- Added obstructive chronic pancreatitis as distinct form
+
+**Rome Meeting (1988):**
+- Added morphologic distinctions:
+  - **Chronic calcifying pancreatitis**: intraductal calcifications and protein plugs
+  - **Chronic inflammatory pancreatitis**: dense mononuclear inflammatory cell infiltration
+
+## Cambridge Classification (1984)
+
+Based on ERCP and imaging findings:
+
+| Terminology | Main Duct | Side Ducts | Additional Features |
+|-------------|-----------|------------|---------------------|
+| Normal | Normal | None | — |
+| Equivocal | Normal | <3 abnormal | — |
+| Mild | Normal | ≥3 abnormal | — |
+| Moderate | Abnormal | >3 abnormal | — |
+| Marked | Abnormal | >3 abnormal | Large cavity, obstruction, filling defects, severe dilation, irregularity |
+
+## Japan Pancreas Society Criteria
+
+- Incorporates multiple diagnostic approaches:
+  - Ultrasound (US)
+  - Computed tomography (CT)
+  - ERCP
+  - Secretin stimulation testing
+  - Histologic examination
+
+**Definitive evidence:** Pancreatic stones on CT or US
+
+**Probable/Possible evidence:** Pancreatic deformity with irregular contour
+
+## Limitations of Classification Systems
+
+- Inability to establish definitive diagnosis in **earliest stages**
+- No classification system has proven practical applicability for treatment decisions
+- Imaging features alone cannot definitively diagnose chronic pancreatitis
+- New mechanistic definition proposed (2016):
+  - "Pathologic fibroinflammatory syndrome of the pancreas"
+  - Incorporates genetic, environmental, and risk factors
+  - Does not require imaging features
+
+## TIGAR-O Classification Overview
+
+Proposed by Whitcomb et al. to classify risk factors:
+
+| Category | Description |
+|----------|-------------|
+| **T**oxic-metabolic | Alcohol, tobacco, hypercalcemia, hyperlipidemia, medications |
+| **I**diopathic | Unknown etiology, tropical |
+| **G**enetic | PRSS1, PRSS2, CTRC, CFTR, SPINK1, CLDN2, CPA1 |
+| **A**utoimmune | Isolated or associated with autoimmune disorders |
+| **R**ecurrent acute | Postnecrotic, recurrent AP, vascular, postirradiation |
+| **O**bstructive | Pancreas divisum, sphincter disorders, tumors, trauma |
+
+## Toxic/Metabolic Risk Factors
+
+- **Alcohol**: ~70% of cases in Western countries (higher in men)
+- **Tobacco**: associated with early presentation, calcifications, and diabetes development
+- **Hyperparathyroidism/Hypercalcemia**: associated with chronic pancreatitis
+- **Chronic renal failure**: higher risk
+- **Medications**: statins, steroids, oral contraceptives, interferon
+- **Hyperlipidemia**: more often associated with acute or recurrent acute pancreatitis
+
+## Alcohol and Chronic Pancreatitis
+
+- Association noted for over half a century
+- Relative risk increases directly with mean daily alcohol consumption
+- Even moderate intake can cause disease
+- Duration of consumption can be relatively short before onset
+- **Only 5%–10% of alcoholics develop pancreatic disease**
+- Alcohol is more of a **risk factor** than causative agent in susceptible patients
+
+## Proposed Mechanism: Alcohol
+
+**Acute pancreatitis:**
+- Alcohol metabolism by-products induce acinar cell injury
+- Leads to pancreatic enzyme activation (trypsin, chymotrypsin, phospholipase A)
+- Causes autodigestion and inflammatory cell recruitment
+
+**Chronic pancreatitis:**
+- Increases protein concentration in pancreatic juice
+- Causes intraductal calcium stone formation
+- Leads to ductal epithelial ulceration, inflammation, and fibrosis
+
+## Tobacco and Other Toxic Factors
+
+- Tobacco potentiates progression of chronic pancreatitis
+- Preclinical models show tobacco increases pancreatic cancer risk in chronic pancreatitis patients
+- Hyperparathyroidism and hypercalcemia are established associations
+- Pancreatitis may be first manifestation of MEN2A
+- Chronic renal failure increases susceptibility
+
+## Idiopathic Chronic Pancreatitis
+
+- Historically ~20% of patients with no identifiable risk factor
+- **Bimodal age distribution:**
+  - Early onset: ages 10–20
+  - Late onset: after age 50
+- Many patients increasingly recognized to have underlying genetic mutations
+- May be more appropriately recategorized into genetic subgroup
+- **NAPS2 consortium** established for genomic DNA and biomarker studies
+
+## Genetic Risk Factors Overview
+
+- Hereditary pancreatitis recognized clinically in 1950s
+- Genetic basis understood since 1996
+- **Autosomal dominant inheritance** with ~78% penetrance
+- Locus on chromosome 7q encoding zymogen genes
+- Multiple genes now implicated in chronic pancreatitis susceptibility
+
+## PRSS1 and Hereditary Pancreatitis
+
+- **Cationic trypsinogen gene (PRSS1)** mutations
+- Most common: **R122H mutation** (Arg to His substitution)
+- Results in proteolytic-resistant trypsinogen
+- Leads to inappropriate activation within pancreas → autodigestion
+- **Lifetime risk of pancreatic cancer: ~35%**
+- Risk roughly **doubled by smoking**
+
+## SPINK1 Mutations
+
+- **Serine protease inhibitor, Kazal type 1 (SPINK1)**
+- Colocalized with trypsinogen in zymogen granules
+- Prevents inappropriate intrapancreatic protease activation
+- Most frequent mutation: **N34S amino acid substitution**
+- May **lower the threshold** for disease from other risk factors
+- Not directly causative but acts as disease modifier
+
+## CFTR Gene Mutations
+
+- **Cystic fibrosis transmembrane conductance regulator**
+- Encodes cAMP-regulated chloride channel in epithelial cells
+- Most common mutation: **ΔF508** (phenylalanine deletion at position 508)
+- More common in idiopathic than alcoholic chronic pancreatitis
+- **Not a direct cause** but contributes to disease
+- Mechanisms:
+  - Decreased bicarbonate secretion
+  - Impaired fluid secretion and protein plug formation
+  - Altered vesicular sorting and membrane lipid imbalance
+
+## Other Genetic Associations
+
+| Gene | Effect |
+|------|--------|
+| **PRSS2** (anionic trypsinogen) | Lower mutation incidence; G191R variant appears **protective** |
+| **CTRC** (chymotrypsin C) | Increases risk and encourages progression with CFTR/SPINK1 mutations |
+| **CSR** (calcium-sensing receptor) | Associated with chronic pancreatitis |
+| **CLDN2** (claudin-2) | X-linked; alters risk for alcohol-related and sporadic pancreatitis |
+| **CPA1** (carboxypeptidase A1) | Strongly associated with early onset disease |
+
+## Autoimmune Pancreatitis
+
+- Rare cause (~1% of chronic pancreatitis)
+- Also known as **lymphoplasmacytic sclerosing pancreatitis**
+- Characteristics:
+  - Gland enlargement
+  - Diffuse duct narrowing
+  - Stenosis of intrapancreatic bile duct
+- Histology: CD4+/CD8+ lymphocytes, IgG4 plasma cells, interstitial fibrosis, acinar atrophy
+
+## Autoimmune Pancreatitis: Diagnosis & Treatment
+
+- Antibodies directed against:
+  - Plasminogen-binding protein (PBP) of *Helicobacter pylori*
+  - Ubiquitin-protein ligase E3 component n-recognin 2
+- Associated with:
+  - Sjögren syndrome
+  - Primary sclerosing cholangitis (PSC)
+  - Inflammatory bowel disease
+- **Primary treatment: steroids**
+- Can mimic pancreatic malignancy on imaging
+
+## Recurrent Acute Pancreatitis (RAP)
+
+- Recurrent episodes of acute pancreatitis of any etiology can cause chronic pancreatitis
+- Mechanism poorly understood
+- Likely involves:
+  - Accumulated postinflammatory scarring and necrosis
+  - Priming of pancreatic stellate cells to induce fibrosis
+- Radiation and ischemia may contribute
+- **RAP specifically refers to episodes that do NOT lead to chronic pancreatitis if underlying factors are treated**
+
+## Obstructive Causes
+
+- Can be congenital, functional, or acquired
+- Causes include:
+  - Pancreatic or ampullary tumors
+  - Post-injury pancreatic duct fibrosis
+  - Elevated sphincter of Oddi basal pressures (controversial)
+- Anatomic variations predisposing to obstruction:
+  - **Pancreas divisum**
+  - Annular pancreas
+  - Post-traumatic scars
+  - Sphincter of Oddi dysfunction
+
+## Pancreas Divisum
+
+- Ventral and dorsal pancreatic ducts fail to fuse during development
+- Drainage of body and tail occurs through dorsal duct and minor papilla
+- Insufficient caliber of dorsal duct may induce relative obstruction
+- **Vast majority of patients are asymptomatic**
+- Likely predisposes to pancreatitis in combination with other risk factors rather than initiating it alone
+
+## Clinical Manifestations: Pain
+
+- **Most common symptom: abdominal pain (90%)**
+- Pattern is highly variable
+- Early disease: pain may be minor or episodic
+- Often gradually becomes more constant
+- Late phase: pain may disappear ("burnout")
+  - Associated with development of diabetes and exocrine insufficiency
+- Localized to epigastrium, often radiates to back
+- Associated with nausea and vomiting
+
+## Pain Patterns and Progression
+
+- Course of chronic pancreatitis is **highly unpredictable**
+- Lankisch et al. followed 335 patients >10 years:
+  - Majority continued to experience pain
+- Eating exacerbates pain → patients avoid regular meals
+- Leads to weight loss and malnutrition
+- **Burnout phenomenon**: pain relief with advanced organ failure
+
+## Exocrine Insufficiency
+
+- **4%–30% have significant exocrine insufficiency**
+- Symptoms:
+  - Bloating
+  - Flatulence
+  - **Steatorrhea**: foul smelling, oily, loose stools
+- Malabsorption leads to:
+  - Weight loss
+  - Deficiencies in fat-soluble vitamins (A, D, E)
+
+## Endocrine Insufficiency & Diabetes
+
+- Develops later in disease course
+- Typically when **90% of parenchyma is replaced by fibrosis**
+- More common in alcohol-associated chronic calcifying pancreatitis than hereditary forms
+- Patients may require insulin replacement
+- Diabetes development often correlates with pain "burnout"
+
+## Extrapancreatic Complications
+
+- Gastrointestinal and biliary obstruction from fibrosis or pseudocysts
+- **Biliary obstruction:**
+  - 3%–23% among all patients
+  - 15%–60% among surgical patients
+- **Duodenal obstruction/stenosis:**
+  - 2% in all patients
+  - 12% in surgical patients
+- **Splenic vein thrombosis:**
+  - Incidence 4%–45%
+  - Majority asymptomatic
+  - Few present with gastric variceal bleeding
+
+## Malignancy Risk: Overview
+
+- Chronic pancreatitis is associated with increased pancreatic cancer risk
+- Lowenfels et al. multicenter study (2015 patients, >2 years follow-up):
+  - Standardized incidence ratio: **16.5 at 2 years**
+  - Standardized incidence ratio: **14.4 at 5 years**
+- 2017 systematic review and meta-analysis:
+  - Effect estimate: **16.16 within 2 years**
+  - Dropped to **7.90 at 5 years**
+
+## Pancreatic Cancer Risk Statistics
+
+- Higher early rate proposed to be secondary to **occult malignant disease** at time of chronic pancreatitis diagnosis
+- Cumulative incidence in **nonhereditary** chronic pancreatitis: **2% per decade**
+- Incidence in **hereditary pancreatitis**: **40% by age 70** (starting at age 35)
+- Hereditary pancreatitis most closely associated with **PRSS1**, especially among tobacco users
+- CFTR and SPINK1 also carry increased risk, but less than PRSS1
+
+## Mechanisms of Pain: Ductal Hypertension
+
+- Obstruction of main pancreatic duct → increased ductal pressure
+- Pressure transmitted to secondary ducts and surrounding parenchyma
+- Pain through **stretch-activated neural pathways**
+- Ductal obstruction may cause missorting and basolateral secretion of enzymes
+- Triggers **protease-activated nociceptive pathways**
+
+## Mechanisms of Pain: Inflammation & Ischemia
+
+- Fibrosis of peripancreatic capsule and perilobular parenchyma
+- Impairs regional and local blood flow
+- Produces pain through **ischemia and tissue acidosis**
+- Parenchymal fibrosis likened to **"compartment syndrome"**
+- Associated with impaired venous drainage
+
+## Mechanisms of Pain: Neural Remodeling
+
+- Chronic inflammation induces **visceral hyperalgesia**
+- Neural remodeling of:
+  - Local nociceptive pathways
+  - Spinal pathways
+  - Central pain processing pathways
+- Alteration of pain perception at peripheral and central levels
+- **Large prospective study: no correlation between pain and radiographic evidence of inflammation or obstruction**
+
+## Medical Pain Management
+
+- **Mainstay: opioids and neuropathic pain modulators**
+- Short-term symptom control
+- High protease content pancreatic enzyme therapy may decrease secretion
+- **Scheduled dosing of uncoated enzyme preparations** may reduce pain (controversial)
+- Octreotide and antidepressants may help
+- Antioxidant therapy shows benefit in meta-analysis
+- NSAIDs (e.g., ibuprofen) early in disease
+- **Pregabalin** may prevent central sensitization and hyperalgesia
+
+## Advanced Pain Management
+
+- Refractory pain may require:
+  - Fasting with intravenous fluids
+  - Enteral feedings via jejunal feeding tubes
+  - Parenteral nutrition via central catheter
+- **Celiac plexus nerve block** (percutaneous or endoscopic):
+  - Relieves pain in ~50% of patients
+  - Relief typically lasts ~2 months
+  - Agents: alcohol, steroids, anesthetics
+- **Thoracoscopic splanchnic denervation**
+- Intrathecal narcotic infusion pumps
+
+## Diagnosis: History and Physical Exam
+
+**History:**
+- Clear description of pain and recurrent episodes
+- Risk factors: alcohol consumption, family history
+- 20% of patients have **painless** chronic pancreatitis
+- Diagnosis often delayed due to variable natural history
+
+**Physical Exam:**
+- Evidence of malnutrition (temporal wasting, decreased subcutaneous fat)
+- During acute episodes: upright/leaning forward posture
+- Epigastric tenderness and/or back pain
+- Abdominal fullness suggesting pseudocyst
+
+## Laboratory Tests
+
+- **Serum amylase and lipase:**
+  - Elevated during acute exacerbations
+  - May be normal even during acute inflammation in advanced disease
+- **Blood glucose and HbA1c:** elevated in advanced disease
+- **Stool examination:** steatorrhea
+  - 72-hour stool collection: fat >7g/day is abnormal
+- **Autoimmune markers:** IgG4, ANA, rheumatoid factor, ESR
+
+## Functional Tests
+
+- **Duodenal bicarbonate concentration** before and after secretin stimulation (during upper endoscopy)
+- **Fecal elastase:** may be insensitive in mild to moderate disease
+- **13C-mixed triglyceride breath test:** in development for exocrine insufficiency
+- Secretin stimulation tests assess exocrine reserve
+
+## Imaging: CT and MRI/MRCP
+
+**Contrast-enhanced CT (triphasic thin-cut):**
+- Most commonly used modality
+- Demonstrates late changes:
+  - Ductal and parenchymal calcifications
+  - Ductal dilation and stricture
+  - Parenchymal atrophy
+  - Complications: pseudocysts, vessel thrombosis, pseudoaneurysms
+
+**MRI with MRCP:**
+- Better visualization of parenchyma and ductal system
+- Noninvasive, no ionizing radiation
+- Reduced T1 signal intensity (parenchymal)
+- Main/side branch dilatation, stricture, irregularities (ductal)
+- **Limited in detecting calcifications**
+
+## Imaging: Secretin-Augmented MRCP and ERCP
+
+**MRCP with secretin:**
+- Augments visualization of pancreatic side ducts
+- Provides qualitative/semiquantitative information on exocrine capacity via duodenal filling
+
+**ERCP:**
+- Was gold standard for early chronic pancreatitis
+- Sensitivity: 70%–90%; Specificity: 90%–100%
+- **Not routinely performed for diagnosis alone**
+- Invasive and can induce acute pancreatitis
+- Now largely restricted to planned endoscopic therapy
+
+## Imaging: Endoscopic Ultrasound (EUS)
+
+- May detect early changes before CT, MRCP, or ERCP:
+  - Ductal wall echogenicity
+  - Focal echogenicity
+  - Increased duct branches
+- **Controversial criteria** for diagnosis
+- High false-positive rates:
+  - Findings can be present in individuals without pancreatic disease
+- Nonspecific changes associated with:
+  - Male gender, older age, increased BMI
+  - Smoking and alcohol consumption
+- Specificity increases with history of acute pancreatitis
+
+## Challenges in Early Diagnosis
+
+- Each test has sensitivity of **75%–81%**
+- Variability due to differing definitions of chronic pancreatitis
+- Improved imaging detects minor morphologic changes that may not be clinically significant
+- Changes seen in:
+  - Elderly patients
+  - Longstanding diabetes
+  - Alcohol abuse
+  - Smoking
+- Evolution of changes may require **years** to manifest
+- **Repeat imaging and follow-up essential** if clinical suspicion is high
+
+## Natural History Progression
+
+- **1 in 5 patients** with acute pancreatitis progress to chronic pancreatitis
+- **1 in 3 patients** with recurrent acute pancreatitis (RAP) progress to chronic pancreatitis
+- Morphological and functional changes evolve with time
+- Idiopathic chronic pancreatitis at early age (<35 years):
+  - Changes may be delayed up to 10+ years after symptom onset
+- Alcohol-associated disease:
+  - Changes may be present at diagnosis or develop shortly after symptom onset
+
+## Treatment: Lifestyle Modifications
+
+- **Abstinence from alcohol and smoking**
+- Smaller, more frequent meals
+- Oral pancreatic enzyme supplementation with meals:
+  - Helps malabsorption
+  - May help pain associated with exocrine insufficiency
+- Diabetes management (insulin replacement for type 1 diabetes)
+- Unfortunately, symptoms typically recur despite lifestyle changes
+
+## Medical Management Strategies
+
+| Presumed Mechanism | Treatment Approach |
+|-------------------|-------------------|
+| Local inflammation | Pharmacotherapy (enzymes, analgesics, narcotics, pregabalin) |
+| Ductal hypertension | Decompression (Puestow, endoscopic stenting) |
+| Organ hypertension | Resection (Whipple, Frey procedures) |
+| Retroperitoneal damage | Neuroablation (celiac block, splanchnicectomy) |
+| Altered nociception | Psychosocial intervention (counseling, detoxification) |
+
+## Endoscopic Management: Indications
+
+- Pain with radiographic evidence of pancreatic or biliary duct obstruction
+- Stones or strictures causing obstruction
+- **Pancreatic sphincterotomy** permits introduction of equipment
+- Dilation of pancreatic duct strictures
+- Polyethylene stents (5.0–11.5 French) placed across strictures
+
+## Endoscopic Stenting
+
+- Stent patency: relatively short-lived (**2–4 months**)
+- Complications:
+  - Occlusion from calcific debris and proteinaceous material
+  - Migration out of pancreatic duct
+  - Can exacerbate pain and lead to suppurative infection
+- **Long-term stenting can worsen periductal inflammation, fibrosis, and stricturing**
+- Stents routinely removed after 2–4 months
+
+## Endoscopic Stone Removal
+
+- Intraductal stones removed with **Dormia-type baskets**
+- Mechanical lithotripsy for stones larger than duct orifice
+- **Extracorporeal shock wave lithotripsy (ESWL):**
+  - Effective and safe for main pancreatic duct stones >5mm
+  - Indicated with duct strictures, impacted calculi, or failed endoscopic methods
+- Symptomatic pseudocysts drained via transgastric or transduodenal approach
+
+## Surgical Management: Indications
+
+- Generally reserved after exhaustion of nonoperative therapy
+- Ideally before opioid dependence
+- **Indications:**
+  - Intractable abdominal pain
+  - Secondary complications: biliary stricture, duodenal stenosis, pseudocyst
+  - Suspected pancreatic neoplasm
+- **Goals:** relieve pain, address obstruction, preserve exocrine and endocrine function
+
+## Surgical Decision-Making
+
+- Choice determined by **anatomic findings**
+- Key distinctions:
+  - **Large-duct vs small-duct disease**
+  - Presence and location of inflammatory mass
+- **Head of pancreas** often the "pacemaker" of disease
+  - Prime source of pain
+  - Three major ductal systems course through head (Wirsung, Santorini, uncinate)
+- Less common: isolated tail inflammation or ductal dilation without focal mass
+
+## Surgical Timing
+
+- Influenced by global assessment of disease course
+- **Longer disease duration, preoperative opioid usage, and frequent endoscopic procedures** associated with ongoing pain after surgery
+- **Surgery within 3 years of symptoms:**
+  - Improved pain relief
+  - Delayed loss of endocrine and exocrine function
+- Longstanding disease may lead to hyperalgesia from central sensitization
+
+## Resection Procedures: Overview
+
+**For focal disease in head without duct dilation:**
+
+| Procedure | Description |
+|-----------|-------------|
+| **Kausch-Whipple (PD)** | Resection of pancreatic head, distal CBD, distal stomach, duodenum, proximal jejunum |
+| **Pylorus-preserving PD (PPPD)** | Preserves pylorus for improved gastric emptying |
+| **Beger (DPPHR)** | Duodenum-preserving head resection |
+| **Near/total pancreatectomy** | For end-stage or refractory diffuse disease |
+
+## Whipple Procedure (Pancreaticoduodenectomy)
+
+- **Preferred for focal disease confined to head without duct dilation**
+- Resection includes:
+  - Head of pancreas
+  - Distal common bile duct
+  - Distal stomach
+  - Duodenum
+  - Proximal jejunum
+- Reconstruction:
+  - Two-layered end-to-side pancreaticojejunostomy
+  - End-to-side hepaticojejunostomy
+  - Gastrojejunostomy
+- Pain relief in ~85% of patients
+
+## Whipple Outcomes
+
+- New-onset diabetes uncommon in patients with normal preoperative glucose tolerance
+- Up to 50% develop diabetes during subsequent 10 years
+- Postoperative exocrine insufficiency in nearly half of patients
+- **Mortality: <5%** (near zero in experienced centers)
+- **Complication rate: 30%–40%**
+
+## Pylorus-Preserving Whipple (PPPD)
+
+- Introduced by Traverso and Longmire
+- Intended to improve functional digestive outcomes and quality of life
+- Preserves physiologic gastric emptying mechanism
+- Long-term follow-up:
+  - **No meaningful differences** in functional outcome or weight maintenance
+  - May be associated with slightly higher incidence of early postoperative delayed gastric emptying
+
+## Beger Procedure (DPPHR)
+
+- **Duodenum-preserving pancreatic head resection**
+- Division of neck of pancreas overlying splenic/SMV confluence
+- Removal of head leaving small rim along duodenum
+- Completed with end-to-end and side-to-side Roux-en-Y pancreaticojejunostomy
+- Maintains gastrointestinal and biliary continuity
+- Similar pain relief and quality of life as PD
+- Key steps: preserve posterior branch of gastroduodenal artery and intrapancreatic CBD
+
+## Berne Modification
+
+- Modification of DPPHR by Gloor et al.
+- Involves **excavation of central portion of head** without formal division of the neck
+- Randomized trial (Koninger et al.):
+  - Shorter operative time and hospital stay than original Beger
+  - Similar quality of life at 2 years
+
+## Decompression Procedures
+
+**For large-duct disease without focal inflammatory mass:**
+
+- **Duval procedure (1954):**
+  - Drainage of tail into Roux-en-Y limb
+  - Often failed (did not address proximal disease)
+- **Puestow-Gillesby procedure:**
+  - Drain entire duct along body and tail into Roux-en-Y limb
+  - Initially with splenectomy and distal pancreatectomy
+- **Partington-Rochelle (Puestow):**
+  - Simplified by eliminating splenectomy and resection
+  - Retocolic side-to-side Roux-en-Y pancreaticojejunostomy
+  - Pain relief in >80% of cases
+
+## Hybrid Procedures: Frey Procedure
+
+- For patients with **large-duct disease AND significant inflammatory disease in head**
+- Combines:
+  - Duodenum-sparing resection of pancreatic head (without formal neck division)
+  - Longitudinal pancreaticojejunostomy of dorsal duct
+- Acceptable alternative for durable long-term pain relief
+- Decreases opiate dependence
+- **≥75% success** in pain relief and weight gain in series
+
+## Hybrid Procedures: Izbicki Procedure
+
+- For patients with **inflammatory head mass but small-duct disease**
+- Combines:
+  - Excavation of pancreatic head with V-shaped longitudinal wedge resection
+  - Lateral decompressive pancreaticojejunostomy of body and tail
+- Results:
+  - Complete pain relief in 92% of patients
+  - Improvements in physical status, working ability, emotional and social functioning
+  - Postoperative morbidity and mortality similar to other procedures
+
+## Total Pancreatectomy with Islet Autotransplantation (TPIAT)
+
+**Candidates:**
+- Small-duct disease with diffuse inflammation
+- Hereditary syndromes
+- Failures of prior pancreatic operations
+- No discrete lesions for conventional therapy
+
+**History:**
+- First performed in 1977
+- Renewed interest due to improved insulin, enzyme replacement, and islet isolation
+
+## TPIAT Outcomes
+
+- Complete or near-complete pain relief in ~75% of patients
+- 60%–70% achieve narcotic independence
+- 40% initially insulin-independent after autotransplantation
+- Steady drop-off of transplanted islet function over time
+- Insulin requirements tend to be small
+- Patients less vulnerable to severe hypoglycemia
+- Early TPIAT may avoid chronic opioid complications and allow higher islet yield
+
+## Surgery vs Endoscopy: Evidence
+
+Multiple prospective randomized trials show **superiority of surgery:**
+
+| Author | Year | Stenting (n) | Surgery (n) | Durable Relief (Stent/Surg) | P-value |
+|--------|------|--------------|-------------|----------------------------|---------|
+| Dite | 2003 | 36 | 36 | 61.4% / 85.9% | 0.002 |
+| Cahen | 2007 | 19 | 20 | 32% / 75% | 0.007 |
+| Issa (ESCAPE) | 2020 | 44 | 44 | 39% / 58% | 0.10 |
+
+## ESCAPE Trial Details
+
+- Largest study to date (Issa et al., Dutch Pancreatitis Study Group)
+- 88 patients randomized
+- **Early surgery group:** pancreatic drainage surgery within 6 weeks
+- **Endoscopy-first group:** medical therapy and endoscopy, then surgery if warranted
+- Results at 18 months:
+  - Significantly lower pain scores in surgery-first group
+  - Complete/partial relief: 58% (surgery) vs 39% (endoscopy)
+  - Difference not statistically significant (P=0.10)
+
+## Long-Term Surgical Outcomes
+
+- Significant long-term pain relief, weight gain, and decreased narcotic dependence in majority
+- Postoperative mortality: **<3%**
+- Complication rates: **10%–40%**
+- PD and PPPD associated with higher complication rates than DPPHR and drainage procedures
+- **No significant differences** in pain relief and control of adjacent organ complications between major procedures
+
+## Randomized Comparisons: Resection vs Drainage
+
+- **Izbicki et al.:** Extended drainage vs PPPD
+  - PPPD higher complication rate (53.3% vs 19.4%)
+  - Drainage provided better quality of life
+  - Equal effectiveness in pain relief and complication resolution
+
+- **Koninger et al.:** Original Beger vs Berne modification
+  - Berne: shorter operative time and hospital stay
+  - Similar quality of life at 2 years
+
+## Randomized Comparisons: Head Resections
+
+- **Strate et al.:** Beger vs Frey procedures (74 patients)
+  - No differences in late mortality, quality of life, pain score, exocrine or endocrine insufficiency
+
+- **Strate et al.:** PPPD vs Frey procedure
+  - No differences in quality of life and pain control at median 7-year follow-up
+
+- **Müller et al.:** Beger vs PPPD
+  - Similar pain control and pancreatic function
+
+## Choosing the Surgical Procedure
+
+- In many instances, **surgeon preference** based on individual experience and training determines choice
+- No single procedure has proven universally superior
+- Decision should be tailored to:
+  - Duct size (large vs small)
+  - Presence of inflammatory mass
+  - Location of disease (head vs tail vs diffuse)
+  - Need for biliary/duodenal drainage
+
+## Conclusions: Disease Nature
+
+- Chronic pancreatitis results in **progressive and irreversible destruction** of pancreatic parenchyma
+- Replaced by fibrosis leading to exocrine and later endocrine insufficiency
+- **No simple unifying mechanism of pathogenesis**
+- Interaction among risk factors (environmental, genetic, anatomic) predisposes to disease
+
+## Conclusions: Diagnosis and Treatment
+
+- Recognition in earliest stages continues to pose a challenge
+- Treatment decisions should be guided by patient presentation
+- Hampered by lack of consensus guidelines and clinician bias
+- Therapeutic options include:
+  - Risk modification
+  - Analgesic therapy
+  - Dietary management
+  - Endoscopic therapy
+  - Surgical therapy
+
+## Conclusions: Multidisciplinary Care
+
+- Patients may be best treated in **high-volume centers**
+- Requires expertise in:
+  - Radiology
+  - Endoscopy
+  - Surgery
+- Ancillary support:
+  - Social workers
+  - Dietitians
+  - Pain management specialists
+
+## Key Takeaways
+
+1. Chronic pancreatitis is a progressive, irreversible fibroinflammatory disease
+2. TIGAR-O classification helps organize diverse risk factors
+3. Early diagnosis remains challenging despite advanced imaging
+4. Pain is the most common symptom but poorly correlates with imaging findings
+5. Surgery generally provides more durable pain relief than endoscopic therapy
+6. Procedure choice depends on duct size, mass presence, and disease location
+7. Total pancreatectomy with islet autotransplantation is an option for refractory cases
+8. Multidisciplinary, high-volume center care optimizes outcomes

@@ -9,7 +9,7 @@ slides_iframe <- function(height = 600) {
   html <- sprintf(
 '
 <iframe
-  src="../presentation/%s.html"
+  src="/presentation/%s.html"
   width="100%%"
   height="%s"
   style="border:none;">
