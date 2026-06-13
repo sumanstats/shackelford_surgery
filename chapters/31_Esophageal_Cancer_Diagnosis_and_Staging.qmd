@@ -2,14 +2,7 @@
 
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
-
+{{< reveal Volume_1/31_Esophageal_Cancer_Diagnosis_and_Staging >}}
 
 Generated with Claude.
 

@@ -3,25 +3,12 @@
 
 ## Generated with Claude.
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
+{{< Volume_1/32_Neoadjuvant_Treatments_in_Locally_Advanced_Esophageal_Cancer >}}
 
 
 ## Generated with Kimi AI.
 
 
 
-<iframe    src="../presentation/32_neoadjuvant_locally_advanced_esophageal_cancer_kimi.html"
-  width="100%"
-  height="600"
-  style="border:none;"
-  allow="fullscreen"
-  allowfullscreen>
-</iframe>
-
+{{< reveal Volume_1/32_neoadjuvant_locally_advanced_esophageal_cancer_kimi >}}
 

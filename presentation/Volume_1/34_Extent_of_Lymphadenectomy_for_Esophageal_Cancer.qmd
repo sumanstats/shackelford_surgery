@@ -1,5 +1,3 @@
-# 34 Extent of Lymphadenectomy for Esophageal Cancer
-
 ---
 title: "Extent of Lymphadenectomy for Esophageal Cancer"
 format:

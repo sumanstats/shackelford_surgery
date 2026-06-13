@@ -2,4 +2,4 @@
 
 
 
-{{< reveal 94_Chronic_Pancreatitis>}}
+{{< reveal Volume_2/94_Chronic_Pancreatitis>}}

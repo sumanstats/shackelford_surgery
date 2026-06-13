@@ -7,7 +7,7 @@ format:
     scrollable: true
 ---
 
-### Generated with Kimi.
+
 
 
 ## Learning Objectives

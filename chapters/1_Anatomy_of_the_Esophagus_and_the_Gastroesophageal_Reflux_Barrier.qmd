@@ -1,9 +1,4 @@
 # Anatomy of the Esophagus and the Gastroesophageal Reflux Barrier
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
+{{< reveal  Volume_1/1_Anatomy_of_the_Esophagus_and_the_Gastroesophageal_Reflux_Barrier >}}

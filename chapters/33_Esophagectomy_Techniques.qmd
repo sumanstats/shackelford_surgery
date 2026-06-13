@@ -1,13 +1,7 @@
 # 33-Esophagectomy techniques
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
+{{< reveal Volume_1/33_Esophagectomy_Techniques >}}
 
 
 Generated with Claude.

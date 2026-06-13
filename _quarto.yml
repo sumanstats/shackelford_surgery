@@ -1,6 +1,7 @@
 project:
   type: book
   pre-render: scripts/build_presentations.R # write this in same line
+  post-render: scripts/copy_presentation.R # write this in same line
 execute:
   freeze: auto
   cache: true
@@ -217,6 +218,10 @@ book:
     - chapters/195_Delivering_High-Quality_and_Equitable_Surgical_Care_Quality_Metrics_Improvement_and_Implementation.qmd
     - chapters/196_Management_of_Intraabdominal_and_Retroperitoneal_Sarcomas.qmd
     - part: "MISCELLANEOUS"
+
+
+shortcodes:
+  - _shortcodes/reveal.lua
 
 
 format:
