@@ -1,0 +1,862 @@
+---
+title: "NCCN Guidelines"
+subtitle: "Rectal Cancer - Version 2.2026"
+format:
+  revealjs:
+    theme: dark
+    css: |
+      .reveal h1 { font-size: 1.8em; color: #003366; }
+      .reveal h2 { font-size: 1.4em; color: #0066cc; }
+      .reveal h3 { font-size: 1.1em; color: #0099cc; }
+      .reveal .slide-number { font-size: 14px; }
+      .reveal table { font-size: 0.65em; }
+      .reveal ul { font-size: 0.75em; }
+      .reveal p { font-size: 0.75em; }
+      .highlight-box { 
+        background-color: #e6f3ff; 
+        border-left: 4px solid #0066cc; 
+        padding: 10px; 
+        margin: 10px 0;
+        font-size: 0.7em;
+      }
+      .warning-box { 
+        background-color: #fff3e6; 
+        border-left: 4px solid #ff9900; 
+        padding: 10px; 
+        margin: 10px 0;
+        font-size: 0.7em;
+      }
+      .important-box { 
+        background-color: #ffe6e6; 
+        border-left: 4px solid #cc0000; 
+        padding: 10px; 
+        margin: 10px 0;
+        font-size: 0.7em;
+      }
+    slide-number: true
+    width: 1280
+    height: 720
+---
+
+
+## Updates in Version 2.2026
+
+::: {.white style="font-size: 0.6em; margin-top: 40px;"}
+All recommendations are Category 2A unless otherwise indicated
+:::
+
+
+<div class="highlight-box">
+<strong>PI3K Pathway Alterations & Aspirin:</strong><br>
+For stage II and III, if somatic PI3K pathway alterations, start aspirin (unless contraindicated) 100–162 mg PO daily for 3 years after recovery from surgery (concurrent with chemotherapy if given).<br><br>
+<strong>Molecular profiling should be done on all stage II and III CRC tumors.</strong>
+</div>
+
+**Somatic PI3K pathway alterations include:**
+- Mutations in PIK3CA exon 9 and 20
+- Other PIK3CA, PIK3R1, and PTEN mutations
+- Deep deletions of PTEN
+
+::: {.notes}
+Also applies to REC-5, REC-6, REC-14
+:::
+
+## Updates in Version 1.2026
+
+
+### Workup & Biomarkers
+- **REC-2:** PIK3CA testing for somatic PI3K pathway alterations for stage II-III
+- **REC-2A:** Biomarker testing as part of multigene panel testing (MGPT)
+- **REC-2A:** Expanded to include POLE/POLD1, RET, NTRK 1/2/3
+
+### Treatment Modifications
+- **REC-3:** T1(favorable risk),N0 — branches for nonsurgical vs surgical candidate removed
+- **REC-5:** pT3,N0,M0 adjuvant treatment modified — Consider FOLFOX or CAPEOX alone or Observation
+- **REC-6:** Total neoadjuvant therapy options expanded
+
+### New Immunotherapy Options
+- **REC-F:** Additional checkpoint inhibitors added (penpulimab, atezolizumab, avelumab, cosibelimab, durvalumab)
+
+
+## Initial Evaluation Framework
+
+| Presentation | Workup | Next Step |
+|-------------|--------|-----------|
+| Polyp with invasive cancer | Pathology, colonoscopy, MMR/MSI | REC-1 |
+| Without distant metastases | Biopsy, MRI, CT, CEA, biomarkers | REC-3 |
+| With suspected/proven metastases | + Biomarker panel, consider PET/CT | REC-7 or REC-15 |
+
+**Universal Testing:**
+- MMR/MSI status
+- PIK3CA for stage II-III (somatic PI3K pathway alterations)
+- RAS/BRAF for metastatic disease
+
+# REC-1: Polyp with Invasive Cancer
+
+## Workup
+- Pathology review (confirm pT1)
+- Colonoscopy with marking of cancerous polyp site
+- MMR/MSI testing
+
+## Treatment Based on Findings
+
+| Finding | Primary Treatment |
+|---------|-----------------|
+| Single specimen, completely removed, favorable histology, clear margins (pT1 only) | Observe OR Transanal local excision OR Transabdominal resection |
+| Fragmented specimen, margin cannot be assessed, or unfavorable histologic features | Additional workup (EUS/MRI) → Transanal local excision OR Transabdominal resection |
+
+<div class="warning-box">
+<strong>Favorable features:</strong> No angiolymphatic invasion, submucosal invasion <1mm, low tumor budding, negative margin (>1mm)<br>
+<strong>Unfavorable features:</strong> Angiolymphatic invasion, submucosal invasion >1mm, high tumor budding, positive margin
+</div>
+
+# REC-2: Workup Without Distant Metastases
+
+## Required Evaluations
+
+::: {.incremental}
+- **Biopsy** — confirm adenocarcinoma
+- **MMR/MSI testing**
+- **PIK3CA testing** for stage II-III (somatic PI3K pathway alterations)
+- **Pathology review**
+- **Colonoscopy** — complete to cecum
+- **Consider proctoscopy**
+- **Chest CT + Abdominal CT or MRI**
+- **CBC, chemistry profile, CEA**
+- **Pelvis MRI with or without contrast** (preferred for local staging)
+- **Endorectal ultrasound** (if MRI contraindicated/inconclusive, or for T1 lesions)
+- **Enterostomal therapist** — preoperative marking
+- **FDG-PET/CT is NOT indicated**
+- **Multidisciplinary team evaluation**
+- **Fertility risk discussion**
+:::
+
+# REC-2A: Workup With Suspected/Proven Distant Metastases
+
+## Additional Requirements
+
+### Biomarker Testing (order rapidly)
+- **RAS** (KRAS, NRAS) and **BRAF V600E** mutations
+- **HER2 (ERBB2)** overexpression/amplification
+- **MMR or MSI** status (if not previously done)
+- **Multigene panel testing (MGPT)** — identifies rare actionable mutations:
+  - POLE/POLD1
+  - RET
+  - NTRK 1/2/3
+
+### Additional Workup
+- Consider FDG-PET/CT if potentially surgically curable M1
+- Consider MRI of liver for potentially resectable disease
+- Multidisciplinary evaluation including experienced surgeon
+
+<div class="highlight-box">
+<strong>Pathway split:</strong> pMMR/MSS → REC-7 | dMMR/MSI-H or POLE/POLD1 mutation → REC-15
+</div>
+
+# REC-3: Staging & Primary Treatment
+
+## Without Suspected/Proven Distant Metastases
+
+| Clinical Stage | Primary Treatment |
+|---------------|-------------------|
+| **T1 (favorable risk), N0** | ESD or Transanal local excision OR Transabdominal resection |
+| **T1 (high risk), T2, N0** | Transabdominal resection (preferred) OR Long-course chemo/RT → Consider FOLFOX/CAPEOX → Restaging → Resection |
+| **T3, N any; T1-2, N1-2; T4, N any** | See REC-3A |
+
+<div class="warning-box">
+<strong>High-risk T1 features:</strong> Positive margins, lymphovascular invasion, poorly differentiated, sm3 invasion<br>
+<strong>Short-course RT:</strong> Consider for preoperative radiation; however, for high-risk rectal cancer (cT4a/b, EMVI, cN2, involved MRF), 5-year RAPIDO follow-up shows statistically higher locoregional recurrence (10% vs 6%)
+</div>
+
+# REC-3A: Advanced Staging Decisions
+
+## For T3, N Any; T1-2, N1-2; T4, N Any or Locally Unresectable
+
+<div class="highlight-box">
+<strong>For stage II and III, if somatic PI3K pathway alterations:</strong><br>
+Start aspirin 100–162 mg PO daily for 3 years after recovery from surgery (concurrent with chemotherapy if given)
+</div>
+
+### Pathway Split:
+
+| Biomarker Status | Destination |
+|-----------------|-------------|
+| **pMMR/MSS** | REC-6 (Primary Treatment) |
+| **dMMR/MSI-H or POLE/POLD1 mutation with ultra-hypermutated phenotype (TMB >50 mut/Mb)** | REC-14 (Primary Treatment) |
+
+### T3, N0 Low-Risk, High Rectal Tumors
+- Transabdominal resection OR
+- Treat as T3, N any below
+
+# REC-4: After Transanal Local Excision (T1,N0)
+
+## Pathologic Findings & Adjuvant Treatment
+
+| Finding | Management |
+|---------|-----------|
+| **pT1, NX without high-risk features** | Observe → Surveillance |
+| **pT1, NX with high-risk features OR pT2, NX** | Transabdominal resection (preferred) OR Long-course chemo/RT → Consider FOLFOX/CAPEOX → Restaging → Resection |
+
+<div class="important-box">
+<strong>High-risk features:</strong> Positive margins, lymphovascular invasion, poorly differentiated tumors, sm3 invasion
+</div>
+
+**Complete clinical response option:**
+- If complete clinical response after neoadjuvant therapy, consider surveillance (watch and wait) in experienced centers
+
+# REC-5: After Transabdominal Resection (T1-2,N0)
+
+## Adjuvant Treatment (Up to 6 Months Perioperative)
+
+| Pathology | Treatment |
+|-----------|-----------|
+| **pT1-2, N0, M0** | Observe |
+| **pT3, N0, M0** | Long-course chemo/RT → Chemotherapy (FOLFOX/CAPEOX) OR Chemotherapy alone (FOLFOX/CAPEOX) OR FOLFOX/CAPEOX alone OR Observation* |
+| **pT4, N0, M0 or pT1-4, N1-2** | Long-course chemo/RT → Chemotherapy OR Chemotherapy → Long-course chemo/RT OR Consider FOLFOX/CAPEOX alone (pT1-3, N1 only) |
+
+<div class="warning-box">
+*Observation can be considered in select pT3N0 patients: well-differentiated or moderately well-differentiated, <2mm mesorectal invasion, no lymphatic/venous involvement, upper rectum
+</div>
+
+<div class="highlight-box">
+<strong>Postoperative RT should be highly selective</strong> (e.g., for incomplete mesorectal grade) due to severe toxicity concerns
+</div>
+
+# pMMR/MSS Rectal Cancer: Overview
+
+## Treatment Algorithm Structure
+
+::: {.incremental}
+1. **Localized Disease** (REC-6)
+   - T3, N any; T1-2, N1-2; T4, N any
+   - Total neoadjuvant therapy approach
+
+2. **Synchronous Metastatic** (REC-7)
+   - Liver only and/or lung only
+   - Abdominal/peritoneal metastases
+   - Unresectable other sites
+
+3. **Recurrence/Metachronous** (REC-11 through REC-13)
+   - Isolated pelvic/anastomotic recurrence
+   - Resectable metachronous metastases
+   - Unresectable metachronous metastases
+:::
+
+# REC-6: pMMR/MSS — Locally Advanced
+
+## Total Neoadjuvant Therapy (TNT)
+
+### Option 1: Chemo/RT → Chemotherapy
+- Long-course chemo/RT (capecitabine or infusional 5-FU) OR Short-course RT
+- → Chemotherapy (12-16 weeks): FOLFOX or CAPEOX (preferred), Consider FOLFIRINOX
+- → Restaging → Resection or Surveillance (if cCR)
+
+### Option 2: Chemotherapy → Chemo/RT
+- Chemotherapy (12-16 weeks): FOLFOX or CAPEOX (preferred), Consider FOLFIRINOX
+- → Long-course chemo/RT OR Short-course RT
+- → Restaging → Resection
+
+### Option 3: Chemotherapy for Non-T4 (Sphincter-Sparing)
+- Chemotherapy (12-16 weeks): FOLFOX or CAPEOX
+- → Restage with sigmoidoscopy ± MRI
+- → If tumor regression >20%: Surgery
+- → If tumor regression ≤20% or high-risk features remain: Consider additional chemo/RT
+
+<div class="highlight-box">
+<strong>Complete clinical response:</strong> Consider surveillance (REC-10A) — watch and wait in experienced multidisciplinary centers
+</div>
+
+# REC-7: pMMR/MSS — Synchronous Metastatic
+
+## Initial Stratification
+
+| Finding | Primary Treatment |
+|---------|-------------------|
+| **Resectable liver only and/or lung only** | REC-8 |
+| **Unresectable or medically inoperable liver/lung** | REC-9 |
+| **Synchronous abdominal/peritoneal metastases** | Systemic therapy or Palliative management |
+| **Synchronous unresectable other sites** | Systemic therapy (REC-F) |
+
+### Nonobstructing Primary Tumor
+→ Systemic therapy (REC-F)
+
+### Obstructed or Imminent Obstruction
+→ Resection OR Diverting ostomy OR Bowel bypass OR Stenting (upper rectal lesions only) → Systemic therapy
+
+# REC-8: Resectable Synchronous Liver/Lung Metastases (pMMR/MSS)
+
+## Neoadjuvant Treatment Approach
+
+### Upfront Chemotherapy (Preferred)
+- **FOLFOX** (preferred) or **CAPEOX** (preferred)
+- OR Fluorouracil/leucovorin or Capecitabine
+- OR **FOLFIRINOX**
+
+→ Restaging → 
+
+| Response | Next Step |
+|----------|-----------|
+| Good response | Consider holding radiation → Staged/synchronous resection and/or local therapy |
+| Need for pelvic control | Short-course RT OR Long-course chemo/RT + pelvis RT |
+
+### Upfront Radiation
+- Short-course RT OR Long-course chemo/RT + pelvis RT
+- → Chemotherapy (FOLFOX/CAPEOX preferred)
+- → Restaging (best tumor response 8 weeks after RT completion)
+
+<div class="highlight-box">
+<strong>Local therapy options:</strong> Resection preferred for liver; thermal ablation equivalent for lesions ≤3cm; SBRT for lung metastases
+</div>
+
+# REC-9: Unresectable Synchronous Liver/Lung (pMMR/MSS)
+
+## Systemic Therapy Options
+
+### First-Line
+- **(FOLFIRI or irinotecan) ± bevacizumab [preferred]** OR ziv-aflibercept OR ramucirumab
+- **(FOLFIRI or irinotecan) ± cetuximab or panitumumab** (KRAS/NRAS/BRAF WT only)
+- **Encorafenib + (cetuximab or panitumumab)** (BRAF V600E mutation)
+- **(Pertuzumab or tucatinib) + trastuzumab** (HER2+ and KRAS/NRAS/BRAF WT)
+- **Fam-trastuzumab deruxtecan** (HER2 overexpression, IHC 3+)
+- **(Adagrasib or sotorasib) + (cetuximab or panitumumab)** (KRAS G12C)
+
+### Reassess Every 2 Months
+→ If converted to resectable: Proceed to resection ± local therapy
+→ If remains unresectable: Continue systemic therapy ± consider local therapy for select patients
+
+# Surveillance
+
+## REC-10: Following Operative Management
+
+### Stage I with Full Surgical Staging
+- Colonoscopy at 1 year after surgery
+  - If advanced adenoma: repeat in 1 year
+  - If no advanced adenoma: repeat in 3 years, then every 5 years
+
+### Stage II–IV
+| Modality | Frequency |
+|----------|-----------|
+| History and physical | Every 3–6 mo for 2 y, then every 6 mo for total 5 y |
+| CEA | Every 3–6 mo for 2 y, then every 6 mo for total 5 y |
+| C/A/P CT | Stage II-III: every 6–12 mo for 5 y; Stage IV: every 3–6 mo × 2 y, then every 6–12 mo |
+| Colonoscopy | At 1 y (or 3–6 mo if incomplete preoperative) |
+| FDG-PET/CT | NOT recommended |
+
+<div class="warning-box">
+<strong>ctDNA is not recommended for surveillance</strong> outside of clinical trials
+</div>
+
+# REC-10A: Following Nonoperative Management
+
+## Intensive Surveillance Protocol
+
+| Modality | Frequency |
+|----------|-----------|
+| History and physical | Every 3–6 mo for 2 y, then every 6 mo for 5 y |
+| CEA | Every 3–6 mo for 2 y, then every 6 mo for 5 y |
+| DRE and proctoscopy/flexible sigmoidoscopy | Every 3–4 mo for 2 y, then every 6 mo for 5 y |
+| MRI rectum | Every 6 mo for up to 3 y |
+| CT chest/abdomen | Every 6–12 mo for 5 y |
+| CT pelvis | Once no longer doing MRI |
+| Colonoscopy | At 1 year following completion of therapy |
+
+<div class="important-box">
+<strong>Requires experienced multidisciplinary team and patient commitment to intensive follow-up</strong>
+</div>
+
+# REC-11: Recurrence & Workup
+
+## Serial CEA Elevation
+
+### Workup
+- Physical exam
+- Colonoscopy
+- C/A/P CT with contrast
+- Consider FDG-PET/CT
+
+### Findings Management
+
+| Finding | Action |
+|---------|--------|
+| Negative findings | Consider FDG-PET/CT; Re-evaluate CT in 3 months |
+| Positive findings | See treatment for isolated pelvic/anastomotic recurrence OR Documented metachronous metastases |
+
+## Documented Metachronous Metastases
+- Determine resectability
+- Consider FDG-PET/CT
+- Test biomarker status (pMMR/MSS vs dMMR/MSI-H)
+
+# REC-11A: Isolated Pelvic/Anastomotic Recurrence
+
+## Treatment by Resectability & Biomarker Status
+
+| Status | Resectable | Unresectable |
+|--------|-----------|-------------|
+| **dMMR/MSI-H or POLE/POLD1** | Resection OR Systemic therapy (REC-18) OR Long-course chemo/RT → Resection | Systemic therapy (REC-18) |
+| **pMMR/MSS** | Chemotherapy (FOLFOX/CAPEOX/FOLFIRINOX) → Long-course chemo/RT or Short-course RT → Resection ± IORT | Long-course chemo/RT or Short-course RT → Systemic therapy |
+
+<div class="warning-box">
+<strong>Previous RT given:</strong> See Principles of Radiation Therapy (REC-E) for re-irradiation guidance
+</div>
+
+# REC-12: Resectable Metachronous Metastases (pMMR/MSS)
+
+## No Previous Chemotherapy
+
+| Approach | Adjuvant Treatment |
+|----------|-------------------|
+| Resection and/or local therapy | FOLFOX or CAPEOX (preferred) OR Capecitabine or fluorouracil/leucovorin |
+| Neoadjuvant chemotherapy (2-3 mo) → Resection/local therapy | FOLFOX or CAPEOX OR Capecitabine OR Fluorouracil/leucovorin OR Observation |
+
+## Previous Chemotherapy
+- Resection and/or local therapy → Observation (preferred if previous oxaliplatin-based) OR Systemic therapy ± biologic therapy (REC-F)
+- Neoadjuvant chemotherapy → Resection → FOLFOX/CAPEOX OR Capecitabine OR Fluorouracil/leucovorin OR Observation
+
+<div class="highlight-box">
+<strong>Local therapy:</strong> Resection preferred for liver; thermal ablation equivalent for ≤3cm; surgery/thermal ablation/SBRT for lung
+</div>
+
+# REC-13: Unresectable Metachronous Metastases (pMMR/MSS)
+
+## Initial Treatment Based on Prior Therapy
+
+### Previous FOLFOX/CAPEOX within past 12 months
+- (FOLFIRI or irinotecan) ± bevacizumab [preferred] OR ziv-aflibercept OR ramucirumab
+- (FOLFIRI or irinotecan) ± cetuximab or panitumumab (KRAS/NRAS/BRAF WT)
+- Encorafenib + (cetuximab or panitumumab) ± FOLFIRI or FOLFOX or CAPEOX (BRAF V600E)
+- (Pertuzumab or tucatinib) + trastuzumab (HER2+ and KRAS/NRAS/BRAF WT)
+- Fam-trastuzumab deruxtecan (HER2 overexpression, IHC 3+)
+- (Adagrasib or sotorasib) + (cetuximab or panitumumab) (KRAS G12C)
+
+### Previous FOLFOX/CAPEOX >12 mo OR Previous fluorouracil/leucovorin/capecitabine OR No previous chemotherapy
+→ Systemic therapy (REC-F)
+
+## Re-evaluation
+→ Every 2 months for conversion to resectable
+
+# dMMR/MSI-H or POLE/POLD1: Overview
+
+## Ultra-Hypermutated Phenotype (TMB >50 mut/Mb)
+
+::: {.incremental}
+1. **Localized Disease** (REC-14)
+   - Checkpoint inhibitor immunotherapy (preferred)
+   - Total neoadjuvant therapy alternative
+
+2. **Synchronous Metastatic** (REC-15)
+   - Resectable liver/lung: Checkpoint inhibitor (preferred)
+   - Other sites: Systemic immunotherapy
+
+3. **Recurrence/Metachronous** (REC-16 through REC-18)
+   - Resectable: Checkpoint inhibitor (preferred)
+   - Unresectable: Checkpoint inhibitor or combination
+:::
+
+<div class="highlight-box">
+<strong>Key distinction:</strong> Immunotherapy is the preferred approach for dMMR/MSI-H disease at all stages
+</div>
+
+# REC-14: dMMR/MSI-H — Locally Advanced
+
+## Neoadjuvant/Definitive Immunotherapy (Preferred)
+
+### Checkpoint Inhibitor Immunotherapy (up to 6 months)
+→ Re-evaluate disease status every 2-3 months
+
+| Response | Management |
+|----------|-----------|
+| **Complete clinical response** | Surveillance (REC-10A) |
+| **Persistent disease at 6 months** | Long-course chemo/RT OR Short-course RT → Resection or Surveillance (if cCR) |
+| **Consistent response** | Continue checkpoint inhibitor |
+
+## Total Neoadjuvant Therapy (Alternative)
+- Long-course chemo/RT OR Short-course RT
+- → Chemotherapy (FOLFOX/CAPEOX, Consider FOLFIRINOX)
+- → Restaging → Resection or Surveillance (if cCR)
+
+<div class="warning-box">
+<strong>FOLFIRINOX is not recommended in this setting</strong> for dMMR/MSI-H
+</div>
+
+# REC-15: dMMR/MSI-H — Synchronous Metastatic
+
+## Stratification & Treatment
+
+| Finding | Primary Treatment |
+|---------|-------------------|
+| **Resectable liver only and/or lung only** | REC-16 |
+| **Synchronous abdominal/peritoneal metastases** | REC-18 |
+| **Synchronous unresectable other sites** | REC-18 |
+
+### Nonobstructing Primary
+→ REC-18 (Systemic therapy)
+
+### Obstructed or Imminent Obstruction
+→ Resection OR Diverting ostomy OR Bowel bypass OR Stenting → REC-18
+
+<div class="important-box">
+Patients not candidates for immunotherapy should be treated as pMMR/MSS
+</div>
+
+# REC-16: Resectable Synchronous Liver/Lung (dMMR/MSI-H)
+
+## Neoadjuvant Treatment
+
+### Preferred: Checkpoint Inhibitor Immunotherapy
+→ Restaging → 
+
+| Response | Next Step |
+|----------|-----------|
+| Complete response to immunotherapy | Surveillance (REC-10A) |
+| No complete response | Short-course RT (preferred) OR Long-course chemo/RT → Staged/synchronous resection and/or local therapy |
+
+<div class="warning-box">
+<strong>Data are limited</strong> for checkpoint inhibitor in neoadjuvant setting; risk of early progression may be higher than chemotherapy (Andre T, NEJM 2020)
+</div>
+
+### Alternative (if contraindication to immunotherapy)
+- Neoadjuvant chemotherapy: FOLFOX, CAPEOX, or FOLFIRINOX
+
+# REC-17: Resectable Metachronous (dMMR/MSI-H)
+
+## No Previous Immunotherapy
+
+| Approach | Adjuvant Treatment |
+|----------|-------------------|
+| Checkpoint inhibitor immunotherapy (preferred) | Observation OR Resection and/or local therapy |
+| Resection and/or local therapy | FOLFOX or CAPEOX |
+
+## Previous Immunotherapy or Contraindication
+- Resection and/or local therapy → Observation (preferred if previous oxaliplatin) OR Systemic therapy ± biologic therapy (REC-F)
+- Neoadjuvant chemotherapy (FOLFOX/CAPEOX) → Resection → FOLFOX/CAPEOX OR Observation
+
+<div class="highlight-box">
+<strong>Note:</strong> Capecitabine or Fluorouracil/Leucovorin removed as treatment options in Version 1.2026
+</div>
+
+# REC-18: Unresectable Metastases (dMMR/MSI-H)
+
+## Checkpoint Inhibitor Therapy
+
+### No Prior Immunotherapy
+- Checkpoint inhibitor immunotherapy (REC-F 5 of 17)
+- Re-evaluate disease status every 2–3 months
+
+### Subsequent Treatment (if response)
+- Surveillance (REC-10A)
+- Surgery ± RT
+- Continue immunotherapy
+- **Ipilimumab + nivolumab** (if checkpoint inhibitor monotherapy previously received)
+- Systemic therapy (REC-F)
+
+### Prior Immunotherapy Received
+- Systemic therapy (REC-F)
+- **Ipilimumab + nivolumab** (if checkpoint inhibitor monotherapy was previously received)
+
+<div class="warning-box">
+<strong>Consider discontinuing checkpoint inhibitor after 2 years</strong> of disease response
+</div>
+
+# Principles of Imaging (REC-A)
+
+## Initial Workup/Staging
+
+| Modality | Indication |
+|----------|-----------|
+| **Pelvis MRI** | T and N staging; with or without contrast; endorectal ultrasound only for T1 or if MRI contraindicated |
+| **Chest CT + Abdominal CT or MRI** | Distant metastatic disease assessment |
+| **FDG-PET/CT** | NOT routinely indicated; consider if potentially surgically curable M1 or for liver-directed therapy planning |
+
+## Restaging
+- Chest CT + Abdominal CT or MRI + Pelvis MRI
+- Prior to surgery, adjuvant treatment, or re-evaluation for conversion
+
+## Follow-up/Surveillance
+- **Stage I:** Imaging not routinely indicated
+- **Stage II-III:** C/A/P CT every 6-12 months for 5 years
+- **Stage IV:** C/A/P CT every 3-6 months × 2 years, then every 6-12 months
+
+<div class="highlight-box">
+<strong>Therapy-dependent intervals:</strong> Chemo/RT: assess at 12 weeks, reassess at 16-20 weeks; TNT: assess at 24 weeks, reassess at 34-38 weeks
+</div>
+
+# Principles of Pathologic & Molecular Review (REC-B)
+
+## Key Pathologic Parameters
+
+::: {.incremental}
+- **Grade** of cancer
+- **Depth of invasion** (pT) — based on viable tumor; acellular mucin pools not residual tumor after neoadjuvant therapy
+- **Lymph nodes** — number evaluated and positive (minimum 12 for accurate staging)
+- **Margins** — proximal, distal, circumferential (CRM), mesenteric
+- **CRM** — positive if tumor ≤1mm from margin
+- **Neoadjuvant treatment effect** — grade 0 (complete response) to 3 (poor response)
+- **Lymphovascular invasion**
+- **Perineural invasion (PNI)** — independent prognostic factor
+- **Tumor deposits** — record number
+- **Tumor budding** — low (0-4), intermediate (5-9), high (≥10) tier
+:::
+
+# Molecular Testing Requirements
+
+## Universal Testing (All Patients)
+
+| Test | Indication |
+|------|-----------|
+| **MMR/MSI** | All newly diagnosed rectal cancer |
+| **RAS (KRAS/NRAS)** | All metastatic CRC |
+| **BRAF V600E** | All metastatic CRC |
+| **HER2 (ERBB2)** | All metastatic CRC |
+
+## Extended Panel Testing (MGPT)
+- **POLE/POLD1** — ultra-hypermutated phenotype (TMB >50 mut/Mb)
+- **NTRK 1/2/3** — gene fusions (rare, ~0.35%)
+- **RET** — gene fusions
+
+## Important Notes
+- Testing on formalin-fixed paraffin-embedded tissue or blood-based ctDNA
+- Do NOT repeat molecular testing after standard cytotoxic chemotherapy
+- Consider repeat testing after targeted therapies
+
+<div class="important-box">
+<strong>BRAF V600E + MLH1 loss:</strong> Generally excludes Lynch syndrome (but ~1% may still be LS)
+</div>
+
+# Principles of Surgery (REC-C)
+
+## Transanal Local Excision Criteria
+- <30% circumference; <3cm; clear margin (>3mm)
+- Mobile, nonfixed; within 8cm of anal verge
+- T1 only; well to moderately differentiated
+- No lymphovascular invasion or PNI
+- No lymphadenopathy on pretreatment imaging
+
+## Transabdominal Resection (TME)
+- Standard component of radical rectal cancer surgery
+- Extend 4-5cm below distal edge of tumors
+- Distal rectal cancers: negative distal margin 1-2cm acceptable
+- Minimally invasive approaches (laparoscopic, robotic) — safe, equivalent outcomes
+
+## ESD (Endoscopic Submucosal Dissection)
+- For lesions at risk for submucosally invasive cancer
+- Criteria: Type V Kudo pit pattern, depressed component, complex morphology, LST ≥20mm (nongranular) or ≥30mm (granular)
+- Curative when: negative margins, submucosal invasion <1000μm, no lymphovascular invasion, low tumor budding, well-moderately differentiated
+
+# Locoregional Therapies (REC-C)
+
+## Liver Metastases
+| Modality | Indication |
+|----------|-----------|
+| **Resection** | Treatment of choice; prioritized over ablation |
+| **Thermal ablation** | Equivalent to resection for ≤3cm lesions; reduced toxicity |
+| **SBRT** | When other local therapies not possible or patient prefers noninvasive |
+| **Y-90 radioembolization** | Chemotherapy-resistant/refractory, predominant hepatic disease |
+| **Hepatic arterial infusion** | At experienced institutions; VEGF inhibitor contraindicated |
+
+## Lung Metastases
+- Surgery, thermal ablation, and SBRT can be considered
+- Based on multidisciplinary discussion and patient preference
+
+## Conversion to Resectable
+- Re-evaluate after 2 months of chemotherapy and every 2 months thereafter
+- High response rate regimens preferred for potentially convertible disease
+
+# Principles of Perioperative Therapy (REC-D)
+
+## Chemotherapy Regimens
+
+| Regimen | Dosing | Duration |
+|---------|--------|----------|
+| **Modified FOLFOX6** | Oxaliplatin 85mg/m², LV 400mg/m², 5-FU bolus + 2400mg/m² infusion | Every 2 weeks, up to 6 months |
+| **CAPEOX** | Oxaliplatin 130mg/m², Capecitabine 1000mg/m² BID × 14 days | Every 3 weeks, up to 6 months |
+| **FOLFIRINOX** | Oxaliplatin 85mg/m², LV 400mg/m², Irinotecan 180mg/m², 5-FU 2400mg/m² | Every 2 weeks |
+| **Modified FOLFIRINOX** | Irinotecan reduced to 150mg/m² | Every 2 weeks |
+
+## Concurrent with RT
+- **5-FU:** 225mg/m² IV continuous, Days 1-5 or 1-7 for 5 weeks
+- **Capecitabine:** 825mg/m² PO BID, Monday-Friday, on radiation days only
+
+<div class="warning-box">
+<strong>FOLFIRINOX recommended over FOLFOXIRI</strong> for U.S. patients due to lower 5-FU dose (2400mg/m² vs 3200mg/m²)
+</div>
+
+# Principles of Radiation Therapy (REC-E)
+
+## General Principles
+- Fluoropyrimidine (oral or continuous infusion) concurrent with conventionally fractionated RT
+- **Endorectal brachytherapy** can be considered for dose escalation in select patients
+- **IMRT preferred** for reirradiation, postoperative cases, or unique anatomical situations
+- **IORT** may be considered for very close or positive margins after resection
+
+## RT Dosing
+| Regimen | Dose |
+|---------|------|
+| **Long-course** | 45–54 Gy in 25–30 fractions to pelvis; SIB: 45Gy pelvis + 50-54Gy tumor bed |
+| **Short-course** | 25 Gy in 5 fractions |
+| **Boost** | 5.4-9.0 Gy in 3-5 fractions (after 45Gy for resectable cancers) |
+
+## Small Bowel Constraints
+- Long-course: Dmax ≤55Gy, V45Gy ≤150cc, V50Gy ≤30cc
+- Short-course: D0.03cc ≤26.5Gy (up to 28.75Gy acceptable), V20Gy ≤50cc
+
+<div class="important-box">
+<strong>For locally recurrent disease after prior pelvis RT:</strong> Consider hyperfractionated pelvic re-irradiation or proton beam therapy
+</div>
+
+# Systemic Therapy: pMMR/MSS (REC-F)
+
+## KRAS WT / NRAS WT / BRAF WT
+
+### Initial Therapy
+- CAPEOX ± bevacizumab
+- CAPEOX + (cetuximab or panitumumab)
+- FOLFIRI ± bevacizumab
+- FOLFIRI + (cetuximab or panitumumab)
+- FOLFIRINOX ± bevacizumab
+- FOLFOX ± bevacizumab
+- FOLFOX + (cetuximab or panitumumab)
+
+### Subsequent Therapy
+| Prior Treatment | Options |
+|-----------------|---------|
+| **Prior Oxaliplatin** | FOLFIRI ± (cetuximab/panitumumab/bevacizumab/ziv-aflibercept/ramucirumab) |
+| **Prior Irinotecan** | FOLFOX/CAPEOX ± bevacizumab; Irinotecan + (cetuximab or panitumumab) |
+| **Beyond Second Line** | Fam-trastuzumab deruxtecan (HER2+); (Pertuzumab/tucatinib)+trastuzumab; Tumor-agnostic; TAS-102 ± bevacizumab; Fruquintinib; Regorafenib |
+
+# Systemic Therapy: Mutated RAS or BRAF V600E
+
+## (KRAS or NRAS mutation) + BRAF WT
+
+### Initial Therapy
+- CAPEOX ± bevacizumab
+- FOLFIRI ± bevacizumab
+- FOLFIRINOX ± bevacizumab
+- FOLFOX ± bevacizumab
+
+### Less Intensive
+- Capecitabine ± bevacizumab
+- Fluorouracil/leucovorin ± bevacizumab
+- **Adagrasib or Sotorasib monotherapy** (KRAS G12C)
+
+### Beyond Second Line
+- (Adagrasib or sotorasib) + (cetuximab or panitumumab) (KRAS G12C)
+
+## KRAS WT / NRAS WT / BRAF V600E mutation
+
+### Preferred Initial
+- **FOLFIRI/Encorafenib + (cetuximab or panitumumab)**
+- **FOLFOX/Encorafenib + (cetuximab or panitumumab)**
+
+### Other Recommended
+- CAPEOX ± bevacizumab
+- **CAPEOX/Encorafenib + (cetuximab or panitumumab)**
+- FOLFIRI ± bevacizumab
+- FOLFIRINOX ± bevacizumab
+- FOLFOX ± bevacizumab
+
+<div class="highlight-box">
+<strong>Encorafenib + (cetuximab or panitumumab)</strong> as less intensive option; may add FOLFOX/CAPEOX/FOLFIRI
+</div>
+
+# Checkpoint Inhibitor Therapy (dMMR/MSI-H)
+
+## PD-1 Inhibitors
+- Cemiplimab-rwlc
+- Dostarlimab-gxly
+- Nivolumab
+- Pembrolizumab
+- **Penpulimab-kcqx** *(new in v1.2026)*
+- Retifanlimab-dlwr
+- Tislelizumab-jsgr
+- Toripalimab-tpzi
+
+## PD-L1 Inhibitors *(new/expanded in v1.2026)*
+- **Atezolizumab**
+- **Avelumab**
+- **Cosibelimab-ipdl**
+- **Durvalumab**
+
+## Combination
+- **Ipilimumab + Nivolumab** (PD-1/CTLA-4 blockade)
+
+<div class="warning-box">
+<strong>Follow closely for 10 weeks to assess response.</strong> Some agents included based on presumed class effect from other cancer types.
+</div>
+
+# Tumor-Agnostic Therapies
+
+| Biomarker | Therapy |
+|-----------|---------|
+| **HER2 overexpression (IHC 3+)** | Fam-trastuzumab deruxtecan |
+| **NTRK 1/2/3 gene fusion** | Entrectinib; Larotrectinib; Repotrectinib |
+| **RET gene fusion** | Selpercatinib |
+
+## KRAS G12C Mutations
+| Setting | Regimen |
+|---------|---------|
+| Monotherapy | Adagrasib 600mg BID; Sotorasib 960mg daily |
+| + EGFR inhibitor | Adagrasib + (cetuximab or panitumumab); Sotorasib + (cetuximab or panitumumab) |
+
+## HER2-Targeted (KRAS/NRAS/BRAF WT)
+- Pertuzumab + Trastuzumab
+- Tucatinib + Trastuzumab
+
+# Principles of Survivorship (REC-G)
+
+## Long-Term Follow-Up Care
+
+### Care Planning
+- Develop survivorship care plan with treatment summary
+- Define roles: oncologist vs. primary care provider
+- Include: treatment summary, expected toxicities, surveillance recommendations, health behavior recommendations
+
+### Management of Late Sequelae
+| Issue | Management |
+|-------|-----------|
+| **Bowel dysfunction** | Anti-diarrheals, bulk-forming agents, diet manipulation, pelvic floor rehab |
+| **Oxaliplatin neuropathy** | Duloxetine for painful neuropathy (not numbness/tingling); pain specialist for refractory |
+| **Urogenital dysfunction** | Screen for sexual/urinary issues; refer to urologist/gynecologist |
+| **Bone density** | Consider DEXA after pelvic radiation |
+
+## Healthy Lifestyle
+- Maintain healthy body weight
+- **≥150 minutes moderate-vigorous physical activity per week**
+- Plant-based diet emphasis
+- Daily aspirin 325mg for secondary prevention
+- Smoking cessation
+
+# Principles of Nonoperative Management (REC-H)
+
+## Watch and Wait Criteria
+
+<div class="important-box">
+<strong>NOM is recommended ONLY at centers with experienced multidisciplinary teams and for patients committed to intensive surveillance</strong>
+</div>
+
+### Requirements
+- Accurate assessment of clinical, radiologic, and pathologic findings
+- Determine patient eligibility for NOM
+- Close monitoring of treatment responses
+- Prompt identification of surgical needs
+- Comprehensive understanding of watchful waiting literature
+
+### Complete Clinical Response (cCR)
+- No evidence of residual disease on DRE, rectal MRI, and direct endoscopic evaluation
+- Correlates with durable response
+- Local excision NOT routinely recommended for clear cCR (may introduce unnecessary risk)
+
+### Surveillance
+- See REC-10A for intensive surveillance protocol
+
+## Key Takeaways
+
+1. **Personalized approach based on biomarker status** — pMMR/MSS vs dMMR/MSI-H/POLE/POLD1
+2. **Total neoadjuvant therapy** — standard for locally advanced pMMR/MSS
+3. **Immunotherapy priority** — for dMMR/MSI-H at all stages
+4. **Organ preservation** — watch and wait for complete clinical response in select patients
+5. **Expanded biomarker testing** — MGPT for rare actionable mutations
+6. **Aspirin for PI3K-altered stage II-III** — new recommendation in v2.2026
+7. **Thermal ablation equivalence** — for small liver metastases (≤3cm)
+8. **Intensive surveillance** — required for nonoperative management
+
+
