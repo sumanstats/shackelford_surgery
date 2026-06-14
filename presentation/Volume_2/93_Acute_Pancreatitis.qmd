@@ -1,2 +1,888 @@
-# 93 Acute Pancreatitis
+---
+title: "Acute Pancreatitis"
+format:
+  revealjs:
+    theme: dark
+    slide-number: true
+    width: 1200
+    height: 700
+---
+
+
+## Overview
+
+- **Most common GI disease** requiring acute hospitalization
+- **Incidence is rising**
+- **~80%** have mild disease (symptoms resolve within 1 week)
+- **~20%** develop **severe acute pancreatitis** with organ failure and/or necrotizing pancreatitis
+
+::: {.callout-warning}
+## Key Definition
+**Necrotizing pancreatitis** = pancreatic parenchymal necrosis and/or peripancreatic fat necrosis
+:::
+
+## Clinical Significance
+
+- Risk for **persistent SIRS** and/or **(multiple) organ failure**
+- **30-60%** develop **secondary infection of necrosis** (most often 3-4 weeks after onset)
+- When secondary infection occurs → **morbidity and mortality increase dramatically**
+- **Overall mortality in severe pancreatitis: 15-30%** (vs. mild pancreatitis)
+
+
+## Causes of Acute Pancreatitis
+
+| Cause | Frequency |
+|-------|-----------|
+| **Gallstones** | 50-60% |
+| **Alcohol** | 20% |
+| Hypercalcemia | Less frequent |
+| Hypertriglyceridemia | Less frequent |
+| Medications | Less frequent |
+| Hereditary causes | Less frequent |
+| Sphincter of Oddi dysfunction | Less frequent |
+| Pancreas divisum | Less frequent |
+| Infections | Less frequent |
+
+## Important Considerations
+
+::: {.callout-important}
+## Before Diagnosing "Idiopathic"
+Must rule out causes with **therapeutic implications**:
+
+- **Biliary sludge and gallstones** → seek by transabdominal or endoscopic ultrasonography
+- **Pancreatic neoplasms** → consider in older patients with first episode and no clear etiology
+:::
+
+::: {.callout-note}
+## Diagnostic Challenge
+CECT features may be obscured by inflammatory changes in neoplastic cases
+:::
+
+
+## Diagnostic Criteria (2 of 3 Required)
+
+1. **Abdominal pain** consistent with acute pancreatitis
+   - Acute onset
+   - Persistent, severe, epigastric pain
+   - Often radiating to the back
+
+2. **Serum lipase or amylase** ≥ 3x upper limit of normal
+
+3. **Characteristic findings** on CECT (less commonly MRI or transabdominal US)
+
+## Imaging Considerations
+
+::: {.columns}
+::: {.column width="50%"}
+### Usually
+- First two criteria present
+- **CECT NOT required** for diagnosis
+:::
+
+::: {.column width="50%"}
+### CECT Helpful When
+- Abdominal pain for several days
+- Already normalized amylase and lipase levels
+:::
+:::
+
+::: {.callout-warning}
+## Caution with Early CECT
+CECT in first **72-96 hours** often **fails to demonstrate** pancreatic necrosis and peripancreatic collections
+:::
+
+
+## 2012 Revised Atlanta Classification
+
+### Three Categories Based on Complications
+
+| Complications | Mild | Moderate | Severe |
+|--------------|------|----------|--------|
+| **Local** | No | Yes | Yes |
+| **Transient organ failure** | No | Yes | Yes |
+| **Persistent organ failure** | No | No | Yes |
+| **Exacerbation of preexisting comorbidity** | No | Yes | Yes |
+
+## Morphologic Classification
+
+Based on local complications on diagnostic imaging:
+
+- **Interstitial edematous pancreatitis**
+- **Necrotizing pancreatitis**
+
+## Local Complications - Collections (Table 93.2)
+
+| Collection | Timing | Characteristics |
+|-----------|--------|----------------|
+| **Acute fluid collection** | < 4 weeks (edematous pancreatitis) | Homogeneous fluid density, confined by normal peripancreatic fascial planes, no definable wall |
+| **Pseudocyst** | Usually > 4 weeks (edematous pancreatitis) | Adjacent to pancreas, well-circumscribed, homogeneous fluid density, well-defined wall, completely encapsulated |
+| **Acute necrotic collection** | < 4 weeks (necrotizing pancreatitis) | Heterogeneous and non-liquid density, no definable wall, intrapancreatic and/or extrapancreatic |
+| **Walled-off necrosis** | Usually > 4 weeks (necrotizing pancreatitis) | Heterogeneous and non-liquid density, well-defined wall, completely encapsulated, intrapancreatic and/or extrapancreatic |
+
+## Practical Classification Issues
+
+::: {.callout-note}
+## Determinate Classification
+Incorporates persistent organ failure and infected necrosis into a **"critical"** category
+:::
+
+::: {.callout-important}
+## Key Practical Issue
+- **4-week period** for encapsulation is assumed but may differ among patients
+- **Best practice**: Use actual presence of encapsulation (not time) to differentiate acute necrotic collection vs. walled-off necrosis
+- **MRI** particularly helpful for fluid vs. solid debris
+- **MRI** can be impractical in critically ill patients
+:::
+
+
+## Clinical Course Variability
+
+- Unpredictable course
+- Range: **full recovery in days** → **multiorgan failure and death within hours**
+
+## Scoring Systems (Table 93.3)
+
+| Score | Cutoff for Predicted Severe AP |
+|-------|------------------------------|
+| **APACHE II** | ≥ 8 in first 24h |
+| **BISAP** | ≥ 3 in first 24h |
+| **Modified Glasgow (or Imrie)** | ≥ 3 in first 48h |
+| **Ranson** | ≥ 3 in first 48h |
+| **Urea at admission** | > 60 mmol/L |
+| **C-reactive protein** | > 150 U/L in first 72h |
+
+## Limitations of Scoring Systems
+
+::: {.callout-warning}
+- No system with both **high negative predictive value** AND **high positive predictive value**
+- Most popular scores have strengths and limitations
+- **Persistent organ failure** is the **key determinant** for morbidity and mortality
+:::
+
+## Key Predictors
+
+::: {.callout-important}
+## IAP/APA Guidelines Recommendation
+Use **persistent SIRS (> 48 hours)** as marker to predict severity
+:::
+
+- **(Early) multiorgan failure** associated with high mortality
+- Persistent organ failure = key determinant in Revised Atlanta Classification
+
+## Morphologic Scoring Systems
+
+- Balthazar grade
+- Pancreatic size index
+- Extrapancreatic inflammation on CT score
+- CT severity index
+- Modified CT severity index
+
+::: {.callout-note}
+## CT vs. Clinical Scores
+Study comparing all radiologic scoring systems showed **no advantage** of early CT on admission vs. more easily obtainable clinical scoring systems for predicting clinically severe AP and mortality
+:::
+
+
+## Traditional Biphasic Course
+
+Two peaks of mortality: **early** and **late**
+
+## Early Phase
+
+::: {.columns}
+::: {.column width="50%"}
+### Characteristics
+- Characterized by **SIRS**
+- Lasts about **1-2 weeks**
+- Cytokine cascades activated
+- Host systemic response to local pancreatic disease
+:::
+
+::: {.column width="50%"}
+### Organ Failure
+- May be present at first presentation
+- Usually diagnosed at median **2 days** after admission
+- **~50%** of early deaths have **NO infected necrosis** but suffer from **multiorgan failure**
+:::
+:::
+
+::: {.callout-important}
+## Modified Marshall Scoring System
+Useful for assessing organ dysfunction
+:::
+
+## Late Phase
+
+::: {.columns}
+::: {.column width="50%"}
+### Characteristics
+- **CARS** (compensatory anti-inflammatory response syndrome)
+- Can run protracted course: **weeks to months**
+:::
+
+::: {.column width="50%"}
+### Organ Failure
+- Related to **local complications**
+- **Secondary infection** (e.g., infected pancreas necrosis)
+- Occasionally pulmonary or urinary tract infection
+:::
+:::
+
+::: {.callout-warning}
+## Diagnostic Challenge in Late Phase
+Difficult to determine cause of CARS reaction (infected necrosis vs. infection from another organ system)
+:::
+
+## Mortality Data
+
+| Patient Group | Mortality |
+|--------------|-----------|
+| Organ failure in AP | **32%** |
+| Both organ failure AND infected necrosis | **43%** |
+
+
+## Early Supportive Measures
+
+### Pain Management
+
+- Intense abdominal pain = **presenting symptom** in vast majority
+- Remains dominant feature during first days
+- **No specific pain treatment regimen** for AP
+- Use **WHO analgesic ladder**
+- Exact place of pain management and physiologic/immunologic response still unknown
+
+### Fluid Therapy
+
+::: {.callout-important}
+## WATERFALL Trial (2022)
+- Randomized: goal-directed aggressive vs. moderate fluid resuscitation with lactated Ringer's
+- **Stopped at interim analysis**
+- Aggressive resuscitation → higher volume overload with **NO change in clinical outcome**
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+### Rationale for Fluids
+- Correct/prevent intravascular hypovolemia
+- Maintain microcirculation of pancreas
+:::
+
+::: {.column width="50%"}
+### Caution
+- Uncontrolled aggressive fluid therapy → **morbidity and mortality**
+- Monitor: heart rate, MAP, urinary output (0.5-1 mL/kg/h)
+:::
+:::
+
+### Fluid Recommendations
+
+| Parameter | Recommendation |
+|-----------|---------------|
+| **Fluid type** | Balanced physiologic solutions (Ringer lactate preferred) |
+| **Avoid** | Normal saline (produces acidosis) |
+| **Infusion rate** | 5-10 mL/kg/h |
+| **Endpoint** | Resuscitation goals by vital parameters and urine production |
+
+## Prevention of Infection
+
+### Probiotics
+
+::: {.callout-warning}
+## PROPATRIA Trial
+- Probiotics vs. placebo in predicted severe pancreatitis
+- **NO effect** in reducing infectious complications
+- **Unexpected higher rate** of bowel ischemia (9 vs. 0) and mortality (16% vs. 6%)
+- **NOT recommended**
+:::
+
+### Antibiotics
+
+::: {.callout-important}
+## Key Finding
+Most recent systematic reviews: **prophylactic IV antibiotics do NOT prevent infection** of (peri)pancreatic necrosis
+
+**Antibiotics only indicated as THERAPY** (not prophylaxis) for:
+- Proven infection
+- Strong clinical suspicion of infected necrosis
+:::
+
+### Selective Decontamination
+
+- Reduces mortality in general ICU patients
+- Tested in AP: beneficial effects on **morbidity** but **NO impact on mortality**
+- Use should be weighed against potential for:
+  - Increased antibiotic resistance
+  - Fungal colonization
+
+## Nutrition
+
+::: {.callout-important}
+## PYTHON Trial
+- Early nasoenteric tube feeding within 24h vs. oral diet with tube feeding only if not tolerated after 72h
+- **Routine early nasoenteral nutrition did NOT reduce** composite endpoint of infection or mortality
+- **69%** in on-demand group tolerated oral diet without tube feeding
+:::
+
+### Recommendations
+
+- **Enteral nutrition** superior to parenteral in predicted severe AP
+  - Reduces organ failure, infected necrosis, mortality
+  - Mechanism: reduced gut permeability, less bacterial overgrowth/translocation
+
+- **Enteral nutrition recommended only when oral diet not tolerated** during first 3-5 days
+
+- **Practical approach**: Many patients tolerate some oral nutrition but not enough for caloric/protein demands
+  - May receive some enteral + remainder parenterally
+
+- **Endoscopically placed gastrojejunostomy feeding tubes**
+  - Effective in early and mid-disease phases
+  - Permit gastric decompression (many have gastric ileus)
+  - Deliver nutrition beyond ligament of Treitz
+
+
+## Role of ERCP and Papillotomy: Indications
+
+::: {.callout-important}
+## Urgent ERCP with Sphincterotomy
+**ONLY indicated for:**
+- **Biliary pancreatitis with concurrent cholangitis**
+:::
+
+## Evidence
+
+| Scenario | Recommendation |
+|----------|---------------|
+| Mild biliary AP + no symptomatic CBD stones/cholangitis | **No evidence** ERCP beneficially influences course |
+| Predicted severe AP without cholangitis | Evidence **conflicting** |
+
+## APEC Trial
+
+- Dutch Pancreatitis Study Group randomized multicenter trial
+- Early ERCP with sphincterotomy in predicted severe AP without cholangitis
+- Bile duct stones or sludge found in **58%** of 83 patients undergoing urgent EUS on first hospital day
+- All underwent immediate ERCP
+- **No difference** in primary composite endpoint vs. historical controls
+
+::: {.callout-note}
+## Conclusion
+In acute pancreatitis, **early ERCP is indicated in the setting of cholangitis**
+:::
+
+
+## Mild Biliary Pancreatitis
+
+::: {.callout-important}
+## PONCHO Trial
+- Early cholecystectomy (just before discharge, after recovery, severe disease excluded) vs. interval cholecystectomy
+- Early cholecystectomy **effectively reduces** recurrent gallstone-related complications
+- **Very low added risk** of complications
+
+**Recommendation: Early cholecystectomy after mild biliary AP has resolved**
+:::
+
+## Severe Pancreatitis
+
+::: {.columns}
+::: {.column width="50%"}
+### Historical Approach
+- Delayed until need for intervention on necrosis declared itself
+:::
+
+::: {.column width="50%"}
+### Contemporary Data
+- >20% of biliary AP patients treated with step-up approach developed biliary complications during wait for cholecystectomy
+- **Inflection point: 10 weeks**
+- Beyond 10 weeks → increased biliary complications
+:::
+:::
+
+::: {.callout-important}
+## Recommendation
+Perform cholecystectomy **within 10 weeks** from acute pancreatitis insult — when possible based on clinical disease features
+:::
+
+
+## Overview
+
+Local complications of necrotizing pancreatitis may affect:
+- **Alimentary tract**
+- **Vascular system** (venous and arterial)
+- **Pancreas itself**
+
+## Alimentary Complications
+
+- May arise at any level: stomach, duodenum, small bowel, colon
+- **Fistula, stricture, ischemia, obstruction**
+
+::: {.callout-warning}
+## Colon Ischemia
+- Relatively common (**up to 10%**)
+- Usually from **venous thrombosis** with outflow obstruction and congestion
+- Consider when patient on steady course **suddenly and rapidly declines**
+- Diagnosis very challenging; often requires **laparotomy**
+- **New occlusion of SMV/portal vein** may portend colon ischemia
+:::
+
+## Venous Thromboembolism (VTE)
+
+::: {.callout-important}
+## Remarkably Common in NP
+- Incidence **> 50%**
+- Large proportion in **splanchnic circulation**
+- Extremity DVT also extremely common (**>10-fold higher** than other hospitalized patients)
+:::
+
+### Key Findings from Prospective Study
+
+| Finding | Data |
+|---------|------|
+| Weekly four-extremity screening ultrasound | Validated high incidence of extremity DVT |
+| Rapid therapeutic anticoagulation | Prevented PE in all patients without contraindication |
+| Anti-factor Xa concentration achieved | Only **21%** of patients |
+| No DVT in patients with appropriate anti-factor Xa | Suggests **individualized dosing needed** |
+
+## Visceral Arterial Pseudoaneurysm
+
+::: {.callout-warning}
+## Potentially Lethal Complication
+- Arises in **4%** of patients with necrotizing pancreatitis
+- Location correlates with necrosis distribution
+- **Relatively late complication**: diagnosed mean **63 days** into course
+:::
+
+### Risk Factors
+- Infected necrosis
+- Advanced age
+- Presence of disconnected pancreatic duct
+
+### Treatment
+- **Interventional radiology treatment**
+- Almost always definitive
+
+## Pancreatic Complications
+
+### Main Complication: Necrosis Leading to Duct Disruption
+
+| Type | Consequence |
+|------|-------------|
+| **Isolated duct disruption** | Pancreatic ascites or pancreaticopleural fistula |
+| **Major parenchyma necrosis** | Disconnected pancreatic duct syndrome (DPDS) |
+
+### DPDS Management
+- Volume of viable upstream pancreas dictates therapeutic decisions
+- **Internal drainage** ideal
+- **Operative resection** of disconnected tail necessary in many
+- Complicated by splenic vein thrombosis with sinistral (left-sided) portal hypertension
+
+
+## Diagnosis
+
+### When to Suspect
+- Clinical condition does not improve or worsens over **first 1-2 weeks**
+
+### Next Step
+- Perform **CECT** in search of:
+  - Acute necrotic collections
+  - Walled-off necrosis
+
+### Proven Infection
+
+::: {.columns}
+::: {.column width="50%"}
+### Gas Bubbles on CT
+- Caused by gas-forming bacteria
+- With or without fistulization to digestive tract
+- **Infection considered PROVEN**
+:::
+
+::: {.column width="50%"}
+### No Gas Bubbles
+- Persistent suspicion of infection
+- Need for intervention
+- Consider **fine-needle aspiration (FNA)**
+:::
+:::
+
+::: {.callout-warning}
+## FNA Limitations
+- Properly designed prospective studies lacking
+- False-negative results in **12-25%** of patients
+- Risk of **introducing infection** into necrotic cavity
+- **Used infrequently** in current practice
+:::
+
+## Treatment Approach
+
+### Antibiotics
+
+- **IV broad-spectrum antibiotics** when infected necrosis suspected or proven
+- Tailor based on cultures of infected collection
+- **Antibiotics alone** successful in only **5-10%** (small subset)
+- In vast majority: antibiotics = **supportive care only**
+
+::: {.callout-important}
+## Definitive Treatment
+**Drainage and/or necrosectomy** of (suspected) infected necrotic collections
+:::
+
+### Timing of Intervention
+
+::: {.columns}
+::: {.column width="50%"}
+### Traditional Approach
+- Primary laparotomy for necrosectomy
+- Used less frequently now
+:::
+
+::: {.column width="50%"}
+### Contemporary Approach
+- Postpone intervention when clinically feasible
+- Wait until **walled-off necrosis (full encapsulation)** documented on CECT
+- Usually takes **3-4 weeks**
+:::
+:::
+
+::: {.callout-important}
+## Why Wait?
+Waiting for full encapsulation and delaying intervention **reduces morbidity and mortality** vs. early intervention in first 2 weeks
+- Encapsulation facilitates effective necrosectomy
+- Reduces risk of bleeding and perforation
+:::
+
+### Early Phase Exception
+
+::: {.callout-note}
+## Observation Policy
+- Sterile collections usually **observed** in acute (early) phase
+- Drainage carries risk of **introducing infection**
+- Exception: **occasional case of infected necrosis** → prompt early intervention
+:::
+
+### Rare Early Drainage Indications
+- Obstruction of biliary or GI tract
+- Persisting pain
+- **Exclusively performed at least 4-6 weeks after onset**
+
+
+## Emergency Laparotomy Indications
+
+::: {.callout-warning}
+## Indicated For
+1. **Abdominal compartment syndrome**
+2. **Bowel ischemia**
+3. **Bowel perforation**
+
+**Goal**: intraabdominal decompression, NOT necrosectomy
+:::
+
+::: {.callout-important}
+## Critical Recommendation
+If early laparotomy needed, **highly recommended NOT to explore retroperitoneum** if infected necrosis has not been documented before operation
+:::
+
+### Abdominal Compartment Syndrome
+- Extremely rare in clinical practice
+- Stepwise approach: medication → percutaneous drainage → laparotomy
+
+## Minimally Invasive Intervention
+
+### Step-Up Approach
+
+::: {.callout-important}
+## First Step (Widely Accepted)
+Place **percutaneous or endoscopic drain** to decompress collection
+:::
+
+### Subsequent Steps
+
+| Step | Action |
+|------|--------|
+| 1 | Percutaneous/endoscopic drainage |
+| 2 | Add or revise drains if no improvement |
+| 3 | Necrosectomy if still unsuccessful |
+
+### Advantages of Step-Up Approach
+- Reduces surgical trauma vs. primary necrosectomy
+- Reduces risk of:
+  - Iatrogenic damage
+  - Bowel injury
+  - Hemorrhage requiring intervention
+
+
+## Percutaneous Catheter Drainage
+
+### Technique
+- Drain placed to relieve pus under pressure
+- Prevent further bacteremia
+- Serve as **bridge to necrosectomy**
+
+### Advantages
+- Simplicity
+- Wide availability
+
+### PANTER Trial Results
+- **35%** of patients solely treated with antibiotics and percutaneous drains
+
+### Routes
+
+| Route | Advantages |
+|-------|-----------|
+| **Retroperitoneal** | Preferred; not very demanding, low complication rate (intestinal perforation, contamination) |
+| **Transperitoneal** | Alternative when retroperitoneal not feasible |
+
+## Catheter Management
+
+- **Minimum drain size**: 12 French
+- **Irrigation**: 3x daily with 250 mL normal saline
+- Upsizing or additional drains when collection not optimally drained
+
+::: {.callout-note}
+## Current Challenge
+Timing of drain upsizing/addition or progression to next "step" is currently **subjective**
+:::
+
+## Video-Assisted Retroperitoneal Debridement (VARD)
+
+### When to Proceed
+- When drains alone fail to completely evacuate necrosis
+
+### Technique
+
+::: {.columns}
+::: {.column width="50%"}
+### Setup
+- General anesthesia
+- **Right lateral position**
+- Subcostal incision: **5-7 cm** near drain entrance
+- Use most recent CECT and drain as guidance
+:::
+
+::: {.column width="50%"}
+### Procedure
+1. Find route to peripancreatic collection
+2. Remove visible nonadherent necrosis with forceps
+3. Using **0-degree videoscope**, remove loosely adherent necrosis with long atraumatic forceps
+4. Place two large catheters for postoperative lavage (up to 10L/24h)
+:::
+:::
+
+## PANTER Trial Evidence
+
+::: {.callout-important}
+## Randomized Multicenter Trial
+88 patients with suspected infected necrotizing pancreatitis
+
+| Outcome | Step-Up Approach | Primary Open Necrosectomy |
+|---------|---------------|--------------------------|
+| Mortality + major complications | **40%** | 69% |
+| Pancreatic fistula | 28% | 38% |
+| Incisional hernia | **7%** | 24% |
+| New-onset diabetes | **16%** | 38% |
+| Intraabdominal bleeding | 16% | 22% (NS) |
+| Enterocutaneous fistula/visceral perforation | 14% | 22% (NS) |
+
+**Step-up approach significantly better!**
+:::
+
+::: {.callout-note}
+## Important Caveat
+PANTER trial enrolled highly select patients (88 from 378 screened NP patients)
+:::
+
+## Evolution of VARD
+
+Multiple retroperitoneal approaches developed:
+- Single-port procedures
+- Multiport procedures
+- Flexible endoscopy
+
+
+## Alternative to Surgical Step-Up
+
+**Endoscopic internal transluminal catheter drainage** → followed by **endoscopic transluminal necrosectomy** if drainage incomplete
+
+## Access Routes
+
+- Through **stomach**
+- Through **duodenal wall**
+
+## Procedure Steps
+
+::: {.columns}
+::: {.column width="50%"}
+### Initial Setup
+- Patient in **left lateral position**
+- Deep sedation or general anesthesia
+- Explore size, content, relationships by **EUS**
+:::
+
+::: {.column width="50%"}
+### EUS-Guided vs. Non-Guided
+- Drainage not guided by ultrasound: technically feasible
+- Success rate **inferior** to ultrasound-guided procedure
+:::
+:::
+
+## Technical Steps
+
+1. Collect material for **bacterial culture**
+2. Introduce **19-gauge FNA needle** and guidewire under fluoroscopic guidance → loop in collection
+3. Create **8-12 mm fistula tract** using electrocauterization with balloon dilation
+4. Place:
+   - **Nasocystic catheter**
+   - **Two double pigtails** (or metal stents for larger, more permanent opening)
+
+### Post-Procedure
+- Used for flushing contents into stomach/duodenum (1L/24h)
+- Metal stents may **increase bleeding risk** → remove at short time point (weeks)
+- Multiple collections: multiple cystogastrostomies or combined percutaneous + endoscopic drainage
+
+## Endoscopic Necrosectomy
+
+::: {.callout-important}
+## When to Perform
+If **no clinical improvement within 72 hours** after drainage
+:::
+
+### Technique
+
+| Step | Detail |
+|------|--------|
+| Tract dilation | 15-18 mm with forward viewing endoscope |
+| Advancement | Endoscope advanced into collection |
+| Instruments | Snares, baskets, nets, forceps |
+| Debris | Left in stomach |
+| Insufflation | **CO₂ recommended** (reduces air embolism risk, though not 100% protective) |
+| Completion | Double pigtail drains left in cavity |
+
+### Follow-Up
+- **Repeat every few days** until most necrotic material removed
+
+## Comparative Outcomes
+
+### Single-Institution Series
+
+| Parameter | Endoscopic | Surgical Transgastric |
+|-----------|-----------|----------------------|
+| Number of procedures | **More** | Fewer |
+| Length of stay | **Longer** | Shorter |
+| Complications | Higher (likely learning curve) | Lower |
+
+::: {.callout-note}
+## Conclusion
+Endoscopic and surgical transgastric approaches are **two among many useful approaches**
+:::
+
+### Selection Depends On
+- Patient factors (physiology, NP etiology, necrosis distribution)
+- Local experience
+- Local interest
+
+
+## Current Evidence Status
+
+::: {.callout-warning}
+## Key Point
+**No convincing evidence** on preferred route of necrosectomy
+- Shift toward minimally invasive interventions
+- **Superiority of one strategy NOT proven**
+:::
+
+## Trial Evidence
+
+### PANTER Trial Limitation
+- Did not compare VARD and open necrosectomy directly
+- VARD always preceded by percutaneous drainage in step-up approach
+
+### PENGUIN Trial (Pilot, n=20)
+
+| Outcome | Endoscopic | VARD |
+|---------|-----------|------|
+| Postprocedural proinflammatory response | **Significantly lower** | Higher |
+
+::: {.callout-note}
+## Caveat
+Clearly **underpowered** for definitive conclusions (18 patients underwent necrosectomy)
+:::
+
+### TENSION Trial (n=98)
+
+- Selected from **418 screened patients**
+- Endoscopic (n=47) vs. surgical (n=51) step-up approaches
+
+| Primary Endpoint | Result |
+|-----------------|--------|
+| Major complication or death | **Similar** in both groups |
+| Fistula rate | **Lower** in endoscopic group |
+
+## Key Principles
+
+::: {.callout-important}
+## Multidisciplinary Team Approach
+NP is tremendously **heterogeneous disease process**
+
+**"One size" treatment does NOT fit all patients**
+
+Team should include:
+- Surgeons
+- Gastroenterologists
+- Radiologists
+- Intensivists
+:::
+
+### Recommendations
+
+1. Most experts recommend some form of **step-up approach**
+2. Ideally, **single physician** cares for patient during entire long-term acute illness
+3. **Long-term follow-up** extremely important:
+   - **>80%** will develop some problem over time
+   - Early, midterm, or late follow-up needed
+
+
+## Key Takeaways
+
+::: {.columns}
+::: {.column width="50%"}
+### Epidemiology & Classification
+- Most common acute GI hospitalization
+- 80% mild, 20% severe
+- 2012 Revised Atlanta: mild, moderate, severe
+- Interstitial edematous vs. necrotizing
+:::
+
+::: {.column width="50%"}
+### Diagnosis
+- 2 of 3 criteria: pain, enzymes, imaging
+- CECT not always required
+- Avoid early CECT (72-96h) for necrosis assessment
+:::
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+### Predicting Severity
+- Persistent organ failure = key determinant
+- Persistent SIRS >48h predicts severity
+- Multiple scoring systems available, all with limitations
+:::
+
+::: {.column width="50%"}
+### Treatment
+- Supportive care: pain, fluids, nutrition
+- ERCP only for cholangitis
+- Early cholecystectomy for mild biliary AP
+- Step-up approach for infected necrosis
+:::
+:::
+
+## Final Message
+
+::: {.callout-important}
+## Patient-Centered, Multidisciplinary Care
+- Acute pancreatitis is heterogeneous
+- Individualize treatment based on patient factors
+- Use step-up approach when possible
+- Long-term follow-up essential (>80% develop complications)
+:::
+
 

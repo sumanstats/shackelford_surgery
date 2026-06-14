@@ -8,6 +8,7 @@ format:
     embed-resources: true
     slide-number: true
     chalkboard: false
+    scrollable: true
     preview-links: auto
     css: [css/mystyle.css, css/boxstyle.css]
 

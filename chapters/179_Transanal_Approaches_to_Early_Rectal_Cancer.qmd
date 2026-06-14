@@ -1,13 +1,7 @@
 # 179-Transanal Approaches to Early Rectal Cancer
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
+{{< reveal Volume_2/179_Transanal_Approaches_to_Early_Rectal_Cancer >}}
 
 Generated with Copilot chat. 
 

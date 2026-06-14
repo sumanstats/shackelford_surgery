@@ -1,36 +1,14 @@
 # 178-Inherited Colorectal Cancer and the Genetics of Colorectal Cancer
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
+{{< reveal Volume_2/178_Inherited_Colorectal_Cancer_and_the_Genetics_of_Colorectal_Cancer >}}
 
 
+{{< reveal Extras/178_nccn_genetics_colorectal >}}
 
 
-<iframe
-  src="../presentation/178_nccn_genetics_colorectal.html"
-  width="100%"
-  height="600"
-  style="border:none;">
-</iframe>
+{{< reveal Extras/178_nccn_2024_hereditary >}}
 
-
-<iframe
-  src="../presentation/178_nccn_2024_hereditary.html"
-  width="100%"
-  height="600"
-  style="border:none;">
-</iframe>
-
-<iframe
-  src="../presentation/178_jsccr_hereditary.html"
-  width="100%"
-  height="600"
-  style="border:none;">
-</iframe>
+{{< reveal Extras/178_jsccr_hereditary >}}
 
 
 ```{r}
