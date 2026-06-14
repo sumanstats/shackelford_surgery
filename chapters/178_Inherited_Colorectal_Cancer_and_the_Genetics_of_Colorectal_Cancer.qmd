@@ -3,12 +3,12 @@
 {{< reveal Volume_2/178_Inherited_Colorectal_Cancer_and_the_Genetics_of_Colorectal_Cancer >}}
 
 
-{{< reveal Extras/178_nccn_genetics_colorectal >}}
+{{< reveal Extras/colorectal/178_jsccr_hereditary >}}
 
 
-{{< reveal Extras/178_nccn_2024_hereditary >}}
+{{< reveal Extras/colorectal/178_nccn_2024_hereditary >}}
 
-{{< reveal Extras/178_jsccr_hereditary >}}
+{{< reveal Extras/colorectal/178_nccn_genetics_colorectal >}}
 
 
 ```{r}

@@ -1,12 +1,11 @@
 # 59-Gastric Adenocarcinoma Including Landmark Clinical Trials
 
 
-{{< reveal Extras/japanese_gastric_cancer_guidelines_2025 >}}
+{{< reveal Extras/Stomach/japanese_gastric_cancer_guidelines_2025 >}}
 
+{{< reveal Extras/Stomach/nccn_gastric_cancer >}}
 
-{{< reveal Extras/nccn_gastric_cancer >}}
-
-{{< reveal Extras/nccn_gastric_cancer_2 >}}
+{{< reveal Extras/Stomach/nccn_gastric_cancer_2 >}}
 
 
 

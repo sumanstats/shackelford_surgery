@@ -1,4 +1,4 @@
 # 181-Abdominoperineal Resection for Rectal Cancer
 
 
-{{< reveal Extras/nccn_rectal_cancer >}}
+{{< reveal Extras/colorectal/nccn_rectal_cancer >}}
