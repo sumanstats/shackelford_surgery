@@ -1,2 +1,357 @@
-# 2 Esophageal Motility Techniques Used for the Diagnosis of Esophageal Motility Disorders and for Surgical Decision Making
+---
+title: "Esophageal Motility: Techniques Used for Diagnosis and Surgical Decision Making"
+format: revealjs
+theme: dark
+scrollable: true
+---
 
+
+## Introduction to Dysphagia
+- Dysphagia can be the presenting symptom of either anatomic obstruction, neuromuscular dysfunction, or both.
+- Dysphagia symptoms warrant urgent workup and treatment as they may indicate underlying malignancy.
+- Clinical history alone can often differentiate between oropharyngeal and esophageal dysphagia.
+- Identifying the degree of dysphagia (solids, liquids, or both) is crucial.
+- Associated symptoms (GERD, weight loss, anemia, regurgitation) provide important clues to the underlying clinical etiology.
+
+## Diagnostic Evaluation Pathway
+- The diagnosis of esophageal dysmotility often begins with a **timed barium esophagram (TBE)**.
+  - Retention of liquid barium can indicate underlying dysmotility or outflow obstruction.
+- TBE is often followed by **upper endoscopy** to identify anatomic sources of dysphagia (stricture, webs, rings, hiatal hernia, cancer).
+- An unrevealing upper endoscopy indicates further testing with **high-resolution manometry (HRM)**.
+
+## Role of High-Resolution Manometry (HRM)
+- HRM remains the gold standard for diagnosis of esophageal dysmotility.
+- Provides information on pressure changes within the entire length of the esophagus on a continuous time spectrum.
+- Assesses esophageal peristalsis and lower esophageal sphincter (LES) function.
+- The **Chicago Classification (current version 4, CCv4.0)** provides a diagnostic algorithm for classifying esophageal motility diseases based on HRM findings.
+
+## Role of Impedance Planimetry (EndoFLIP)
+- Impedance planimetry uses the functional lumen imaging probe (EndoFLIP).
+- Gaining popularity as an innovative technique performed during endoscopy.
+- Compared with HRM, FLIP provides diagnostic information regarding:
+  - Secondary peristalsis.
+  - Esophageal sphincter distensibility.
+- Accurate diagnosis is imperative for prescribing proper medical or surgical treatment and predicting patient outcomes (e.g., post-treatment dysphagia, gas bloat).
+
+## Current Society Guidelines
+- Recommend the use of a **TBE and HRM** in the routine assessment of esophageal dysmotility.
+- State that **FLIP can be complimentary** to HRM.
+- FLIP may be particularly useful in symptomatic patients with borderline HRM findings.
+- Accurate diagnosis is dependent on identifying esophageal function and defining esophagogastric junction (EGJ) morphology.
+
+## Timed Barium Esophagram (TBE): Overview
+- Often the first study in a patient with dysphagia.
+- Widely available, well tolerated, and easy to perform.
+- Provides generalized information on esophageal structure and emptying.
+- Valuable as a screening tool for esophageal obstruction or major structural problems, especially when access to HRM/endoscopy is delayed.
+- Rarely sufficient alone to accurately differentiate motility disorders, but helpful to predict therapy adequacy and symptom recurrence.
+
+## TBE Protocol
+- A standardized protocol must be followed for an accurate study.
+- **Administration:** 8 oz (237 mL) of thin, liquid barium administered orally to an awake patient in the upright position.
+- **Imaging:** Left posterior oblique radiographs are obtained at 1, 2, and 5 minutes.
+- **Measurements:** Barium column height measured at each time point to convey quantitative information on esophageal emptying.
+- **Normal:** Complete emptying of the barium column at 1 and 5 minutes is expected in normal individuals.
+- Barium column height at 5 minutes correlates with reduced EGJ distensibility (as seen in achalasia).
+
+## TBE Metrics
+- Retained barium can differentiate achalasia from non-achalasia dysphagia:
+  - Barium height > 5 cm at 1 minute: 95% sensitivity, 71% specificity.
+  - Barium height > 2 cm at 5 minutes: 85% sensitivity, 86% specificity.
+- Overall for detecting achalasia dysphagia: 81% sensitivity, 35% specificity.
+- Low accuracy in differentiating non-achalasia causes for dysphagia.
+- **Recent advances:** Evaluating the diameter of the barium column to provide a percentage emptying. Surface area change at 1 and 5 minutes is a better correlate for esophageal emptying than height alone.
+
+## TBE: Barium Tablet
+- A standard 13-mm barium tablet can also be administered during TBE.
+- Tablet retention can help distinguish achalasia from non-achalasia causes for dysphagia.
+- Increases the diagnostic yield of TBE for achalasia to 100%.
+- However, HRM is still recommended in all cases where TBE is abnormal and is integral in the classification of non-achalasia dysphagia.
+
+## TBE: Structural Abnormalities
+- The contour of the barium column can identify structural abnormalities of the esophagus.
+- Radiologists may administer additional contrast to perform a routine esophagram if structural abnormalities are noted.
+- Characteristic features on contrast esophagram include:
+  - "Bird-beak" appearance in achalasia.
+  - "Cork-screw" sign in distal esophageal spasm.
+- Abnormal findings may necessitate subsequent endoscopy (both diagnostic and therapeutic).
+
+## TBE: Surgical Decision Making
+- Used to assess improvement in esophageal emptying after treatment for achalasia (myotomy or pneumatic dilation).
+- **Success metrics post-treatment:**
+  - 50% reduction in the height of the barium column, OR
+  - 45% reduction in surface area.
+- Improved emptying on post-treatment TBE is associated with improved symptom scores.
+- Despite symptomatic improvement, poor results on TBE predicted development of recurrent dysphagia.
+- Improved esophageal emptying on TBE can predict long-term success.
+
+## High-Resolution Manometry (HRM): Overview
+- Gold standard in the assessment of esophageal motility and EGJ morphology since the early 1990s.
+- Measures intraluminal pressure during awake swallows to provide information on esophageal function.
+- Provides essential information regarding EGJ relaxation and morphology.
+
+## HRM: Technical Aspects
+- Solid-state HRM has replaced conventional water-perfused line tracing manometry.
+- Circumferential sensors are spaced closer together, amplifying data acquisition details with fewer unsampled areas.
+- Displays data as a continuous pressure color topography plot for ease of interpretation.
+- The HRM catheter is 4.2 mm in diameter with 36 circumferential, solid-state pressure sensors placed 1 cm apart.
+- Obtains continuous measurement of the entire esophagus, LES, and upper esophageal sphincter (UES).
+- Improved patient tolerance and decreased procedure duration (no need for pull-through techniques).
+
+## Figure 2.1: Solid-state HRM Catheter
+*The solid-state high-resolution manometry catheter consists of 36 sensors placed 1 cm apart. Sensors continuously measure pressure along the entire length of the esophagus during initiated swallows.*
+
+- Each of the 36 sensors has 12 pressure-sensitive segments that are averaged to yield the signal at that location.
+
+## HRM: Manometry Protocol (Supine)
+- CCv4.0 developed a consistent protocol to standardize testing.
+- Following fasting, the catheter is placed transnasally in an awake patient in the **supine position**.
+- Advanced so the last three distal ports lay within the stomach.
+- Deep inspiration identifies the diaphragmatic crura.
+- 60-second adaptation period, followed by 30-second baseline measurement (identifies high-pressure zones).
+- **10 wet swallows** of 5 mL water/saline, with a 30-second break between each to avoid inadvertent deglutitive inhibition.
+- Completed with a provocative maneuver: **multiple rapid swallow (MRS) sequence**.
+
+## HRM: Manometry Protocol (Upright)
+- Patient is repositioned to an upright, seated position.
+- 60-second adaptation period, documentation of catheter position, 30-second baseline measure.
+- **5 wet swallows** of 5 mL completed.
+- Followed by provocative maneuver: **rapid drink challenge (RDC)**.
+- Seated swallows are aided by gravity (increased velocity, decreased vigor).
+- Performing HRM in both positions uncovers dysmotility and increases diagnostic certainty when findings are present in both.
+
+## HRM: Provocative Maneuvers
+- Key update in CCv4.0: inclusion of provocative testing during routine HRM.
+- More closely mimic daily, physiologic swallowing conditions compared with a single wet swallow.
+- Demonstrate peristaltic reserve and may uncover abnormal motility not found during the standard protocol.
+- Most commonly used: Multiple rapid swallows (MRS) and Rapid drink challenge (RDC).
+- Other techniques: viscous/solid materials (test meal) or pharmacologic challenges.
+
+## HRM: Multiple Rapid Swallows (MRS)
+- A physiologic challenge revealing abnormal inhibition seen in hypercontractile disorders.
+- Patient in upright position given five 2-mL boluses in rapid succession.
+- **Normal response:** Deglutitive inhibition of all prior triggered peristalsis, followed by an augmented contraction to clear the esophagus.
+- **Loss of inhibitory response:** Seen in spastic disorders, type III achalasia, or hypercontractile disorders (e.g., esophageal spasm).
+
+## HRM: Rapid Drink Challenge (RDC)
+- Changes bolus volume and replicates normal drinking patterns.
+- Identifies impaired LES relaxation.
+- Patient in upright position drinks 100 to 200 mL of liquid through a straw as quickly as possible.
+- **Normal response:** Inhibition of esophageal peristalsis and complete relaxation of the LES for free passage of fluid.
+- Increases sensitivity for EGJ outlet obstruction (characterized by isolated improper relaxation of LES).
+- Loss of deglutitive inhibition indicates a spastic or hypercontractile esophagus.
+
+## Manometric Color Topography (Clouse Plot)
+- Esophageal pressure topography (EPT) is a topographic representation of manometric pressure measurements.
+- Time is on the continuous axis, length along the esophagus is the ordinate axis.
+- "Hot" colors (red, orange) = high pressures.
+- "Cool" colors (green, blue) = low pressures.
+- Baseline recordings determine resting pressures of UES and LES (two areas of high pressure that relax during a swallow).
+
+## Figure 2.2: Normal Swallow on EPT
+*Esophageal pressure topography of a normal swallow. Time is displayed on the continuous axis and length along the catheter is seen on the ordinate axis.*
+
+- **Rest:** Tonic contraction of UES and LES.
+- **Swallow initiation:** UES relaxes to accommodate food bolus, then constricts to prevent reflux.
+- **Peristalsis:** High-pressure wave propagates down the catheter, bounded by proximal (P) and distal (D) low-pressure troughs.
+- **Contractile Deceleration Point (CDP):** Inflexion point where peristaltic control transitions from CNS to enteric nervous system.
+- **Deglutitive window:** Period of EGJ relaxation to accept passage into the stomach.
+
+## EPT: Advantages Over Line Tracings
+- Provides more information than conventional line tracings.
+- Led to the identification of esophageal motility diseases not distinguishable by conventional methods.
+- Easier to interpret.
+- Study showed 3.3 times higher odds of an incorrect diagnosis with conventional manometry than with EPT.
+
+## Figure 2.3: Chicago Classification v4.0 Algorithm (Part 1)
+*CCv4.0 broadly characterizes abnormal esophageal motility as either a disorder of EGJ outflow or a disorder of peristalsis, differentiated by median integrated relaxation pressure (IRP).*
+
+- **Step 1:** Perform 10 wet swallows (primary position).
+- **Step 2:** Wet swallows in secondary position + MRS/RDC.
+- If median IRP is abnormal and persists in varying positions + elevated IBP/PEP, proceed to EGJ outflow disorders.
+- If IRP is normal, proceed to disorders of peristalsis.
+
+## Figure 2.3: Chicago Classification v4.0 Algorithm (Part 2)
+- **Disorders of EGJ outflow:**
+  - *Achalasia I:* 100% absent peristalsis (all swallows failed or premature).
+  - *Achalasia II:* 100% failed peristalsis with panesophageal pressurization (PEP) in ≥20% swallows.
+  - *Achalasia III:* ≥20% swallows with premature contractions.
+  - *EGJOO:* Elevated LES IRP persists, but normal peristalsis. Requires TBE or FLIP for confirmation.
+- **Disorders of peristalsis:**
+  - *Absent contractility:* 100% absent peristalsis.
+  - *Distal esophageal spasm:* ≥20% premature contractions.
+  - *Hypercontractile esophagus:* ≥20% hypercontractility.
+  - *Ineffective esophageal motility:* >70% ineffective or ≥50% failed swallows.
+
+## HRM Metrics Overview
+- CCv4.0 classifies disorders based on manometric data.
+- **Integrated Relaxation Pressure (IRP):** Measures LES relaxation. Branchpoint for EGJ outflow disorders.
+- **Distal Contractile Integral (DCI):** Measures contraction vigor (amplitude, time, length).
+- **Distal Contractile Latency (DCL):** Measures peristaltic timing.
+- Contraction and pressurization patterns further characterize subtypes.
+
+## EGJ Morphology and Hiatal Hernia
+- CCv4.0 provides diagnostic certainty when EGJ morphology is normal, as hiatal hernia can confound findings.
+- Normal EGJ pressure has contribution from LES complex and crural diaphragm (CD).
+- **LES-CD separation:** Best metric for manometric diagnosis of hiatal hernia (94% specificity, 92% sensitivity for hernias >1.2 cm).
+- Decreased LES pressure during inspiration can indicate hiatal hernia (negative intrathoracic pressure decreases LES pressure vs. normal crural contraction augmentation).
+- **Respiratory Inversion Point (RIP):** Where polarity of respiratory pressure waves changes from negative intrathoracic to relative positive intra-abdominal.
+
+## Integrated Relaxation Pressure (IRP)
+- Major branchpoint in CCv4.0.
+- Defined as the mean lowest 4 seconds of intraluminal pressure across the EGJ obtained within 10 seconds of UES relaxation.
+- **Normal median IRP:**
+  - <15 or 22 mmHg in supine position.
+  - <12 or 15 mmHg in upright position.
+- Impaired EGJ relaxation is the hallmark of achalasia and EGJOO.
+- Abnormal IRP has a 98% sensitivity and 96% specificity for EGJ outflow disorders.
+
+## Esophageal Body Peristalsis: Contraction Vigor (DCI)
+- Contraction vigor is measured by the **Distal Contractile Integral (DCI)** (mmHg × s × cm).
+- Represents the volume of esophageal peristalsis between proximal and distal low-pressure troughs.
+- **Normal DCI:** 450 to 8000 mmHg × s × cm.
+- **Ineffective swallows:** <450 mmHg × s × cm.
+  - Weak: 100–450 mmHg × s × cm.
+  - Failed: <100 mmHg × s × cm.
+  - Fragmented: >450 mmHg × s × cm but transition zone defect > 5 cm.
+- **Hypercontractile swallows:** >8000 mmHg × s × cm.
+
+## Esophageal Body Peristalsis: Distal Contractile Latency (DCL)
+- Measure of peristaltic timing to identify normal, premature, or spastic contractions.
+- Defined as the time from swallow initiation (beginning of UES relaxation) to swallow contraction (measured at the CDP).
+- **DCL < 4.5 seconds** in the setting of normal DCI is considered abnormal or rapid.
+- Most helpful in describing premature contraction patterns and characterizing subtypes of major esophageal motility disorders (e.g., Type III achalasia, distal esophageal spasm).
+
+## Contraction and Pressurization Patterns
+- **Contraction:** Complete closure of the esophageal lumen on the catheter.
+- **Pressurization:** Non-compartmentalized pressure on the catheter (from distal obstruction or severely weak contractions).
+- **Abnormal contraction:**
+  - Premature: DCL < 4.5 seconds.
+  - Fragmented: > 5 cm break in 20-mmHg isobaric contour with normal DCI.
+- **Panesophageal pressurization (PEP):** Pressurization from UES to EGJ > 30 mmHg. Hallmark of Type II achalasia.
+- **EGJOO pressurization:** Pressurized segments in distal esophagus resulting from isolated LES dysfunction.
+
+## Table 2.1: EPT Scoring - Contraction Vigor
+
+| Classification | Metric |
+| :--- | :--- |
+| **Failed** | DCI < 100 mmHg × s × cm |
+| **Weak** | DCI > 100 mmHg × s × cm, but < 450 mmHg × s × cm |
+| **Ineffective** | Failed or weak |
+| **Normal** | DCI ≥ 450 mmHg × s × cm, but < 8000 mmHg × s × cm |
+| **Hypercontractile** | DCI ≥ 8000 mmHg × s × cm |
+
+## Table 2.1: EPT Scoring - Contraction Pattern
+
+| Classification | Metric |
+| :--- | :--- |
+| **Premature** | DCL < 4.5 seconds |
+| **Fragmented** | Large break (>5 cm length) in the 20-mmHg isobaric contour with DCI >450 mmHg × s × cm |
+| **Normal contraction** | Not achieving any of the above diagnostic criteria |
+
+## Table 2.1: EPT Scoring - Intrabolus Pressure Pattern
+
+| Classification | Metric |
+| :--- | :--- |
+| **Panesophageal pressurization** | Uniform pressurization extending from UES to EGJ |
+| **Compartmentalized esophageal pressurization** | Pressurization extending from contractile front to EGJ |
+| **EGJ pressurization** | Pressurization restricted to zone between LES and CD with LES-CD separation (hiatal hernia) |
+| **Normal pressurization** | No bolus pressurization > 30 mmHg |
+
+## HRM: Surgical Decision Making
+- Provides detailed information on contraction vigor and EGJ status.
+- Impacts surgical decision making:
+  - Defining the length of a myotomy in achalasia subtypes.
+  - Alerting the surgeon to potential increased risk of postoperative dysphagia following fundoplication.
+- Improved outcomes reported with tailored myotomy based on HRM results.
+- Poor peristaltic reserve is predictive for development of dysphagia following fundoplication.
+- Can gauge treatment success: normalized IRP is a predictor of good clinical response in achalasia.
+
+## Functional Lumen Imaging Probe (FLIP): Overview
+- Emerging, balloon catheter-based method for diagnosing esophageal motility disorders.
+- Unlike HRM (measures pressure), FLIP measures changes in luminal diameter and pressure in relation to set volumetric distention.
+- Assesses secondary peristalsis and EGJ distensibility.
+- Not as widely adopted or standardized as HRM, but poses several advantages.
+
+## FLIP: Advantages Over HRM
+- May be better tolerated by the patient.
+- Can detect non-occlusive contractions not identified on HRM.
+- Has identified abnormal panometry results in symptomatic patients with normal HRM.
+- LES distensibility may be a better measurement for diagnosis of achalasia than LES pressure.
+- Can be completed and interpreted by the surgeon, providing important real-time information.
+- Biggest benefit: Can be used in the operating room to guide changes in operative technique (crural closure tightness, fundoplication, adequacy of myotomy).
+
+## Figure 2.4: FLIP Catheter
+*The functional lumen imaging probe (FLIP) catheter. The 16-cm FLIP catheter with 16 electrodes at 1-cm intervals centered around an inflatable balloon with a pressure sensor. When the balloon is filled to a set volume, the catheter measures real-time changes in diameter at each electrode as well as balloon pressure.*
+
+## FLIP: Technical Aspects
+- Commercially available catheter (EndoFLIP) consisting of a pressure sensor and impedance planimetry electrodes centered around an inflatable balloon.
+- **Two catheters:**
+  - 16-cm catheter with 16 electrodes spaced 1 cm apart (EF-322): Used for assessing esophageal function (panometry).
+  - 8-cm catheter with 8 electrodes spaced 0.5 cm apart (EF-325): Best for targeted LES assessments.
+- Connected to an infusion pump; balloon inflated to set volume.
+- Balloon pressure and axial diameter measured via electrical impedance.
+- Calculates **Distensibility Index (DI)** (mm2/mmHg).
+- FLIP 2.0 obtains continuous measurements across a space-time continuum, allowing assessment of secondary esophageal peristalsis.
+
+## FLIP: Protocol
+- Completed under sedation, usually in conjunction with preoperative endoscopy or as an adjunct in the operating room.
+- **Anesthesia note:** Halogenated gasses can affect esophageal motility; their use is avoided during FLIP panometry.
+- **Panometry positioning:** 16-cm catheter positioned with distal 2-3 cm within the stomach, remainder in esophagus. Balloon filled with 50, 60, and 70 mL with 30-60 second observation time.
+- **EGJ distensibility positioning:** Middle of 8-cm or 16-cm catheter positioned across EGJ. Balloon filled with 30, 40, and 60 mL. Balloon pressures must exceed 15 mmHg for reliable data.
+
+## Figure 2.5: FLIP Panometry Positioning and Plot
+*Positioning of the FLIP catheter across the EGJ and impedance planimetry plot.*
+
+- **Top:** The 16-cm catheter is positioned with distal 2-3 cm within the esophagus.
+- **Right:** Visual representation of balloon geometry with green arrow pointing at the "waist" (LES location).
+- **Bottom:** Real-time FLIP panometry displayed as a continuous pressure topography plot similar to HRM. Secondary peristalsis is seen propagating distally along a continuous time axis.
+
+## FLIP Metrics: EGJ Compliance (DI)
+- FLIP provides EGJ length, diameter, and cross-sectional area.
+- **Distensibility Index (DI):** Relationship between cross-sectional area and pressure. Most reliable metric for EGJ compliance.
+- **Normal EGJ-DI (16-cm catheter):** > 3.0 mm2/mmHg OR 2.0–3.0 mm2/mmHg with max diameter > 12 mm.
+- **Reduced EGJ opening:** DI < 2.0 mm2/mmHg and max diameter < 12 mm.
+- Abnormally low DI values seen in achalasia or EGJOO.
+- CCv4.0 includes FLIP in the diagnosis of EGJOO.
+- FLIP has identified achalasia in subgroups of patients with normal IRP on HRM.
+
+## FLIP Metrics: Panometry
+- Analyzes secondary peristalsis in a sedated patient (occurs in response to distention).
+- Patterns characterized by direction, repetitiveness, and rate of contractions.
+- **Repetitive antegrade contractions (RACs):** Normal response in 77% of patients with normal HRM.
+- **Retrograde contractions:** Seen in ineffective esophageal motility.
+- **Spastic occluding contractions:** Seen in spastic motility disorders.
+- **Absent contractions:** Seen in absent contractility.
+- Carlson et al. (2021) created a classification system based on EGJ morphology and contractile response, comparable with HRM.
+
+## FLIP Panometry Classification
+- **Normal (Rule of 6s):** 6 consecutive RACs occurring over 6 cm in length with at least 6 contractions in 1 minute.
+- **Borderline contractile response.**
+- **Impaired/disordered contractile response.**
+- **Absent contractile response.**
+- **Spastic-reactive contractile response.**
+
+## Figure 2.6: FLIP Panometry Patterns
+*Secondary esophageal peristalsis assessed with FLIP panometry.*
+
+- **Panel A:** Repetitive antegrade contractions in a patient with normal esophageal motility.
+- **Panel B:** Ineffective esophageal motility without identifiable repetitive antegrade contractions. Decreased LES distensibility indicative of EGJ outflow obstruction.
+- **Panel C:** Type I achalasia. Complete lack of peristalsis without LES relaxation.
+- **Panel D:** Repetitive retrograde contractions with a tight LES in a patient with type III achalasia.
+
+## FLIP: Surgical Decision Making
+- **Preoperative:** Aids in proper diagnosis (e.g., EGJOO) and predicts treatment success/complications.
+- **Intraoperative:** Gives objective feedback regarding EGJ distensibility.
+  - **Achalasia/EGJOO:** Assesses adequateness of myotomy. A persistently low DI is associated with poor outcomes. Dysphagia relief is optimized when preoperative DI (<2.0) improves to 4.5–8.5 mm2/mmHg post-myotomy.
+  - **GERD:** Determines optimal reduction in EGJ-DI following fundoplication.
+    - Low DI after fundoplication: Predisposes to postoperative dysphagia.
+    - High DI: May result in untreated GERD symptoms.
+
+## Acknowledgments
+- The authors thank and acknowledge Ezra N. Teitelbaum, MD, and Christy M. Dunst for their contributions to the prior edition of this chapter.
+
+## Summary: Diagnostic Modalities
+- **TBE:** Best initial screening test for obstruction/emptying; assesses treatment response (50% height reduction).
+- **HRM:** Gold standard for motility; uses Clouse plots, DCI, DCL, and IRP to classify disorders per CCv4.0. Essential for surgical planning (myotomy length, fundoplication risk).
+- **FLIP:** Measures distensibility (DI) and secondary peristalsis; excellent intraoperative tool to guide myotomy and fundoplication tightness. Complimentary to HRM.

@@ -1,5 +1,3 @@
-# 178 Inherited Colorectal Cancer and the Genetics of Colorectal Cancer
-
 ---
 title: "Inherited Colorectal Cancer and the Genetics of Colorectal Cancer"
 format:

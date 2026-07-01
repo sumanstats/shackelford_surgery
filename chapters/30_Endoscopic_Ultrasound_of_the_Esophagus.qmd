@@ -1,11 +1,5 @@
 # 30 Endoscopic Ultrasound of the Esophagus
 
 
-```{r}
-#| echo: false
-#| results: asis
-
-slides_iframe(600)
-```
-
+{{< reveal Volume_1/30_Endoscopic_Ultrasound_of_the_Esophagus >}}
 

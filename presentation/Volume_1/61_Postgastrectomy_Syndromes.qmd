@@ -1,2 +1,409 @@
-# 61 Postgastrectomy Syndromes
+---
+title: "Postgastrectomy Syndromes"
+format: revealjs
+theme: dark
+scrollable: true
+---
 
+
+
+## Introduction
+- Loss of gastric volume and function causes disorganization in the digestive system, leading to complex symptoms known as **postgastrectomy syndromes**.
+- These syndromes impair quality of life and nutritional status.
+- Can occur even without gastrectomy due to altered gastric function (e.g., dumping after pyloroplasty or fundoplication).
+- Most patients have one or more of the following: diarrhea, vomiting, abdominal pain, and malnutrition/nutritional deficiency.
+
+## Changing Landscape of Gastric Surgery
+- Elective gastric surgery for peptic ulcer disease has virtually disappeared.
+- Bariatric surgery has increased dramatically.
+- Therapeutic vagotomy is rarely performed, but partial, complete, or inadvertent vagotomy still occurs during obesity and reflux surgeries.
+- Laparoscopic fundoplication is the most common cause of dumping syndrome (DS) in children.
+- Gastric cancer remains the 4th leading cause of cancer death worldwide, requiring gastrectomy with various reconstructions.
+
+## The Physiological Function of the Stomach
+- **Accommodation:** Adapts to large volumes of ingested liquids and solids via vagally mediated accommodation and receptive relaxation.
+- **Secretion:** Secretes acid and digestive enzymes (pepsin) to convert hypertonic intragastric contents into isosmotic gastric chyme.
+- **Absorption:** Gastric acid optimizes iron and calcium absorption. Intrinsic factor (from parietal cells) contributes to vitamin B12 absorption.
+- **Hormones:** Ghrelin ("hunger hormone" from fundus cells) regulates appetite, food intake, energy metabolism, osteoblast proliferation, neurogenesis, and myogenesis.
+
+## Vagal Control and GI Coordination
+- Vagal nerves control organized gastric contraction and stimulate secretion of acid, enzymes, and hormones.
+- Lower esophageal sphincter (LES) creates a high-pressure zone preventing reflux against the thoracoabdominal pressure gradient.
+- Under vagal control, the pylorus relaxes to receive food and regulates gastric emptying in coordination with duodenal motility.
+- **Antroduodenal coordination:** The duodenum relaxes during antral contractions.
+
+## Consequences of Gastrectomy on GI Function
+- **Subtotal/Total Gastrectomy:** Loss of gastric volume limits food intake; loss of pylorus causes rapid emptying of high-osmolar food (Dumping Syndrome).
+- **Vagus Division/Duodenum Bypass:** Decreased pancreatic and biliary secretion, leading to biliary dyskinesia and pancreatic insufficiency.
+- **Total Gastrectomy:** Loss of LES causes persistent esophageal alkaline reflux; loss of ghrelin causes loss of appetite.
+- **Loss of Intrinsic Factor:** Prevents dietary vitamin B12 absorption, resulting in chronic anemia.
+- **Roux-en-Y Reconstruction:** Food bypasses duodenum and proximal jejunum, causing malabsorption of vitamins and minerals (calcium, iron).
+
+## Postoperative Nutritional Monitoring & Dietary Instructions
+- Postgastrectomy syndromes consist of various symptoms, decreased food intake, malabsorption, vitamin/mineral deficiencies, osteoporosis, and mechanical problems.
+- Careful follow-up with symptomatic/nutritional evaluations, physical exams, and lab tests is critical (Table 61.2).
+- Thorough dietary guidance before and after surgery via a specialized dietician is strongly recommended.
+- GI tract adaptation varies significantly: some return to normal habits, others need prolonged modifications or jejunostomy tube feeding.
+
+## Dietary Instructions Post-Gastrectomy
+- Start with liquid diet, advance to soft postgastrectomy diet as tolerated.
+- Eat small, frequent meals (every 2-3 hours), eat slowly, chew food well.
+- Include protein, carbs, and fat for adequate calories. Low-sugar protein supplements are encouraged.
+- Avoid large volumes of liquids within 30 minutes of meals (reduces early satiety and DS).
+- Avoid alcohol, high fat/sugar/insoluble fiber, spicy foods, gas-forming foods, and raw/under-cooked items early on.
+- Restrictions gradually relax over 2-3 months based on tolerance.
+
+## Expected Weight Loss
+- After subtotal or total gastrectomy, most patients lose **10% to 20%** of their original body weight.
+- Primarily due to inadequate food intake (decreased appetite, symptoms).
+- Also occurs in patients with adequate caloric intake due to metabolic changes from altered GI hormonal coordination.
+- Preoperative counseling regarding postoperative diet and body weight changes is essential.
+
+## Table 61.1: Postgastrectomy Syndromes (Malnutrition & Anemia)
+
+| Syndrome | Pathophysiology | Diagnosis & Treatment Strategies |
+| :--- | :--- | :--- |
+| **Malnutrition/Weight loss** | Loss of appetite (decreased ghrelin), dysphagia, decreased food intake, malabsorption, insufficient digestive enzyme secretion. | Preoperative optimization/counseling. Monitor weight/labs. Small frequent meals, high-protein. Pancreatic enzymes. Multivitamin. |
+| **Anemia** | Bypass of duodenum, decreased acid, loss of intrinsic factor (total gastrectomy), folate malabsorption. | Serial labs (hemoglobin, ferritin, iron, B12, MMA). Oral iron, multivitamin. IM/subQ B12 monthly or sublingual B12 daily. |
+| **Osteopenia/Osteoporosis** | Bypass of duodenum, pancreatic insufficiency causing vitamin D malabsorption. | Serial labs (calcium, vitamin D). DEXA scan. Vitamin D (3000 IU daily) and calcium citrate (1200-1500 mg daily). |
+
+## Table 61.1: Postgastrectomy Syndromes (Dumping & Reflux)
+
+| Syndrome | Pathophysiology | Diagnosis & Treatment Strategies |
+| :--- | :--- | :--- |
+| **Dumping syndrome** | Early: Hyperosmolar liquid shifts fluid into lumen. Late: Acute hyperglycemia causes high insulin, leading to hypoglycemia. | Diet: small meals, low-sugar, no liquids 30 min post-meal. Hard candy for late DS. Pharmacologic: loperamide, opium tincture, octreotide. |
+| **Reflux esophagitis** | Loss of antireflux mechanisms at gastroesophageal junction. | Symptoms + endoscopy. Long Roux limb (>60 cm). Antireflux procedures. Medical: sucralfate, cholestyramine, antacids, promotility agents. |
+| **Alkaline gastritis / Marginal ulcer** | Loss of pylorus, incomplete removal of antrum causing high gastrinemia. | Mostly asymptomatic. Cholestyramine, PPIs, H2 blockers, antacids. Conversion to Roux-en-Y with long (60 cm) limb. |
+
+## Table 61.1: Postgastrectomy Syndromes (Obstruction & Stasis)
+
+| Syndrome | Pathophysiology | Diagnosis & Treatment Strategies |
+| :--- | :--- | :--- |
+| **Afferent loop syndrome** | Mechanical obstruction (ulceration, adhesion, tumor, internal hernia). | CT scan for dilated loop. Surgery: conversion to Roux-en-Y, Braun anastomosis, shorten limb. |
+| **Gastric stasis** | Vagal denervation of remnant stomach. | Prevention: small remnant (<50%). Prokinetics. Low fiber/liquid diet. Surgery: subtotal gastrectomy with Roux-en-Y. |
+| **Roux stasis syndrome** | Ectopic pacemaker in Roux limb causing retrograde peristalsis. | Surgery: Billroth II with Braun, subtotal gastrectomy with Roux-en-Y. |
+| **Cholelithiasis** | Vagal denervation of gallbladder. | 5% need cholecystectomy. Routine cholecystectomy at gastrectomy not recommended. |
+
+## Table 61.2: Postoperative Nutritional Monitoring Schedule
+
+| Timing | Every 2-4 Wks (3 Mo) | Every 3-6 Mo (2 Yrs) | Every 6-12 Mo (2-5 Yrs) | As Needed (>5 Yrs) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Physical exams, body weight** | ● | ● | ● | ● |
+| **Labs: Hgb/Hct, MCV, albumin, prealbumin, calcium** | ● | ● | ● | ● |
+| **Labs: iron, ferritin, transferrin, vitamins (B12, D, A, E, K), thiamine, folate, copper, zinc, selenium** | | ● | ● | ● |
+| **DEXA bone density scan** | | | At 1 year, repeat as needed | |
+
+## Dumping Syndrome (DS): Pathophysiology
+- Constellation of GI and vasomotor symptoms postprandially due to rapid emptying of stomach contents into the small intestine.
+- Caused by loss of pyloric regulation and/or decreased gastric compliance.
+- Unprocessed meal prematurely discharged into proximal small intestine.
+- **Early DS:** Occurs <30 min after meal. Hyperosmolar load causes fluid shift into intestinal lumen -> hypovolemia, vascular contraction. Hormones (VIP, serotonin, bradykinin, norepinephrine) mediate response.
+- **Late DS:** Occurs 1-3 hours postprandially. Rapid sugar absorption -> acute hyperglycemia -> GLP-1 mediated excessive insulin response -> hypoglycemia.
+
+## Dumping Syndrome: Diagnosis
+- Diagnosed mainly by clinical symptoms.
+- **Oral glucose challenge:** Fast 10 hrs, ingest 50g glucose. Sensitivity up to 100%, specificity 94%.
+- **Scintigraphic gastric emptying study:** Diagnosis verified if >50% of isotope-labeled solid meal empties within 1 hour.
+- **Differential Diagnosis:** Gastroparesis, partial small bowel obstruction, anastomotic stricture, postvagotomy diarrhea, IBD, pancreatic insufficiency, bacterial overgrowth.
+
+## Dumping Syndrome: Procedure-Specific Frequencies
+- Billroth II reconstruction: Up to 70% of patients.
+- Roux-en-Y gastric bypass (obesity): Up to 75%. Late DS in >50%.
+- Gastrectomy for cancer: 67% early DS, 38% late DS.
+- Sleeve gastrectomy: Low risk of problematic DS (1.6%), but 30-40% have mild symptoms.
+- Pyloroplasty/simple GJ: Up to 15%.
+- Proximal gastric vagotomy/fundoplication: 2%.
+- Roux-en-Y GJ has lower rate (11%) than Billroth I (17%) or Billroth II (70%) due to "duodenal brake".
+
+## Dumping Syndrome: Dietary Treatment
+- First-line treatment.
+- Small, frequent meals.
+- Avoid liquids during and 30 minutes after solid meals.
+- High-protein, low-sugar diet; avoid simple carbohydrates.
+- Include fiber; lie down 30 mins after meals for vasomotor symptoms.
+- Consider high-fat diet for post-vagotomy/post-pyloroplasty DS.
+- Eliminate milk/dairy if helpful. Add guar gum/pectin to increase viscosity.
+- Hard candy to abort late DS hypoglycemia.
+
+## Dumping Syndrome: Pharmacologic Treatment
+- **General symptom meds:** Loperamide (diarrhea), meclizine/promethazine/PPIs (nausea), simethicone (gas).
+- **Opium tincture:** Effective for persistent diarrhea.
+- **Probiotics:** For gas/bloating from undigested nutrients reaching colon.
+- **Anticholinergics (dicyclomine, hyoscyamine):** Slow gastric emptying, antispasmodic.
+- **Acarbose:** α-glycosidase inhibitor, delays carb digestion/absorption. Effective for late DS (side effects: flatulence, hypoglycemia).
+- **Diazoxide:** Potassium-channel activator, inhibits insulin secretion. For late DS.
+
+## Dumping Syndrome: Octreotide
+- Somatostatin analogue for severe, refractory DS.
+- Alleviates early and late symptoms by inhibiting hormone mediators.
+- Delays gastric emptying and inhibits splanchnic vasodilation.
+- Short-acting and long-acting forms equally effective; long-acting better for QOL.
+- **Limitations:** Side effects (diarrhea, steatorrhea) and cost lead to noncompliance.
+
+## Dumping Syndrome: Surgical Management
+- Only a small percentage require surgery. Do not rush to reoperate.
+- Optimize multidisciplinary nonsurgical management first.
+- In-hospital observation to verify severity and compliance.
+- **Surgical approaches (variable/unpredictable results):**
+  - Distal gastrectomy with long-limb Roux-en-Y.
+  - "Duodenal switch" (division of postbulbar duodenum + Roux limb).
+  - Conversion of Billroth I/II to Roux-en-Y GJ (slows emptying).
+  - Reversed intestinal interposition (10-cm reversed segment between stomach and small bowel).
+
+## Figure 61.1: Surgical Approach to Treat Dumping Syndrome
+- **Panel A:** Long-limb Roux-en-Y anastomosis. Typical Roux limb is 30-45 cm. A long-limb (jejunojejunostomy created 60 cm from GJ) may alleviate DS and/or alkaline reflux gastritis.
+- **Panel B:** Reversed intestinal interposition. A 10-cm loop of jejunum is rotated 180 degrees on its mesentery, positioned in anti-peristaltic fashion between the stomach and proximal small bowel.
+
+## Postvagotomy Diarrhea
+- Truncal vagotomy associated with clinically significant diarrhea in 5% to 10% of patients.
+- Occurs soon after surgery, usually not associated with other GI/systemic symptoms (distinguishes from dumping).
+- Improves over months/years; long-term significant diarrhea in only 1% to 2%.
+- **Contributing factors:** Intestinal dysmotility/accelerated transit, bile acid malabsorption, rapid gastric emptying, altered microbiome, bacterial overgrowth.
+- **Diagnosis:** Hydrogen breath test for bacterial overgrowth, or empirical trial of oral antibiotics/probiotics.
+
+## Postvagotomy Diarrhea: Management
+- **Medical Management:**
+  - Cholestyramine (for bile acid malabsorption).
+  - Codeine or loperamide.
+  - Dietary fiber addition.
+  - Patients have >2x the amount of chenodeoxycholic acid in stools, supporting bile acid malabsorption hypothesis.
+- **Surgical Management:**
+  - Rare, only for debilitated patients unresponsive to medical management for at least 1 year.
+  - Surgery of choice: 10-cm reversed jejunal interposition placed 100 cm distal to ligament of Treitz.
+
+## Figure 61.2: Surgical Management of Postvagotomy Diarrhea
+- Illustrates a 10-cm loop of jejunum rotated 180 degrees on its mesentery.
+- The segment is positioned in an anti-peristaltic fashion.
+- Placed 100 cm distal to the pyloroplasty (or ligament of Treitz) to slow transit and treat refractory diarrhea.
+
+## Gastric Stasis: Acute vs. Chronic
+- **Acute Gastric Stasis:** Persistent nausea/vomiting prevents NG tube removal. If NG tube needed >7-10 days, place G-tube. Feed via jejunostomy tube or TPN. Delay reoperation for at least 3 months.
+- **Chronic Gastric Stasis:** Caused by gastric motor dysfunction (vagal denervation from lesser-curvature lymphadenectomy) or mechanical obstruction.
+  - Truncal vagotomy more likely to cause stasis than proximal gastric vagotomy.
+  - Obstruction causes: anastomotic stricture, efferent limb kink, constricting mesocolon, retrograde peristalsis in Roux limb.
+
+## Gastric Stasis: Surgical Prevention
+- Paramount during distal gastrectomy requiring lesser-curvature (station #1 and #3) lymph node dissection.
+- **Remnant size:** A larger remnant (>50%) is more likely to cause stasis. Remove at least 50% of the stomach.
+- **Reconstruction:** Antecolic Billroth II with Braun anastomosis, or suture remnant/Roux limb to mesocolon for retrocolic Roux-en-Y.
+- This allows gravity to straighten the remnant stomach and facilitate emptying.
+
+## Figure 61.3: The Braun Procedure
+- Involves creating a downstream jejuno-jejunostomy to divert bile distally and prevent reflux gastritis.
+- A staple line can be added to the afferent limb proximal to the Billroth II GJ ("uncut Roux-en-Y").
+- An ante-colic Billroth II anastomosis may be advantageous for optimal gastric emptying and to reduce risk of Roux stasis syndrome.
+
+## Gastric Stasis: Clinical Presentation & Diagnosis
+- **Symptoms:** Vomiting (often undigested food), bloating, epigastric pain, weight loss. Improved by liquid diet/fasting.
+- **Differential:** Primary gastroparesis, chronic SBO, anastomotic stricture, afferent loop syndrome, internal hernia, GERD, achalasia.
+- **Evaluation:**
+  - EGD: Gastritis, retained food. Evaluate GJ and efferent limb for stricture.
+  - Upper GI series / Gastric emptying scan (scintigraphy).
+  - Electrogastrography and GI manometry for motor function disorders.
+
+## Gastric Stasis: Medical Management
+- Dietary modification.
+- **Promotility agents (Gastrokinetics):**
+  - **Metoclopramide:** Dopamine antagonist, facilitates acetylcholine release. Risk of irreversible movement disorder if used >3 months/high doses.
+  - **Domperidone:** Facilitates acetylcholine release from mesenteric plexus.
+  - **Erythromycin:** Motilin agonist, binds to motilin receptors on GI smooth muscle.
+- High-frequency gastric electrical stimulation may be effective for postsurgical gastroparesis refractory to medical therapy (lacking long-term RCTs).
+
+## Gastric Stasis: Surgical Management
+- Considered when severe and resistant to medical management.
+- **After vagotomy/drainage:** Subtotal (75%) distal gastrectomy. Antecolic Billroth II + Braun enterostomy preferred over Roux-en-Y (to avoid Roux stasis).
+- **After subtotal gastric resection:** Near-total (95%) or total gastric resection with Roux-en-Y.
+- **Anastomotic stricture/marginal ulcer:** PPI, stop NSAIDs/smoking. Endoscopic dilation.
+- **Cancer recurrence:** Multidisciplinary approach; re-resection with caution (often peritoneal metastasis).
+
+## Afferent Loop Obstruction
+- Mechanical complication following Billroth II or loop GJ (incidence 0.3%-1.0%).
+- Leaves proximal small bowel (duodenum/proximal jejunum) upstream from anastomosis.
+- Etiologies:
+  1. Entrapment/kinking by adhesions.
+  2. Internal herniation, volvulus, intussusception.
+  3. Scarring from marginal ulceration.
+  4. Locoregional cancer recurrence.
+  5. Radiation enteritis.
+  6. Enteroliths, bezoars, foreign bodies.
+- Redundant afferent loops (>30-40 cm) prone to kinking. Mesenteric defects should be closed (internal hernia incidence up to 22% if not closed).
+
+## Afferent Loop Obstruction: Clinical Presentation
+- **Chronic partial obstruction (more common):** Postprandial abdominal pain relieved by bilious vomiting.
+  - Meal causes secretions into obstructed limb -> distention -> pressure overcomes obstruction -> bilious vomiting -> pain relief.
+  - Weight loss, anemia, bacterial overgrowth (malabsorption of fat, B12, iron).
+- **Acute complete obstruction:** Closed loop obstruction, acute abdomen.
+  - Nonbilious vomiting, risk of perforation and peritonitis.
+  - Urgent surgery required.
+- **Physical exam:** Weight loss, upper abdominal distention/mass/tenderness. Jaundice, cholangitis, or pancreatitis may occur.
+
+## Afferent Loop Obstruction: Diagnosis & Treatment
+- **CT scan (diagnostic study of choice):**
+  - C-shaped, fluid-filled tubular mass between aorta and SMA (C-loop sign).
+  - Valvulae conniventes projecting into lumen (keyboard sign).
+- **Upper GI contrast study:** Nonfilling or retention of barium in dilated afferent loop (for chronic cases).
+- **Treatment (Surgery is cornerstone):**
+  - Resection of tumor/ulcer, lysis of adhesions, repair of internal hernia.
+  - Addition of Braun anastomosis.
+  - Conversion of Billroth II to Roux-en-Y.
+  - Revision of Roux-en-Y jejunojejunostomy.
+  - Endoscopic/percutaneous interventions (PEG, balloon dilation, stents) for unfit patients or stage IV cancer.
+
+## Figure 61.4: Surgical Management of Afferent Loop Syndrome
+- Illustrates three surgical options:
+  1. **Conversion to Roux-en-Y:** Altering the anatomy to provide better drainage.
+  2. **Excision of the redundant loop:** Removing the kinked or overly long afferent limb.
+  3. **Addition of Braun anastomosis:** Creating a downstream jejuno-jejunostomy to bypass the obstruction and drain bile distally.
+
+## Reflux Esophagitis
+- Occurs after interruption of antireflux mechanisms (LES, angle of His).
+- Acid and/or alkaline intestinal fluid refluxes into lower esophagus.
+- Common after total gastrectomy, proximal gastrectomy, and partial gastrectomy involving GE junction.
+- Incidence: 10% to 30% after total/proximal gastrectomy.
+- Radiation-induced esophagitis can exacerbate symptoms.
+- **Symptoms:** Heartburn, dysphagia, chest/back pain, sour taste in mouth. Aspiration can cause chemical pneumonitis.
+
+## Reflux Esophagitis: Surgical Prevention
+- **Total Gastrectomy:** Long Roux limb (at least 50-60 cm) decreases incidence. Suture limb to mesocolic defect to prevent sliding herniation.
+- **Proximal Gastrectomy:** Mixed-type reflux can be severe.
+  - **Jejunal interposition:** Prevents acid reflux, but denervated remnant may delay emptying.
+  - **Double-tract reconstruction:** Roux-en-Y + side-to-side anastomosis between Roux limb and gastric remnant. KLASS-05 RCT showed safety, decreased reflux, improved QOL vs total gastrectomy.
+  - **Double-flap technique & Side overlap with fundoplication (Yamashita):** Create antireflux mechanism. Efficacy in Western patients unknown.
+
+## Reflux Esophagitis: Medical & Surgical Treatment
+- **Medical/Dietary:**
+  - Avoid large portions/high-fat meals.
+  - Finish dinner 2-3 hours before bed. Sleep with 45-60 degree head elevation (Fowler position).
+  - Acid-dominant: Antacids, PPIs, H2 blockers.
+  - Alkaline-dominant: Cholestyramine, camostat mesylate, mucosa-protective antiacids.
+  - Promotility agents (metoclopramide, erythromycin) to empty Roux limb.
+- **Surgical (for persistent >1 year severe symptoms):**
+  - Modify jejunojejunostomy to make Roux limb longer (>60 cm; up to 150 cm for bariatric).
+  - Repair hiatal hernia.
+  - Staple redundant blind end of Roux limb.
+
+## Figure 61.5: Roux-en-Y Reconstruction After Total Gastrectomy
+- Illustrates the anatomy following total gastrectomy.
+- Typical length of the Roux-limb is at least **50-60 cm**.
+- For bariatric patients, the limb is lengthened to prevent and/or manage reflux esophagitis.
+
+## Alkaline (Bile) Reflux Gastritis
+- Caused by longstanding presence of abnormal amount of duodenal content in gastric remnant.
+- Common after pyloroplasty or loop GJ.
+- **Histologic bile gastritis:** Present in up to 85% of Billroth II patients, mostly asymptomatic. More common than Billroth I (29-48%) or drainage ops (15%).
+- Role of gastric acid is unclear; acid potentiates mucosal damage from bile salts but inactivates pancreatic enzymes.
+- Can lead to dysplasia and gastric "stump" cancer.
+- **Clinical bile gastritis:** Symptoms include abdominal pain, bilious vomiting, weight loss, anemia.
+
+## Alkaline Reflux Gastritis: Diagnosis
+- Largely based on symptoms and endoscopy.
+- **Endoscopy:** Inflammatory changes extending beyond peristomal area suggest excessive enterogastric reflux.
+- **Histology:** Foveolar hyperplasia, glandular cystic degeneration, edema of lamina propria, vasocongestion of mucosal capillaries, minimal inflammatory cell infiltration.
+- Endoscopic/histologic features do **not** correlate well with symptom severity.
+- Abdominal CT useful to exclude other causes.
+
+## Alkaline Reflux Gastritis: Medical Treatment
+- Cholestyramine.
+- Antacids.
+- H2 blockers.
+- PPIs.
+- Sucralfate.
+- Promotility agents to enhance clearance of refluxate from gastric remnant.
+
+## Alkaline Reflux Gastritis: Surgical Treatment
+- Considered for incapacitating symptoms, secure diagnosis, realistic expectations.
+- Aim: Divert duodenal contents away from stomach.
+- **Roux-en-Y GJ (most frequent):** 60-cm Roux limb reliably diverts contents. Improves symptoms in up to 85% of patients. Epigastric pain recurs in up to 30% long-term.
+- **Henley operation:** Isoperistaltic jejunal loop (40 cm) interposed between remnant and duodenum. Satisfactory in 70%, but less technically simple.
+- **Duodenal switch (suprapapillary duodenojejunostomy):** Roux-en-Y without gastrectomy. Good results for primary bile reflux or alkaline gastritis after pyloroplasty.
+- Pre/postoperative nutritional support and jejunostomy tube placement should be considered.
+
+## Figure 61.6: Duodenal Switch Procedure
+- As described by DeMeester et al. for primary bile or alkaline reflux gastritis after pyloroplasty.
+- The postbulbar duodenum is divided.
+- A 60-cm retrocolic Roux limb is anastomosed to the proximal duodenum to divert bile away from the stomach without altering gastric emptying.
+
+## Roux Stasis Syndrome
+- Attributed to measurable abnormalities in Roux limb motility (delayed emptying) after gastrectomy and Roux-en-Y.
+- Abnormal peristalsis: Propulsive contractile waves proceeding proximally (toward stomach/esophagus).
+- **Etiology:** Transection of jejunum creates ectopic pacemaker, causing dysmotility and slow transit.
+- More common with large gastric remnant or after vagotomy.
+- Quite uncommon after Roux-en-Y gastric bypass (small pouch) or cancer gastrectomy (small remnant).
+
+## Roux Stasis Syndrome: Diagnosis
+- **Symptoms:** Abdominal pain, distention, postprandial bloating, nausea, vomiting (solid food, nonbilious).
+- Bacterial overgrowth with diarrhea and nutrient malabsorption may result.
+- **Endoscopy:** Dilated gastric remnant, retained food, mucosal irritation. Patent anastomosis, dilated Roux limb.
+- **CT/Upper GI:** No mechanical obstruction.
+- **Scintigraphy:** Markedly delayed emptying of solids. Liquid emptying usually normal.
+
+## Roux Stasis Syndrome: Medical & Surgical Treatment
+- **Medical:** Dietary adjustments, prokinetic agents. Intestinal/stomach pacing investigated but unproven.
+- **Surgical (for debilitating symptoms):**
+  - If original gastrectomy removed <50%: Subtotal gastrectomy with new Roux limb (resect original) OR Billroth II with Braun enteroenterostomy.
+  - "Uncut Roux" procedure (TA staple line in afferent limb) preserves motility but staple line opens up transiently.
+  - If original gastrectomy removed >50%: Total/near-total (95%) gastrectomy with Roux-en-Y.
+  - Limit Roux limb to 50 cm in revisional operations to reduce stasis risk.
+  - Add feeding jejunostomy.
+
+## Marginal Ulcers
+- Juxtaanastomotic ulceration after GJ anastomosis.
+- Incidence: 0.6% to 25%. More common after Roux-en-Y than Billroth II (lacks afferent limb buffering).
+- Usually on jejunal side of anastomosis.
+- **Contributing factors:** Chronic ischemia, smoking, NSAIDs, alcohol, permanent suture material, incomplete vagotomy, H. pylori, hypergastrinemia.
+- **Presentation:** Acute (perforation) or chronic. Abdominal pain, vomiting, chronic/acute blood loss.
+
+## Marginal Ulcers: Treatment
+- **Medical:** PPIs, antibiotics for H. pylori, eliminate NSAIDs, smoking cessation. Misoprostol, Carafate.
+- **Surgical (if medical fails):**
+  - Thoracoscopic truncal vagotomy (if incomplete vagotomy diagnosed via sham-feeding pancreatic polypeptide test).
+  - Reexcision (if retained antrum confirmed via operative/pathology reports or technetium-99m scan). G cells in retained antral tissue secrete gastrin continuously, causing high acid.
+  - Rule out gastrinoma (pancreas).
+  - Revisional GJ or esophagojejunostomy for persistent ulcers.
+
+## Gallstones: Pathophysiology
+- Gallstone formation occurs in 10% to 20% of patients, typically within 3 years.
+- **Vagal denervation:** Results in gallbladder dysmotility (from lesser curve lymphadenectomy, truncal vagotomy, or division of hepatic branches of left vagal nerve).
+- Higher risk and earlier occurrence after total gastrectomy and extended lymphadenectomy.
+- **Exclusion of duodenum:** Roux-en-Y decreases cholecystokinin (CCK) secretion, decreasing gallbladder motility.
+- **Other factors:** Weight loss (mobilizes cholesterol, supersaturates bile), edema/inflammation around bile ducts (biliary stasis).
+
+## Gallstones: Risk by Procedure & Management
+- After gastrectomy for cancer: 25% develop stones within 2 years, 6% undergo cholecystectomy.
+- More likely after radical gastrectomy (30%) than simple (5%).
+- Roux-en-Y increases risk vs. techniques preserving duodenal passage (28%).
+- Gastric bypass: 5.8x risk in first 2 years. Intrinsically more lithogenic than adjustable gastric banding.
+- **Management:** No consensus on prophylactic cholecystectomy. Routine cholecystectomy at gastrectomy is **not** recommended.
+- Consider cholecystectomy if sludge/stones/abnormal gallbladder found intraoperatively, especially if subsequent cholecystectomy would be difficult.
+
+## Nutritional Abnormalities: General Overview
+- Caused by loss of gastric volume, impaired ghrelin, altered GI tract (duodenum bypass), and general postgastrectomy symptoms.
+- Results in decreased caloric intake and malabsorption of protein, fat, vitamins, iron, calcium, and minerals.
+- Deficiencies develop months to years after gastrectomy.
+- **Management:** Systematic monitoring (Table 61.2), small frequent meals, multivitamin (iron, folate, selenium, copper, zinc, vit A, vit E).
+- Calcium citrate with vitamin D (1500 mg daily). B12 supplementation (1000 mcg IM monthly or 350-500 mcg sublingual daily).
+
+## Weight Loss After Gastrectomy
+- Typically 10% to 20% of preoperative body weight.
+- **Causes:**
+  1. Altered dietary intake (loss of appetite, nausea, vomiting, pain, self-imposed modifications).
+  2. Malabsorption (bacterial overgrowth in "blind loops", decreased absorptive surface area from resection/Roux limb).
+- Fat malabsorption causes diarrhea/malnutrition (acid inactivates pancreatic enzymes, poor mixing, bacterial overgrowth).
+- **Diagnosis/Treatment:** Qualitative test for fecal fat, decreased fat-soluble vitamins. Treat with pancreatic enzyme supplements and oral antibiotics (for bacterial overgrowth). Consult dietitian. Prolonged enteral/parenteral nutrition may be necessary.
+
+## Anemia After Gastrectomy
+- Occurs in up to one-third of patients.
+- Caused by nutrient malabsorption, decreased intake, or chronic blood loss.
+- **Iron deficiency (most common):** Absorption primarily in duodenum/proximal jejunum, facilitated by acidic environment.
+- **Vitamin B12 deficiency:** Loss of intrinsic factor (made by parietal cells), facilitated by acidic environment. Life-threatening after total gastrectomy without supplementation.
+- **Folate deficiency:** Folate-rich foods (leafy greens, fruit) may be problematic for small/hypomotile pouch.
+- **Treatment:** Monitor all patients for these three deficiencies. Supplement orally (iron, folate) and IM/sublingual (B12).
+
+## Chronic Calcium Deficits and Osteoporosis
+- Increased risk due to decreased oral intake, malabsorption of calcium/vitamin D, absence of stomach acid, lack of gastrocalcin.
+- Calcium absorbed primarily in duodenum; bypassed by loop GJ, Billroth II, Roux-en-Y, or obesity bypass.
+- Inadequate mixing of food/enzymes and bacterial overgrowth interfere with fat-soluble vitamin (D) absorption.
+- **Management:**
+  - Annual monitoring of calcium and vitamin D levels. Supplement both.
+  - Routine DEXA scan every 2 years for low BMI, significant weight loss, or risk factors (age >50 women, >65 men, history of fracture/smoking).
+  - Identify early, reversible skeletal deterioration.
